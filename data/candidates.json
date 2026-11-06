@@ -1,5 +1,68 @@
 [
   {
+    "id": "337ae25e754134cc0de9",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "South International Series Festival to Launch 2027 Investors Week, Linking Producers With Private Capital",
+    "url": "https://variety.com/2026/global/global/south-festival-investors-week-2027-mira-anta-1236941175",
+    "published_at": "2026-11-06T11:56:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b73ca11bd435925807bd",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Bear Grylls Speaks Out on Russell Brand Verdict After Helping Baptize Him: ‘Justice Has Now Been Served’ and the Victims Are ‘Heroes’",
+    "url": "https://variety.com/2026/tv/global/bear-grylls-russell-brand-verdict-baptism-justice-served-1236941211",
+    "published_at": "2026-11-06T11:48:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "da46ec66f7ebf8cd38a7",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Golshifteh Farahani, Renate Reinsve and Alicia Vikander Lead Torino’s Female Talent Charge",
+    "url": "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760",
+    "published_at": "2026-11-06T11:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "410334efe01de7909937",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Bear Grylls Speaks Out After Getting Heat For Baptizing Russell Brand: “It Is Right That Justice Has Been Served”",
+    "url": "https://deadline.com/2026/11/bear-grylls-speaks-out-baptizing-russell-brand-1237215354",
+    "published_at": "2026-11-06T11:43:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "20d0645b771bf8d6895e",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
+    "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release",
+    "published_at": "2026-11-06T11:43:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "14dbb06d3659a71d28fe",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category",
+    "published_at": "2026-11-06T11:40:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8f687c1068846b0f5ef0",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Pokémon TCG 30th Celebration Ultra-Premium Collection: Where to Buy the Day and Night Boxes",
+    "url": "https://www.ign.com/articles/where-to-buy-pokemon-tcg-30th-celebration-ultra-premium-collection",
+    "published_at": "2026-11-06T11:34:36+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e1f180ad7fa641f6c3b3",
     "source": "Deadline",
     "category": "bulvar",
@@ -24,6 +87,33 @@
     "original_title": "Story Of Woman Who Shadowed Top L.A. Detective Jigsaw John Optioned For TV By UK Indie",
     "url": "https://deadline.com/2026/11/jigsaw-john-jane-howatt-la-detective-project-in-works-1237215304",
     "published_at": "2026-11-06T11:23:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b7ebab6af849cc010b72",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Best Buy's Early Black Friday Sale is Now Live, Including Deals on Gaming, Tech, and More",
+    "url": "https://www.ign.com/articles/best-buy-early-black-friday-sale-is-now-live-including-deals-on-gaming-tech-and-more",
+    "published_at": "2026-11-06T11:19:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4c80242649f93408a27f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Nintendo Exec Bill Trinen Explains Why the Ocarina of Time Remake Is the Perfect First The Legend of Zelda Game",
+    "url": "https://www.ign.com/articles/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-remake-is-the-perfect-first-the-legend-of-zelda-game",
+    "published_at": "2026-11-06T11:14:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "49a55bdc6a488840aef5",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+    "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+    "published_at": "2026-11-06T11:07:49+00:00",
     "status": "candidate"
   },
   {
