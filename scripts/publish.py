@@ -35,41 +35,51 @@ class ArticleText(HTMLParser):
     def __init__(self):
         super().__init__()
         self.depth = 0
+        self.main_depth = 0
         self.skip = 0
         self.paragraph = 0
         self.parts = []
+        self.main_parts = []
 
     def handle_starttag(self, tag, attrs):
         if tag in ("script", "style", "nav", "footer"):
             self.skip += 1
         if tag == "article":
             self.depth += 1
-        if tag == "p" and self.depth and not self.skip:
+        if tag == "main":
+            self.main_depth += 1
+        if tag == "p" and (self.depth or self.main_depth) and not self.skip:
             self.paragraph += 1
 
     def handle_endtag(self, tag):
         if tag == "p" and self.paragraph:
             self.parts.append("\n")
+            if self.main_depth:
+                self.main_parts.append("\n")
             self.paragraph -= 1
         if tag == "article" and self.depth:
             self.depth -= 1
+        if tag == "main" and self.main_depth:
+            self.main_depth -= 1
         if tag in ("script", "style", "nav", "footer") and self.skip:
             self.skip -= 1
 
     def handle_data(self, data):
         if self.paragraph and not self.skip:
             self.parts.append(data)
+            if self.main_depth:
+                self.main_parts.append(data)
 
 
 def read_article(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (compatible; HypeRadarEditorial/0.2)"})
     with urllib.request.urlopen(req, timeout=12) as response:
-        html = response.read(500_001)
-    if len(html) > 500_000:
-        return ""
+        html = response.read(2_000_000)
     parser = ArticleText()
     parser.feed(html.decode("utf-8", "replace"))
     result = re.sub(r"[ \t]+", " ", "".join(parser.parts)).strip()
+    if len(result) < 500:
+        result = re.sub(r"[ \t]+", " ", "".join(parser.main_parts)).strip()
     return result[:7500] if len(result) >= 500 else ""
 
 
@@ -135,6 +145,7 @@ def publish():
     candidate_path = ROOT / "data" / "candidates.json"
     candidates = json.loads(candidate_path.read_text(encoding="utf-8")) if candidate_path.exists() else collect()
     groups = clusters(candidates, articles)
+    print(f"{len(groups)} corroborated title groups found")
     published = 0
     model_attempts = 0
     for group in groups[:12]:
@@ -148,6 +159,7 @@ def publish():
                     texts.append((item, body))
             except (OSError, ValueError) as error:
                 print(f"Could not read {item['source']}: {type(error).__name__}")
+        print(f"Group sources readable: {len(texts)}/{min(3, len(group))}")
         if len(texts) < 2:
             continue
         try:
