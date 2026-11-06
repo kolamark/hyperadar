@@ -18,6 +18,12 @@ Az `.github/workflows/collect.yml` minden órában ellenőrzi a budapesti helyi 
 
 Az `articles.json` az ellenőrzött és jóváhagyott, publikus cikkek adatforrása. A jelenlegi weboldal addig bemutató tartalmat jelenít meg, amíg a fájl üres. Az RSS-jelöltek soha nem kerülnek automatikusan az olvasói felületre.
 
+## Szerkesztői jóváhagyás
+
+Az `editorial.html` a privát előnézeten nyitható meg. A GitHubon gyűjtött jelölteket beolvassa, és a szerkesztő saját magyar cikket írhat. Kötelező a forrás, a legalább 120 szavas szöveg és a négy szerkesztői nyilatkozat. A jóváhagyás gomb egy teljes `articles.json` fájlt **letölt**; nem módosítja automatikusan a repót. A fájlt a GitHub repó gyökerében lévő `articles.json` helyére kell feltölteni, lehetőleg pull requestként. A `.github/workflows/validate.yml` ellenőrzi az adatok szerkezetét és a szerkesztőségi minimumokat. A mechanikus ellenőrzés nem helyettesíti a tény- és jogellenőrzést.
+
+Az oldal jelenlegi privát előnézete a Sites tárhelyén fut, amely külön forrásból kerül telepítésre. A GitHubon frissített cikkfájl **nem frissíti automatikusan ezt az előnézetet**; a telepítést jelenleg külön el kell végezni. A GitHub Pages automatikus kiadásához külön tárhely-beállítás szükséges.
+
 ## Következő fejlesztési szakasz
 
 - Tartós adatbázis, szerkesztőségi admin és jóváhagyási folyamat.
