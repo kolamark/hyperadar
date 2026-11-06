@@ -1,4 +1,10 @@
 [
   {"name": "Gematsu", "category": "gaming", "url": "https://www.gematsu.com/feed"},
-  {"name": "Deadline", "category": "bulvar", "url": "https://deadline.com/feed/"}
+  {"name": "IGN", "category": "gaming", "url": "https://www.ign.com/rss/v2/articles/feed"},
+  {"name": "PC Gamer", "category": "gaming", "url": "https://www.pcgamer.com/feeds/articletype/news/"},
+  {"name": "Eurogamer", "category": "gaming", "url": "https://www.eurogamer.net/feed/news"},
+  {"name": "GameSpot", "category": "gaming", "url": "https://www.gamespot.com/feeds/game-news/"},
+  {"name": "Deadline", "category": "bulvar", "url": "https://deadline.com/feed/"},
+  {"name": "The Hollywood Reporter", "category": "bulvar", "url": "https://www.hollywoodreporter.com/feed/"},
+  {"name": "Variety", "category": "bulvar", "url": "https://variety.com/feed/"}
 ]
