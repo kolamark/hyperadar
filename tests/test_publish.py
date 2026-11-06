@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from publish import ArticleText, clusters, similarity
+from publish import ArticleText, clusters, similarity, source_quote, verify_claims
 
 
 class PublisherSafetyTests(unittest.TestCase):
@@ -30,6 +30,15 @@ class PublisherSafetyTests(unittest.TestCase):
         self.assertIn("Good text.", "".join(parser.parts))
         self.assertNotIn("junk", "".join(parser.parts))
         self.assertNotIn("Ignore", "".join(parser.parts))
+
+    def test_evidence_recovers_only_close_source_span(self):
+        source = "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing Vice City."
+        quote = "Rockstar shares 38 new screenshots of Grand Theft Auto VI"
+        self.assertEqual(source_quote(quote, source), "Rockstar shares 38 new screenshots of Grand Theft Auto ")
+        self.assertIsNone(source_quote("A completely unrelated game was cancelled yesterday", source))
+        claims = [{"evidence": [{"url": "https://example.test/news/", "quote": quote}]}]
+        self.assertTrue(verify_claims(claims, {"https://example.test/news": source}))
+        self.assertEqual(claims[0]["evidence"][0]["url"], "https://example.test/news")
 
 
 if __name__ == "__main__":
