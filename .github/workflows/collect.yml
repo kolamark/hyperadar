@@ -2,9 +2,17 @@ name: Forrásfigyelés
 on:
   schedule:
     - cron: '0 * * * *'
+  push:
+    paths:
+      - index.html
+      - articles.js
+      - articles.json
+      - .github/workflows/collect.yml
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: hyperadar-collect
   cancel-in-progress: false
@@ -28,13 +36,46 @@ jobs:
       - name: RSS-jelöltek gyűjtése
         if: steps.slot.outputs.run == 'true'
         run: python3 scripts/collect.py
-      - name: Jelöltek mentése
+      - name: Magyar cikkek automatikus publikálása
+        if: steps.slot.outputs.run == 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+        run: |
+          if [[ -z "$OPENAI_API_KEY" ]]; then
+            echo 'OPENAI_API_KEY is not configured; collection only'
+          else
+            python3 scripts/publish.py
+            python3 scripts/validate_articles.py
+          fi
+      - name: Jelöltek és publikált cikkek mentése
         if: steps.slot.outputs.run == 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/candidates.json
+          git add data/candidates.json articles.json
           if ! git diff --cached --quiet; then
             git commit -m 'Update editorial candidates'
             git push
           fi
+      - name: Publikus oldalfájlok előkészítése
+        run: |
+          mkdir -p public
+          cp index.html articles.js articles.json public/
+          touch public/.nojekyll
+      - name: GitHub Pages konfiguráció
+        uses: actions/configure-pages@v5
+      - name: Oldal feltöltése
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Oldal publikálása
+        id: deployment
+        uses: actions/deploy-pages@v4
