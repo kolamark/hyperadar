@@ -5,6 +5,7 @@ import os
 import re
 import sys
 import urllib.request
+import urllib.error
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -123,8 +124,16 @@ def generate(group, texts, key):
                "text":{"format":{"type":"json_schema","name":"hyperadar_article","strict":True,"schema":SCHEMA}}, "max_output_tokens":1800, "store":False}
     req = urllib.request.Request("https://api.openai.com/v1/responses", data=json.dumps(payload).encode(),
         headers={"Authorization":"Bearer " + key,"Content-Type":"application/json"}, method="POST")
-    with urllib.request.urlopen(req, timeout=90) as response:
-        result = json.load(response)
+    try:
+        with urllib.request.urlopen(req, timeout=90) as response:
+            result = json.load(response)
+    except urllib.error.HTTPError as error:
+        try:
+            detail = json.load(error).get("error", {})
+            kind = "/".join(str(detail.get(field) or "unknown") for field in ("type", "code"))
+        except (ValueError, TypeError):
+            kind = "unknown"
+        raise RuntimeError(f"OpenAI API HTTP {error.code} ({kind}); publication stopped") from error
     if result.get("status") != "completed":
         raise ValueError("Incomplete model response")
     output = "".join(part.get("text", "") for item in result.get("output", []) for part in item.get("content", []) if part.get("type") == "output_text")
