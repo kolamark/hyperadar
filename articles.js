@@ -12,7 +12,8 @@ openPost = function(id) {
   document.getElementById('articleDialog').showModal();
 };
 demoPosts.forEach(p => p.demo = true);
-fetch('./articles.json', {cache: 'no-store'})
+fetch('https://raw.githubusercontent.com/kolamark/hyperadar/main/articles.json', {cache: 'no-store'})
+  .catch(() => fetch('./articles.json', {cache: 'no-store'}))
   .then(response => { if (!response.ok) throw new Error('No article data'); return response.json(); })
   .then(data => {
     if (!Array.isArray(data.articles) || !data.articles.length) return;
