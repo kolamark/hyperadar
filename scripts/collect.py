@@ -66,7 +66,9 @@ def collect():
             errors.append(f'{feed["name"]}: {type(exc).__name__}: {exc}')
     entries = sorted(by_id.values(), key=lambda e: e["published_at"] or "", reverse=True)[:500]
     OUT.parent.mkdir(exist_ok=True)
-    OUT.write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    result = json.dumps(entries, ensure_ascii=False, indent=2) + "\n"
+    if not OUT.exists() or OUT.read_text(encoding="utf-8") != result:
+        OUT.write_text(result, encoding="utf-8")
     print(f"{len(entries)} candidates stored; {len(errors)} feed errors")
     for error in errors:
         print(error)
