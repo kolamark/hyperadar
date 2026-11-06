@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Conservative unattended publisher: corroborated RSS stories only."""
 import json
+from difflib import SequenceMatcher
 import os
 import re
 import sys
@@ -30,6 +31,42 @@ def words(title):
 def similarity(a, b):
     left, right = words(a), words(b)
     return len(left & right) / max(1, min(len(left), len(right)))
+
+
+def source_quote(quote, source):
+    """Return an actual source span only when a citation closely matches it."""
+    if not 15 <= len(quote) <= 200:
+        return None
+    clean_quote = re.sub(r"\s+", " ", quote).strip()
+    clean_source = re.sub(r"\s+", " ", source)
+    if clean_quote in clean_source:
+        return clean_quote
+    case_match = clean_source.casefold().find(clean_quote.casefold())
+    if case_match >= 0:
+        return clean_source[case_match:case_match + len(clean_quote)]
+    match = SequenceMatcher(None, clean_quote.casefold(), clean_source.casefold(), autojunk=False).find_longest_match()
+    if match.size < max(25, int(len(clean_quote) * .8)):
+        return None
+    return clean_source[match.b:match.b + match.size]
+
+
+def verify_claims(claims, source_texts):
+    for claim in claims:
+        if not claim["evidence"]:
+            return False
+        for evidence in claim["evidence"]:
+            matching_source = None
+            for url, content in source_texts.items():
+                if url.rstrip("/") != evidence["url"].rstrip("/"):
+                    continue
+                verified = source_quote(evidence["quote"], content)
+                if verified:
+                    matching_source = (url, verified)
+                    break
+            if not matching_source:
+                return False
+            evidence["url"], evidence["quote"] = matching_source
+    return True
 
 
 class ArticleText(HTMLParser):
@@ -183,7 +220,7 @@ def publish():
             if len(claims) < 2:
                 print(f"Draft rejected: {len(claims)} evidenced claims")
                 continue
-            if not all(c["evidence"] and all(e["url"] in source_texts and 15 <= len(e["quote"]) <= 200 and re.sub(r"\s+", " ", e["quote"]).strip() in re.sub(r"\s+", " ", source_texts[e["url"]]) for e in c["evidence"]) for c in claims):
+            if not verify_claims(claims, source_texts):
                 print("Draft rejected: evidence quote not found in extracted source")
                 continue
             if len(body) < 2 or len(re.findall(r"\S+", " ".join(body))) < 120:
