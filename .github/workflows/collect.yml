@@ -28,7 +28,7 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
         run: |
           hour=$(TZ=Europe/Budapest date +%H)
-          if [[ "$EVENT_NAME" == "workflow_dispatch" || " $hour " == *" 06 "* || " $hour " == *" 08 "* || " $hour " == *" 10 "* || " $hour " == *" 12 "* || " $hour " == *" 14 "* || " $hour " == *" 16 "* || " $hour " == *" 18 "* || " $hour " == *" 20 "* || " $hour " == *" 22 "* || " $hour " == *" 23 "* ]]; then
+          if [[ "$EVENT_NAME" == "workflow_dispatch" ]] || [[ "$EVENT_NAME" == "schedule" && ( " $hour " == *" 06 "* || " $hour " == *" 08 "* || " $hour " == *" 10 "* || " $hour " == *" 12 "* || " $hour " == *" 14 "* || " $hour " == *" 16 "* || " $hour " == *" 18 "* || " $hour " == *" 20 "* || " $hour " == *" 22 "* || " $hour " == *" 23 "* ) ]]; then
             echo 'run=true' >> "$GITHUB_OUTPUT"
           else
             echo 'run=false' >> "$GITHUB_OUTPUT"
