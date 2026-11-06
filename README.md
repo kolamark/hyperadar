@@ -16,13 +16,21 @@ A konfigurált feedek URL-jei a `config/feeds.json` fájlban találhatók. A scr
 
 Az `.github/workflows/collect.yml` minden órában ellenőrzi a budapesti helyi időt, és a 06, 08, 10, 12, 14, 16, 18, 20, 22 és 23 órás időablakban lefuttatja a gyűjtést. Kézzel is indítható a GitHub Actions felületén. A GitHub ütemezése késhet, ezért ez **legfeljebb tíz célzott ellenőrzési ablak**, nem garantáltan pontos időpontban lefutó szolgáltatás. Hibás feed esetén a napló jelzi a problémát.
 
+## Automatikus cikkek és közzététel
+
+A `scripts/publish.py` két különböző forrás egyező történeténél letölti a teljes hozzáférhető cikkek szövegét. A modell a közös tényeket magyarul fogalmazza meg, minden lényeges állításhoz visszaadja a pontos forrást és egy szó szerinti bizonyító részletet. A kód ellenőrzi, hogy ez a részlet valóban szerepel-e a letöltött szövegben. Az érzékeny, vitatott és hiányosan alátámasztott témákat kihagyja. Nem használ idegen képeket. Futásonként legfeljebb két, naponként legfeljebb 15 cikk készülhet; a 10–15 cikk **cél, nem garantált darabszám**.
+
+Az automatikus íráshoz a repó **Settings → Secrets and variables → Actions → New repository secret** menüjében `OPENAI_API_KEY` nevű titkot kell beállítani. A kulcs nélkül a forrásgyűjtés fut, a cikkírás nem. Az API-használat költséggel jár; a modell a workflow `OPENAI_MODEL` változójával cserélhető. A cikkírás legfeljebb négy modellkérést indít egy futásban.
+
+A workflow a jóváhagyás nélkül létrejött cikkeket közvetlenül az `articles.json` fájlba menti, majd GitHub Pages-re telepíti az olvasói oldalt. Ehhez a repó Settings → Pages alatt a **GitHub Actions** közzétételi forrást kell kiválasztani. A repóba írt bot-commit önmagában nem indít új workflow-t, ezért a kiadás ugyanannak a futásnak a része. A privát Sites előnézet a GitHubon lévő cikkfájlt olvassa, így új Site-telepítés nélkül meg tudja jeleníteni a friss cikkeket. A nyilvános GitHub Pages oldal címe a Pages beállítása után várhatóan `https://kolamark.github.io/hyperadar/`.
+
 Az `articles.json` az ellenőrzött és jóváhagyott, publikus cikkek adatforrása. A jelenlegi weboldal addig bemutató tartalmat jelenít meg, amíg a fájl üres. Az RSS-jelöltek soha nem kerülnek automatikusan az olvasói felületre.
 
 ## Szerkesztői jóváhagyás
 
-Az `editorial.html` a privát előnézeten nyitható meg. A GitHubon gyűjtött jelölteket beolvassa, és a szerkesztő saját magyar cikket írhat. Kötelező a forrás, a legalább 120 szavas szöveg és a négy szerkesztői nyilatkozat. A jóváhagyás gomb egy teljes `articles.json` fájlt **letölt**; nem módosítja automatikusan a repót. A fájlt a GitHub repó gyökerében lévő `articles.json` helyére kell feltölteni, lehetőleg pull requestként. A `.github/workflows/validate.yml` ellenőrzi az adatok szerkezetét és a szerkesztőségi minimumokat. A mechanikus ellenőrzés nem helyettesíti a tény- és jogellenőrzést.
+Az `editorial.html` megmarad kézi javításhoz, de az automatikus hírekhez nem kell jóváhagyás. A kézi jóváhagyás gomb egy teljes `articles.json` fájlt **letölt**; nem módosítja automatikusan a repót. A `.github/workflows/validate.yml` ellenőrzi az adatok szerkezetét. A mechanikus ellenőrzés nem helyettesíti az emberi szerkesztőt; az automatikus rendszer tévedhet, ezért a megjelent hírek utólagos ellenőrzése és javítása fontos.
 
-Az oldal jelenlegi privát előnézete a Sites tárhelyén fut, amely külön forrásból kerül telepítésre. A GitHubon frissített cikkfájl **nem frissíti automatikusan ezt az előnézetet**; a telepítést jelenleg külön el kell végezni. A GitHub Pages automatikus kiadásához külön tárhely-beállítás szükséges.
+Az oldal jelenlegi privát előnézete a Sites tárhelyén fut, amely külön forrásból kerül telepítésre. Az előnézet a GitHubon publikált cikkadatokat olvassa; a weboldal kinézetének módosításához külön Site-telepítés kell.
 
 ## Következő fejlesztési szakasz
 
