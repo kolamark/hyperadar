@@ -177,17 +177,26 @@ def publish():
             source_texts = {item["url"]: body for item, body in texts}
             claims = draft["claims"]
             body = draft["body"]
-            if not draft["same_story"] or not draft["safe"] or len(claims) < 2:
+            if not draft["same_story"] or not draft["safe"]:
+                print(f"Draft rejected: same_story={draft['same_story']}, safe={draft['safe']}")
+                continue
+            if len(claims) < 2:
+                print(f"Draft rejected: {len(claims)} evidenced claims")
                 continue
             if not all(c["evidence"] and all(e["url"] in source_texts and 15 <= len(e["quote"]) <= 200 and re.sub(r"\s+", " ", e["quote"]).strip() in re.sub(r"\s+", " ", source_texts[e["url"]]) for e in c["evidence"]) for c in claims):
+                print("Draft rejected: evidence quote not found in extracted source")
                 continue
             if len(body) < 2 or len(re.findall(r"\S+", " ".join(body))) < 120:
+                print(f"Draft rejected: body has {len(re.findall(r'\S+', ' '.join(body)))} words in {len(body)} paragraphs")
                 continue
             if not (12 <= len(draft["title"]) <= 140 and 30 <= len(draft["excerpt"]) <= 260):
+                print("Draft rejected: title or excerpt length")
                 continue
             if any(similarity(draft["title"], a["title"]) > .7 for a in articles):
+                print("Draft rejected: duplicate title")
                 continue
             if SENSITIVE.search(draft["title"] + " " + draft["excerpt"]):
+                print("Draft rejected: sensitive headline")
                 continue
             article = {"status":"published","category":group[0]["category"],"title":draft["title"],"excerpt":draft["excerpt"],
                        "body":body,"sources":[{"name":item["source"],"url":item["url"]} for item,_ in texts],
