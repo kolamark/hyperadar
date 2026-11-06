@@ -74,6 +74,7 @@ def collect():
         print(error)
     if errors and len(errors) == len(FEEDS):
         raise SystemExit(1)
+    return entries
 
 
 if __name__ == "__main__":
