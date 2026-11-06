@@ -189,16 +189,22 @@ def publish():
             if len(body) < 2 or len(re.findall(r"\S+", " ".join(body))) < 120:
                 print(f"Draft rejected: body has {len(re.findall(r'\S+', ' '.join(body)))} words in {len(body)} paragraphs")
                 continue
-            if not (12 <= len(draft["title"]) <= 140 and 30 <= len(draft["excerpt"]) <= 260):
-                print("Draft rejected: title or excerpt length")
+            title = draft["title"].strip()
+            excerpt = draft["excerpt"].strip()
+            if len(excerpt) < 30:
+                excerpt = body[0].strip()
+            if len(excerpt) > 260:
+                excerpt = excerpt[:259].rsplit(" ", 1)[0].rstrip(" ,;:-") + "…"
+            if not (12 <= len(title) <= 140 and 30 <= len(excerpt) <= 260):
+                print(f"Draft rejected: title length {len(title)}, excerpt length {len(excerpt)}")
                 continue
-            if any(similarity(draft["title"], a["title"]) > .7 for a in articles):
+            if any(similarity(title, a["title"]) > .7 for a in articles):
                 print("Draft rejected: duplicate title")
                 continue
-            if SENSITIVE.search(draft["title"] + " " + draft["excerpt"]):
+            if SENSITIVE.search(title + " " + excerpt):
                 print("Draft rejected: sensitive headline")
                 continue
-            article = {"status":"published","category":group[0]["category"],"title":draft["title"],"excerpt":draft["excerpt"],
+            article = {"status":"published","category":group[0]["category"],"title":title,"excerpt":excerpt,
                        "body":body,"sources":[{"name":item["source"],"url":item["url"]} for item,_ in texts],
                        "published_at":datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),"claims":claims,"method":"automated"}
             articles.insert(0, article)
