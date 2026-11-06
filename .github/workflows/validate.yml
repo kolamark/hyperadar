@@ -1,0 +1,20 @@
+name: Cikkadatok ellenőrzése
+on:
+  push:
+    paths:
+      - articles.json
+      - scripts/validate_articles.py
+  pull_request:
+    paths:
+      - articles.json
+      - scripts/validate_articles.py
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: JSON és szerkesztőségi minimumok
+        run: python3 scripts/validate_articles.py
