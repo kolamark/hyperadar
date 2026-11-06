@@ -1,0 +1,40 @@
+name: Forrásfigyelés
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: hyperadar-collect
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Budapest szerinti időablak
+        id: slot
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          hour=$(TZ=Europe/Budapest date +%H)
+          if [[ "$EVENT_NAME" == "workflow_dispatch" || " $hour " == *" 06 "* || " $hour " == *" 08 "* || " $hour " == *" 10 "* || " $hour " == *" 12 "* || " $hour " == *" 14 "* || " $hour " == *" 16 "* || " $hour " == *" 18 "* || " $hour " == *" 20 "* || " $hour " == *" 22 "* || " $hour " == *" 23 "* ]]; then
+            echo 'run=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'run=false' >> "$GITHUB_OUTPUT"
+          fi
+      - name: RSS-jelöltek gyűjtése
+        if: steps.slot.outputs.run == 'true'
+        run: python3 scripts/collect.py
+      - name: Jelöltek mentése
+        if: steps.slot.outputs.run == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/candidates.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update editorial candidates'
+            git push
+          fi
