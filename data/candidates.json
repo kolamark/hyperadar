@@ -18,6 +18,15 @@
     "status": "candidate"
   },
   {
+    "id": "02cf4e0989c2300e94c1",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Sony Delays Wireless PlayStation Pulse Speakers A Week Away From Launch",
+    "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+    "published_at": "2026-11-07T15:59:42+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "4bea1be8cefca045f330",
     "source": "Entertainment Weekly",
     "category": "bulvar",
@@ -60,6 +69,24 @@
     "original_title": "Mark-Paul Gosselaar says it’s ‘surreal’ to have son older than “Saved by the Bell ”character Zack Morris",
     "url": "https://ew.com/mark-paul-gosselaar-reflects-on-son-being-older-than-zack-morris-12227675",
     "published_at": "2026-11-07T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b28f64fcd1e09d812be3",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "The 11 Best Holiday Gifts for the New Mom In Your Life",
+    "url": "https://www.eonline.com/news/1437912/the-best-holiday-gifts-for-the-new-mom-in-your-life?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "270e302580aedd93c1d4",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Inside Kendall Jenner's Horse-Themed 31st Birthday Celebration",
+    "url": "https://www.eonline.com/news/1437918/kendall-jenner-celebrates-31st-birthday-with-horse-themed-dinner?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T14:45:00+00:00",
     "status": "candidate"
   },
   {
@@ -159,6 +186,15 @@
     "original_title": "Jimmy Stewart stopped acting because he couldn’t hear",
     "url": "https://ew.com/why-jimmy-stewart-stopped-acting-12237306",
     "published_at": "2026-11-07T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "57d6a760111e23a09abf",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Lifetime's Natasha Wilson Sues After \"Disfigurement\" From Dog Attack",
+    "url": "https://www.eonline.com/news/1437915/natasha-wilson-lifetime-actress-sues-for-disfigurement-from-dog-attack?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T13:20:50+00:00",
     "status": "candidate"
   },
   {
@@ -270,6 +306,15 @@
     "status": "candidate"
   },
   {
+    "id": "a46e49d758616f7af0b2",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Suki Waterhouse Teases Holiday Plans With Robert Pattinson & Daughter",
+    "url": "https://www.eonline.com/news/1437900/suki-waterhouse-teases-holiday-plans-with-robert-pattinson-their-daughter?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7e078b831f9ddff24a83",
     "source": "Gematsu",
     "category": "gaming",
@@ -324,12 +369,48 @@
     "status": "candidate"
   },
   {
+    "id": "11902807dda847b64e95",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
+    "published_at": "2026-11-07T08:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f3fa37b1843ded26b444",
     "source": "Deadline",
     "category": "bulvar",
     "original_title": "Toei CEO Fumio Yoshimura Talks Global Expansion, GenAI Adoption & Entry Into Games",
     "url": "https://deadline.com/2026/11/kamen-rider-toei-gen-ai-gaming-dear-stranger-iris-1237215381",
     "published_at": "2026-11-07T07:55:02+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2b581a116e9a04c7eae9",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get the Clockwork SMG in The Division 2: Echoes of Central Park",
+    "url": "https://www.destructoid.com/how-to-get-the-clockwork-smg-in-the-division-2-echoes-of-central-park",
+    "published_at": "2026-11-07T06:09:35+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "21a92d66506d68a72e7b",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Sunrise on the Reaping’ Director Makes a Pitch for Next ‘Hunger Games’ Prequel: ‘Could Be Really Interesting’",
+    "url": "https://www.thewrap.com/creative-content/movies/sunrise-on-the-reaping-director-makes-a-pitch-for-next-hunger-games-prequel",
+    "published_at": "2026-11-07T06:00:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f8876f80efe0bfe81d4c",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘7th Heaven’ Star Jeremy London Fires Back at ‘Homeless’ Reports, Calls Celebrity News ‘Stupid’",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/jeremy-london-denies-being-homeless-slams-celebrity-news",
+    "published_at": "2026-11-07T05:18:36+00:00",
     "status": "candidate"
   },
   {
@@ -360,6 +441,15 @@
     "status": "candidate"
   },
   {
+    "id": "476b338bce0f29d64ace",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All NBA 2K27 2KTV answers: Episode 1-9",
+    "url": "https://www.destructoid.com/all-nba-2k27-2ktv-answers-season-13",
+    "published_at": "2026-11-07T04:32:09+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "400b33221618b46e28f0",
     "source": "The Hollywood Reporter",
     "category": "bulvar",
@@ -375,6 +465,15 @@
     "original_title": "‘Real Time’: Bill Maher Thinks Trump Has Been “Amazingly Humble” Amid Blue Wave, Jokes He “Might Get To Go” To White House Dinner Again",
     "url": "https://deadline.com/2026/11/real-time-bill-maher-trump-amazingly-humble-blue-wave-1237216187",
     "published_at": "2026-11-07T04:08:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bc382ab9e203eeb04571",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Bill Maher Takes Another Shot at Taylor Swift While Mocking Trump, GOP Midterms Losses",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-takes-another-shot-taylor-swift-real-time-monologue",
+    "published_at": "2026-11-07T04:05:34+00:00",
     "status": "candidate"
   },
   {
@@ -432,6 +531,15 @@
     "status": "candidate"
   },
   {
+    "id": "96310b220a1371e6ed6a",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Trump Signals More White House Shakeups Amid Susie Wiles’ Exit — But One Cabinet Member Is Safe",
+    "url": "https://www.thewrap.com/media-platforms/politics/trump-teases-more-staff-shakeups-susie-wiles-60-minutes",
+    "published_at": "2026-11-07T03:07:51+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "961b0b8bbe5139169069",
     "source": "Variety",
     "category": "bulvar",
@@ -465,6 +573,24 @@
     "original_title": "Deadline’s Sound & Screen Film Underway To Start The Awards-Season Drumbeat",
     "url": "https://deadline.com/2026/11/2026-sound-and-screen-film-lineup-schedule-1237211717",
     "published_at": "2026-11-07T02:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "65726fe8976fc49c4c41",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Luxe Holiday Gifts for Moms Who Deserve to Be Spoiled",
+    "url": "https://www.eonline.com/news/1437903/luxe-holiday-gifts-for-moms-who-deserve-to-be-spoiled?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T02:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61f69e7c56dbe96a6258",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Batman as Bond? Robert Pattinson Screen Tested for 007 Role",
+    "url": "https://www.thewrap.com/creative-content/movies/robert-pattinson-screen-tested-james-bond",
+    "published_at": "2026-11-07T02:28:32+00:00",
     "status": "candidate"
   },
   {
@@ -504,12 +630,39 @@
     "status": "candidate"
   },
   {
+    "id": "8f2c20e4ce19b7ad9eb1",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Oliver Hudson's Son Wilder Deferring College Due to \"So Much Stress\"",
+    "url": "https://www.eonline.com/news/1437913/oliver-hudson-son-wilder-defers-college-for-mental-health-acting?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T01:57:40+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7847f528caf38ebe5a59",
     "source": "Deadline",
     "category": "bulvar",
     "original_title": "‘Ellen DeGeneres Show’ EP Matthew Wright’s Cause Of Death Revealed",
     "url": "https://deadline.com/2026/11/ellen-degeneres-show-ep-matthew-wright-cause-death-1237216153",
     "published_at": "2026-11-07T01:51:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "69bb850932054ebf090a",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Here's What to Gift the Maximalist Friend Who Already Has Everything",
+    "url": "https://www.eonline.com/news/1437894/the-best-gifts-for-the-maximalist-friend-who-has-it-all?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T01:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5937377503b39c4ceff1",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Bonnie Wright Shares Update on Newborn Baby's 6 Hospital Visits",
+    "url": "https://www.eonline.com/news/1437914/harry-potters-bonnie-wright-says-baby-has-been-in-hospital-6-times?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-07T01:28:17+00:00",
     "status": "candidate"
   },
   {
@@ -540,12 +693,30 @@
     "status": "candidate"
   },
   {
+    "id": "a543bfe6ac87e3dcd9f2",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Ramayana: Rise of a Legend’ Review: Nitesh Tiwari’s Bright, Bracing Saga Will Stun You",
+    "url": "https://www.thewrap.com/creative-content/movies/ramayana-rise-of-a-legend-review",
+    "published_at": "2026-11-07T01:23:02+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "21449172778aa41db6a9",
     "source": "IGN",
     "category": "gaming",
     "original_title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
     "url": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
     "published_at": "2026-11-07T01:14:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2413ad9ff03c8b22eb7c",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Adam Driver Confirms He Won’t Return for Lena Dunham’s ‘Girls’ Reboot: ‘Best of Luck’",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/adam-driver-wont-return-girls-reboot-lena-dunham-hbo",
+    "published_at": "2026-11-07T01:04:11+00:00",
     "status": "candidate"
   },
   {
@@ -582,6 +753,15 @@
     "original_title": "Trump Reveals Plans For Post-Midterm Firings In ‘60 Minutes’ Interview, Hours Before Announcing That Susie Wiles Was Out",
     "url": "https://deadline.com/2026/11/trump-60-minutes-midterms-1237216042",
     "published_at": "2026-11-07T00:35:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3d2c9d2aafccd4124ce5",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Thing 1: How ‘The Cat in the Hat’ Became Warner Bros. Pictures Animation’s First Movie",
+    "url": "https://www.thewrap.com/creative-content/movies/cat-in-the-hat-making-of-warner-bros-pictures-animation",
+    "published_at": "2026-11-07T00:31:08+00:00",
     "status": "candidate"
   },
   {
@@ -630,6 +810,15 @@
     "status": "candidate"
   },
   {
+    "id": "214f167ca03fc20e3fec",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Olympian Gabby Thomas Reacts to Wedding Reception Being \"Destroyed\"",
+    "url": "https://www.eonline.com/news/1437910/olympian-gabby-thomas-spencer-mcmanes-wedding-day-destroyed-by-rain?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T23:51:42+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e203868f5955af8a8d06",
     "source": "PC Gamer",
     "category": "gaming",
@@ -657,6 +846,15 @@
     "status": "candidate"
   },
   {
+    "id": "b0ad87c86cd6b46656b2",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "The Top lululemon Gifts to Shop Now (Before Everyone Else Does)",
+    "url": "https://www.eonline.com/news/1437906/the-top-lululemon-gifts-to-shop-now-before-everyone-else-does?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T23:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "c920e1c66e7415e82a07",
     "source": "Entertainment Weekly",
     "category": "bulvar",
@@ -675,6 +873,15 @@
     "status": "candidate"
   },
   {
+    "id": "8ec79c596b0ebb052cdc",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get the Piercing Gaze Hunter Mask in The Division 2: Echoes of Central Park",
+    "url": "https://www.destructoid.com/how-to-get-the-piercing-gaze-hunter-mask-in-the-division-2-echoes-of-central-park",
+    "published_at": "2026-11-06T23:25:18+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "fb70898819ad75108e40",
     "source": "IGN",
     "category": "gaming",
@@ -690,6 +897,24 @@
     "original_title": "The Other Midterms Flip: Broadcast Networks, Led by NBC, Dominated Election Night Coverage",
     "url": "https://www.hollywoodreporter.com/tv/tv-news/broadcast-networks-nbc-midterm-elections-tv-ratings-1236749456",
     "published_at": "2026-11-06T23:18:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ca794327fe86a75f8f55",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "See Tiger Woods & Ex Elin Nordegren’s Reunion With Son Charlie",
+    "url": "https://www.eonline.com/news/1437908/tiger-woods-elin-nordegren-reunite-for-son-charlies-college-golf-signing?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T23:18:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "481d29f28d7419edb106",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Billionaire Joe Ricketts’ Straight Arrow News Shutters After 5 Years",
+    "url": "https://www.thewrap.com/media-platforms/journalism/straight-arrow-news-shuts-down-joe-ricketts-billionaire-founder",
+    "published_at": "2026-11-06T23:16:37+00:00",
     "status": "candidate"
   },
   {
@@ -720,6 +945,15 @@
     "status": "candidate"
   },
   {
+    "id": "f64b77aaf1af8936a3e6",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Three Games You Can Play For Free This Weekend On PC",
+    "url": "https://kotaku.com/three-free-games-you-can-play-for-free-this-weekend-on-pc-2000754769",
+    "published_at": "2026-11-06T23:00:34+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "6e720c7427ed6cd4d753",
     "source": "IGN",
     "category": "gaming",
@@ -747,12 +981,48 @@
     "status": "candidate"
   },
   {
+    "id": "6c8bebe342f3232d18aa",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Netflix’s Radford Studios Deal Has Yet to Close",
+    "url": "https://www.thewrap.com/industry-news/business/netflix-radford-studios-lot-deal-stalls",
+    "published_at": "2026-11-06T22:55:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a20a17ef7189861e773c",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Knicks React After Player Tyler Kolek Calls Taylor Swift Fakest Fan",
+    "url": "https://www.eonline.com/news/1437909/new-york-knicks-defend-taylor-swift-after-tyler-kolek-calls-her-fakest-fan?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T22:52:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "da6cf8b4f2b7b0dcc3df",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "7th Heaven's Jeremy London Shares Plea for Help Amid Job Crisis",
+    "url": "https://www.eonline.com/news/1437907/7th-heavens-jeremy-london-details-losing-job-home-asks-for-help?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T22:46:21+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "5e3bae85ee16d45b62a6",
     "source": "Deadline",
     "category": "bulvar",
     "original_title": "Knicks Rep Thanks Taylor Swift For “Many Years” Of Fan Support After Tyler Kolek Comments",
     "url": "https://deadline.com/2026/11/knicks-thanks-taylor-swift-many-years-fan-support-1237216026",
     "published_at": "2026-11-06T22:34:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b0e6b850e5ebfb51ed36",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake",
+    "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
+    "published_at": "2026-11-06T22:30:52+00:00",
     "status": "candidate"
   },
   {
@@ -792,6 +1062,33 @@
     "status": "candidate"
   },
   {
+    "id": "adbbbd34a4cb4493ca52",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Why Russell Brand, Katy Perry Marriage Was Not Mentioned in Rape Trial",
+    "url": "https://www.eonline.com/news/1437895/russell-brand-guilty-of-rape-katy-perry-marriage-not-included-in-trial?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T22:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "da68896efad62bad0cd8",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "A Much-Requested Battlefield 6 Feature Revealed Last Spring Won’t Arrive In 2026 After All",
+    "url": "https://kotaku.com/a-much-requested-battlefield-6-feature-revealed-last-spring-wont-arrive-in-2026-after-all-2000754757",
+    "published_at": "2026-11-06T21:55:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "dce09e46dd86516b1e71",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All Pirate Chest loot and rewards in Fortnite Treasure Hunters",
+    "url": "https://www.destructoid.com/all-pirate-chest-loot-and-rewards-in-fortnite-treasure-hunters",
+    "published_at": "2026-11-06T21:52:18+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e27fe2fdea8b440744ba",
     "source": "IGN",
     "category": "gaming",
@@ -810,12 +1107,57 @@
     "status": "candidate"
   },
   {
+    "id": "10ccb945c3cd3469c519",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get the Shapeless Hunter Mask in The Division 2: Echoes of Central Park",
+    "url": "https://www.destructoid.com/how-to-get-the-shapeless-hunter-mask-in-the-division-2-echoes-of-central-park",
+    "published_at": "2026-11-06T21:45:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "27752433e24113e3fc0c",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "The Fate of Nobody Wants This Revealed After Season 3",
+    "url": "https://www.eonline.com/news/1437905/nobody-wants-this-renewed-for-season-four-on-netflix?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T21:39:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7fcf98a7c16b2a8c7824",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "JonBenét Ramsey's Brother Burke Shares \"Best Chance\" at Solving Murder",
+    "url": "https://www.eonline.com/news/1437902/jonbenet-ramseys-brother-burke-says-dna-evidence-could-solve-murder?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T21:39:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f7d481ed55c9b40218cb",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "GTA 6 PC may become a reality sooner than you think to avoid losing money to AI ‘slopcomps’",
+    "url": "https://www.destructoid.com/gta-6-pc-may-become-a-reality-sooner-than-you-think-to-avoid-losing-money-to-ai-slopcomps",
+    "published_at": "2026-11-06T21:24:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "4f2dfe8f1a7ed381cbff",
     "source": "IGN",
     "category": "gaming",
     "original_title": "Ed Boon Wants to Know What Fans Want the Next Mortal Kombat Game to Be Called",
     "url": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
     "published_at": "2026-11-06T21:21:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b35eb3fb5a7a5b54f203",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Dad Has 6-Year-Old Daughter Save His Spot In Line At Target For Pokémon Cards And Then Leaves",
+    "url": "https://kotaku.com/dad-has-6-year-old-daughter-save-his-spot-in-line-at-target-for-pokemon-cards-and-then-leaves-2000754745",
+    "published_at": "2026-11-06T21:15:31+00:00",
     "status": "candidate"
   },
   {
@@ -837,6 +1179,15 @@
     "status": "candidate"
   },
   {
+    "id": "e1375b9c1d7ce82324cd",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Hailee Steinfeld Reveals What She Didn’t Expect From Motherhood",
+    "url": "https://www.eonline.com/news/1437904/hailee-steinfeld-shares-what-baby-girl-harper-has-taught-her-about-herself?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T21:01:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "6ab483c42eb1e9802660",
     "source": "IGN",
     "category": "gaming",
@@ -846,12 +1197,39 @@
     "status": "candidate"
   },
   {
+    "id": "1f2ad88f1825b47eb9bd",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "These Fashionable Advent Calendars Feel like a Luxe Shopping Spree",
+    "url": "https://www.eonline.com/news/1437888/2026-fashion-advent-calendars-jewelry-accessories?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T21:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a518a4e84a1b976a3bd1",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "WNBA Stars Paige Bueckers, Azzi Fudd Confirm Breakup",
+    "url": "https://www.eonline.com/news/1437897/dallas-wings-paige-bueckers-azzi-fudd-confirm-break-up?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T20:49:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "dfb1a8da68969948bb89",
     "source": "IGN",
     "category": "gaming",
     "original_title": "This Disturbing Horror Movie Is Free on Tubi Right Now - I Don’t Know if You Should Watch It",
     "url": "https://www.ign.com/articles/this-disturbing-horror-movie-is-free-on-tubi-right-now-i-dont-know-if-you-should-watch-it",
     "published_at": "2026-11-06T20:40:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "78304d68e314bdecc5c0",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "10 Zelda: Ocarina Of Time Tips For The First-Time Player",
+    "url": "https://kotaku.com/10-zelda-ocarina-of-time-tips-for-the-first-time-player-2000754728",
+    "published_at": "2026-11-06T20:35:00+00:00",
     "status": "candidate"
   },
   {
@@ -873,6 +1251,24 @@
     "status": "candidate"
   },
   {
+    "id": "9a158c1dee9519ad67fe",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Quickest way to complete the FC 27 Road to the Knockouts: Group Stage objective",
+    "url": "https://www.destructoid.com/quickest-way-to-complete-the-fc-27-road-to-the-knockouts-group-stage-objective",
+    "published_at": "2026-11-06T20:14:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bc12032ca8738994ee95",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "KATSEYE's Megan Skiendiel Suffers Concussion Amid Tour",
+    "url": "https://www.eonline.com/news/1437901/katseyes-megan-skiendiel-suffers-concussion-cancels-concerts?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T20:01:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f4c42beb48b620158d27",
     "source": "Eurogamer",
     "category": "gaming",
@@ -891,12 +1287,39 @@
     "status": "candidate"
   },
   {
+    "id": "88ed22f1838850a33c1b",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Penélope Cruz Details Family Life in Madrid With Javier Bardem & Kids",
+    "url": "https://www.eonline.com/news/1437899/penelope-cruz-details-life-in-madrid-with-javier-bardem-and-kids?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T19:37:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "5d60e1b12abc024f22b9",
     "source": "IGN",
     "category": "gaming",
     "original_title": "God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
     "url": "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
     "published_at": "2026-11-06T19:33:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "717c01262d90bbc22afb",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "You Can’t Cheat At The Chicken Game Anymore In Zelda: Ocarina Of Time",
+    "url": "https://kotaku.com/you-cant-cheat-at-the-chicken-game-anymore-in-zelda-ocarina-of-time-2000754711",
+    "published_at": "2026-11-06T19:30:19+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "27fb6b815a3a0637995a",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Surfshark is much more than just a VPN, and you can get nearly 90% off with these early Black Friday Deals",
+    "url": "https://www.destructoid.com/surfshark-is-much-more-than-just-a-vpn-and-you-can-get-nearly-90-off-with-these-early-black-friday-deals",
+    "published_at": "2026-11-06T19:26:43+00:00",
     "status": "candidate"
   },
   {
@@ -909,12 +1332,48 @@
     "status": "candidate"
   },
   {
+    "id": "c865a8ff75ce4855c1ac",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All FC 27 Ultimate Gauntlet 3 rewards and tasks",
+    "url": "https://www.destructoid.com/all-fc-27-ultimate-gauntlet-3-rewards-and-tasks",
+    "published_at": "2026-11-06T19:20:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6f9af8500f64515617cf",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Bill Hader Reveals Hilariously Sweet Milestone With Daughters",
+    "url": "https://www.eonline.com/news/1437896/bill-hader-reveals-daughters-reaction-to-cat-in-the-hat?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T19:19:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "045f2ae325eac08195e3",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "This Is What Video Game Preservation Looks Like",
+    "url": "https://kotaku.com/this-is-what-video-game-preservation-looks-like-2000754684",
+    "published_at": "2026-11-06T19:00:41+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "bfc100baadc81442d25f",
     "source": "GameSpot",
     "category": "gaming",
     "original_title": "Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges",
     "url": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges",
     "published_at": "2026-11-06T18:50:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9d54ae2bb738c1d8eeea",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "‘Save Mass Effect’ movement parks billboard truck outside of EA HQ as efforts and petitions keep growing",
+    "url": "https://www.destructoid.com/save-mass-effect-billboard-truck-ea-hq-petition-growing",
+    "published_at": "2026-11-06T18:50:46+00:00",
     "status": "candidate"
   },
   {
@@ -936,12 +1395,66 @@
     "status": "candidate"
   },
   {
+    "id": "1da4f74cf33d0cef6c38",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 Matchday Marksman Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-matchday-marksman-evolution",
+    "published_at": "2026-11-06T18:34:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5090dedce604a45d0293",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "The Pirate Shop Token Hunt Is Tearing Fortnite Apart",
+    "url": "https://kotaku.com/the-pirate-shop-token-lottery-is-tearing-fortnite-apart-2000754678",
+    "published_at": "2026-11-06T18:30:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1df7c3aa38c52c27be18",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "A Truck Demanding EA ‘Save Mass Effect’ Is Currently Driving Around The Company’s Headquarters",
+    "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
+    "published_at": "2026-11-06T18:15:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "14fa85152a4b82ff62e1",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "WoW: Forever’s Dungeon EXP Nerf Is Shaping Up To Be A Disaster For Dungeon Lovers",
+    "url": "https://kotaku.com/wow-forevers-dungeon-exp-nerf-is-shaping-up-to-be-a-disaster-for-dungeon-lovers-2000754647",
+    "published_at": "2026-11-06T18:00:04+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "34ff8b3915c9e1e18153",
     "source": "GameSpot",
     "category": "gaming",
     "original_title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
     "url": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans",
     "published_at": "2026-11-06T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3d4963f0336641c176c7",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "TreVeyon Henderson Hospitalized For \"Unusual\" Health Condition",
+    "url": "https://www.eonline.com/news/1437893/patriots-treveyon-henderson-hospitalized-for-unexplained-health-issue?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T17:57:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "937af5cd6832eb75c0d3",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "A Stranger Things Prequel Is Coming: What to Know About Other Worlds",
+    "url": "https://www.eonline.com/news/1437892/netflix-announces-stranger-things-prequel-series-other-worlds?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T17:53:00+00:00",
     "status": "candidate"
   },
   {
@@ -972,6 +1485,42 @@
     "status": "candidate"
   },
   {
+    "id": "1fc68ef2e5e9f878b363",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
+    "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
+    "published_at": "2026-11-06T17:20:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "92fda66021f57a553d30",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "America Ferrera Reveals What She Knows About Barbie 2",
+    "url": "https://www.eonline.com/news/1437890/barbie-2-america-ferrera-has-no-details-on-margot-robbie-ryan-gosling-fil?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T17:10:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "24f0029f1f373d6ac714",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "WoW Forever Professions, explained",
+    "url": "https://www.destructoid.com/wow-forever-professions-explained",
+    "published_at": "2026-11-06T17:01:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7d2ee3b3d680f9e30567",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed",
+    "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
+    "published_at": "2026-11-06T17:00:11+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "69737da0e4984550d591",
     "source": "PC Gamer",
     "category": "gaming",
@@ -981,12 +1530,39 @@
     "status": "candidate"
   },
   {
+    "id": "50ff0064de721f890516",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Meghan Markle's Dad Thomas Markle Arrested in Child Pornography Case",
+    "url": "https://www.eonline.com/news/1437891/meghan-markles-dad-thomas-markle-arrested-by-fbi-for-child-porn-possession?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T16:49:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "902153df7e43bf4b5100",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Civ 7 Is At The Center Of A Switch 2 Hacking Spree",
+    "url": "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656",
+    "published_at": "2026-11-06T16:45:25+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "90fab59b805a0303aa7b",
     "source": "Nintendo Life",
     "category": "gaming",
     "original_title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
     "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
     "published_at": "2026-11-06T16:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "49ebcc4dd778e1858356",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Craig Melvin Confronts Martha Stewart After Halloween Controversy",
+    "url": "https://www.eonline.com/news/1437889/craig-melvin-confronts-martha-stewart-after-blame-for-halloween-controversy?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T16:33:00+00:00",
     "status": "candidate"
   },
   {
@@ -1017,6 +1593,15 @@
     "status": "candidate"
   },
   {
+    "id": "2a4d5d81b337263f9d24",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "15 Internet-Viral Beauty Favorites on Sale at Sephora's Savings Event",
+    "url": "https://www.eonline.com/news/1437880/internet-viral-beauty-favorites-on-sale-at-sephora-savings-event?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "c1d9e867612a5c94d0a4",
     "source": "PC Gamer",
     "category": "gaming",
@@ -1032,6 +1617,78 @@
     "original_title": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
     "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai",
     "published_at": "2026-11-06T15:50:34+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a18df58b1971de5c282f",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "John Mulaney Reveals Parenting Hack for Teaching Son to Ride a Bike",
+    "url": "https://www.eonline.com/news/1437887/john-mulaneys-parenting-hack-for-teaching-son-to-ride-a-bike?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T15:49:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4e4679afad89c3bdcc62",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Nintendo’s Shigeru Miyamoto Misses Financial Briefing Due To A ‘Sudden Illness’ But Is Expected To Recover Soon",
+    "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655",
+    "published_at": "2026-11-06T15:46:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7d75880dedf5b221f401",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3",
+    "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
+    "published_at": "2026-11-06T15:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a607af7a072b008999af",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Apex Legends’ Godzilla collab is the closest I’ve come to re-downloading the game in years",
+    "url": "https://www.destructoid.com/apex-legends-godzilla-collab-closest-redownloading-years",
+    "published_at": "2026-11-06T15:40:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7c4f52b1424f8e635b45",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "The Ugly Car That Sucks Has Died",
+    "url": "https://kotaku.com/the-ugly-car-that-sucks-has-died-2000754630",
+    "published_at": "2026-11-06T15:30:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a51e064232de0b19d218",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "GameRant And Collider Owner Valnet Agrees To $2 Million Settlement In Class Action Lawsuit",
+    "url": "https://kotaku.com/screenrant-and-polygon-owner-valnet-agrees-to-2-million-settlement-in-class-action-lawsuit-2000754639",
+    "published_at": "2026-11-06T15:30:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7eefb9110679f0056f9d",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Was Dr. Seuss Even a Doctor? Secrets About The Cat in the Hat Revealed",
+    "url": "https://www.eonline.com/news/1437883/was-dr-seuss-really-a-doctor-secrets-about-the-cat-in-the-hat-revealed?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-06T15:29:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "82919ca9e071766aa73f",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Sky-high hype: ‘Pilot Picasso’ draws massive GTA 6 mural in 8-hour flight over Arkansas",
+    "url": "https://www.destructoid.com/sky-high-hype-pilot-picasso-gta6-mural-8-hour-flight-arkansas",
+    "published_at": "2026-11-06T15:17:06+00:00",
     "status": "candidate"
   },
   {
@@ -1059,6 +1716,24 @@
     "original_title": "Ratchet & Clank: Ranger Rumble canceled",
     "url": "https://www.gematsu.com/2026/11/ratchet-clank-ranger-rumble-canceled",
     "published_at": "2026-11-06T15:01:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3344c9c03fee68e64fb7",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Fans Are Desperately Hunting For Majora’s Mask Clues Inside The Zelda: Ocarina Of Time Remake",
+    "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-majoras-mask-switch-2-2000754641",
+    "published_at": "2026-11-06T15:00:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c0e831df6ffc1b238d04",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\"",
+    "url": "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
+    "published_at": "2026-11-06T14:58:30+00:00",
     "status": "candidate"
   },
   {
@@ -1134,6 +1809,15 @@
     "status": "candidate"
   },
   {
+    "id": "4aee8bd2a23643d2dd43",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Airframe Ultra's PS1 cyberpunk city is an amazing tribute to G-Police and WipEout, and I wish you people would slow down to appreciate it",
+    "url": "https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it",
+    "published_at": "2026-11-06T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f926ef540e61cd4f23f2",
     "source": "PC Gamer",
     "category": "gaming",
@@ -1161,6 +1845,24 @@
     "status": "candidate"
   },
   {
+    "id": "2397dc8e046e76b38f4b",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Mandatory Nier: Automata Update Accidentally Requires 366GB: ‘I Just Need To Delete 90 Percent Of My Computer To Install This’",
+    "url": "https://kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623",
+    "published_at": "2026-11-06T13:30:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "09547cb7e7167be6b763",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Complete Queen’s Domain Bestiary Guide: All monster locations",
+    "url": "https://www.destructoid.com/complete-queens-domain-bestiary-guide-all-monster-locations",
+    "published_at": "2026-11-06T13:14:22+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "9ad5d5b2dd1eddf5e6f3",
     "source": "GameSpot",
     "category": "gaming",
@@ -1170,12 +1872,48 @@
     "status": "candidate"
   },
   {
+    "id": "6d7565efecb76e4d25f0",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Deus Ex Creator Warren Spector Tears BioWare-Closing EA Executives A New One",
+    "url": "https://kotaku.com/deus-ex-warren-spector-ea-bioware-csuite-dragon-age-mass-effect-2000754612",
+    "published_at": "2026-11-06T12:59:25+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f67444a969f61b49d960",
     "source": "VGC",
     "category": "gaming",
     "original_title": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
     "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library",
     "published_at": "2026-11-06T12:58:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ca94eeef95902b08e530",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to find Ice Caves biome in Minecraft",
+    "url": "https://www.destructoid.com/how-to-find-ice-caves-biome-in-minecraft",
+    "published_at": "2026-11-06T12:53:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e0c2da426099432394b8",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
+    "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
+    "published_at": "2026-11-06T12:38:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d52b8ef34499948f48f0",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Protesters Break Into Microsoft Data Center Site And Hang ‘FCK AI’ Banner",
+    "url": "https://kotaku.com/microsoft-data-center-protest-ai-amsterdam-palestine-banners-2000754616",
+    "published_at": "2026-11-06T12:34:14+00:00",
     "status": "candidate"
   },
   {
@@ -1203,6 +1941,15 @@
     "original_title": "JioHotstar’s ‘Big Boss’ Season 20 Passes 1 Billion Hours Of Watch-Time",
     "url": "https://deadline.com/2026/11/jiohotstar-big-boss-season-20-1-billion-hours-watch-time-1237215358",
     "published_at": "2026-11-06T12:21:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "06337a3d718d5ce5a202",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get Sweet Dreams Sprite in Fortnite Treasure Hunters",
+    "url": "https://www.destructoid.com/how-to-get-sweet-dreams-sprite-in-fortnite-treasure-hunters",
+    "published_at": "2026-11-06T12:07:49+00:00",
     "status": "candidate"
   },
   {
@@ -1350,12 +2097,30 @@
     "status": "candidate"
   },
   {
+    "id": "2ba66a3037051047dac2",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
+    "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+    "published_at": "2026-11-06T11:09:10+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "49a55bdc6a488840aef5",
     "source": "IGN",
     "category": "gaming",
     "original_title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
     "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
     "published_at": "2026-11-06T11:07:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7af9ec6cc95cdb4e7886",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All weapons and loot in Fortnite Treasure Hunters",
+    "url": "https://www.destructoid.com/all-weapons-and-loot-in-fortnite-treasure-hunters",
+    "published_at": "2026-11-06T11:04:12+00:00",
     "status": "candidate"
   },
   {
@@ -1377,6 +2142,15 @@
     "status": "candidate"
   },
   {
+    "id": "f4f850aa3eefcad343f0",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "A Bizarre Run Trello, Wiki and Discord",
+    "url": "https://www.destructoid.com/a-bizarre-run-trello-wiki-and-discord",
+    "published_at": "2026-11-06T10:57:47+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "823d42d7e62c6299c963",
     "source": "Variety",
     "category": "bulvar",
@@ -1386,12 +2160,30 @@
     "status": "candidate"
   },
   {
+    "id": "4ea918589c804f74d87d",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All rare chest locations in Fortnite Treasure Hunters",
+    "url": "https://www.destructoid.com/all-rare-chest-locations-in-fortnite-treasure-hunters",
+    "published_at": "2026-11-06T10:40:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "3481afad80507e0db20e",
     "source": "Variety",
     "category": "bulvar",
     "original_title": "Producer Accused of ‘Laughing’ During Russell Brand Assault ‘Steps Back’ From Head of Comedy Role",
     "url": "https://variety.com/2026/tv/global/comedy-producer-russell-brand-assault-steps-back-1236941125",
     "published_at": "2026-11-06T10:28:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b31b21ebc6a66fc1fd0e",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity",
+    "url": "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
+    "published_at": "2026-11-06T10:25:10+00:00",
     "status": "candidate"
   },
   {
@@ -1557,6 +2349,15 @@
     "status": "candidate"
   },
   {
+    "id": "a011e8be55c509b17bae",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best way to grind Research Points in Godzilla: Destroy All Monsters Melee Remastered",
+    "url": "https://www.destructoid.com/best-way-to-grind-research-points-in-godzilla-destroy-all-monsters-melee-remastered",
+    "published_at": "2026-11-06T08:17:34+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "c733df264dded80b2078",
     "source": "Variety",
     "category": "bulvar",
@@ -1581,6 +2382,15 @@
     "original_title": "Taiwan Creative Content Fest Opens With Focus On IP, Co-Production & Pledges Of Government Support",
     "url": "https://deadline.com/2026/11/taiwan-creative-content-fest-taicca-weta-1237215199",
     "published_at": "2026-11-06T06:49:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0c90f502814bd8f2a9cb",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All Retro Rewind New Release Unique Games and SKU Codes",
+    "url": "https://www.destructoid.com/all-retro-rewind-new-release-unique-games-and-sku-codes",
+    "published_at": "2026-11-06T06:46:30+00:00",
     "status": "candidate"
   },
   {
@@ -1863,6 +2673,15 @@
     "status": "candidate"
   },
   {
+    "id": "1ded53494a329dc0de2e",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
+    "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
+    "published_at": "2026-11-05T22:55:20+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "4fbaa52684ff1c295b7e",
     "source": "IGN",
     "category": "gaming",
@@ -1896,6 +2715,24 @@
     "original_title": "Expand Your Home Gym With This Adjustable Weight Bench for Just $42 Shipped Ahead of Black Friday",
     "url": "https://www.ign.com/articles/nicepeople-weight-bench-deal-november-2026",
     "published_at": "2026-11-05T22:40:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b8347e9726f136ec7f45",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Everything you need to know about WoW Forever leveling",
+    "url": "https://www.destructoid.com/everything-you-need-to-know-about-wow-forever-leveling",
+    "published_at": "2026-11-05T22:38:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "290264697b3f9d6cb0d2",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best upgrades to get in Potato Please",
+    "url": "https://www.destructoid.com/best-upgrades-to-get-in-potato-please",
+    "published_at": "2026-11-05T22:35:13+00:00",
     "status": "candidate"
   },
   {
@@ -1935,6 +2772,15 @@
     "status": "candidate"
   },
   {
+    "id": "3dddea4da50c317dc133",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Which WoW Forever ruleset to pick (and can you change later?)",
+    "url": "https://www.destructoid.com/which-wow-forever-ruleset-to-pick-and-can-you-change-later",
+    "published_at": "2026-11-05T22:17:41+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "08d318b7026f05030dcb",
     "source": "VGC",
     "category": "gaming",
@@ -1962,12 +2808,30 @@
     "status": "candidate"
   },
   {
+    "id": "6e74d929c97e9a0ad9b5",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually",
+    "url": "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually",
+    "published_at": "2026-11-05T21:32:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "4b6a183227dd9d1a5562",
     "source": "IGN",
     "category": "gaming",
     "original_title": "The Odyssey Is Returning to IMAX Theaters in December Ahead of Awards Season",
     "url": "https://www.ign.com/articles/the-odyssey-is-returning-to-imax-theaters-in-december-ahead-of-awards-season",
     "published_at": "2026-11-05T21:20:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d7abd8e8fb9075ade5f5",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "AI and tech stocks rapidly plummet in wake of ‘blue wave’ in the US, with well over $2 trillion gone today alone",
+    "url": "https://www.destructoid.com/ai-stocks-rapidly-plummet-blue-wave-2-trillion",
+    "published_at": "2026-11-05T21:03:56+00:00",
     "status": "candidate"
   },
   {
@@ -2016,6 +2880,15 @@
     "status": "candidate"
   },
   {
+    "id": "d9634cbce4ecf120e0e6",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All Zelda: Ocarina of Time Remake songs, inputs, and how they work",
+    "url": "https://www.destructoid.com/all-zelda-ocarina-of-time-remake-songs-inputs-and-how-they-work",
+    "published_at": "2026-11-05T20:27:55+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "0dd42140b403e861346b",
     "source": "GameSpot",
     "category": "gaming",
@@ -2061,12 +2934,48 @@
     "status": "candidate"
   },
   {
+    "id": "a60786b1359e10f35c90",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "White House Twitter account faceplants with awful Zelda AI slop that missed the midterms by two days",
+    "url": "https://www.destructoid.com/white-house-awful-zelda-ai-slop-that-missed-the-midterms-by-two-days",
+    "published_at": "2026-11-05T19:16:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4fe1334d36d8176d00bf",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "New Xbox PC app update boasts 60 percent faster load times, but I probably still won’t use it",
+    "url": "https://www.destructoid.com/new-xbox-pc-app-update-60-percent-faster-load-times",
+    "published_at": "2026-11-05T19:04:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "03777b726aaf76f8dc99",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access",
+    "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
+    "published_at": "2026-11-05T19:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "b77db3a02dd07021ee05",
     "source": "VGC",
     "category": "gaming",
     "original_title": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash",
     "url": "https://www.videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash",
     "published_at": "2026-11-05T18:59:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f4c555f302e5e245aa8e",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 Strings of Fate Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-strings-of-fate-evolution",
+    "published_at": "2026-11-05T18:50:57+00:00",
     "status": "candidate"
   },
   {
@@ -2084,6 +2993,15 @@
     "category": "gaming",
     "original_title": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
     "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters",
+    "published_at": "2026-11-05T18:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f5df1de1b15bea9ed238",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now",
+    "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
     "published_at": "2026-11-05T18:30:00+00:00",
     "status": "candidate"
   },
@@ -2133,11 +3051,29 @@
     "status": "candidate"
   },
   {
+    "id": "fa84c62c5538bde70373",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Legend of Khiimori's Mongolian Expanse update brings in frosty mountains and scorching deserts that'll require a lot more than a fur coat and a sturdy horse",
+    "url": "https://www.rockpapershotgun.com/the-legend-of-khiimoris-mongolian-expanse-update-brings-in-frosty-mountains-and-scorching-deserts-thatll-require-a-lot-more-than-a-fur-coat-and-a-sturdy-horse",
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7b384a56426e113f0bd8",
     "source": "Nintendo Life",
     "category": "gaming",
     "original_title": "We Have So Many Questions About This Stellar Blade Launch Trailer",
     "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+    "published_at": "2026-11-05T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9e0653341a128e759d74",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Apex Legends adds a grumpy, teamwiping Godzilla to its growing history of unappealing crossovers",
+    "url": "https://www.rockpapershotgun.com/apex-legends-adds-a-grumpy-teamwiping-godzilla-to-its-growing-history-of-unappealing-crossovers",
     "published_at": "2026-11-05T17:30:00+00:00",
     "status": "candidate"
   },
@@ -2157,6 +3093,15 @@
     "original_title": "Nintendo Is Currently Not Considering More Switch 2 Price Changes",
     "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
     "published_at": "2026-11-05T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c33bbdb907f532cfd5c6",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Nvidia ensure unboxing a ludicrously expensive new graphics card isn't limited to real life in these RAM crisis times by releasing a GeForce 8800 GTX unpacking sim",
+    "url": "https://www.rockpapershotgun.com/nvidia-ensure-unboxing-a-ludicrously-expensive-new-graphics-card-isnt-limited-to-real-life-in-these-ram-crisis-times-by-releasing-a-geforce-8800-gtx-unpacking-sim",
+    "published_at": "2026-11-05T16:55:40+00:00",
     "status": "candidate"
   },
   {
@@ -2220,6 +3165,15 @@
     "original_title": "Arkane Union Accuses Microsoft Of “Sabotaging” Development Of Marvel’s Blade",
     "url": "https://www.gamespot.com/articles/arkane-union-accuses-microsoft-of-sabotaging-development-of-marvels-blade",
     "published_at": "2026-11-05T15:45:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "349433bb53c738281cbe",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Goddess of Victory: Nikke's PC launcher suffers potential malware infection, with its publishers suggesting folks who've booted since late September do a security check",
+    "url": "https://www.rockpapershotgun.com/goddess-of-victory-nikkes-pc-launcher-suffers-potential-malware-infection-with-its-publishers-suggesting-folks-whove-booted-since-late-september-do-a-security-check",
+    "published_at": "2026-11-05T15:43:10+00:00",
     "status": "candidate"
   },
   {
@@ -2385,6 +3339,15 @@
     "status": "candidate"
   },
   {
+    "id": "5a50a944e719edf5f63f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "You can now play Pillars of Eternity and Pillars of Eternity 2: Deadfire with a controller on PC from start to finish, thanks to a new update open for testing",
+    "url": "https://www.rockpapershotgun.com/you-can-now-play-pillars-of-eternity-and-pillars-of-eternity-2-deadfire-with-a-controller-on-pc-from-start-to-finish-thanks-to-a-new-update-open-for-testing",
+    "published_at": "2026-11-05T12:27:20+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "d453392dcb3107f9d7b3",
     "source": "PC Gamer",
     "category": "gaming",
@@ -2454,6 +3417,15 @@
     "original_title": "See the Sweetest Photos of Kevin Jonas with Wife Danielle and Their 2 Daughters, as the Musician Turns 39 Today",
     "url": "https://people.com/kevin-and-danielle-jonas-family-photos-12236427",
     "published_at": "2026-11-05T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7ecf1ad9db0a674647cb",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in",
+    "url": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
+    "published_at": "2026-11-05T10:51:50+00:00",
     "status": "candidate"
   },
   {
@@ -2664,6 +3636,15 @@
     "status": "candidate"
   },
   {
+    "id": "bd64b6498540f2d49a45",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"Arkane is profitable,\" say Marvel's Blade developers in fiery new statement, \"just not profitable enough for Microsoft\"",
+    "url": "https://www.rockpapershotgun.com/arkane-is-profitable-say-marvels-blade-developers-in-fiery-new-statement-just-not-profitable-enough-for-microsoft",
+    "published_at": "2026-11-04T18:02:20+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f8418e36594cb5000316",
     "source": "Gematsu",
     "category": "gaming",
@@ -2679,6 +3660,15 @@
     "original_title": "God of War Laufey delayed three months to May 2027, as Sony Santa Monica escapes a packed February",
     "url": "https://www.eurogamer.net/god-of-war-laufey-delayed-may-three-months",
     "published_at": "2026-11-04T17:32:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "350f7487c73704df7cea",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Oblivion and Skyrim’s gap was bridged by forward-looking books about a murderous floating island, so why is The Elder Scrolls 6 stuck reanimating a world that’s stood still since 2011",
+    "url": "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011",
+    "published_at": "2026-11-04T17:30:00+00:00",
     "status": "candidate"
   },
   {
@@ -2706,6 +3696,15 @@
     "original_title": "God of War Laufey delayed to May 20, 2027",
     "url": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027",
     "published_at": "2026-11-04T17:05:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9851f0fd3e5978325c4b",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Rimworld-inspired colony sim Stardeus gets a huge update representing a year's worth of expansion and revision, with new tools for evil AI overlords",
+    "url": "https://www.rockpapershotgun.com/rimworld-inspired-colony-sim-stardeus-gets-a-huge-update-representing-a-years-worth-of-expansion-and-revision-with-new-tools-for-evil-ai-overlords",
+    "published_at": "2026-11-04T17:03:10+00:00",
     "status": "candidate"
   },
   {
@@ -2781,12 +3780,30 @@
     "status": "candidate"
   },
   {
+    "id": "280cb06f7fd42c48f474",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
+    "url": "https://www.rockpapershotgun.com/fate-of-the-galaxy-is-a-huge-fully-featured-star-wars-space-combat-sim-that-thanks-to-being-a-total-conversion-mod-for-freespace-open-even-runs-on-my-rubbish-laptop",
+    "published_at": "2026-11-04T13:15:44+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "1f60ff9b6c04514d612f",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives",
     "url": "https://www.eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
     "published_at": "2026-11-04T13:11:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b7ca0eb2f58fdf3c06ea",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
+    "url": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
+    "published_at": "2026-11-04T12:43:24+00:00",
     "status": "candidate"
   },
   {
@@ -2808,6 +3825,15 @@
     "status": "candidate"
   },
   {
+    "id": "50208c5ad14787aca948",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait",
+    "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
+    "published_at": "2026-11-04T12:08:24+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e95021ad3e7fbc079537",
     "source": "PC Gamer",
     "category": "gaming",
@@ -2823,6 +3849,24 @@
     "original_title": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions",
     "url": "https://www.pcgamer.com/software/security/dodgy-download-and-spoofed-job-ad-led-to-usd6-3-billion-binance-hack-attacker-offered-fake-software-and-fake-job-to-infiltrate-company-wallets-and-steal-billions",
     "published_at": "2026-11-04T11:12:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d7d9f7bd18b01537c1e0",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace",
+    "url": "https://www.rockpapershotgun.com/smash-hit-cyberpunk-storekeeper-probably-stolen-was-originally-a-different-non-cyberpunk-game-that-seemed-destined-to-sink-without-trace",
+    "published_at": "2026-11-04T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a8ddbf47bd56124bebad",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"An outright ban will not eliminate AI from the modding process,\" Nexus Mods say as they rule out barring generated creations from their site",
+    "url": "https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site",
+    "published_at": "2026-11-04T10:34:07+00:00",
     "status": "candidate"
   },
   {
@@ -2925,6 +3969,15 @@
     "status": "candidate"
   },
   {
+    "id": "1402885d8f0257514db8",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
+    "url": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
+    "published_at": "2026-11-03T22:51:31+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "d6e4097ed4bb11066650",
     "source": "PC Gamer",
     "category": "gaming",
@@ -2943,12 +3996,39 @@
     "status": "candidate"
   },
   {
+    "id": "59d50645be8618129d88",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
+    "url": "https://www.rockpapershotgun.com/steams-review-queue-is-clogged-up-by-ai-slop-salacious-fire-emblem-ish-food-devils-gets-a-delay-because-its-devs-think-valve-is-inundated-with-genai-games",
+    "published_at": "2026-11-03T21:41:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f96396218c5a044c1743",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Citadel Project is a Thief-inspired dark fantasy, survival-horror lite stealth-em-up with some lovely shadows set in a medieval megastructure",
+    "url": "https://www.rockpapershotgun.com/the-citadel-project-is-a-thief-inspired-dark-fantasy-survival-horror-lite-stealth-em-up-with-some-lovely-shadows-set-in-a-medieval-megastructure",
+    "published_at": "2026-11-03T20:10:03+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "ab2ce80fa39c919c1962",
     "source": "PC Gamer",
     "category": "gaming",
     "original_title": "The Elder Scrolls 6 is still a long way off, Bethesda warns: 'It'll be some time before we're ready to share more'",
     "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-still-a-long-way-off-bethesda-warns-itll-be-some-time-before-were-ready-to-share-more",
     "published_at": "2026-11-03T19:27:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f955428ed245061da300",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Silica, an FPS and RTS hybrid that mixes a smidge of Dune and Helldivers together, has left early access and entered 1.0",
+    "url": "https://www.rockpapershotgun.com/silica-an-fps-and-rts-hybrid-that-mixes-a-smidge-of-dune-and-helldivers-together-has-left-early-access-and-entered-10",
+    "published_at": "2026-11-03T19:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -2970,6 +4050,24 @@
     "status": "candidate"
   },
   {
+    "id": "aca4bd452392639b84ef",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Play as water and rain on wildfires in Atuel, a short, free game about the power and vulnerability of nature",
+    "url": "https://www.rockpapershotgun.com/have-you-played-atuel",
+    "published_at": "2026-11-03T18:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61aa803a4fc276df7195",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Frostpunk 2's The Surge DLC keeps the wintery apocalypse and adds in faction-clash-inducing electricity and sets a seasonally appropriate December release date",
+    "url": "https://www.rockpapershotgun.com/frostpunk-2s-the-surge-dlc-keeps-the-wintery-apocalypse-and-adds-in-faction-clash-inducing-electricity-and-sets-a-seasonally-appropriate-december-release-date",
+    "published_at": "2026-11-03T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7be79f3157bd866b594a",
     "source": "PC Gamer",
     "category": "gaming",
@@ -2985,6 +4083,33 @@
     "original_title": "The latest version of Metal Gear's must-have visual mod slices load times, adds raw mouse input, and restores Mel Gibson",
     "url": "https://www.pcgamer.com/games/action/the-latest-version-of-metal-gears-must-have-visual-mod-slices-load-times-adds-raw-mouse-input-and-restores-mel-gibson",
     "published_at": "2026-11-03T17:50:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "65bbbaa277c7c8b89f1e",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Venom-toothed Noxious Terminids are soon to infest Helldivers 2, and it's your noble job to sterilise the galaxy for Super Earth",
+    "url": "https://www.rockpapershotgun.com/venom-toothed-noxious-terminids-are-soon-to-infest-helldivers-2-and-its-your-noble-job-to-sterilise-the-galaxy-for-super-earth",
+    "published_at": "2026-11-03T17:25:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "86916729a3a981a2293f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Mobile Suit Gundam Battle Operation 3 has been announced, marking another attempt at a free-to-play team game after Gundam Evolution's unfortunate fate",
+    "url": "https://www.rockpapershotgun.com/mobile-suit-gundam-battle-operation-3-has-been-announced-marking-another-attempt-at-a-free-to-play-team-game-after-gundam-evolutions-unfortunate-fate",
+    "published_at": "2026-11-03T16:53:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f297970d88c7ba3973a2",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Elder Scrolls 6: Sentinel teaser all but confirms Hammerfell setting and means we can finally stop using that eight year old header image with the hills",
+    "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-teaser-all-but-confirms-hammerfell-setting-and-means-we-can-finally-stop-using-that-eight-year-old-header-image-with-the-hills",
+    "published_at": "2026-11-03T16:09:52+00:00",
     "status": "candidate"
   },
   {
@@ -3033,6 +4158,15 @@
     "status": "candidate"
   },
   {
+    "id": "4955080f087ebc165517",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "I'm sad that the Like A Dragon creator's new studio is closing, but I wish their now-cancelled debut Gang of Dragon wasn't just LAD again",
+    "url": "https://www.rockpapershotgun.com/im-sad-that-the-like-a-dragon-creators-new-studio-is-closing-but-i-wish-their-now-cancelled-debut-gang-of-dragon-wasnt-just-lad-again",
+    "published_at": "2026-11-03T14:51:18+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "ebc7ea6d3b081c20958b",
     "source": "PC Gamer",
     "category": "gaming",
@@ -3048,6 +4182,15 @@
     "original_title": "Mike Flanagan thinks 'Warhammer is a fascinating world' but can't tell us anything else about the upcoming Warhammer 40,000 project because 'Henry Cavill would be furious'",
     "url": "https://www.pcgamer.com/movies-tv/mike-flanagan-thinks-warhammer-is-a-fascinating-world-but-cant-tell-us-anything-else-about-the-upcoming-warhammer-40-000-project-because-henry-cavill-would-be-furious",
     "published_at": "2026-11-03T14:08:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f3b6211d43947df82575",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Workers & Resources: Soviet Republic's next DLC is set to expand the city building sim into the one place not corrupted by capitalism: SPACE",
+    "url": "https://www.rockpapershotgun.com/workers-resources-soviet-republics-next-dlc-is-set-to-expand-the-city-building-sim-into-the-one-place-not-corrupted-by-capitalism-space",
+    "published_at": "2026-11-03T14:03:00+00:00",
     "status": "candidate"
   },
   {
@@ -3078,12 +4221,30 @@
     "status": "candidate"
   },
   {
+    "id": "b9662d68cf41caa5fd98",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Arc Raiders devs Embark insist that using genAI for voice lines was necessary, as \"actors would just go crazy if they had to read all of that\"",
+    "url": "https://www.rockpapershotgun.com/arc-raiders-devs-embark-insist-that-using-genai-for-voice-lines-was-necessary-as-actors-would-just-go-crazy-if-they-had-to-read-all-of-that",
+    "published_at": "2026-11-03T12:32:19+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "2f945cef7cfa6de15184",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
     "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
     "published_at": "2026-11-03T12:03:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b4e7b34f6b3b8d730a99",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"There’s always a night when Rome burns\": South Of Midnight director says that Xbox funding it was \"unsustainable\", at least in hindsight",
+    "url": "https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight",
+    "published_at": "2026-11-03T11:49:29+00:00",
     "status": "candidate"
   },
   {
@@ -3111,6 +4272,15 @@
     "original_title": "Users pull $3.6 bn from Binance as it reopens following $6.3 billion mega-hack - FBI says North Korean hacking group 'TraderTraitor' to blame, North Korea says nuh-uh",
     "url": "https://www.pcgamer.com/software/security/users-pull-usd3-6-bn-from-binance-as-it-reopens-following-usd6-3-billion-mega-hack-fbi-says-north-korean-hacking-group-tradertraitor-to-blame-north-korea-says-nuh-uh",
     "published_at": "2026-11-03T10:54:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e474b72e302e42d82749",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+    "url": "https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
+    "published_at": "2026-11-03T10:12:22+00:00",
     "status": "candidate"
   },
   {
@@ -3168,6 +4338,15 @@
     "status": "candidate"
   },
   {
+    "id": "d96acc01912f737ae5cc",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "You can make a vampire hunter who's afraid of the dark, disease and small spaces in Hunter: The Reckoning - Deathwish, and that's surely the best way to play",
+    "url": "https://www.rockpapershotgun.com/you-can-make-a-vampire-hunter-whos-afraid-of-the-dark-disease-and-small-spaces-in-hunter-the-reckoning-deathwish-and-thats-surely-the-best-way-to-play",
+    "published_at": "2026-11-02T19:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7676f47e02971b03e075",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3192,6 +4371,24 @@
     "original_title": "'There was some really fair criticism': Arc Raiders' devs understand why players were so upset about its AI use but say that it was 'too impractical to record' every voice line",
     "url": "https://www.pcgamer.com/games/third-person-shooter/there-was-some-really-fair-criticism-arc-raiders-devs-understand-why-players-were-so-upset-about-its-ai-use-but-admit-that-it-was-too-impractical-to-record-every-voice-line",
     "published_at": "2026-11-02T17:55:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5e17572db6db70b73ab7",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Fix up towering robots while battle rages outside in Bay 12: Mech Repair, a first-person job sim with some handsome heavy duty analog tech",
+    "url": "https://www.rockpapershotgun.com/fix-up-towering-robots-while-battle-rages-outside-in-bay-12-mech-repair-a-first-person-job-sim-with-some-handsome-heavy-duty-analog-tech",
+    "published_at": "2026-11-02T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8ea7f19db417d0749ab3",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Fewer genAI clones of \"someone else's specific game\" should flood the net going forwards, as Anthropic tell Claude to stop messing with some stuff other people own",
+    "url": "https://www.rockpapershotgun.com/fewer-genai-clones-of-someone-elses-specific-game-should-flood-the-net-going-forwards-as-anthropic-tell-claude-to-stop-messing-with-some-stuff-other-people-own",
+    "published_at": "2026-11-02T16:51:17+00:00",
     "status": "candidate"
   },
   {
@@ -3231,12 +4428,39 @@
     "status": "candidate"
   },
   {
+    "id": "acec7beae0871c8c8ab8",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "This week in PC games: go helldiving in Gravhounds, wreck a hoverbike in Airframe Ultra, or feed humans to a cutaway spaceship in Hull Rupture",
+    "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-go-helldiving-in-gravhounds-wreck-a-hoverbike-in-airframe-ultra-or-feed-humans-to-a-cutaway-spaceship-in-hull-rupture",
+    "published_at": "2026-11-02T13:34:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bec026140d45c04e618c",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Delve into \"a deep underground facility full of secrets and horrors\" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project",
+    "url": "https://www.rockpapershotgun.com/delve-into-a-deep-underground-facility-full-of-secrets-and-horrors-in-the-latest-fallout-4-quest-mod-from-the-commonwealth-story-expansion-project",
+    "published_at": "2026-11-02T12:36:42+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "adb16176a03a90a6a798",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
     "url": "https://www.eurogamer.net/id-software-doing-great-losing-half-the-studio",
     "published_at": "2026-11-02T12:12:11+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "41141193781d4e7d2863",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Skyblivion modders reveal a former volunteer is \"threatening to sue for damages upwards of €30,000\" over work on the unofficial Oblivion remake project",
+    "url": "https://www.rockpapershotgun.com/skyblivion-modders-reveal-a-former-volunteer-is-threatening-to-sue-for-damages-upwards-of-30000-over-work-on-the-unofficial-oblivion-remake-project",
+    "published_at": "2026-11-02T11:51:26+00:00",
     "status": "candidate"
   },
   {
@@ -3258,12 +4482,48 @@
     "status": "candidate"
   },
   {
+    "id": "49e95b8a58c7e1ab40eb",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "As if the injury descriptions weren't already ghastly enough in Dwarf Fortress, the legendary outpost builder is getting a \"meat biome\"",
+    "url": "https://www.rockpapershotgun.com/as-if-the-injury-descriptions-werent-already-ghastly-enough-in-dwarf-fortress-the-legendary-outpost-builder-is-getting-a-meat-biome",
+    "published_at": "2026-11-02T10:41:30+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "a20cfd223a6e7496c9ea",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
     "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
     "published_at": "2026-11-02T09:24:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e51431a9359afbf4887a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Gag Order is a co-op, SCP-ish horror shooter about surviving as best you can against some nasty, tentacle covered cephalopod creatures",
+    "url": "https://www.rockpapershotgun.com/gag-order-is-a-co-op-scp-ish-horror-shooter-about-surviving-as-best-you-can-against-some-nasty-tentacle-covered-cephalopod-creatures",
+    "published_at": "2026-11-01T22:56:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "519984c05acef7bd15c8",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
+    "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
+    "published_at": "2026-11-01T21:34:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a1dde399b8e06b6b2887",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "What remains of canned Portal prequel white whale F-Stop is now fully playable thanks to modders and some big leaks",
+    "url": "https://www.rockpapershotgun.com/what-remains-of-canned-portal-prequel-white-whale-f-stop-is-now-fully-playable-thanks-to-modders-and-some-big-leaks",
+    "published_at": "2026-11-01T19:08:44+00:00",
     "status": "candidate"
   },
   {
@@ -3276,12 +4536,30 @@
     "status": "candidate"
   },
   {
+    "id": "1c27d7622850f5ca2b6d",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
+    "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
+    "published_at": "2026-11-01T18:07:48+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "8b0fd09a1bf3d911a010",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Modern Warfare 4 on Switch 2 has much worse input lag than PS5",
     "url": "https://www.eurogamer.net/modern-warfare-4-switch-2-input-lag-digital-foundry",
     "published_at": "2026-11-01T17:27:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "636ee6a29dbf8068c38a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
+    "url": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
+    "published_at": "2026-11-01T17:17:15+00:00",
     "status": "candidate"
   },
   {
@@ -3309,6 +4587,15 @@
     "original_title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
     "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
     "published_at": "2026-11-01T10:04:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f227cbd7ead396e3e940",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-834",
+    "published_at": "2026-11-01T10:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -3357,6 +4644,24 @@
     "status": "candidate"
   },
   {
+    "id": "4bf89844ec6bae5a5ced",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
+    "url": "https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics",
+    "published_at": "2026-10-31T12:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "31be567ddf63a61ddd70",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406",
+    "published_at": "2026-10-31T09:45:21+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "85af3275f8cf8bfade3c",
     "source": "People",
     "category": "bulvar",
@@ -3372,6 +4677,15 @@
     "original_title": "See the “Today” Show Crew’s Greatest Halloween Costumes Through the Years",
     "url": "https://people.com/today-show-halloween-costumes-12199211",
     "published_at": "2026-10-30T20:44:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "160d89710cb51bc337e5",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Warframe's fantasy-pilled sister Soulframe finally goes open to all this November, though Digital Extremes are \"nervous\" about certain changes",
+    "url": "https://www.rockpapershotgun.com/warframes-fantasy-pilled-sister-soulframe-finally-goes-open-to-all-this-november-though-digital-extremes-are-nervous-about-certain-changes",
+    "published_at": "2026-10-30T20:30:00+00:00",
     "status": "candidate"
   },
   {
@@ -3393,12 +4707,39 @@
     "status": "candidate"
   },
   {
+    "id": "ec8db5caa93114a6d306",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Wooshy wuxia actioner Phantom Blade Zero is sharp enough on the Steam Machine, if blunted on the Steam Deck",
+    "url": "https://www.rockpapershotgun.com/phantom-blade-zero-steam-machine-steam-deck",
+    "published_at": "2026-10-30T17:45:52+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f77453da93de6e41657d",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces",
     "url": "https://www.eurogamer.net/dark-souls-servers-temporarily-shutting-down-fromsoftware",
     "published_at": "2026-10-30T17:45:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "801fa343c4bdba6f7678",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "EA execs choosing Star Wars Battlefront 3 over Mass Effect 5 was the main factor in BioWare's demise, according to report",
+    "url": "https://www.rockpapershotgun.com/ea-execs-choosing-star-wars-battlefront-3-over-mass-effect-5-was-the-main-factor-in-biowares-demise-according-to-report",
+    "published_at": "2026-10-30T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c00c8e373cbbd3454acf",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds",
+    "url": "https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds",
+    "published_at": "2026-10-30T15:29:54+00:00",
     "status": "candidate"
   },
   {
@@ -3426,6 +4767,33 @@
     "original_title": "Forza director, who'd been with Turn 10 for 27 years leaves Microsoft, following studios merger with Playground Games",
     "url": "https://www.eurogamer.net/director-leaves-forza-playground-games-merge-microsoft",
     "published_at": "2026-10-30T14:16:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "63463152ba6dbe1f1c1e",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "All the RPS Supporter rewards for October 2026: Hangout game angst, muddy RPGs, and one utterly useless butler",
+    "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-october-2026-hangout-game-angst-muddy-rpgs-and-one-utterly-useless-butler",
+    "published_at": "2026-10-30T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ef8f9f52ea2dbbc4cad1",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Rockstar developer union could end up over 1,600 workers strong and encompass nearly all UK staff below senior management, IWGB claim",
+    "url": "https://www.rockpapershotgun.com/rockstar-developer-union-could-end-up-over-1600-workers-strong-and-encompass-nearly-all-uk-staff-below-senior-management-iwgb-claim",
+    "published_at": "2026-10-30T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61988c26013d8d9d321a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Helldivers 2 boss can \"absolutely see\" making a game parody of generative AI, but it would need to be \"quirky\" rather than \"doom-laden\"",
+    "url": "https://www.rockpapershotgun.com/helldivers-2-boss-can-absolutely-see-making-a-game-parody-of-generative-ai-but-it-would-need-to-be-quirky-rather-than-doom-laden",
+    "published_at": "2026-10-30T12:58:41+00:00",
     "status": "candidate"
   },
   {
@@ -3465,12 +4833,30 @@
     "status": "candidate"
   },
   {
+    "id": "870a0d3bb36f9d348a0f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "There are no more Assassin's Creed remakes in development, because Ubisoft are focused on Hexe, Invictus and \"projects you haven't heard about yet\"",
+    "url": "https://www.rockpapershotgun.com/there-are-no-more-assassins-creed-remakes-in-development-because-ubisoft-are-focused-on-hexe-invictus-and-projects-you-havent-heard-about-yet",
+    "published_at": "2026-10-30T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "ba84c9e4df6fa10d2ffc",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
     "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
     "published_at": "2026-10-30T10:52:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4dfede72443c59891b39",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Baldur's Gate 3 custom campaign mod channels World of Warcraft with an adventure about undead former slaves fighting to reclaim a kingdom",
+    "url": "https://www.rockpapershotgun.com/baldurs-gate-3-custom-campaign-mod-channels-world-of-warcraft-with-an-adventure-about-undead-former-slaves-fighting-to-reclaim-a-kingdom",
+    "published_at": "2026-10-30T10:33:55+00:00",
     "status": "candidate"
   },
   {
@@ -3483,6 +4869,24 @@
     "status": "candidate"
   },
   {
+    "id": "ee77f40e67f9d475f987",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
+    "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
+    "published_at": "2026-10-29T22:53:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "387de4703c7151b925f6",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Phantom Blade Zero kicks off its launch with a day one patch that offers improvements to ray tracing and some bug fixes to boot",
+    "url": "https://www.rockpapershotgun.com/phantom-blade-zero-kicks-off-its-launch-with-a-day-one-patch-that-offers-improvements-to-ray-tracing-and-some-bug-fixes-to-boot",
+    "published_at": "2026-10-29T21:27:20+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "59bbbdf175277de4dd3b",
     "source": "People",
     "category": "bulvar",
@@ -3492,12 +4896,84 @@
     "status": "candidate"
   },
   {
+    "id": "8d9e68778051969253fb",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game",
+    "url": "https://www.rockpapershotgun.com/we-didnt-want-the-brooding-hero-out-for-revenge-how-quiet-lulls-and-a-bird-sketching-lead-make-control-resonant-a-more-introspective-kind-of-action-game",
+    "published_at": "2026-10-29T20:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bffb05c2886657ece02f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out",
+    "url": "https://www.rockpapershotgun.com/after-the-rough-start-that-was-last-years-entry-football-manager-27-is-looking-to-bring-you-in-with-a-few-free-days-of-play-before-the-games-even-out",
+    "published_at": "2026-10-29T19:56:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "33d5000cbf4f86bd7879",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series",
+    "url": "https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series",
+    "published_at": "2026-10-29T18:42:15+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d3e1449b7c658264509a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Elder Scrolls 6: Sentinel will be an Elder Scrolls game about the infinite mysteries of the Elder Scrolls, report with some plot hintage claims",
+    "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-will-be-an-elder-scrolls-game-about-the-infinite-mysteries-of-the-elder-scrolls-report-with-some-plot-hintage-claims",
+    "published_at": "2026-10-29T18:09:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "76c3d6723af9d0c5ee8e",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Celeste and TowerFall have been removed from the Xbox store in a move to \"support the BDS boycott\" against Microsoft",
+    "url": "https://www.rockpapershotgun.com/celeste-and-towerfall-have-been-removed-from-the-xbox-store-in-a-move-to-support-the-bds-boycott-against-microsoft",
+    "published_at": "2026-10-29T17:49:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "907faae83ddcddee7df6",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly",
+    "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
+    "published_at": "2026-10-29T17:09:23+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "28f36764e15b69ea4211",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Dataminer uncovers that Spiny - a character seemingly with no way to operate a car - was meant to be playable in Mario Kart World",
     "url": "https://www.eurogamer.net/mario-kart-world-dataminer-spiny",
     "published_at": "2026-10-29T16:16:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f58105a00f20492e9e05",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Don't worry, GTA 6's cars can drive for ages before their fuel tanks need refilling, leaving me wondering why this motor management's been added at all",
+    "url": "https://www.rockpapershotgun.com/dont-worry-gta-6s-cars-can-drive-for-ages-before-their-fuel-tanks-need-refilling-leaving-me-wondering-why-this-motor-managements-been-added-at-all",
+    "published_at": "2026-10-29T16:10:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "fe010909238a0205eba5",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Atmosfar is a giddy aerial exploration game after the heart of No Man's Sky, but I'm already trying to escape it",
+    "url": "https://www.rockpapershotgun.com/atmosfar-is-a-giddy-aerial-exploration-game-after-the-heart-of-no-mans-sky-but-im-already-trying-to-escape-it",
+    "published_at": "2026-10-29T16:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -3528,6 +5004,24 @@
     "status": "candidate"
   },
   {
+    "id": "5ec1d96f8f0213d73a40",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Can the SideWinder Game Pad, Microsoft's first game controller, work on modern PCs? I bought three of them to find out",
+    "url": "https://www.rockpapershotgun.com/can-the-sidewinder-game-pad-microsofts-first-game-controller-work-on-modern-pcs-i-bought-three-of-them-to-find-out",
+    "published_at": "2026-10-29T13:13:35+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1c5cae886f2f24b9d7ac",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Call of Duty: Modern Warfare 4 intro cinematic is \"not intended to reference or trivialise\" real-world South Korean crowd crush, Activision say amid reported backlash",
+    "url": "https://www.rockpapershotgun.com/call-of-duty-modern-warfare-4-intro-cinematic-is-not-intended-to-reference-or-trivialise-real-world-south-korean-crowd-crush-activision-say-amid-reported-backlash",
+    "published_at": "2026-10-29T12:34:09+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "443a9f7aab3d424e1160",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3552,6 +5046,15 @@
     "original_title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
     "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
     "published_at": "2026-10-29T11:21:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "deea47a9e34cfb94bec7",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "GTA 6 has a smell reaction system, which immediately joins Red Dead Redemption 2's dynamically shrinking horse balls on Rockstar's list of immersive symbols of excess",
+    "url": "https://www.rockpapershotgun.com/gta-6-has-a-smell-reaction-system-which-immediately-joins-red-dead-redemption-2s-dynamically-shrinking-horse-balls-on-rockstars-list-of-immersive-symbols-of-excess",
+    "published_at": "2026-10-29T11:12:20+00:00",
     "status": "candidate"
   },
   {
@@ -3618,6 +5121,15 @@
     "status": "candidate"
   },
   {
+    "id": "afbeaa6e3c889e9b7253",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Cyberpunk trading sim Probably Stolen is about running a kiosk in a space station full of gangs, megacorps, and secret rogue cyborgs",
+    "url": "https://www.rockpapershotgun.com/cyberpunk-trading-sim-probably-stolen-is-about-running-a-kiosk-in-a-space-station-full-of-gangs-megacorps-and-secret-rogue-cyborgs",
+    "published_at": "2026-10-28T17:29:10+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "a0f4430022cea207b423",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3627,12 +5139,39 @@
     "status": "candidate"
   },
   {
+    "id": "9efe692f893d48fdce18",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Company of Heroes 3's Operation Torch DLC ships off to North Africa in November, for new missions based around the Allied landings",
+    "url": "https://www.rockpapershotgun.com/company-of-heroes-3s-operation-torch-dlc-ships-off-to-north-africa-in-november-for-new-missions-based-around-the-allied-landings",
+    "published_at": "2026-10-28T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "de3a99d845e49be9ee88",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"We are more concerned about the risks of moving too slowly\": Epic get more specific about genAI use in Unreal Engine and Fortnite development",
+    "url": "https://www.rockpapershotgun.com/we-are-more-concerned-about-the-risks-of-moving-too-slowly-epic-get-more-specific-about-genai-use-in-unreal-engine-and-fortnite-development",
+    "published_at": "2026-10-28T16:49:39+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "d279970ef183ed8157ac",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Here are our PS Plus monthly games for November 2026",
     "url": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
     "published_at": "2026-10-28T16:27:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4da75e089827600755fe",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Subnautica 2 dev thinks early access teams should worry less about adding features that are \"very ugly, incomplete, or prototype\"",
+    "url": "https://www.rockpapershotgun.com/subnautica-2-dev-thinks-early-access-teams-should-worry-less-about-adding-features-that-are-very-ugly-incomplete-or-prototype",
+    "published_at": "2026-10-28T15:40:46+00:00",
     "status": "candidate"
   },
   {
@@ -3690,6 +5229,15 @@
     "status": "candidate"
   },
   {
+    "id": "1c53b5e57df8264e052a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Hot Wax sets fire to the Tetris playbook with slow-burn puzzle mechanics and a dollop of eldritch menace",
+    "url": "https://www.rockpapershotgun.com/hot-wax-sets-fire-to-the-tetris-playbook-with-slow-burn-puzzle-mechanics-and-a-dollop-of-eldritch-menace",
+    "published_at": "2026-10-28T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e5f86f8467a3ca5cfbc2",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3699,12 +5247,39 @@
     "status": "candidate"
   },
   {
+    "id": "afc0a90b61369d027470",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO",
+    "url": "https://www.rockpapershotgun.com/we-basically-rewrote-the-entire-state-of-decay-game-undead-labs-spent-years-trying-to-make-state-of-decay-3-into-a-full-blown-zombie-apocalypse-mmo",
+    "published_at": "2026-10-28T12:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "03a9a7b04adc53890c2f",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "\"We need to understand what the need is here\" - Arc Raiders studio still undecided about the future of PvE despite a seemingly successful test",
     "url": "https://www.eurogamer.net/arc-raiders-pve-mode-embark-undecided",
     "published_at": "2026-10-28T11:58:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d6900539b8271168ef5f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"Creation without a creator\": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI",
+    "url": "https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai",
+    "published_at": "2026-10-28T11:40:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a0adc1674615904019f4",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Leaked Mass Effect 5 trailer is being \"re-scored\" by one of the original trilogy's composers, so folks can get a taste of his musical vision for the game",
+    "url": "https://www.rockpapershotgun.com/leaked-mass-effect-5-trailer-is-being-re-scored-by-one-of-the-original-trilogys-composers-so-folks-can-get-a-taste-of-his-musical-vision-for-the-game",
+    "published_at": "2026-10-28T10:31:35+00:00",
     "status": "candidate"
   },
   {
@@ -3726,6 +5301,15 @@
     "status": "candidate"
   },
   {
+    "id": "02bb204f58352445f15f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Part idle game, part automation game, Moon Sweepers exploits the sickness in me that adores both Satisfactory and Cookie Clicker",
+    "url": "https://www.rockpapershotgun.com/part-idle-game-part-automation-game-moon-sweepers-exploits-the-sickness-in-me-that-adores-both-satisfactory-and-cookie-clicker",
+    "published_at": "2026-10-28T09:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "6d9a00d1cb9e7493df8c",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3744,12 +5328,30 @@
     "status": "candidate"
   },
   {
+    "id": "e25056b943c66257ff39",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Monarchs at Play is a 4X strategy city-builder about chaining hexagonal tiles that only takes an hour out of your day",
+    "url": "https://www.rockpapershotgun.com/monarchs-at-play-is-a-4x-strategy-city-builder-about-chaining-hexagonal-tiles-that-only-takes-an-hour-out-of-your-day",
+    "published_at": "2026-10-27T22:46:08+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "9eb95bb25d7e4a2467fc",
     "source": "People",
     "category": "bulvar",
     "original_title": "Inside Emily Wickersham’s Decision to Leave “NCIS” and Why She’s Returning Alongside Mark Harmon in “Origins”",
     "url": "https://people.com/why-emily-wickersham-left-ncis-cast-12196376",
     "published_at": "2026-10-27T22:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0deab1574c72ec8c6789",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
+    "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
+    "published_at": "2026-10-27T21:28:32+00:00",
     "status": "candidate"
   },
   {
@@ -3771,12 +5373,84 @@
     "status": "candidate"
   },
   {
+    "id": "659a1a97b19314dfde96",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+    "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+    "published_at": "2026-10-27T18:37:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a32d7d673d1de2d9e353",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "A leaked trailer for Transformers: Reactivate shows off the only lick of gameplay we'll likely ever see of the cancelled co-op action game",
+    "url": "https://www.rockpapershotgun.com/a-leaked-trailer-for-transformers-reactivate-shows-off-the-only-lick-of-gameplay-well-likely-ever-see-of-the-cancelled-co-op-action-game",
+    "published_at": "2026-10-27T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5907c3c279f133f24055",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Assassin's Creed Black Flag Resynced is wrapping things up with one last big update that adds in new game plus and a throwback to the original game",
+    "url": "https://www.rockpapershotgun.com/assassins-creed-black-flag-resynced-is-wrapping-things-up-with-one-last-big-update-that-adds-in-new-game-plus-and-a-throwback-to-the-original-game",
+    "published_at": "2026-10-27T17:58:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a993a8907d6ad9adff5a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Demanding 300GB to install despite its actual size of 145GB, Phantom Blade Zero makes me question what a gigabyte is worth",
+    "url": "https://www.rockpapershotgun.com/demanding-300gb-to-install-despite-its-actual-size-of-145gb-phantom-blade-zero-makes-me-question-what-a-gigabyte-is-worth",
+    "published_at": "2026-10-27T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9e5099f8ccc72d3f9522",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
+    "url": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
+    "published_at": "2026-10-27T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "266d2006e3ff4784669f",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
     "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
     "published_at": "2026-10-27T16:53:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d3bf434741f9e095fe12",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Street Fighter V temporarily delisted and online functions turned off due to issues caused by last week's PHP security flaw",
+    "url": "https://www.rockpapershotgun.com/street-fighter-v-temporarily-delisted-and-online-functions-turned-off-due-to-issues-caused-by-last-weeks-php-security-flaw",
+    "published_at": "2026-10-27T16:30:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "dbe12e3547d24d152af0",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
+    "url": "https://www.rockpapershotgun.com/virtue-and-a-sledgehammer-review",
+    "published_at": "2026-10-27T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cf01b89a65df6e5a33a2",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"Every piece is unified\": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition",
+    "url": "https://www.rockpapershotgun.com/every-piece-is-unified-dark-messiah-of-might-and-magic-returns-with-co-op-an-adventure-mode-a-level-generator-and-new-game-in-the-64-bit-community-edition",
+    "published_at": "2026-10-27T15:38:47+00:00",
     "status": "candidate"
   },
   {
@@ -3807,6 +5481,24 @@
     "status": "candidate"
   },
   {
+    "id": "b769020fcf137b9a8a02",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "STALKER 2's latest update expands its A-Life NPC simulation bubble, seemingly without a scary performance tax",
+    "url": "https://www.rockpapershotgun.com/stalker-2s-latest-update-expands-its-a-life-npc-simulation-bubble-seemingly-without-a-scary-performance-tax",
+    "published_at": "2026-10-27T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c31fef184eec94a9c6c0",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
+    "url": "https://www.rockpapershotgun.com/life-is-strange-makers-dont-nod-face-layoffs-and-possible-insolvency-french-workers-union-stjv-state",
+    "published_at": "2026-10-27T12:21:37+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "87027262bac12092b156",
     "source": "People",
     "category": "bulvar",
@@ -3834,6 +5526,15 @@
     "status": "candidate"
   },
   {
+    "id": "06eda168c7d323d61f3b",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Steam Frame kernel updated with external CD-ROM drive compatibility just one day after a user asked Valve for it",
+    "url": "https://www.rockpapershotgun.com/steam-frame-kernel-updated-with-external-cd-rom-drive-compatibility-just-one-day-after-a-user-asked-valve-for-it",
+    "published_at": "2026-10-27T11:04:11+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "ef333e5ced28bc2d817d",
     "source": "People",
     "category": "bulvar",
@@ -3858,6 +5559,15 @@
     "original_title": "Just 12 Gratuitously Hot Photos of Noah Wyle That Will Heal You Today",
     "url": "https://people.com/noah-wyle-sexiest-man-alive-throwback-photos-12189231",
     "published_at": "2026-10-27T10:45:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "05ef8dca68a18a92f8dc",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"Mass Effect was my ultimate white whale\": Journey composer shares 20 minutes of music created during talks to work on BioWare's recently cancelled RPG",
+    "url": "https://www.rockpapershotgun.com/mass-effect-was-my-ultimate-white-whale-journey-composer-shares-20-minutes-of-music-created-during-talks-to-work-on-biowares-recently-cancelled-rpg",
+    "published_at": "2026-10-27T10:30:00+00:00",
     "status": "candidate"
   },
   {
