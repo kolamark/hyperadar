@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from publish import ArticleText, clusters, similarity, source_quote, verify_claims
+from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian
 
 
 class PublisherSafetyTests(unittest.TestCase):
@@ -30,6 +30,12 @@ class PublisherSafetyTests(unittest.TestCase):
         self.assertIn("Good text.", "".join(parser.parts))
         self.assertNotIn("junk", "".join(parser.parts))
         self.assertNotIn("Ignore", "".join(parser.parts))
+
+    def test_hungarian_language_gate(self):
+        english = "Warren Spector argued that the executives had made decisions without accountability. "
+        hungarian = "A fejlesztők szerint a stúdió új játékot mutatott be, és az első képek már elérhetők. "
+        self.assertFalse(looks_hungarian("EA executives criticize closure", english, [english * 5]))
+        self.assertTrue(looks_hungarian("Új játékot mutatott be a stúdió", hungarian, [hungarian * 5]))
 
     def test_evidence_recovers_only_close_source_span(self):
         source = "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing Vice City."
