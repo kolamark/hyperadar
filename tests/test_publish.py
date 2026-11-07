@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian
+from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes
 
 
 class PublisherSafetyTests(unittest.TestCase):
@@ -56,6 +56,18 @@ class PublisherSafetyTests(unittest.TestCase):
         hungarian = "A fejlesztők szerint a stúdió új játékot mutatott be, és az első képek már elérhetők. "
         self.assertFalse(looks_hungarian("EA executives criticize closure", english, [english * 5]))
         self.assertTrue(looks_hungarian("Új játékot mutatott be a stúdió", hungarian, [hungarian * 5]))
+
+    def test_audit_must_cover_every_sentence(self):
+        draft = {"title":"Rövid cím", "excerpt":"Az adat kb. 50 GB-ról 366 GB-ra nőtt.",
+                 "body":["Az első mondat. A második mondat.", "A harmadik mondat."]}
+        sentences = editorial_sentences(draft)
+        self.assertEqual(len(sentences), 6)
+        self.assertIn("kb. 50 GB-ról", sentences[1])
+        checks = [{"index":i,"supported":True,"issue":""} for i in range(6)]
+        self.assertTrue(audit_passes({"checks":checks}, len(sentences)))
+        self.assertFalse(audit_passes({"checks":checks[:-1]}, len(sentences)))
+        checks[2]["supported"], checks[2]["issue"] = False, "A szám hibás"
+        self.assertFalse(audit_passes({"checks":checks}, len(sentences)))
 
     def test_evidence_recovers_only_close_source_span(self):
         source = "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing Vice City."
