@@ -38,11 +38,11 @@ HUNGARIAN_ACCENTS = re.compile(r"[áéíóöőúüűÁÉÍÓÖŐÚÜŰ]")
 
 def looks_hungarian(title, excerpt, body):
     """Conservative language gate for unattended Hungarian publication."""
-    tokens = re.findall(r"[^\\W\\d_]+", " ".join(body).casefold(), re.UNICODE)
+    tokens = re.findall(r"[^\W\d_]+", " ".join(body).casefold(), re.UNICODE)
     markers = sum(word in HUNGARIAN_MARKERS for word in tokens)
     accented = sum(bool(HUNGARIAN_ACCENTS.search(word)) for word in tokens)
     lead = title + " " + excerpt
-    lead_tokens = set(re.findall(r"[^\\W\\d_]+", lead.casefold(), re.UNICODE))
+    lead_tokens = set(re.findall(r"[^\W\d_]+", lead.casefold(), re.UNICODE))
     return markers >= 8 and accented >= 4 and (bool(lead_tokens & HUNGARIAN_MARKERS) or bool(HUNGARIAN_ACCENTS.search(lead)))
 
 
