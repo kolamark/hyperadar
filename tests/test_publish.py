@@ -31,6 +31,14 @@ class PublisherSafetyTests(unittest.TestCase):
         self.assertEqual(len(groups), 1)
         self.assertEqual({x["source"] for x in groups[0]}, {"A", "B"})
 
+    def test_political_titles_are_excluded(self):
+        now = datetime.now(timezone.utc).isoformat()
+        entries = [{"source": name, "category":"bulvar", "original_title":title,
+                    "url":f"https://{name.lower()}.test/news", "published_at":now}
+                   for name, title in [("A", "Bill Maher reacts to Trump election result"),
+                                       ("B", "Trump election result prompts Bill Maher reaction")]]
+        self.assertEqual(clusters(entries, []), [])
+
     def test_same_source_is_not_confirmation(self):
         now = datetime.now(timezone.utc).isoformat()
         entries = [{"source":"A","category":"gaming","original_title":"Galaxy Quest release date announced","url":f"https://a.test/{n}","published_at":now} for n in range(2)]
