@@ -61,9 +61,9 @@ class PublisherSafetyTests(unittest.TestCase):
         draft = {"title":"Rövid cím", "excerpt":"Az adat kb. 50 GB-ról 366 GB-ra nőtt.",
                  "body":["Az első mondat. A második mondat.", "A harmadik mondat."]}
         sentences = editorial_sentences(draft)
-        self.assertEqual(len(sentences), 6)
+        self.assertEqual(len(sentences), 5)
         self.assertIn("kb. 50 GB-ról", sentences[1])
-        checks = [{"index":i,"supported":True,"issue":""} for i in range(6)]
+        checks = [{"index":i,"supported":True,"issue":""} for i in range(5)]
         self.assertTrue(audit_passes({"checks":checks}, len(sentences)))
         self.assertFalse(audit_passes({"checks":checks[:-1]}, len(sentences)))
         checks[2]["supported"], checks[2]["issue"] = False, "A szám hibás"
