@@ -288,7 +288,7 @@ def salvage_supported_sentences(draft, review):
     index = 2
     for paragraph in draft["body"]:
         kept = []
-        parts = [s.strip() for s in re.split(r"(?<=[.!?])\\s+(?=[A-ZÁÉÍÓÖŐÚÜŰ])", paragraph) if s.strip()]
+        parts = [s.strip() for s in re.split(r"(?<=[.!?])\s+(?=[A-ZÁÉÍÓÖŐÚÜŰ])", paragraph) if s.strip()]
         for sentence in parts:
             if valid(index):
                 kept.append(sentence)
@@ -298,7 +298,7 @@ def salvage_supported_sentences(draft, review):
         if not kept:
             return None
         body.append(" ".join(kept))
-    if len(re.findall(r"\\S+", " ".join(body))) < 45:
+    if len(re.findall(r"\S+", " ".join(body))) < 45:
         return None
     return body, claims
 
