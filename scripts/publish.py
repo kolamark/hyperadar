@@ -281,7 +281,7 @@ def salvage_supported_sentences(draft, review):
     def valid(index):
         check = by_index[index]
         return (check["supported"] and not check["issue"].strip() and
-                check["evidence_ids"] and set(check["evidence_ids"]) <= evidence.keys())
+                check["evidence_ids"] and set(check["evidence_ids"]) <= set(evidence))
     if not valid(0) or not valid(1):
         return None
     body, claims = [], []
