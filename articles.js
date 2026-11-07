@@ -12,8 +12,7 @@ openPost = function(id) {
   document.getElementById('articleDialog').showModal();
 };
 demoPosts.forEach(p => p.demo = true);
-fetch('https://raw.githubusercontent.com/kolamark/hyperadar/main/articles.json', {cache: 'no-store'})
-  .catch(() => fetch('./articles.json', {cache: 'no-store'}))
+fetch('./articles.json', {cache: 'no-store'})
   .then(response => { if (!response.ok) throw new Error('No article data'); return response.json(); })
   .then(data => {
     if (!Array.isArray(data.articles) || !data.articles.length) return;
@@ -26,12 +25,12 @@ fetch('https://raw.githubusercontent.com/kolamark/hyperadar/main/articles.json',
     if (!valid.length) return;
     posts = valid.map((a, index) => ({
       id: index + 1, category: a.category, tag: escapeText(a.category === 'gaming' ? 'GAMING' : 'POPKULTÚRA'),
-      time: escapeText(a.published_at || ''), symbol: a.category === 'gaming' ? 'GG' : 'POP',
+      time: escapeText(a.published_at ? new Intl.DateTimeFormat('hu-HU', {dateStyle:'medium',timeStyle:'short',timeZone:'Europe/Budapest'}).format(new Date(a.published_at)) : ''), symbol: a.category === 'gaming' ? 'GG' : 'POP',
       art: a.category === 'gaming' ? 'b' : 'a', title: escapeText(a.title),
       excerpt: escapeText(a.excerpt), body: a.body.map(escapeText),
       sources: a.sources.map(s => ({name: escapeText(s.name), url: escapeText(s.url)})), demo: false
     }));
-    document.querySelector('#cikkek .sectionhead p').textContent = 'Ellenőrzött, jóváhagyott történetek.';
+    document.querySelector('#cikkek .sectionhead p').textContent = 'Ellenőrzött forrásokra épülő, automatikusan közzétett hírek.';
     render();
   })
   .catch(() => { /* Keep clearly labelled demo content if article data is unavailable. */ });
