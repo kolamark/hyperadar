@@ -20,7 +20,7 @@ Az `.github/workflows/collect.yml` minden órában ellenőrzi a budapesti helyi 
 
 A `scripts/publish.py` két különböző forrás egyező történeténél letölti a teljes hozzáférhető cikkek szövegét. A modell a közös tényeket magyarul fogalmazza meg, minden lényeges állításhoz visszaadja a pontos forrást és egy szó szerinti bizonyító részletet. A magyar nyelvi kapu a címet, bevezetőt és törzset vizsgálja; a kiadási tesztek ezt is ellenőrzik. A kód ellenőrzi, hogy ez a részlet valóban szerepel-e a letöltött szövegben. Az érzékeny, vitatott és hiányosan alátámasztott témákat kihagyja. Nem használ idegen képeket. Futásonként legfeljebb két, naponként legfeljebb 15 cikk készülhet; a 10–15 cikk **cél, nem garantált darabszám**.
 
-Az automatikus íráshoz a repó **Settings → Secrets and variables → Actions → New repository secret** menüjében `OPENAI_API_KEY` nevű titkot kell beállítani. A kulcs nélkül a forrásgyűjtés fut, a cikkírás nem. Az API-használat költséggel jár; a modell a workflow `OPENAI_MODEL` változójával cserélhető. A cikkírás legfeljebb négy modellkérést indít egy futásban.
+Az automatikus íráshoz a repó **Settings → Secrets and variables → Actions → New repository secret** menüjében `OPENAI_API_KEY` nevű titkot kell beállítani. A kulcs nélkül a forrásgyűjtés fut, a cikkírás nem. Az API-használat költséggel jár; a modell a workflow `OPENAI_MODEL` változójával cserélhető. A cikkírás legfeljebb hat modellkérést indít egy futásban. A rövid cikk minimuma 90 szó, két bizonyítékhoz kötött bekezdéssel.
 
 A workflow a jóváhagyás nélkül létrejött cikkeket közvetlenül az `articles.json` fájlba menti, majd GitHub Pages-re telepíti az olvasói oldalt. Ehhez a repó Settings → Pages alatt a **GitHub Actions** közzétételi forrást kell kiválasztani. A repóba írt bot-commit önmagában nem indít új workflow-t, ezért a kiadás ugyanannak a futásnak a része. A nyilvános GitHub Pages oldal címe: https://kolamark.github.io/hyperadar/.
 
@@ -38,7 +38,7 @@ Az oldal jelenlegi privát előnézete a Sites tárhelyén fut, amely külön fo
 - Saját, megosztható cikkoldalak és jogtisztán használható illusztrációk.
 - Utólagos javítási és visszavonási napló, futási és API-költségfigyelés.
 
-A jelenlegi automatikus folyamat nem garantál napi 10–15 cikket: 2026. november 7-én egy sikeres próbakör négy összevethető történetből egy magyar cikket publikált.
+A jelenlegi automatikus folyamat nem garantál napi 10–15 cikket: 2026. november 7-én a kibővített próbakör 463 jelöltből kilenc összevethető történetcsoportot talált. Két tervezetet publikált, de egy pontatlan politikai cikket azonnal visszavontunk, a másik szereposztási értesülést pontosítottuk. A politikai témák azóta ki vannak zárva az automatikus kiadásból.
 
 ## Szerkesztési alapelv
 
