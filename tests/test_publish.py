@@ -73,11 +73,14 @@ class PublisherSafetyTests(unittest.TestCase):
         sentences = editorial_sentences(draft)
         self.assertEqual(len(sentences), 5)
         self.assertIn("kb. 50 GB-ról", sentences[1])
-        checks = [{"index":i,"supported":True,"issue":""} for i in range(5)]
-        self.assertTrue(audit_passes({"checks":checks}, len(sentences)))
-        self.assertFalse(audit_passes({"checks":checks[:-1]}, len(sentences)))
+        checks = [{"index":i,"supported":True,"issue":"","evidence_ids":["e0"]} for i in range(5)]
+        self.assertTrue(audit_passes({"checks":checks}, len(sentences), {"e0"}))
+        self.assertFalse(audit_passes({"checks":checks[:-1]}, len(sentences), {"e0"}))
         checks[2]["supported"], checks[2]["issue"] = False, "A szám hibás"
-        self.assertFalse(audit_passes({"checks":checks}, len(sentences)))
+        self.assertFalse(audit_passes({"checks":checks}, len(sentences), {"e0"}))
+        checks[2]["supported"], checks[2]["issue"] = True, ""
+        checks[2]["evidence_ids"] = ["invented"]
+        self.assertFalse(audit_passes({"checks":checks}, len(sentences), {"e0"}))
 
     def test_evidence_ids_resolve_to_exact_source_passages(self):
         texts = [
