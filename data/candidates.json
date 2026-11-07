@@ -1,5 +1,104 @@
 [
   {
+    "id": "b8ee291a43d66211d2b0",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Linux on the desktop marches on as GOG announces its Galaxy client is getting a revamp headed to Windows, macOS, and your distro of choice",
+    "url": "https://www.pcgamer.com/software/linux/linux-on-the-desktop-marches-on-as-gog-announces-its-galaxy-client-is-getting-a-revamp-headed-to-windows-macos-and-your-distro-of-choice",
+    "published_at": "2026-11-07T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e86a12a87bf6e71c4b00",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
+    "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now",
+    "published_at": "2026-11-07T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "eb4f5adb842e27f3a06f",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Magenta TV’s Cypriot-Set Thriller ‘Brothers’ Wasn’t Allowed To Shoot In The Country. The Producers Explain Why: “The Reasons Were Political”",
+    "url": "https://deadline.com/2026/11/magenta-tv-brothers-cyprus-thessaloniki-1237216243",
+    "published_at": "2026-11-07T14:43:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5c13f1192dab13d8340e",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Paul Howard Dies: Son Of Three Stooges’ Moe Howard, Keeper Of The Flame Was 91",
+    "url": "https://deadline.com/2026/11/paul-howard-dead-three-stooges-1237216234",
+    "published_at": "2026-11-07T14:34:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e4bd8637556e1dd4664d",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
+    "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer",
+    "published_at": "2026-11-07T14:16:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bc35ca481ac7104af9cf",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Godzilla Minus Zero: Where Is the Rest of Godzilla’s Rogues' Gallery?",
+    "url": "https://www.ign.com/articles/godzilla-minus-zero-where-is-the-rest-of-godzillas-rogues-gallery",
+    "published_at": "2026-11-07T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f20e2e73208f807f0dcd",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Gundam Assemble: Hands-On With Mobile Suit Gundam’s Miniatures Tabletop Game",
+    "url": "https://www.ign.com/articles/gundam-assemble-hands-on-with-mobile-suit-gundams-miniatures-tabletop-game",
+    "published_at": "2026-11-07T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1dd126b3cdabd1faede0",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Here’s How to Watch WWE Crown Jewel 2026 Live Online",
+    "url": "https://variety.com/2026/shopping/news/how-to-watch-wwe-crown-jewel-2026-live-online-free-1236938579",
+    "published_at": "2026-11-07T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "315eed69f4316ca5bf61",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Xbox is testing a way to use your phone as a controller on smart TVs",
+    "url": "https://www.eurogamer.net/xbox-cloud-gaming-phone-controller-smart-tv-nano-cloud-connect",
+    "published_at": "2026-11-07T12:30:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8c53f159697224f9525a",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "After furloughing its developers and then hiring some of them back, Star Wars Zero Company developer has laid off an unspecified number of staff",
+    "url": "https://www.pcgamer.com/games/strategy/after-furloughing-its-developers-and-then-hiring-some-of-them-back-star-wars-zero-company-developer-has-laid-off-an-unspecified-number-of-staff",
+    "published_at": "2026-11-07T12:18:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4f3864d305cf3a958f21",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "How A Mistake In Warner Bros. Contracts Helped Eleven Film & Jack Thorne Land ‘Lord Of The Flies’ TV Rights — Thessaloniki",
+    "url": "https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218",
+    "published_at": "2026-11-07T11:40:44+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "78ea81defe2d7786f018",
     "source": "PC Gamer",
     "category": "gaming",
@@ -15,6 +114,15 @@
     "original_title": "PÖFF Stands With Ukraine: A Look at Films Featured at Tallinn Made Despite, and Because of, the War",
     "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-standing-with-ukraine-tallinn-2026-films-events-war-1236741671",
     "published_at": "2026-11-07T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7e078b831f9ddff24a83",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Aniplex and CYBIRD announce dark fantasy visual novel LunaReverse for Switch, PC",
+    "url": "https://www.gematsu.com/2026/11/aniplex-and-cybird-announce-dark-fantasy-visual-novel-lunareverse-for-switch-pc",
+    "published_at": "2026-11-07T10:00:58+00:00",
     "status": "candidate"
   },
   {

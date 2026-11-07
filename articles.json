@@ -1,3 +1,49 @@
 {
-  "articles": []
+  "articles": [
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "Rekordnézettséget ért el a „The Remarried Empress” a Disney+ platformon világszerte",
+      "excerpt": "A „The Remarried Empress” című koreai romantikus drámasorozat röviddel premierje után a Disney+ és Hulu legtöbbet nézett helyi eredeti tartalmává vált több mint 50 országban. A sorozatot a rajongók lelkesedése miatt egy nappal előrébb hozták az eredetileg…",
+      "body": [
+        "A „The Remarried Empress” című koreai romantikus drámasorozat november 3-án debütált a Disney+ és Hulu platformokon, és rövid időn belül a legtöbbet nézett helyi eredeti premierré vált a világon. A sorozat több mint 50 országban lett a legnézettebb koreai cím, többek között az Egyesült Államokban, az Egyesült Királyságban, Franciaországban, Spanyolországban, Németországban, Mexikóban, Chilében, Ausztráliában, Új-Zélandon és Kanadában is.",
+        "A „The Remarried Empress” egy fantázia világbeli történet, amely két rivális birodalom között játszódik. A cselekmény középpontjában Navier császárné áll, akinek házassága Sovieshu császárral kezd megromlani, amikor a császár beleszeret egy megszökött rabszolganőbe, Rashtába. Navier feltételhez köti a válást: csak akkor egyezik bele, ha ő lehetőséget kap arra, hogy egy másik koronaherceggel, Heinrey-vel házasodjon.",
+        "A sorozatot Yeoh Geena és Hyun Choongyeol adaptálták, Cho Suwon rendezte, a főbb szerepekben Shin Mina, Ju Jihoon, Lee Jongsuk és Lee Seyoung láthatók. A sorozat első négy epizódját elérhetővé tették november 3-án, majd további két új epizód minden szerdán érkezik november 11-től kezdődően, a sorozatzáró pedig november 25-én lesz.",
+        "A sorozat népszerűségét mutatja, hogy előzetese 48 órán belül 13 millió megtekintést ért el YouTube-on és a közösségi médiában. Emellett az alapul szolgáló webtoon több mint 3 milliárd megtekintést halmozott fel, ami a műfaj egyik legnépszerűbb alkotásává teszi.",
+        "A Disney a rajongók támogatására reagálva egy nappal előrébb hozta a premier dátumát, amely eredetileg november 4-ére volt tervezve, ezzel is növelve a sorozat iránti várakozást és lelkesedést."
+      ],
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-disney-hulu-biggest-local-original-launch-1236749905"
+        }
+      ],
+      "published_at": "2026-11-07T15:44:50.397427Z",
+      "claims": [
+        {
+          "text": "A 'The Remarried Empress' a Disney+ legnézettebb helyi eredeti premierje lett globálisan három nappal a november 3-i indulás után.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159",
+              "quote": "Korean drama The Remarried Empress has become the most viewed local original premiere of all time on Disney+ globally, just three days after its launch on November 3."
+            }
+          ]
+        },
+        {
+          "text": "A sorozat több mint 50 országban, köztük az USA-ban, az Egyesült Királyságban, Franciaországban, Spanyolországban és Németországban volt a legnézettebb koreai cím.",
+          "evidence": [
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-disney-hulu-biggest-local-original-launch-1236749905",
+              "quote": " scored record debuts for a Korean title in more than 50 markets, including the U.S., Britain, France, Germany and Mexico."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    }
+  ]
 }
