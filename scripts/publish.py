@@ -244,7 +244,7 @@ def publish():
             if len(excerpt) < 30:
                 excerpt = body[0].strip()
             if len(excerpt) > 260:
-                first_sentence = re.split(r"(?<=[.!?])\\s+", body[0].strip(), maxsplit=1)[0]
+                first_sentence = re.split(r"(?<=[.!?])\s+", body[0].strip(), maxsplit=1)[0]
                 excerpt = first_sentence if 30 <= len(first_sentence) <= 260 else excerpt[:259].rsplit(" ", 1)[0].rstrip(" ,;:-") + "…"
             if not (12 <= len(title) <= 140 and 30 <= len(excerpt) <= 260):
                 print(f"Draft rejected: title length {len(title)}, excerpt length {len(excerpt)}")
