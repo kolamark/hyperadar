@@ -2,6 +2,61 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "A #SaveMassEffect mozgalom teherautóval tüntet az EA központja előtt, miközben a rajongók petíciókkal támogatják a BioWare-t",
+      "excerpt": "A Mass Effect rajongóiból álló We are Mass Effect csoport tegnap teherautóval hajtott az EA központi irodáihoz Redwood Cityben, amelyre a #SaveMassEffect mozgalom üzenete került, QR-kóddal és webcímekkel kiegészítve.",
+      "body": [
+        "A Mass Effect rajongóiból álló We are Mass Effect csoport tegnap teherautóval hajtott az EA központi irodáihoz Redwood Cityben, amelyre a #SaveMassEffect mozgalom üzenete került, QR-kóddal és webcímekkel kiegészítve. Céljuk a mozgalom népszerűsítése és az érintettek támogatása, különösen a BioWare fejlesztőinek és a sorozat hagyatékának megőrzése. A megmozdulást a rajongók és a mozgalom szervezői az éves N7 Day, azaz a Mass Effect ünnep köré időzítették, amelyen további tevékenységek és megemlékezések is várhatók, például egy dokumentumfilm készül a stúdió utolsó éveiről, illetve egy kanadai politikus is támogatja a BioWare függetlenedését célzó petíciót.",
+        "A felhívások és kampányok hatására több mint 300 000 aláírás gyűlt össze egy petíción, amely arra kéri az EA-t, hogy engedélyezze a Mass Effect franchise életben tartását. Ezzel párhuzamosan egy másik, több ezer támogató aláírásával rendelkező petíció a kanadai parlamenthez fordult, hogy segítsen BioWare fejlesztőinek függetlenedni a nagyvállalattól, és újraindítani a stúdiót. A fanatikus rajongói támogatás és az új mobil hirdetőtábla üzenete jól mutatja, milyen erős a kötődés a BioWare és Mass Effect játékai iránt, annak ellenére, hogy a kiadó bezárta a stúdiót és felfüggesztette a játéksorozat fejlesztését."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms"
+        },
+        {
+          "name": "Destructoid",
+          "url": "https://www.destructoid.com/save-mass-effect-billboard-truck-ea-hq-petition-growing"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705"
+        }
+      ],
+      "published_at": "2026-11-07T16:17:38.697285Z",
+      "claims": [
+        {
+          "text": "A #SaveMassEffect mozgalom teherautóval tüntet az EA és EA Sports Redwood City-i központja előtt, hogy felhívja a figyelmet a BioWare bezárására és a franchise sorsára.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
+              "quote": "Mass Effect fans have taken their mission to save BioWare and its beloved sci-fi franchise to EA headquarters with a truck displaying the #SaveMassEffect message."
+            }
+          ]
+        },
+        {
+          "text": "A petíció több mint 300 000 aláírást gyűjtött, és egy kanadai politikus is petíciót nyújtott be BioWare fejlesztőinek támogatására a függetlenedéshez.",
+          "evidence": [
+            {
+              "url": "https://www.destructoid.com/save-mass-effect-billboard-truck-ea-hq-petition-growing",
+              "quote": "This comes as the petition under the same name has crossed over 300,000 signatures, and the Canadian government fields a petition of a different origin. This one is calling upon the"
+            }
+          ]
+        },
+        {
+          "text": "A mozgalom következő eseményei közé tartozik egy dokumentumfilm bemutatása és a rajongói megmozdulások az N7 Day-en.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
+              "quote": "Meanwhile, We are Mass Effect said it is currently putting the finishing touches on a video featuring Mass Effect fans, actors, and contributors for N7 Day tomorrow, November 7. Included in"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Adam Driver nem tér vissza a Girls folytatásában, de sok sikert kíván a stábnak",
       "excerpt": "Adam Driver a Girls tervezett, öt epizódból álló folytatásában nem vesz részt, de sok sikert kívánt a készítőknek. A produkció 2027-ben indulhat az HBO-n.",
