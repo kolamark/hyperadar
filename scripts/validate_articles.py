@@ -26,6 +26,7 @@ for i, article in enumerate(data["articles"], 1):
     assert isinstance(body, list) and len(body) >= 2 and all(isinstance(p, str) and p.strip() for p in body), f"{where}: invalid body"
     assert len(re.findall(r"\S+", " ".join(body))) >= 120, f"{where}: too short"
     assert looks_hungarian(article["title"], article["excerpt"], body), f"{where}: Hungarian language check failed"
+    assert isinstance(article.get("claims"), list) and len(article["claims"]) >= max(2, len(body)), f"{where}: insufficient evidenced claims"
     sources = article.get("sources")
     assert isinstance(sources, list) and sources, f"{where}: no sources"
     for source in sources:
