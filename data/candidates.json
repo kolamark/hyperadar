@@ -1,5 +1,23 @@
 [
   {
+    "id": "4bea1be8cefca045f330",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Mike Tyson says he’s a ‘specialist’ in figuring out the ‘superior’ bloodlines of pigeons",
+    "url": "https://ew.com/mike-tyson-specialist-in-superior-pigeon-bloodlines-12239034",
+    "published_at": "2026-11-07T15:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e089ec37a7810541f066",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "ICYMI: Call Of Duty: Warzone Is Now Available For Switch 2",
+    "url": "https://www.nintendolife.com/news/2026/11/icymi-call-of-duty-warzone-is-now-available-for-switch-2",
+    "published_at": "2026-11-07T15:25:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "b8ee291a43d66211d2b0",
     "source": "PC Gamer",
     "category": "gaming",
@@ -14,6 +32,15 @@
     "category": "gaming",
     "original_title": "Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day, 'my way of saying goodbye… at least for now'",
     "url": "https://www.pcgamer.com/games/mass-effect/mass-effect-composer-sam-hulick-releases-his-re-scored-trailer-for-n7-day-my-way-of-saying-goodbye-at-least-for-now",
+    "published_at": "2026-11-07T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8cfc6d95f62525ed37cf",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Mark-Paul Gosselaar says it’s ‘surreal’ to have son older than “Saved by the Bell ”character Zack Morris",
+    "url": "https://ew.com/mark-paul-gosselaar-reflects-on-son-being-older-than-zack-morris-12227675",
     "published_at": "2026-11-07T15:00:00+00:00",
     "status": "candidate"
   },
@@ -36,12 +63,102 @@
     "status": "candidate"
   },
   {
+    "id": "358a3f8e5ac72f54eed8",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Former “DWTS” contestant Danielle Fishel thinks judges are harder on women than men: They ‘get a pass’",
+    "url": "https://ew.com/dwts-danielle-fishel-says-judges-harder-on-female-contestants-12208851",
+    "published_at": "2026-11-07T14:20:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e4bd8637556e1dd4664d",
     "source": "PC Gamer",
     "category": "gaming",
     "original_title": "Todd Howard's game design power is knowing when to make things 'simple and digestible' according to Skyrim's lead designer",
     "url": "https://www.pcgamer.com/games/the-elder-scrolls/todd-howards-game-design-power-is-knowing-when-to-make-things-simple-and-digestible-according-to-skyrims-lead-designer",
     "published_at": "2026-11-07T14:16:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4bb9da1d6613c0b121db",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Robert Pattinson, Nicholas Hoult Screen-Tested for James Bond Role: Reports",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/robert-pattinson-nicholas-hoult-screen-test-james-bond-role-1235654335",
+    "published_at": "2026-11-07T14:11:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e8f088b1cad9dbc4b687",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Texas vs. Missouri Livestream: How to Watch the Football Game Online Free",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-texas-missouri-football-game-online-free-2026-1235653625",
+    "published_at": "2026-11-07T14:05:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d99a5fbca09c89d65fb9",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Poll: What Review Score Would You Give The Zelda: Ocarina Of Time Remake?",
+    "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
+    "published_at": "2026-11-07T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cf0855739db2bb669987",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "See the “Rocky” Cast from the Original Movie to Their Final Franchise Appearances",
+    "url": "https://people.com/rocky-cast-original-movie-to-last-appearance-12238487",
+    "published_at": "2026-11-07T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8f4780a998ab529b8d97",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Will Estes unpacks biggest difference between “Blue Bloods” and “Boston Blue” sets after return to franchise",
+    "url": "https://ew.com/will-estes-details-differences-between-blue-bloods-and-boston-blue-sets-12235369",
+    "published_at": "2026-11-07T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5e4b2c4b67417b5bdf3e",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Three’s Company” star Joyce DeWitt credits ‘divine’ intervention for last hang with late costar John Ritter",
+    "url": "https://ew.com/threes-company-joyce-dewitt-details-last-hang-with-john-ritter-12208091",
+    "published_at": "2026-11-07T13:40:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "60a431d6908686b22bd7",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Jimmy Stewart stopped acting because he couldn’t hear",
+    "url": "https://ew.com/why-jimmy-stewart-stopped-acting-12237306",
+    "published_at": "2026-11-07T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4690827da978c6baa7b3",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Where does “Carrie” go from here? Inside Mike Flanagan’s plans for season 2",
+    "url": "https://ew.com/carrie-season-2-cast-plot-release-date-12207444",
+    "published_at": "2026-11-07T13:20:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "54e7cd360ffd3b3e219e",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Sophia Bush and wife Ashlyn Harris ‘sobbed happy tears’ reading her book",
+    "url": "https://ew.com/sophia-bush-book-wife-ashlyn-harris-reaction-12238346",
+    "published_at": "2026-11-07T13:15:00+00:00",
     "status": "candidate"
   },
   {
@@ -68,6 +185,15 @@
     "category": "bulvar",
     "original_title": "Here’s How to Watch WWE Crown Jewel 2026 Live Online",
     "url": "https://variety.com/2026/shopping/news/how-to-watch-wwe-crown-jewel-2026-live-online-free-1236938579",
+    "published_at": "2026-11-07T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "99532db71e0ab44dd1fb",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Eric Dane’s posthumous memoir reveals he went 3 years without knowing how his dad died",
+    "url": "https://ew.com/eric-dane-went-three-years-without-knowing-how-his-dad-died-12231711",
     "published_at": "2026-11-07T13:00:00+00:00",
     "status": "candidate"
   },
@@ -99,6 +225,15 @@
     "status": "candidate"
   },
   {
+    "id": "37c6e92b473b8d0031ff",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Every “Rocky” movie ranked, from Sylvester Stallone’s iconic classic to “I Play Rocky”",
+    "url": "https://ew.com/every-rocky-movie-ranked-12202166",
+    "published_at": "2026-11-07T11:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "78ea81defe2d7786f018",
     "source": "PC Gamer",
     "category": "gaming",
@@ -123,6 +258,15 @@
     "original_title": "Aniplex and CYBIRD announce dark fantasy visual novel LunaReverse for Switch, PC",
     "url": "https://www.gematsu.com/2026/11/aniplex-and-cybird-announce-dark-fantasy-visual-novel-lunareverse-for-switch-pc",
     "published_at": "2026-11-07T10:00:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7b89a48fe9bf04ea1e04",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Talking Point: What Are You Playing This Weekend? (7th November)",
+    "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-7th-november",
+    "published_at": "2026-11-07T10:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -176,6 +320,15 @@
     "category": "bulvar",
     "original_title": "‘Hold Onto Me,’ Cyprus’ First Oscar Hopeful, Stars a Newcomer and a ‘Dogtooth’ Actor in a Very Personal Father-Daughter Drama",
     "url": "https://www.hollywoodreporter.com/movies/movie-news/hold-onto-me-cyprus-first-oscar-entry-father-daughter-film-1236747471",
+    "published_at": "2026-11-07T05:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d9079c09605196b2bb61",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Sudden Illness Sees Miyamoto Miss Nintendo's Financial Briefing, But He's Expected To Make A Quick Recovery",
+    "url": "https://www.nintendolife.com/news/2026/11/sudden-illness-sees-miyamoto-miss-nintendos-financial-briefing-but-hes-expected-to-make-a-quick-recovery",
     "published_at": "2026-11-07T05:00:00+00:00",
     "status": "candidate"
   },
@@ -324,12 +477,30 @@
     "status": "candidate"
   },
   {
+    "id": "c069e26e64066840463a",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Jason Priestley recalls ‘difficult’ decision to let Shannen Doherty go from“ Beverly Hills, 90210”",
+    "url": "https://ew.com/jason-priestley-shannen-doherty-difficult-decision-90210-exit-12240667",
+    "published_at": "2026-11-07T02:01:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7847f528caf38ebe5a59",
     "source": "Deadline",
     "category": "bulvar",
     "original_title": "‘Ellen DeGeneres Show’ EP Matthew Wright’s Cause Of Death Revealed",
     "url": "https://deadline.com/2026/11/ellen-degeneres-show-ep-matthew-wright-cause-death-1237216153",
     "published_at": "2026-11-07T01:51:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6b6c1e57a8aac998956b",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Mormon Wives” star Jen Affleck explains why she decided to file for divorce from husband, Zac",
+    "url": "https://ew.com/mormon-wives-jen-affleck-explains-why-she-wanted-divorce-12241246",
+    "published_at": "2026-11-07T01:27:17+00:00",
     "status": "candidate"
   },
   {
@@ -360,6 +531,24 @@
     "status": "candidate"
   },
   {
+    "id": "ae97e295d6211066f021",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Jennie Garth had to approve all of Kelly’s “90210” love interests after actress disliked a bunch of costars",
+    "url": "https://ew.com/jennie-garth-had-approval-of-90210-love-interests-after-disliking-some-12241191",
+    "published_at": "2026-11-07T01:00:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cc94dce7dc12ff30af22",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Fact vs. fiction in “I Play Rocky”: Broken bones, Hollywood sabotage, and the truth about Butkus",
+    "url": "https://ew.com/i-play-rocky-fact-vs-fiction-12239228",
+    "published_at": "2026-11-07T01:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "b5eaf1232073292a4357",
     "source": "The Hollywood Reporter",
     "category": "bulvar",
@@ -375,6 +564,33 @@
     "original_title": "Trump Reveals Plans For Post-Midterm Firings In ‘60 Minutes’ Interview, Hours Before Announcing That Susie Wiles Was Out",
     "url": "https://deadline.com/2026/11/trump-60-minutes-midterms-1237216042",
     "published_at": "2026-11-07T00:35:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "55dce20383ae25fee79c",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo",
+    "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+    "published_at": "2026-11-07T00:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b1c97f2e0e0497157fd1",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Ellen DeGeneres Show” producer Matthew Wright’s official cause of death revealed",
+    "url": "https://ew.com/matthew-wright-cause-of-death-revealed-ellen-degeneres-show-producer-12236234",
+    "published_at": "2026-11-07T00:29:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ece052617a9aef7fe38b",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“I Play Rocky ”cast: See who’s playing Sylvester Stallone and other Hollywood legends",
+    "url": "https://ew.com/i-play-rocky-cast-sylvester-stallone-carl-weathers-12240883",
+    "published_at": "2026-11-07T00:08:56+00:00",
     "status": "candidate"
   },
   {
@@ -423,6 +639,24 @@
     "status": "candidate"
   },
   {
+    "id": "c920e1c66e7415e82a07",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Titus Welliver gets emotional remembering Matt Damon’s kind gesture shortly before his wife died from cancer",
+    "url": "https://ew.com/titus-welliver-shares-matt-damon-kind-gesture-before-wife-death-12241112",
+    "published_at": "2026-11-06T23:29:59+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4acd8ffadd87154a796d",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Adam Driver addresses whether he’ll return for the “Girls” revival",
+    "url": "https://ew.com/adam-driver-addresses-girls-revival-12241089",
+    "published_at": "2026-11-06T23:29:05+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "fb70898819ad75108e40",
     "source": "IGN",
     "category": "gaming",
@@ -450,6 +684,15 @@
     "status": "candidate"
   },
   {
+    "id": "627cc1ec54a9449d8c50",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“The Bachelor” sets season 30 premiere date after Taylor Frankie Paul’s scrapped “Bachelorette” season",
+    "url": "https://ew.com/bachelor-season-30-premiere-date-after-taylor-frankie-paul-scrapped-bachelorette-season-12240982",
+    "published_at": "2026-11-06T23:04:12+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "6a5d2e54dc465b5c50b3",
     "source": "IGN",
     "category": "gaming",
@@ -465,6 +708,15 @@
     "original_title": "Godzilla Minus Zero Ending Explained and Our Biggest Burning Questions",
     "url": "https://www.ign.com/articles/godzilla-minus-zero-ending-explained-biggest-burning-questions",
     "published_at": "2026-11-06T23:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "883f64d7745bd84b4b39",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "There’s a new way to smell like Kevin Costner",
+    "url": "https://ew.com/kevin-costner-launches-fragrance-line-12240872",
+    "published_at": "2026-11-06T22:59:28+00:00",
     "status": "candidate"
   },
   {
@@ -693,12 +945,30 @@
     "status": "candidate"
   },
   {
+    "id": "d10fe0bdddc9f2f35c04",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Here's A Closer Look At Marvel Cosmic Invasion's New DLC Game Mode",
+    "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode",
+    "published_at": "2026-11-06T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "69737da0e4984550d591",
     "source": "PC Gamer",
     "category": "gaming",
     "original_title": "Live from this very minute, Newegg has a 200 Hz, 1440p gaming monitor going for just $129 in its early Black Friday goodie box",
     "url": "https://www.pcgamer.com/hardware/gaming-monitors/live-from-this-very-minute-newegg-has-a-200-hz-1440p-gaming-monitor-going-for-just-usd129-in-its-early-black-friday-goodie-box",
     "published_at": "2026-11-06T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "90fab59b805a0303aa7b",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
+    "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
+    "published_at": "2026-11-06T16:45:00+00:00",
     "status": "candidate"
   },
   {
@@ -774,6 +1044,15 @@
     "status": "candidate"
   },
   {
+    "id": "c36e44928bffe4a99e86",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Sony’s free-to-play mobile Ratchet & Clank multiplayer shooter has been cancelled",
+    "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled",
+    "published_at": "2026-11-06T14:44:21+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "1cfb157bc34607130389",
     "source": "GameSpot",
     "category": "gaming",
@@ -810,12 +1089,30 @@
     "status": "candidate"
   },
   {
+    "id": "cf15691fc1ac0544eeaf",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Are You A Tired Parent? The Witcher 3's New Accessibility Mode Was Built With You In Mind",
+    "url": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind",
+    "published_at": "2026-11-06T14:15:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f4b89fe2a2f11d0b9231",
     "source": "GameSpot",
     "category": "gaming",
     "original_title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
     "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft",
     "published_at": "2026-11-06T14:02:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "598ad1c28dd73c1e506c",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "‘Wild Horse Nine’ Is Part Conspiracy Thriller, Part Buddy Comedy, All Malkovich FTW",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-review-john-malkovich-1235651172",
+    "published_at": "2026-11-06T14:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -837,12 +1134,30 @@
     "status": "candidate"
   },
   {
+    "id": "f5ae580c389d01024d83",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Capcom games including RE Requiem and Pragmata heavily discounted on PC",
+    "url": "https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc",
+    "published_at": "2026-11-06T13:35:24+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "9ad5d5b2dd1eddf5e6f3",
     "source": "GameSpot",
     "category": "gaming",
     "original_title": "After EA, Saudi Arabia Is Reportedly Setting Its Sights On One Of Gaming’s Biggest Engines",
     "url": "https://www.gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines",
     "published_at": "2026-11-06T13:14:02+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f67444a969f61b49d960",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
+    "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library",
+    "published_at": "2026-11-06T12:58:00+00:00",
     "status": "candidate"
   },
   {
@@ -990,6 +1305,15 @@
     "status": "candidate"
   },
   {
+    "id": "82fcadff93ff659a9c8f",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Happy 80th Birthday, Sally Field! See the Oscar Winner’s Life and Career in Photos",
+    "url": "https://people.com/sally-field-life-in-photos-12219606",
+    "published_at": "2026-11-06T11:20:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "b7ebab6af849cc010b72",
     "source": "IGN",
     "category": "gaming",
@@ -1107,6 +1431,24 @@
     "status": "candidate"
   },
   {
+    "id": "76002b2eb47f629be541",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
+    "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
+    "published_at": "2026-11-06T10:05:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7ef69fa63311bcf238b5",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Zelda: Ocarina of Time Switch 2: All Gold Skulltula locations and which have moved",
+    "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-switch-2-all-gold-skulltula-locations-and-which-have-moved",
+    "published_at": "2026-11-06T10:03:39+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "d7e4cfd2a525a1a3784d",
     "source": "Eurogamer",
     "category": "gaming",
@@ -1131,6 +1473,15 @@
     "original_title": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
     "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
     "published_at": "2026-11-06T09:40:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cd9dfc5b4e5240b3e06d",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Saudi Arabia’s PIF and investment firm Silver Lake have reportedly been in talks to buy Unity",
+    "url": "https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity",
+    "published_at": "2026-11-06T09:40:34+00:00",
     "status": "candidate"
   },
   {
@@ -1233,6 +1584,15 @@
     "status": "candidate"
   },
   {
+    "id": "de34c8f4bb4cb6f431d5",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+    "published_at": "2026-11-06T05:55:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7207a6d63fb76e534775",
     "source": "IGN",
     "category": "gaming",
@@ -1257,6 +1617,15 @@
     "original_title": "Japanese Rural Life Adventure now available for PS4",
     "url": "https://www.gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
     "published_at": "2026-11-06T05:02:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "758aa44e005ce3d172db",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+    "published_at": "2026-11-06T04:45:00+00:00",
     "status": "candidate"
   },
   {
@@ -1287,6 +1656,15 @@
     "status": "candidate"
   },
   {
+    "id": "3e6b0baf9b1a3fa0fe18",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
+    "published_at": "2026-11-06T03:45:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "446a846b0accab4e7c88",
     "source": "Deadline",
     "category": "bulvar",
@@ -1311,6 +1689,15 @@
     "original_title": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
     "url": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important",
     "published_at": "2026-11-06T03:17:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1c56eb26c5001a8e000f",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
+    "published_at": "2026-11-06T02:55:00+00:00",
     "status": "candidate"
   },
   {
@@ -1383,6 +1770,15 @@
     "original_title": "Nordstrom’s Early Black Friday Sale Hits Fall’s Top Trends: Funnel-Neck Jackets, Brushed Cashmere and Beyond",
     "url": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-early-black-friday-sale-2026-best-deals-online-1236748714",
     "published_at": "2026-11-06T01:35:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6b7b8f96f692e013395d",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References",
+    "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
+    "published_at": "2026-11-06T01:25:00+00:00",
     "status": "candidate"
   },
   {
@@ -1494,6 +1890,15 @@
     "status": "candidate"
   },
   {
+    "id": "99a3ac3cbe0000e6abbd",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "From Defense to Detective: How to Watch Jalen Brunson Make His ‘Law & Order: SVU’ Debut Tonight",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-law-and-order-svu-online-without-cable-free-stream-1235653486",
+    "published_at": "2026-11-05T22:25:57+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "aedebe06c2a2cccb4baa",
     "source": "IGN",
     "category": "gaming",
@@ -1509,6 +1914,15 @@
     "original_title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
     "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world",
     "published_at": "2026-11-05T22:20:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "08d318b7026f05030dcb",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Union actors could appear in early game demos, under new SAG-AFTRA plan",
+    "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan",
+    "published_at": "2026-11-05T21:51:21+00:00",
     "status": "candidate"
   },
   {
@@ -1611,12 +2025,39 @@
     "status": "candidate"
   },
   {
+    "id": "82834bf9490ddeb0e36a",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Nier: Automata’s latest update increases game size from 50GB to 366GB",
+    "url": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb",
+    "published_at": "2026-11-05T19:54:02+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "67fcf78ba74504a3d183",
     "source": "PC Gamer",
     "category": "gaming",
     "original_title": "Nvidia, Micron, and other AI stocks take a dive after elections",
     "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections",
     "published_at": "2026-11-05T19:32:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b77db3a02dd07021ee05",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash",
+    "url": "https://www.videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash",
+    "published_at": "2026-11-05T18:59:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "23ab9fbc8a9a2759b868",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Matt Damon Reveals Wife Suffered Brain Aneurysm Weeks Before 2024 Oscars",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/matt-damon-wife-brain-aneurysm-2024-oscars-1235653324",
+    "published_at": "2026-11-05T18:43:52+00:00",
     "status": "candidate"
   },
   {
@@ -1647,12 +2088,57 @@
     "status": "candidate"
   },
   {
+    "id": "a025401a4f1ae100f83e",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "BioWare’s final days to feature in upcoming documentary",
+    "url": "https://www.videogameschronicle.com/news/biowares-final-days-to-feature-in-upcoming-documentary",
+    "published_at": "2026-11-05T18:02:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c113c84232edcda446c5",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Amazon Prime’s seven ‘free’ games for November include Jurassic World Evolution 2",
+    "url": "https://www.videogameschronicle.com/news/amazon-primes-seven-free-games-for-november-include-jurassic-world-evolution-2",
+    "published_at": "2026-11-05T18:00:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8749a135794a6dfe55ba",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo Download: 5th November (North America) + Plus 3 Discounted Games You Should Snap Up",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendo-download-5th-november-north-america-plus-plus-3-discounted-games-you-should-snap-up",
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7b384a56426e113f0bd8",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "We Have So Many Questions About This Stellar Blade Launch Trailer",
+    "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+    "published_at": "2026-11-05T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "a45192116813ebc99a76",
     "source": "PC Gamer",
     "category": "gaming",
     "original_title": "Rockstar drops a pile of new GTA 6 launch screenshots featuring dancers, combat dogs, and so many pores",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-drops-a-pile-of-new-gta-6-launch-screenshots-featuring-dancers-combat-dogs-and-so-many-pores",
     "published_at": "2026-11-05T17:13:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0699004259e8cc280eb1",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo Is Currently Not Considering More Switch 2 Price Changes",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendo-is-currently-not-considering-more-switch-2-price-changes",
+    "published_at": "2026-11-05T17:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -1665,12 +2151,39 @@
     "status": "candidate"
   },
   {
+    "id": "ae56a7ebd996796f73d0",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Japanese Charts: Switch 2 Sales Get A Nice Bump Ahead Of Zelda: Ocarina Of Time",
+    "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-switch-2-sales-get-a-nice-bump-ahead-of-zelda-ocarina-of-time",
+    "published_at": "2026-11-05T16:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "25afcc55004fb27eab0e",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
     "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots",
     "published_at": "2026-11-05T16:18:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cdf172caf67ceedec1e1",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Survival Becomes Even More Dire in ‘Yellowjackets’ Season 4 Trailer",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/yellowjackets-season-four-trailer-paramount-plus-1235653059",
+    "published_at": "2026-11-05T16:03:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "92d065489ee3e1339f45",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Poll: Will You Be Using Zelda Notes With Ocarina Of Time?",
+    "url": "https://www.nintendolife.com/features/poll-will-you-be-using-zelda-notes-with-ocarina-of-time",
+    "published_at": "2026-11-05T16:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -1710,6 +2223,24 @@
     "status": "candidate"
   },
   {
+    "id": "4a72e7d679d9fbe8e423",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "'Pikmin 4 - Switch 2 Edition' Overview Trailer Showcases More Dandori Academy Exams",
+    "url": "https://www.nintendolife.com/news/2026/11/pikmin-4-switch-2-edition-overview-trailer-showcases-more-dandori-academy-exams",
+    "published_at": "2026-11-05T15:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5d8e3b838ace8ffd69c2",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "‘Nobody Wants This’ Star Timothy Simons Makes Us Laugh. Can He Make Us Fall in Love?",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/timothy-simons-nobody-wants-this-interview-1235651465",
+    "published_at": "2026-11-05T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "638870bac3386543de92",
     "source": "Eurogamer",
     "category": "gaming",
@@ -1743,6 +2274,15 @@
     "original_title": "Take-Two boss Strauss Zelnick isn't too concerned about piracy ahead of GTA 6 even if he is 'worried about everything all the time'",
     "url": "https://www.pcgamer.com/games/grand-theft-auto/take-two-boss-strauss-zelnick-isnt-too-concerned-about-piracy-ahead-of-gta-6-even-if-he-is-worried-about-everything-all-the-time",
     "published_at": "2026-11-05T14:25:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ab551292fea6bbabb699",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Russell Brand Found Guilty in Rape Trial",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/russell-brand-verdict-rape-trial-1235651472",
+    "published_at": "2026-11-05T14:24:24+00:00",
     "status": "candidate"
   },
   {
@@ -1809,6 +2349,15 @@
     "status": "candidate"
   },
   {
+    "id": "1197ab7c4c3afea98248",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Jordan Firstman Knows When It’s Time to Leave the Party",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jordan-firstman-rolling-stone-studio-interview-club-kid-1235651574",
+    "published_at": "2026-11-05T13:02:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "8ca339b493011561fcd4",
     "source": "Eurogamer",
     "category": "gaming",
@@ -1833,6 +2382,15 @@
     "original_title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
     "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game",
     "published_at": "2026-11-05T12:12:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d131d01f5f110d6248ed",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Happy Birthday, Jason Kelce! See the Former Eagles Star and His Wife Kylie’s Cutest Family Photos with Their 4 Daughters",
+    "url": "https://people.com/jason-kylie-kelce-adorable-family-photos-12236320",
+    "published_at": "2026-11-05T12:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -1872,12 +2430,30 @@
     "status": "candidate"
   },
   {
+    "id": "f0c5ca20bd28976e62ef",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "See the Sweetest Photos of Kevin Jonas with Wife Danielle and Their 2 Daughters, as the Musician Turns 39 Today",
+    "url": "https://people.com/kevin-and-danielle-jonas-family-photos-12236427",
+    "published_at": "2026-11-05T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "2fa7ec441b52e073d11f",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "PlayStation sees record high player numbers and increased revenue for Q2 2026, and a lot of that success is down to Marvel's Wolverine",
     "url": "https://www.eurogamer.net/sony-playstation-fy-2026-wolverine-sales",
     "published_at": "2026-11-05T10:24:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "68a84db406484463253d",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Late-Night Hosts React to Election Results: ‘Like a Reverse Jan. 6’",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/late-night-hosts-midterm-election-results-reactions-1235653068",
+    "published_at": "2026-11-05T09:59:12+00:00",
     "status": "candidate"
   },
   {
@@ -2004,6 +2580,24 @@
     "original_title": "No GTA 6 November: Here's what you can play on PC instead",
     "url": "https://www.pcgamer.com/games/november-games-2026",
     "published_at": "2026-11-04T23:37:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "38a1c2f5c735215c4599",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Cardi B Reveals the Name of Her Baby Boy with Stefon Diggs as She Shares Photos from His First Birthday",
+    "url": "https://people.com/cardi-b-reveals-the-name-of-her-baby-boy-11850151",
+    "published_at": "2026-11-04T22:10:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0f4c90cd1163d0cfaf40",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Meet the Kids of Your Favorite “Love Is Blind” Couples",
+    "url": "https://people.com/love-is-blind-kids-12228482",
+    "published_at": "2026-11-04T22:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -2295,6 +2889,15 @@
     "status": "candidate"
   },
   {
+    "id": "7a96fd57c63ded0bb854",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "18 Celebrities Whose Careers Blew Up After They Competed on ‘Dancing with the Stars’",
+    "url": "https://people.com/celebs-whose-careers-blew-up-after-dancing-with-the-stars-photos-12222237",
+    "published_at": "2026-11-03T23:18:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "9ae1f7ffb85a03709492",
     "source": "PC Gamer",
     "category": "gaming",
@@ -2337,6 +2940,15 @@
     "original_title": "Bethesda's first full-time QA tester got the job by being an extremely chill hang",
     "url": "https://www.pcgamer.com/gaming-industry/bethesdas-first-full-time-qa-tester-got-the-job-by-being-an-extremely-chill-hang",
     "published_at": "2026-11-03T18:49:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5f57f40bc769784baeae",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "What to Know About Fox News Costars Peter Doocy and Hillary Vaughn’s Marriage",
+    "url": "https://people.com/peter-doocy-hillary-vaughn-relationship-what-to-know-12207076",
+    "published_at": "2026-11-03T18:45:18+00:00",
     "status": "candidate"
   },
   {
@@ -2502,6 +3114,15 @@
     "status": "candidate"
   },
   {
+    "id": "da4fd637dd2ce306523c",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Inside the Striking Similarities Between Gladys Russell on “The Gilded Age” and Real-Life Socialite Consuelo Vanderbilt",
+    "url": "https://people.com/the-gilded-age-gladys-russell-marriage-consuelo-vanderbilt-12207068",
+    "published_at": "2026-11-02T21:39:02+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "a5e260faad9d5b1f2238",
     "source": "PC Gamer",
     "category": "gaming",
@@ -2517,6 +3138,15 @@
     "original_title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase",
     "url": "https://www.eurogamer.net/yakuza-creator-new-studio-closed-netease",
     "published_at": "2026-11-02T20:30:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1b1ec86fe3006e789a05",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "All About Heidi Klum’s Husband, Musician Tom Kaulitz",
+    "url": "https://people.com/all-about-heidi-klum-husband-tom-kaulitz-12207077",
+    "published_at": "2026-11-02T19:50:04+00:00",
     "status": "candidate"
   },
   {
@@ -2598,6 +3228,15 @@
     "original_title": "Soulframe to launch into free open beta this week, as Warframe devs go head-to-head with WoW: Forever",
     "url": "https://www.eurogamer.net/soulframe-open-prelude-date-verse-of-the-veillands",
     "published_at": "2026-11-02T11:17:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f7ba9b2732c64df88b43",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Meet the Real-Life New York Socialites Who Inspired “The Gilded Age” Characters",
+    "url": "https://people.com/the-gilded-age-cast-real-people-side-by-side-12200263",
+    "published_at": "2026-11-02T11:02:00+00:00",
     "status": "candidate"
   },
   {
@@ -2700,6 +3339,24 @@
     "status": "candidate"
   },
   {
+    "id": "85af3275f8cf8bfade3c",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Bill Belichick, 74, and Jordon Hudson, 25, Broke Up a Year Ago Despite Recent Appearances Together",
+    "url": "https://people.com/bill-belichick-and-jordon-hudson-broke-up-a-year-ago-despite-recent-appearances-11723630",
+    "published_at": "2026-10-31T00:36:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "40030fcb36ad440bb515",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "See the “Today” Show Crew’s Greatest Halloween Costumes Through the Years",
+    "url": "https://people.com/today-show-halloween-costumes-12199211",
+    "published_at": "2026-10-30T20:44:58+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "ee72eb0e4ec38ed25f82",
     "source": "Eurogamer",
     "category": "gaming",
@@ -2763,6 +3420,15 @@
     "status": "candidate"
   },
   {
+    "id": "3daac4f6b52a7d442c47",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "What Ever Happened to the Cast of “The Carol Burnett Show”?",
+    "url": "https://people.com/where-is-the-carol-burnett-show-cast-now-11980367",
+    "published_at": "2026-10-30T12:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "beb7823507c787a83d66",
     "source": "Eurogamer",
     "category": "gaming",
@@ -2796,6 +3462,15 @@
     "original_title": "Celeste and TowerFall dev explains why both games were suddenly delisted from Xbox",
     "url": "https://www.eurogamer.net/towerfall-celeste-xbox-boycott-delisted",
     "published_at": "2026-10-30T10:15:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "59bbbdf175277de4dd3b",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Patrick Stewart’s Life in Photos",
+    "url": "https://people.com/patrick-stewart-life-in-photos-12201188",
+    "published_at": "2026-10-29T20:38:18+00:00",
     "status": "candidate"
   },
   {
@@ -2868,6 +3543,15 @@
     "original_title": "Modern Warfare 4 faces backlash after real footage of South Korean crowd crush tragedy was discovered in game's opening moments",
     "url": "https://www.eurogamer.net/modern-warfare-4-south-korean-crowd-crush-footage",
     "published_at": "2026-10-29T11:11:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f05fc8f72b90337b7f81",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Behind the Mask: See the Actors Who Played Iconic Horror Movie Villains, from Freddy Krueger to Samara from ‘The Ring’",
+    "url": "https://people.com/see-the-actors-who-played-horror-movie-villains-in-masks-12196792",
+    "published_at": "2026-10-29T10:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -2961,6 +3645,15 @@
     "status": "candidate"
   },
   {
+    "id": "9ac0f04a6282ecb892c8",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "16 Adorable Photos of Kelly Osbourne with Her 3-Year-Old Son Sidney",
+    "url": "https://people.com/cute-pictures-of-kelly-osbourne-and-her-son-sidney-12197186",
+    "published_at": "2026-10-28T14:28:12+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "41ad228fc41024512860",
     "source": "Eurogamer",
     "category": "gaming",
@@ -2997,6 +3690,15 @@
     "status": "candidate"
   },
   {
+    "id": "d77968d9009c585a8230",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "14 Chilling Horror Movies Based on Real-Life Stories",
+    "url": "https://people.com/horror-movies-based-on-real-life-stories-12195704",
+    "published_at": "2026-10-28T10:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "98ae3d0b33346d2cd3c8",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3012,6 +3714,42 @@
     "original_title": "GTA 6 is a massive 210GB download on PlayStation 5",
     "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
     "published_at": "2026-10-28T09:14:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e4ec50373ebf0aa2767d",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "All the Sexiest Men Alive Who Are Also Dads",
+    "url": "https://people.com/sexiest-man-alive-dads-club-12194997",
+    "published_at": "2026-10-27T23:02:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9eb95bb25d7e4a2467fc",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Inside Emily Wickersham’s Decision to Leave “NCIS” and Why She’s Returning Alongside Mark Harmon in “Origins”",
+    "url": "https://people.com/why-emily-wickersham-left-ncis-cast-12196376",
+    "published_at": "2026-10-27T22:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "42b381ac77843acbbc7b",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "All About “The Pitt” Season 3, Including What the Next Shift Will Explore",
+    "url": "https://people.com/all-about-the-pitt-season-3-release-date-cast-plot-12196760",
+    "published_at": "2026-10-27T20:10:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e60423ff28e8dca98418",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "What Happened to the Cast of “Kate & Allie” After the Series Ended?",
+    "url": "https://people.com/what-happened-to-kate-and-allie-cast-12196373",
+    "published_at": "2026-10-27T20:00:00+00:00",
     "status": "candidate"
   },
   {
@@ -3051,6 +3789,15 @@
     "status": "candidate"
   },
   {
+    "id": "87027262bac12092b156",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "The Single Sexiest Photo of Each of the Sexiest Men Alive",
+    "url": "https://people.com/sexiest-man-alive-best-photos-of-the-winners-12188536",
+    "published_at": "2026-10-27T11:45:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "75ab0f9f9b0cb9b3c35e",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3060,12 +3807,39 @@
     "status": "candidate"
   },
   {
+    "id": "0444491343fd7cefad08",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Every Sexiest Man Alive Who Has Played a Doctor on Screen",
+    "url": "https://people.com/every-sexiest-man-alive-who-has-played-a-doctor-12190324",
+    "published_at": "2026-10-27T11:20:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ef333e5ced28bc2d817d",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Inside the 1986 Demonic Haunting That Inspired “The Conjuring: Last Rites”",
+    "url": "https://people.com/the-conjuring-last-rites-true-story-what-to-know-12124101",
+    "published_at": "2026-10-27T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "fe1632c2ccda00dc948b",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Pokémon Unite closing down for good, but you'll still be able to use it afterwards, sort of",
     "url": "https://www.eurogamer.net/pokemon-unite-closing-date",
     "published_at": "2026-10-27T10:56:34+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "35c374671e98a6d88197",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Just 12 Gratuitously Hot Photos of Noah Wyle That Will Heal You Today",
+    "url": "https://people.com/noah-wyle-sexiest-man-alive-throwback-photos-12189231",
+    "published_at": "2026-10-27T10:45:32+00:00",
     "status": "candidate"
   },
   {
@@ -3087,6 +3861,15 @@
     "status": "candidate"
   },
   {
+    "id": "7245a3efa0ee6c831712",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Who Is Angel Reese’s Boyfriend? All About NBA Player Wendell Carter Jr.",
+    "url": "https://people.com/who-is-wendell-carter-jr-angel-reese-11912464",
+    "published_at": "2026-10-26T23:00:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "7beccc9de5e6c6c438d8",
     "source": "Eurogamer",
     "category": "gaming",
@@ -3102,6 +3885,15 @@
     "original_title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
     "url": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
     "published_at": "2026-10-26T18:44:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3e9abd11af338293c83a",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "A Complete Timeline of Chris Brown’s Legal Troubles and Controversies as He Narrowly Avoids Prison Time",
+    "url": "https://people.com/chris-brown-legal-troubles-controversies-timeline-12194313",
+    "published_at": "2026-10-26T18:00:26+00:00",
     "status": "candidate"
   },
   {
@@ -3141,12 +3933,210 @@
     "status": "candidate"
   },
   {
+    "id": "2e7499fa92a8831274f8",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "22 Bewitching Secrets About “Hocus Pocus” You Probably Never Knew",
+    "url": "https://people.com/hocus-pocus-movie-facts-12124095",
+    "published_at": "2026-10-26T13:16:37+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "6c04d10094c3f7ca57bd",
     "source": "Eurogamer",
     "category": "gaming",
     "original_title": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
     "url": "https://www.eurogamer.net/onimusha-way-of-the-sword-enemy-difficulty-capcom",
     "published_at": "2026-10-26T12:32:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4f36dbd08eb44978b19c",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "What Happened to Monica After “Yellowstone”? Here’s Why Kelsey Asbille’s Character Isn’t in “Marshals”",
+    "url": "https://people.com/what-happened-to-monica-yellowstone-marshals-12190130",
+    "published_at": "2026-10-25T13:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ad2a33402439e1d9a4a7",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "All About the Long-Anticipated “Dirty Dancing 2” Starring Jennifer Grey",
+    "url": "https://people.com/all-about-dirty-dancing-2-12184184",
+    "published_at": "2026-10-25T12:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a43d455facfd5a54ebc2",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where Is the “Mrs. Doubtfire Cast” Now? Inside the Stars’ Lives 32 Years After the Premiere",
+    "url": "https://people.com/where-is-mrs-doubtfire-cast-now-11980660",
+    "published_at": "2026-10-25T12:05:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e64766a334d3c7f60edb",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "What Happened to the Real-Life “The Conjuring” Family? Inside the Perrons’ Lives Today",
+    "url": "https://people.com/the-conjuring-perron-family-where-are-they-now-12124102",
+    "published_at": "2026-10-25T10:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "83298f1959564bd42c6e",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where Is Rob Kardashian Now? Inside His Life After Retreating from the Spotlight",
+    "url": "https://people.com/where-is-rob-kardashian-now-12189644",
+    "published_at": "2026-10-24T09:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4daef37cb270290fd3d0",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where Is Ed and Lorraine Warren’s Daughter Judy Spera Now? Inside Her Life After Her Parents Inspired “The Conjuring”",
+    "url": "https://people.com/inside-ed-and-lorraine-warren-daughter-judy-spera-life-now-12124096",
+    "published_at": "2026-10-24T09:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cf1e9608c5dda635a049",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Is “Nobody Wants This” Based on a True Story? Inside the Creator’s Real-Life Romance That Inspired the Netflix Show",
+    "url": "https://people.com/is-nobody-wants-this-based-on-true-story-12184977",
+    "published_at": "2026-10-23T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7bacbcfa54cffa657548",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Ryan Reynolds Is 50! See the “Deadpool ”Star’s Cutest Throwback Photos",
+    "url": "https://people.com/ryan-reynolds-most-adorable-throwback-photos-12186202",
+    "published_at": "2026-10-23T10:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9adca7f66a1bbf2a6452",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Meet Priscilla Presley’s Son, Musician Navarone Garibaldi Garcia",
+    "url": "https://people.com/priscilla-presley-son-navarone-what-to-know-12187832",
+    "published_at": "2026-10-22T21:05:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5778ca4a94a3e9b3393a",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Tom Skerritt, Emmy-Winning Actor Known for “Top Gun” and “Picket Fences”, Dies at 93",
+    "url": "https://people.com/tom-skerritt-dead-7568301",
+    "published_at": "2026-10-22T20:28:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0748ec8e3d3bd016c5cf",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Inside “The Golden Bachelor” Stars Mel Owens and Peg Munson’s Relationship Before Split",
+    "url": "https://people.com/golden-bachelor-mel-owens-peg-munson-relationship-split-12187837",
+    "published_at": "2026-10-22T17:26:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2e485a26e57904a97507",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Sophia Bush Calls Wedding ‘Best, Most Perfect Day,’ Reveals She Proposed to Wife Ashlyn Harris",
+    "url": "https://people.com/sophia-bush-reflects-on-proposal-and-marriage-to-ashlyn-harris-8761343",
+    "published_at": "2026-10-21T20:16:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "39bbbbcdba307033cc83",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "See the “10 Things I Hate About You” Cast Then and Now as They Honor Late Star Heath Ledger",
+    "url": "https://people.com/see-the-10-things-i-hate-about-you-cast-then-now-12185942",
+    "published_at": "2026-10-21T18:01:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2bd06465db70cb0e8777",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where Is Elvira Now? Inside the Mistress of the Dark’s Life 45 Years After She Debuted the Character",
+    "url": "https://people.com/elvira-where-is-she-now-12124098",
+    "published_at": "2026-10-21T11:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "488b60684b1a66ce4fbc",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "The Sweetest Throwback Photos of Billie Lourd with Mother Carrie Fisher and Grandma Debbie Reynolds",
+    "url": "https://people.com/carrie-fisher-debbie-reynolds-billie-lourd-throwback-photos-12182972",
+    "published_at": "2026-10-21T10:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5b3ef03744b69ac2d069",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "What Ever Happened to the Cast of “I Dream of Jeannie”?",
+    "url": "https://people.com/what-happened-to-i-dream-of-jeannie-cast-11980653",
+    "published_at": "2026-10-21T10:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "af1e86a8564eed5937e4",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where Is the Original “NCIS” Season 1 Cast Now? See the Stars 23 Years After Its Premiere",
+    "url": "https://people.com/where-is-ncis-cast-now-11957112",
+    "published_at": "2026-10-20T13:55:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2ba3784233aaa33ebe27",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Was “The Blair Witch Project” Real? The True Story of the Groundbreaking Horror Film, 27 Years Later",
+    "url": "https://people.com/blair-witch-project-true-story-12124094",
+    "published_at": "2026-10-20T11:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0e474e620849a398d809",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Meet Luke Bryan’s 2 Kids, Teenage Sons Bo and Tate",
+    "url": "https://people.com/luke-bryan-kids-everything-to-know-12181748",
+    "published_at": "2026-10-19T17:45:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "699b1ab2a5bf0be8d908",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Jason Segel and Kayla Radomski Marry in Botanical Garden Wedding in California",
+    "url": "https://people.com/jason-segel-kayla-radomski-married-11810456",
+    "published_at": "2026-10-19T16:09:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d0565de31f655c9e0ac9",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "How to Watch the 9 “Conjuring” Movies in Order, from “The Nun” to “Last Rites”",
+    "url": "https://people.com/how-to-watch-the-conjuring-franchise-movies-12124099",
+    "published_at": "2026-10-19T11:45:00+00:00",
     "status": "candidate"
   },
   {
