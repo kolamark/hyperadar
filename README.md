@@ -1,6 +1,6 @@
 # HypeRadar
 
-Magyar popkultúra és gaming magazin fejlesztés alatt. Az `index.html` a jelenlegi, mobilbarát bemutató oldal. A három mintacikk egyértelműen demóként van megjelölve, és nem aktuális hír.
+Automatikusan frissülő magyar popkultúra és gaming magazin. Az éles oldal: https://kolamark.github.io/hyperadar/. Ha még nincs alkalmas hír, három külön jelölt bemutató írás látható.
 
 ## Kipróbálás
 
@@ -18,13 +18,13 @@ Az `.github/workflows/collect.yml` minden órában ellenőrzi a budapesti helyi 
 
 ## Automatikus cikkek és közzététel
 
-A `scripts/publish.py` két különböző forrás egyező történeténél letölti a teljes hozzáférhető cikkek szövegét. A modell a közös tényeket magyarul fogalmazza meg, minden lényeges állításhoz visszaadja a pontos forrást és egy szó szerinti bizonyító részletet. A kód ellenőrzi, hogy ez a részlet valóban szerepel-e a letöltött szövegben. Az érzékeny, vitatott és hiányosan alátámasztott témákat kihagyja. Nem használ idegen képeket. Futásonként legfeljebb két, naponként legfeljebb 15 cikk készülhet; a 10–15 cikk **cél, nem garantált darabszám**.
+A `scripts/publish.py` két különböző forrás egyező történeténél letölti a teljes hozzáférhető cikkek szövegét. A modell a közös tényeket magyarul fogalmazza meg, minden lényeges állításhoz visszaadja a pontos forrást és egy szó szerinti bizonyító részletet. A magyar nyelvi kapu a címet, bevezetőt és törzset vizsgálja; a kiadási tesztek ezt is ellenőrzik. A kód ellenőrzi, hogy ez a részlet valóban szerepel-e a letöltött szövegben. Az érzékeny, vitatott és hiányosan alátámasztott témákat kihagyja. Nem használ idegen képeket. Futásonként legfeljebb két, naponként legfeljebb 15 cikk készülhet; a 10–15 cikk **cél, nem garantált darabszám**.
 
 Az automatikus íráshoz a repó **Settings → Secrets and variables → Actions → New repository secret** menüjében `OPENAI_API_KEY` nevű titkot kell beállítani. A kulcs nélkül a forrásgyűjtés fut, a cikkírás nem. Az API-használat költséggel jár; a modell a workflow `OPENAI_MODEL` változójával cserélhető. A cikkírás legfeljebb négy modellkérést indít egy futásban.
 
-A workflow a jóváhagyás nélkül létrejött cikkeket közvetlenül az `articles.json` fájlba menti, majd GitHub Pages-re telepíti az olvasói oldalt. Ehhez a repó Settings → Pages alatt a **GitHub Actions** közzétételi forrást kell kiválasztani. A repóba írt bot-commit önmagában nem indít új workflow-t, ezért a kiadás ugyanannak a futásnak a része. A privát Sites előnézet a GitHubon lévő cikkfájlt olvassa, így új Site-telepítés nélkül meg tudja jeleníteni a friss cikkeket. A nyilvános GitHub Pages oldal címe a Pages beállítása után várhatóan `https://kolamark.github.io/hyperadar/`.
+A workflow a jóváhagyás nélkül létrejött cikkeket közvetlenül az `articles.json` fájlba menti, majd GitHub Pages-re telepíti az olvasói oldalt. Ehhez a repó Settings → Pages alatt a **GitHub Actions** közzétételi forrást kell kiválasztani. A repóba írt bot-commit önmagában nem indít új workflow-t, ezért a kiadás ugyanannak a futásnak a része. A nyilvános GitHub Pages oldal címe: https://kolamark.github.io/hyperadar/.
 
-Az `articles.json` az ellenőrzött és jóváhagyott, publikus cikkek adatforrása. A jelenlegi weboldal addig bemutató tartalmat jelenít meg, amíg a fájl üres. Az RSS-jelöltek soha nem kerülnek automatikusan az olvasói felületre.
+Az `articles.json` az automatikusan ellenőrzött, publikus cikkek adatforrása. A jelenlegi weboldal addig bemutató tartalmat jelenít meg, amíg a fájl üres. Az RSS-jelöltek soha nem kerülnek automatikusan az olvasói felületre.
 
 ## Szerkesztői jóváhagyás
 
@@ -34,13 +34,11 @@ Az oldal jelenlegi privát előnézete a Sites tárhelyén fut, amely külön fo
 
 ## Következő fejlesztési szakasz
 
-- Tartós adatbázis, szerkesztőségi admin és jóváhagyási folyamat.
-- Több forrás, eredeti bejelentések, duplikációk és relevancia szerinti csoportosítás.
-- Bizonyítékhoz kötött magyar cikkgenerálás; képjogok, források és állítások ellenőrzése.
-- Megbízhatóbb időzítés és futásnapló, költségkorláttal.
-- Az oldal dinamikus cikkfolyama és önálló, megosztható cikkoldalak.
+- Több releváns, egymástól független forrás és pontosabb történetcsoportosítás a napi darabszám javításához.
+- Saját, megosztható cikkoldalak és jogtisztán használható illusztrációk.
+- Utólagos javítási és visszavonási napló, futási és API-költségfigyelés.
 
-A jelenlegi oldal privát előnézete: https://hyperadar-magazin.kolarovszki-mark.chatgpt.site
+A jelenlegi automatikus folyamat nem garantál napi 10–15 cikket: 2026. november 7-én egy sikeres próbakör négy összevethető történetből egy magyar cikket publikált.
 
 ## Szerkesztési alapelv
 
