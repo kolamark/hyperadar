@@ -269,6 +269,40 @@ def audit_passes(review, count, evidence_ids):
                 for check in checks))
 
 
+def salvage_supported_sentences(draft, review):
+    """Keep only audited body sentences; headline and lead must pass intact."""
+    sentences = editorial_sentences(draft)
+    checks = review["checks"]
+    if len(checks) != len(sentences) or {c["index"] for c in checks} != set(range(len(sentences))):
+        return None
+    by_index = {check["index"]: check for check in checks}
+    evidence = {f"e{i}": entry for i, entry in enumerate(
+        entry for claim in draft["claims"] for entry in claim["evidence"])}
+    def valid(index):
+        check = by_index[index]
+        return (check["supported"] and not check["issue"].strip() and
+                check["evidence_ids"] and set(check["evidence_ids"]) <= evidence.keys())
+    if not valid(0) or not valid(1):
+        return None
+    body, claims = [], []
+    index = 2
+    for paragraph in draft["body"]:
+        kept = []
+        parts = [s.strip() for s in re.split(r"(?<=[.!?])\\s+(?=[A-ZÁÉÍÓÖŐÚÜŰ])", paragraph) if s.strip()]
+        for sentence in parts:
+            if valid(index):
+                kept.append(sentence)
+                claims.append({"text": sentence, "evidence":
+                               [dict(evidence[eid]) for eid in by_index[index]["evidence_ids"]]})
+            index += 1
+        if not kept:
+            return None
+        body.append(" ".join(kept))
+    if len(re.findall(r"\\S+", " ".join(body))) < 45:
+        return None
+    return body, claims
+
+
 def audit_draft(draft, texts, key):
     """A second model checks every sentence against source titles and exact quotes."""
     sentences = editorial_sentences(draft)
@@ -374,10 +408,18 @@ def publish():
             audit = audit_draft({"title":title,"excerpt":excerpt,"body":body,"claims":claims}, texts, key)
             if not audit_passes(audit, len(editorial_sentences({"title":title,"excerpt":excerpt,"body":body})),
                                 {f"e{i}" for i, entry in enumerate(entry for claim in claims for entry in claim["evidence"])}):
-                failures = [f"{check['index']}: {check['issue'][:120] or 'missing/invalid evidence'}"
-                            for check in audit["checks"] if not check["supported"] or check["issue"] or not check["evidence_ids"]]
-                print("Draft rejected by sentence-level audit: " + "; ".join(failures[:5]))
-                continue
+                salvaged = salvage_supported_sentences(
+                    {"title":title,"excerpt":excerpt,"body":body,"claims":claims}, audit)
+                if salvaged:
+                    body, claims = salvaged
+                    if not looks_hungarian(title, excerpt, body) or not verify_claims(claims, source_texts):
+                        salvaged = None
+                if not salvaged:
+                    failures = [f"{check['index']}: {check['issue'][:120] or 'missing/invalid evidence'}"
+                                for check in audit["checks"] if not check["supported"] or check["issue"] or not check["evidence_ids"]]
+                    print("Draft rejected by sentence-level audit: " + "; ".join(failures[:5]))
+                    continue
+                print(f"Removed unsupported sentences; retained {len(editorial_sentences({'title':title,'excerpt':excerpt,'body':body})) - 2} body sentences")
             article = {"status":"published","category":group[0]["category"],"title":title,"excerpt":excerpt,
                        "body":body,"sources":[{"name":item["source"],"url":item["url"]} for item,_ in texts],
                        "published_at":datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),"claims":claims,"method":"automated"}
