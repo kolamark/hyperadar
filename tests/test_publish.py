@@ -102,7 +102,7 @@ class PublisherSafetyTests(unittest.TestCase):
             "title":"Galaxy Quest új bejelentése",
             "excerpt":"A stúdió két forrás szerint új megjelenési dátumot közölt a játékról.",
             "body":[
-                "A stúdió közölte az új dátumot, és a játék PC-re is érkezik a bejelentés szerint. A vezetője szerint mindenki ingyen kapja meg az új játékot.",
+                "A stúdió közölte az új dátumot, és a játék PC-re is érkezik a bejelentés szerint, a hivatalos tájékoztató alapján. A vezetője szerint mindenki ingyen kapja meg az új játékot.",
                 "A másik lap is beszámolt a dátumról és a PC-s változatról, a kiadó közlésére hivatkozva. A megjelenés további részleteiről a két idézett forrás egyelőre nem adott közös tájékoztatást."
             ],
             "claims":[{"text":"Bejelentés","evidence":[{"url":"https://a.test/story","quote":"The studio announced a new release date for Galaxy Quest on PC."}]}]
