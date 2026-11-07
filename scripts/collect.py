@@ -64,7 +64,7 @@ def collect():
                 by_id.setdefault(entry["id"], entry)
         except (OSError, ValueError, ET.ParseError) as exc:
             errors.append(f'{feed["name"]}: {type(exc).__name__}: {exc}')
-    entries = sorted(by_id.values(), key=lambda e: e["published_at"] or "", reverse=True)[:500]
+    entries = sorted(by_id.values(), key=lambda e: e["published_at"] or "", reverse=True)[:1000]
     OUT.parent.mkdir(exist_ok=True)
     result = json.dumps(entries, ensure_ascii=False, indent=2) + "\n"
     if not OUT.exists() or OUT.read_text(encoding="utf-8") != result:
