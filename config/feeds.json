@@ -35,6 +35,21 @@
     "url": "https://www.nintendolife.com/feeds/news"
   },
   {
+    "name": "Kotaku",
+    "category": "gaming",
+    "url": "https://kotaku.com/feed"
+  },
+  {
+    "name": "Rock Paper Shotgun",
+    "category": "gaming",
+    "url": "https://www.rockpapershotgun.com/feed"
+  },
+  {
+    "name": "Destructoid",
+    "category": "gaming",
+    "url": "https://www.destructoid.com/feed/"
+  },
+  {
     "name": "Deadline",
     "category": "bulvar",
     "url": "https://deadline.com/feed/"
@@ -63,5 +78,15 @@
     "name": "Rolling Stone",
     "category": "bulvar",
     "url": "https://www.rollingstone.com/tv-movies/feed/"
+  },
+  {
+    "name": "TheWrap",
+    "category": "bulvar",
+    "url": "https://www.thewrap.com/feed/"
+  },
+  {
+    "name": "E! News",
+    "category": "bulvar",
+    "url": "https://eol-feeds.eonline.com/rssfeed/us/top_stories"
   }
 ]
