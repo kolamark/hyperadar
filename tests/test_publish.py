@@ -39,6 +39,16 @@ class PublisherSafetyTests(unittest.TestCase):
                                        ("B", "Trump election result prompts Bill Maher reaction")]]
         self.assertEqual(clusters(entries, []), [])
 
+    def test_retracted_story_is_not_reconsidered(self):
+        now = datetime.now(timezone.utc).isoformat()
+        urls = [
+            "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
+            "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
+        ]
+        entries = [{"source":source,"category":"gaming","original_title":"Save Mass Effect truck arrives at EA HQ",
+                    "url":url,"published_at":now} for source,url in zip(("IGN","Kotaku"),urls)]
+        self.assertEqual(clusters(entries, []), [])
+
     def test_same_source_is_not_confirmation(self):
         now = datetime.now(timezone.utc).isoformat()
         entries = [{"source":"A","category":"gaming","original_title":"Galaxy Quest release date announced","url":f"https://a.test/{n}","published_at":now} for n in range(2)]
