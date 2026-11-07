@@ -3,6 +3,103 @@
     {
       "status": "published",
       "category": "bulvar",
+      "title": "Adam Driver nem tér vissza a Girls folytatásában, de sok sikert kíván a stábnak",
+      "excerpt": "A Girls című sorozat készítője és sztárja, Lena Dunham bejelentette, hogy a sorozat egy limitált, öt epizódból álló folytatással tér vissza az HBO-ra, amelynek forgatása 2027-ben kezdődik.",
+      "body": [
+        "A Girls című sorozat készítője és sztárja, Lena Dunham bejelentette, hogy a sorozat egy limitált, öt epizódból álló folytatással tér vissza az HBO-ra, amelynek forgatása 2027-ben kezdődik. A visszatérésben részt vesznek Allison Williams, Jemima Kirke, Zosia Mamet és Andrew Rannells is.",
+        "Adam Driver, aki az eredeti sorozatban Hannah Horvath pasiját, Adam Sackler-t alakította, interjúban tisztázta, hogy nem vesz részt a folytatásban, ugyanakkor a stábnak a legjobbakat kívánta. Driver karrierje a Girls-szel indult, és azóta számos jelentős filmben szerepelt. Dunham legutóbbi memoárjában részletezte a színésszel való munka során tapasztalt nehézségeket is."
+      ],
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/adam-driver-girls-revival-not-participating-best-of-luck-1236749902"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/adam-driver-shuts-down-girls-return-1237216089"
+        }
+      ],
+      "published_at": "2026-11-07T16:03:52.263883Z",
+      "claims": [
+        {
+          "text": "Adam Driver nem tér vissza a Girls limitált folytatásában, de sok sikert kíván a stábnak.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924",
+              "quote": " asked by Cinema Blend if he will be returning for the revival. “No, but I wish them the best of luck,” he told the outlet."
+            }
+          ]
+        },
+        {
+          "text": "A Girls folytatása öt epizódból áll majd és 2027-ben kezdődik a produkció az HBO-n.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924",
+              "quote": "The series will have a limited five-episode run on HBO with production starting in 2027."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
+      "title": "Nier: Automata frissítése hibásan 366 GB-ra növelte a játék méretét PC-n",
+      "excerpt": "A népszerű akció-RPG, a Nier: Automata legutóbbi, lokalizációs nyelvi támogatást bővítő frissítése után szokatlan probléma jelentkezett a PC-s változatnál: a játék fájlmérete a korábbi kb.",
+      "body": [
+        "A népszerű akció-RPG, a Nier: Automata legutóbbi, lokalizációs nyelvi támogatást bővítő frissítése után szokatlan probléma jelentkezett a PC-s változatnál: a játék fájlmérete a korábbi kb. 50 GB-ról megháromszorozódott, elérve a 366 GB-ot. Ez egy hibára vezethető vissza, mely miatt a játékhoz tartozó DLC-k is a teljes játék méretével azonos nagyságúak lettek, így a telepítés sikertelenül próbálta mindet egyszerre felmásolni. A Square Enix megerősítette, hogy tisztában vannak a problémával, és vizsgálják annak okát, miközben dolgoznak a javításon.",
+        "A fejlesztők ideiglenes megoldásként azt javasolják a felhasználóknak, hogy a Steam kliensben a játék tulajdonságainál kikapcsolják a DLC-k letöltését, ezáltal a játék a szokásos, kb. 50 GB-os mérettel telepíthető. Bár a 366 GB rendkívüli és nem szándékos esete a játékok méretének növekedésére is rámutat, hiszen egyre több nagy költségvetésű cím foglal el száz gigabájt feletti tárhelyet, a Square Enix hamarosan orvosolja a problémát a Nier: Automata esetén."
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb"
+        }
+      ],
+      "published_at": "2026-11-07T16:03:46.232599Z",
+      "claims": [
+        {
+          "text": "A Nier: Automata utolsó frissítése 50 GB-ról 366 GB-ra növelte a játék fájlméretét PC-n.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb",
+              "quote": "update also increased the game's file size from 50 gigabytes to a staggering 366 (and a half) gigabytes."
+            }
+          ]
+        },
+        {
+          "text": "A hiba a DLC-k helytelen méretezése miatt következett be, miközben a DLC-k mérete megegyezik az alapjátékkal.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+              "quote": "bug that caused all the DLC in the YoRHa Edition of the game to become the same size as the base game"
+            }
+          ]
+        },
+        {
+          "text": "A Square Enix dolgozik a hiba kijavításán, és ideiglenes megoldásként javasolják a DLC-k letiltását a Steam kliensben.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb",
+              "quote": "As a temporary workaround, you can download the base game using the intended amount of storage space by going to \"Properties\" à \"DLC\" in Steam and unchecking each DLC item."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
       "title": "Sajtóértesülések: Pattinson és Hoult is próbázott James Bond szerepére",
       "excerpt": "Több filmes lap szerint Robert Pattinson és Nicholas Hoult is részt vett az új James Bond-film szereplőválogatásán. Végleges szereposztásról nincs hír.",
       "body": [
