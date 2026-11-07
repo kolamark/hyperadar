@@ -31,6 +31,21 @@ class PublisherSafetyTests(unittest.TestCase):
         self.assertEqual(len(groups), 1)
         self.assertEqual({x["source"] for x in groups[0]}, {"A", "B"})
 
+    def test_third_source_can_match_another_group_member(self):
+        now = datetime.now(timezone.utc).isoformat()
+        entries = [
+            {"source":name,"category":"gaming","original_title":title,
+             "url":f"https://{name.lower()}.test/story","published_at":now}
+            for name,title in [
+                ("A","Galaxy Quest sequel release date confirmed for PC"),
+                ("B","Galaxy Quest sequel gets launch window on PC"),
+                ("C","Quest sequel launch window detailed by studio")
+            ]
+        ]
+        groups = clusters(entries, [])
+        self.assertEqual(len(groups), 1)
+        self.assertEqual({item["source"] for item in groups[0]}, {"A","B","C"})
+
     def test_political_titles_are_excluded(self):
         now = datetime.now(timezone.utc).isoformat()
         entries = [{"source": name, "category":"bulvar", "original_title":title,
