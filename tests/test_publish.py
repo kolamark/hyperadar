@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes
+from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes, evidence_catalog, resolve_evidence_ids
 
 
 class PublisherSafetyTests(unittest.TestCase):
@@ -68,6 +68,22 @@ class PublisherSafetyTests(unittest.TestCase):
         self.assertFalse(audit_passes({"checks":checks[:-1]}, len(sentences)))
         checks[2]["supported"], checks[2]["issue"] = False, "A szám hibás"
         self.assertFalse(audit_passes({"checks":checks}, len(sentences)))
+
+    def test_evidence_ids_resolve_to_exact_source_passages(self):
+        texts = [
+            ({"source":"A","url":"https://a.test/story","original_title":"Galaxy Quest gets a new release date"},
+             "The studio announced a new release date for Galaxy Quest. Players will receive the update on Friday."),
+            ({"source":"B","url":"https://b.test/story","original_title":"New Galaxy Quest date announced"},
+             "Galaxy Quest will arrive on Friday, the publisher confirmed.")
+        ]
+        sources, catalog = evidence_catalog(texts)
+        self.assertEqual(len(sources), 2)
+        chosen_id = sources[0]["passages"][1]["id"]
+        claims = [{"text":"Megjelenés", "evidence":[{"id":chosen_id}]}]
+        self.assertTrue(resolve_evidence_ids(claims, catalog))
+        self.assertEqual(claims[0]["evidence"][0], catalog[chosen_id])
+        self.assertTrue(verify_claims(claims, {item["url"]: item["original_title"] + "\n" + body for item, body in texts}))
+        self.assertFalse(resolve_evidence_ids([{"evidence":[{"id":"invented"}]}], catalog))
 
     def test_evidence_recovers_only_close_source_span(self):
         source = "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing Vice City."
