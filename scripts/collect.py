@@ -53,6 +53,7 @@ def collect():
     existing = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else []
     by_id = {entry["id"]: entry for entry in existing}
     errors = []
+    feed_counts = []
     for feed in FEEDS:
         try:
             request = urllib.request.Request(feed["url"], headers={"User-Agent": "HypeRadarEditorial/0.1 (+https://github.com/kolamark/hyperadar)"})
@@ -60,8 +61,11 @@ def collect():
                 xml = response.read(2_000_001)
             if len(xml) > 2_000_000:
                 raise ValueError("Feed too large")
-            for entry in parse_feed(xml, feed):
+            parsed = parse_feed(xml, feed)
+            new_count = sum(entry["id"] not in by_id for entry in parsed)
+            for entry in parsed:
                 by_id.setdefault(entry["id"], entry)
+            feed_counts.append((feed["name"], len(parsed), new_count))
         except (OSError, ValueError, ET.ParseError) as exc:
             errors.append(f'{feed["name"]}: {type(exc).__name__}: {exc}')
     entries = sorted(by_id.values(), key=lambda e: e["published_at"] or "", reverse=True)[:1000]
@@ -70,6 +74,8 @@ def collect():
     if not OUT.exists() or OUT.read_text(encoding="utf-8") != result:
         OUT.write_text(result, encoding="utf-8")
     print(f"{len(entries)} candidates stored; {len(errors)} feed errors")
+    for name, found, new_count in feed_counts:
+        print(f"{name}: {found} entries, {new_count} new candidates")
     for error in errors:
         print(error)
     if errors and len(errors) == len(FEEDS):
