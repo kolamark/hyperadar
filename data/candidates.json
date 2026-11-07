@@ -1,5 +1,743 @@
 [
   {
+    "id": "78ea81defe2d7786f018",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+    "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb",
+    "published_at": "2026-11-07T11:15:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "01f115f47b71507ce091",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "PÖFF Stands With Ukraine: A Look at Films Featured at Tallinn Made Despite, and Because of, the War",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-standing-with-ukraine-tallinn-2026-films-events-war-1236741671",
+    "published_at": "2026-11-07T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d81c030e3e8bff186a03",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘3 Body Problem’ Director Derek Tsang Boards DEA True-Crime Series ‘Group 41’ From Zhang Yimou’s ‘Shadow’ Producer Jonah Greenberg (EXCLUSIVE)",
+    "url": "https://variety.com/2026/tv/asia/3-body-problem-director-derek-tsang-dea-true-crime-series-group-41-1236941978",
+    "published_at": "2026-11-07T09:50:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0851316d46e1b2c95ed6",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Davika Hoorne Returning for ‘Inherit’ Sequel, Director Banjong Pisanthanakun Confirms (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/news/davika-hoorne-inherit-sequel-1236941967",
+    "published_at": "2026-11-07T08:59:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e72652b137294996585c",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
+    "url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957",
+    "published_at": "2026-11-07T08:19:35+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cbafe8ff9a72150927fb",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Triplets of Belleville’ Director Sylvain Chomet Fires Back at AI Accusations Over Dior Film Featuring Robert Pattinson’s Voice: ‘Everything Was Drawn by Hand’ (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/global/sylvain-chomet-denies-ai-accusations-dior-robert-pattinson-1236941945",
+    "published_at": "2026-11-07T08:12:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f3fa37b1843ded26b444",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Toei CEO Fumio Yoshimura Talks Global Expansion, GenAI Adoption & Entry Into Games",
+    "url": "https://deadline.com/2026/11/kamen-rider-toei-gen-ai-gaming-dear-stranger-iris-1237215381",
+    "published_at": "2026-11-07T07:55:02+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "51bd53a89ecfd39fb1cf",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Hold Onto Me,’ Cyprus’ First Oscar Hopeful, Stars a Newcomer and a ‘Dogtooth’ Actor in a Very Personal Father-Daughter Drama",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/hold-onto-me-cyprus-first-oscar-entry-father-daughter-film-1236747471",
+    "published_at": "2026-11-07T05:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ab794a49d49fffefb7a4",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Stephen Chow Told Japan to Stop Aping Kung Fu, Says Boss of Film Fund Behind Kore-eda Hirokazu’s ‘Look Back’",
+    "url": "https://variety.com/2026/film/markets-festivals/stephen-chow-japan-stop-aping-kung-fu-k2-pictures-1236941939",
+    "published_at": "2026-11-07T04:41:35+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "400b33221618b46e28f0",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "After 2026 Midterms, Bill Maher Asks Trump, “Donnie, Are You OK?”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/bill-maher-trump-2026-midterms-1236749942",
+    "published_at": "2026-11-07T04:29:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "638bffbc475998b6fca5",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Real Time’: Bill Maher Thinks Trump Has Been “Amazingly Humble” Amid Blue Wave, Jokes He “Might Get To Go” To White House Dinner Again",
+    "url": "https://deadline.com/2026/11/real-time-bill-maher-trump-amazingly-humble-blue-wave-1237216187",
+    "published_at": "2026-11-07T04:08:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6a6b701f7efb565993d4",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Adam Driver Won’t Return for ‘Girls’: ‘I Wish Them the Best of Luck’",
+    "url": "https://variety.com/2026/film/news/adam-driver-wont-return-girls-revival-lena-dunham-1236941924",
+    "published_at": "2026-11-07T04:01:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "fa1f7cad8a20fe09369b",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Taiwan’s Chunghwa Telecom Unveils 10 Content Investments, From ‘Gunshot’ to ‘Call of Lobster’",
+    "url": "https://variety.com/2026/film/markets-festivals/taiwan-chunghwa-telecom-backs-gunshot-call-of-lobster-1236941920",
+    "published_at": "2026-11-07T03:36:02+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "eabf053db7b6a84d7b6d",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Robert Pattinson & Nicholas Hoult Round Out James Bond Screen Tests",
+    "url": "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183",
+    "published_at": "2026-11-07T03:33:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d29d5074d3c6110cbd5d",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Bill Maher Rubs Salt in Trump’s Midterms Wound: ‘Donnie, Are You OK?’",
+    "url": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912",
+    "published_at": "2026-11-07T03:20:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a49552efe483c22c18f4",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+    "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+    "published_at": "2026-11-07T03:12:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b9e74bca60517d798f10",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Robert Pattinson Reportedly Screen-Tested for 007 in James Bond 26",
+    "url": "https://www.ign.com/articles/robert-pattinson-bond-26-007-screen-test-nicholas-hoult",
+    "published_at": "2026-11-07T03:07:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "961b0b8bbe5139169069",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "James Bond Shocker: Robert Pattinson and Nicholas Hoult Late Contenders for 007 After Auditioning for Denis Villeneuve",
+    "url": "https://variety.com/2026/film/news/james-bond-casting-robert-pattinson-nicholas-hoult-1236941881",
+    "published_at": "2026-11-07T03:07:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7c38072dcbf6643093aa",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Chang Chen Urges Emerging Taiwanese Actors to ‘Be Like Water’ at Taiwan Creative Content Fest Golden Horse Showcase",
+    "url": "https://variety.com/2026/film/markets-festivals/chang-chen-emerging-taiwanese-actors-taiwan-creative-content-fest-1236941891",
+    "published_at": "2026-11-07T03:00:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b790b4df9b7e4d06792b",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Netflix’s Radford Studio Acquisition Moving Ahead Despite Streamer’s Sunset Blvd Landlord Throwing Shade On Deal",
+    "url": "https://deadline.com/2026/11/netflix-radford-studio-purchase-latest-1237216149",
+    "published_at": "2026-11-07T02:41:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5c2b67b1522c91cf30aa",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Deadline’s Sound & Screen Film Underway To Start The Awards-Season Drumbeat",
+    "url": "https://deadline.com/2026/11/2026-sound-and-screen-film-lineup-schedule-1237211717",
+    "published_at": "2026-11-07T02:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ff41b393bea57f2a05bb",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘The Remarried Empress’ Sets Disney+ Record As Most Viewed Local Original Launch Ever",
+    "url": "https://deadline.com/2026/11/the-remarried-empress-disney-record-1237216159",
+    "published_at": "2026-11-07T02:19:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8a11cd5936d0b7d30e0d",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "James Bond Surprise: Robert Pattinson Screen Tested to Play 007",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-tested-to-play-james-bond-1236749903",
+    "published_at": "2026-11-07T02:09:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5f790738e801627b2751",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Ellen DeGeneres Show’ Producer Matthew Wright’s Cause of Death Revealed",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/ellen-degeneres-show-producer-matthew-wright-cause-of-death-1236749895",
+    "published_at": "2026-11-07T02:04:19+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7847f528caf38ebe5a59",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Ellen DeGeneres Show’ EP Matthew Wright’s Cause Of Death Revealed",
+    "url": "https://deadline.com/2026/11/ellen-degeneres-show-ep-matthew-wright-cause-death-1237216153",
+    "published_at": "2026-11-07T01:51:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b00b82eb2fc9dc584a44",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Adam Driver Not Participating in ‘Girls’ Revival: “Wish Them the Best of Luck”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/adam-driver-girls-revival-not-participating-best-of-luck-1236749902",
+    "published_at": "2026-11-07T01:24:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "23e2b15c6056a09a6c64",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘The Remarried Empress’ Sets Disney+ and Hulu Record With Biggest Local Original Launch Ever",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/the-remarried-empress-disney-hulu-biggest-local-original-launch-1236749905",
+    "published_at": "2026-11-07T01:23:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "21449172778aa41db6a9",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Avengers: Doomsday Car Commercial Features New Look at Nightcrawler, Sparks Theories About Unannounced Heroes",
+    "url": "https://www.ign.com/articles/avengers-doomsday-car-commercial-features-new-look-at-nightcrawler-sparks-theories-about-unannounced-heroes",
+    "published_at": "2026-11-07T01:14:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b5eaf1232073292a4357",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "AFM Hot Project: Rosamund Pike to Star in Body Horror ‘Feed’",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/rosamund-pike-to-star-in-body-horror-feed-afm-project-1236749179",
+    "published_at": "2026-11-07T00:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1894be21340196d791bb",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Trump Reveals Plans For Post-Midterm Firings In ‘60 Minutes’ Interview, Hours Before Announcing That Susie Wiles Was Out",
+    "url": "https://deadline.com/2026/11/trump-60-minutes-midterms-1237216042",
+    "published_at": "2026-11-07T00:35:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1a3f0005dbcf62580057",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Adam Driver Shuts Down ‘Girls’ Return But Wishes Lena Dunham & Co-Stars “Best Of Luck”",
+    "url": "https://deadline.com/2026/11/adam-driver-shuts-down-girls-return-1237216089",
+    "published_at": "2026-11-07T00:00:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e1ef3a016531e4e2b347",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Paul Howard, Son of Moe Howard of The Three Stooges, Dies at 91",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/paul-howard-dead-three-stooges-moe-howard-1236749877",
+    "published_at": "2026-11-06T23:57:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e203868f5955af8a8d06",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Here's what's in Path of Exile 2’s huge 1.0 release, coming in December",
+    "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december",
+    "published_at": "2026-11-06T23:36:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "41e7aeeb4b7dd858d43c",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "I Just Found an Actual Deal on Corsair DDR5 Desktop Memory Ahead of Black Friday",
+    "url": "https://www.ign.com/articles/corsair-ddr5-desktop-memory-ram-deal-november-2026",
+    "published_at": "2026-11-06T23:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "997a2072e876662f65fd",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday",
+    "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-november-2026",
+    "published_at": "2026-11-06T23:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "fb70898819ad75108e40",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Get a Nintendo Switch 2 Console (USA Model) for $448 During the AliExpress Early Black Friday Sale",
+    "url": "https://www.ign.com/articles/nintendo-switch-2-console-deal-aliexpress-black-friday-sale",
+    "published_at": "2026-11-06T23:25:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a7320c3498111daff2b0",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "The Other Midterms Flip: Broadcast Networks, Led by NBC, Dominated Election Night Coverage",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/broadcast-networks-nbc-midterm-elections-tv-ratings-1236749456",
+    "published_at": "2026-11-06T23:18:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ca61f0339a06968c4f10",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours",
+    "published_at": "2026-11-06T23:11:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6a5d2e54dc465b5c50b3",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "EA HQ Graced With 'Save Mass Effect' Truck as N7 Day Looms",
+    "url": "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
+    "published_at": "2026-11-06T23:00:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6e720c7427ed6cd4d753",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Godzilla Minus Zero Ending Explained and Our Biggest Burning Questions",
+    "url": "https://www.ign.com/articles/godzilla-minus-zero-ending-explained-biggest-burning-questions",
+    "published_at": "2026-11-06T23:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "21a8e7fbc43ddafdfe6f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Avery the Poké Kid's Father Pleads With The Pokémon Company to Make a Trading Card in Honor of His Late Son",
+    "url": "https://www.ign.com/articles/avery-the-pok-kids-father-pleads-with-the-pokmon-company-to-make-a-trading-card-in-honor-of-his-late-son",
+    "published_at": "2026-11-06T22:58:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5e3bae85ee16d45b62a6",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Knicks Rep Thanks Taylor Swift For “Many Years” Of Fan Support After Tyler Kolek Comments",
+    "url": "https://deadline.com/2026/11/knicks-thanks-taylor-swift-many-years-fan-support-1237216026",
+    "published_at": "2026-11-06T22:34:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c1aadcba81a12bd4334b",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Idris Elba To Star In & Direct Action-Comedy ‘In Laws’; A Higher Standard Launching For AFM",
+    "url": "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
+    "published_at": "2026-11-06T22:15:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a85568625e1812b85bf4",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Pokémon TCG: 10 Most Valuable Delta Reign Cards From New Expansion",
+    "url": "https://www.ign.com/articles/pokemon-tcg-most-valuable-delta-reign-cards",
+    "published_at": "2026-11-06T22:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "301202d4ae8e2de33c46",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Godzilla Minus Zero Director Takashi Yamazaki Explains the Household Inspiration for the Film’s Big, Brutal Climax",
+    "url": "https://www.ign.com/articles/godzilla-minus-zero-director-takashi-yamazaki-explains-the-household-inspiration-for-the-films-big-brutal-climax",
+    "published_at": "2026-11-06T22:12:59+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8cd645c43666373461a5",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "‘I Meant It When I Said What I Said’ — Nicolas Cage is Actually Relieved That Spider-Noir Got Canceled",
+    "url": "https://www.ign.com/articles/i-meant-it-when-i-said-what-i-said-nicolas-cage-is-actually-relieved-that-spider-noir-got-canceled",
+    "published_at": "2026-11-06T22:04:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e27fe2fdea8b440744ba",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Steam Is Having an Early Black Friday Sale on Digital Board Games Right Now",
+    "url": "https://www.ign.com/articles/steam-digital-tabletop-fest-early-black-friday-deals-2026",
+    "published_at": "2026-11-06T21:51:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7131797b535d285047a1",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Path of Exile 2 announces a second new class, the Shadow, for its December 1.0 release",
+    "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2-announces-a-second-new-class-the-shadow-for-its-december-1-0-release",
+    "published_at": "2026-11-06T21:50:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4f2dfe8f1a7ed381cbff",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Ed Boon Wants to Know What Fans Want the Next Mortal Kombat Game to Be Called",
+    "url": "https://www.ign.com/articles/ed-boon-wants-to-know-what-fans-want-the-next-mortal-kombat-game-to-be-called",
+    "published_at": "2026-11-06T21:21:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "39e21723052f18fefd5f",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
+    "url": "https://www.pcgamer.com/games/rpg/underkeep-is-my-favorite-old-school-dungeon-crawler-since-legend-of-grimrock-and-yes-that-includes-queens-domain",
+    "published_at": "2026-11-06T21:14:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8f9129a4afb6371ddfae",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The GTPlayer Ace Pro Gaming Chair Has Built-In Speakers for Less Than $130 for Black Friday",
+    "url": "https://www.ign.com/articles/gtplayer-ace-pro-gaming-chair-deal-november-2026",
+    "published_at": "2026-11-06T21:10:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6ab483c42eb1e9802660",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Get a 1,000W Peak 48V Electric Bike With 28mph Top Speed and 80-Mile Range Under $250 for Black Friday",
+    "url": "https://www.ign.com/articles/urlife-e20-1000w-48v-adult-electric-bike-deal-november-2026",
+    "published_at": "2026-11-06T21:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "dfb1a8da68969948bb89",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "This Disturbing Horror Movie Is Free on Tubi Right Now - I Don’t Know if You Should Watch It",
+    "url": "https://www.ign.com/articles/this-disturbing-horror-movie-is-free-on-tubi-right-now-i-dont-know-if-you-should-watch-it",
+    "published_at": "2026-11-06T20:40:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4caa11ec32d3804988f2",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Can You Upgrade To GTA 6’s $100 Edition? Yes, And It’s Easy–Here’s How",
+    "url": "https://www.gamespot.com/articles/can-you-upgrade-to-gta-6s-100-edition-yes-and-its-easy-heres-how",
+    "published_at": "2026-11-06T20:23:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6804330f05dfabd95f6a",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
+    "url": "https://www.ign.com/articles/gta-6-players-in-germany-can-legally-take-time-off-work-to-play-the-game-on-launch-but-theres-a-catch",
+    "published_at": "2026-11-06T20:18:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f4c42beb48b620158d27",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Updated Xbox PC app promises 60% faster loading and easier access to games, but CEO Asha Sharma says there's \"plenty more to do\"",
+    "url": "https://www.eurogamer.net/updated-xbox-pc-app-faster-asha-sharma",
+    "published_at": "2026-11-06T19:58:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "30043e2f6e222a683eda",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Hozy for PS5, Xbox Series launches November 9",
+    "url": "https://www.gematsu.com/2026/11/hozy-for-ps5-xbox-series-launches-november-9",
+    "published_at": "2026-11-06T19:38:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5d60e1b12abc024f22b9",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "God of War Ragnarok Tops List of 10 Highest-Grossing PlayStation Studios Games From the PS5 Generation",
+    "url": "https://www.ign.com/articles/god-of-war-ragnarok-tops-list-of-10-highest-grossing-playstation-studios-games-from-the-ps5-generation",
+    "published_at": "2026-11-06T19:33:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8bc5a3e89aea157b0080",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA",
+    "url": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
+    "published_at": "2026-11-06T19:26:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bfc100baadc81442d25f",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges",
+    "url": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges",
+    "published_at": "2026-11-06T18:50:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ed8a48de4ecc36afb4db",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "You Can Finally Drive A Dreamcast, Thanks To Sonic",
+    "url": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic",
+    "published_at": "2026-11-06T18:42:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a56b5dad7468a8579f9b",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
+    "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
+    "published_at": "2026-11-06T18:40:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "34ff8b3915c9e1e18153",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
+    "url": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans",
+    "published_at": "2026-11-06T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a14491256cd6af7d44d6",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
+    "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
+    "published_at": "2026-11-06T17:49:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b869fda836a6c22cdd87",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
+    "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything",
+    "published_at": "2026-11-06T17:31:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "69737da0e4984550d591",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Live from this very minute, Newegg has a 200 Hz, 1440p gaming monitor going for just $129 in its early Black Friday goodie box",
+    "url": "https://www.pcgamer.com/hardware/gaming-monitors/live-from-this-very-minute-newegg-has-a-200-hz-1440p-gaming-monitor-going-for-just-usd129-in-its-early-black-friday-goodie-box",
+    "published_at": "2026-11-06T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d7180cb469d9468cc5be",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+    "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice",
+    "published_at": "2026-11-06T16:25:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6611a75dcb8dd6299e76",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
+    "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says",
+    "published_at": "2026-11-06T16:14:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "44335aa4c3b3dec9d9b3",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Ratchet & Clank Game Shutting Down Before Ever Fully Launching",
+    "url": "https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching",
+    "published_at": "2026-11-06T16:09:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c1d9e867612a5c94d0a4",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
+    "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved",
+    "published_at": "2026-11-06T15:53:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ac6852acd2f10d34c5c1",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
+    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai",
+    "published_at": "2026-11-06T15:50:34+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c5ee645963fac0cc9ff8",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time",
+    "url": "https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time",
+    "published_at": "2026-11-06T15:09:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "86f28a9d822a804913fd",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Bill Skarsgard Didn’t Need Much Convincing To Join Hideo Kojima’s Physint",
+    "url": "https://www.gamespot.com/articles/bill-skarsgard-didnt-need-much-convincing-to-join-hideo-kojimas-physint",
+    "published_at": "2026-11-06T15:01:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "04c32a076a7104621793",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Ratchet & Clank: Ranger Rumble canceled",
+    "url": "https://www.gematsu.com/2026/11/ratchet-clank-ranger-rumble-canceled",
+    "published_at": "2026-11-06T15:01:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1cfb157bc34607130389",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Nier Automata’s File Size Now Reflects How Good It Is",
+    "url": "https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is",
+    "published_at": "2026-11-06T14:42:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "176675ebbeb22db964b4",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds",
+    "url": "https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning",
+    "published_at": "2026-11-06T14:38:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "004a10a2e46a2a5c0bf2",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about",
+    "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about",
+    "published_at": "2026-11-06T14:21:52+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "638f355ea5c1b543233e",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "“We Failed,” Take-Two Boss Says Of The Mega-Flop Borderlands Movie",
+    "url": "https://www.gamespot.com/articles/we-failed-take-two-boss-says-of-the-mega-flop-borderlands-movie",
+    "published_at": "2026-11-06T14:19:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f4b89fe2a2f11d0b9231",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
+    "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft",
+    "published_at": "2026-11-06T14:02:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f926ef540e61cd4f23f2",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'",
+    "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players",
+    "published_at": "2026-11-06T13:49:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e1b40ef9c89c9e3fc3fe",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting",
+    "url": "https://www.gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting",
+    "published_at": "2026-11-06T13:46:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9ad5d5b2dd1eddf5e6f3",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "After EA, Saudi Arabia Is Reportedly Setting Its Sights On One Of Gaming’s Biggest Engines",
+    "url": "https://www.gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines",
+    "published_at": "2026-11-06T13:14:02+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "66b174174283b9114f3a",
     "source": "Eurogamer",
     "category": "gaming",
@@ -42,6 +780,15 @@
     "original_title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
     "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
     "published_at": "2026-11-06T12:02:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "391c35a246f631c86b92",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Wuthering Waves version 3.8 update ‘Lilies in a Dying Dream’ launches November 12",
+    "url": "https://www.gematsu.com/2026/11/wuthering-waves-version-3-8-update-lilies-in-a-dying-dream-launches-november-12",
+    "published_at": "2026-11-06T12:00:07+00:00",
     "status": "candidate"
   },
   {
@@ -279,12 +1026,48 @@
     "status": "candidate"
   },
   {
+    "id": "bd6933a784b3354b145e",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Demon Kill Demon: Yomi 1984 coming to PS5, PS4, and PC on February 25, 2027 in Japan",
+    "url": "https://www.gematsu.com/2026/11/demon-kill-demon-yomi-1984-coming-to-ps5-ps4-and-pc-on-february-25-2027-in-japan",
+    "published_at": "2026-11-06T09:30:51+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "edb44efa13a18fcfb813",
     "source": "Deadline",
     "category": "bulvar",
     "original_title": "British Comedy Producer Who “Laughed” During Russell Brand Assault Dropped From BBC & Apple Shows",
     "url": "https://deadline.com/2026/11/russell-brand-jack-bayles-dropped-bbc-apple-sexual-assault-1237214442",
     "published_at": "2026-11-06T09:07:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "88bf20321c38ec6e0026",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Acornia: Mirror Worlds launches in spring 2027",
+    "url": "https://www.gematsu.com/2026/11/acornia-mirror-worlds-launches-in-spring-2027",
+    "published_at": "2026-11-06T09:05:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "87b060af0086bb2f876f",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "MR. ELEVATOR coming to PS5 on November 27",
+    "url": "https://www.gematsu.com/2026/11/mr-elevator-coming-to-ps5-on-november-27",
+    "published_at": "2026-11-06T09:00:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "22873efae2ab92b0f3fc",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Ragnarok Console Project ‘A New Ragnarok Adventure Awaits’ trailer",
+    "url": "https://www.gematsu.com/2026/11/ragnarok-console-project-a-new-ragnarok-adventure-awaits-trailer",
+    "published_at": "2026-11-06T08:45:58+00:00",
     "status": "candidate"
   },
   {
@@ -2274,6 +3057,15 @@
     "original_title": "Nintendo’s Top-Selling Switch 2 Games Of All Time",
     "url": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694",
     "published_at": "2026-05-08T14:37:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4f42e3e0d392095d643f",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA+: Price, Free Games, And All The Other Perks You Get With A Membership Ahead Of GTA 6 Launch",
+    "url": "https://www.gamespot.com/articles/gta-price-free-games-and-all-the-other-perks-you-get-with-a-membership/1100-6530905",
+    "published_at": "2025-04-16T15:00:00+00:00",
     "status": "candidate"
   }
 ]
