@@ -1,10 +1,67 @@
 [
-  {"name": "Gematsu", "category": "gaming", "url": "https://www.gematsu.com/feed"},
-  {"name": "IGN", "category": "gaming", "url": "https://www.ign.com/rss/v2/articles/feed"},
-  {"name": "PC Gamer", "category": "gaming", "url": "https://www.pcgamer.com/feeds/articletype/news/"},
-  {"name": "Eurogamer", "category": "gaming", "url": "https://www.eurogamer.net/feed/news"},
-  {"name": "GameSpot", "category": "gaming", "url": "https://www.gamespot.com/feeds/game-news/"},
-  {"name": "Deadline", "category": "bulvar", "url": "https://deadline.com/feed/"},
-  {"name": "The Hollywood Reporter", "category": "bulvar", "url": "https://www.hollywoodreporter.com/feed/"},
-  {"name": "Variety", "category": "bulvar", "url": "https://variety.com/feed/"}
+  {
+    "name": "Gematsu",
+    "category": "gaming",
+    "url": "https://www.gematsu.com/feed"
+  },
+  {
+    "name": "IGN",
+    "category": "gaming",
+    "url": "https://www.ign.com/rss/v2/articles/feed"
+  },
+  {
+    "name": "PC Gamer",
+    "category": "gaming",
+    "url": "https://www.pcgamer.com/feeds/articletype/news/"
+  },
+  {
+    "name": "Eurogamer",
+    "category": "gaming",
+    "url": "https://www.eurogamer.net/feed/news"
+  },
+  {
+    "name": "GameSpot",
+    "category": "gaming",
+    "url": "https://www.gamespot.com/feeds/game-news/"
+  },
+  {
+    "name": "VGC",
+    "category": "gaming",
+    "url": "https://www.videogameschronicle.com/category/news/feed/"
+  },
+  {
+    "name": "Nintendo Life",
+    "category": "gaming",
+    "url": "https://www.nintendolife.com/feeds/news"
+  },
+  {
+    "name": "Deadline",
+    "category": "bulvar",
+    "url": "https://deadline.com/feed/"
+  },
+  {
+    "name": "The Hollywood Reporter",
+    "category": "bulvar",
+    "url": "https://www.hollywoodreporter.com/feed/"
+  },
+  {
+    "name": "Variety",
+    "category": "bulvar",
+    "url": "https://variety.com/feed/"
+  },
+  {
+    "name": "People",
+    "category": "bulvar",
+    "url": "https://feeds-api.dotdashmeredith.com/v1/rss/google/cc522820-4870-4a9a-9d5a-4a08b7a572f8"
+  },
+  {
+    "name": "Entertainment Weekly",
+    "category": "bulvar",
+    "url": "https://feeds.distribution.dotdashmeredith.com/v3/rss/d004b68a-9907-4fc4-ae4a-7a3b733547cd"
+  },
+  {
+    "name": "Rolling Stone",
+    "category": "bulvar",
+    "url": "https://www.rollingstone.com/tv-movies/feed/"
+  }
 ]
