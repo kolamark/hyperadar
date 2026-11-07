@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes, evidence_catalog, resolve_evidence_ids
+from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes, evidence_catalog, resolve_evidence_ids, salvage_supported_sentences
 
 
 class PublisherSafetyTests(unittest.TestCase):
@@ -96,6 +96,29 @@ class PublisherSafetyTests(unittest.TestCase):
         checks[2]["supported"], checks[2]["issue"] = True, ""
         checks[2]["evidence_ids"] = ["invented"]
         self.assertFalse(audit_passes({"checks":checks}, len(sentences), {"e0"}))
+
+    def test_salvage_removes_unsupported_sentence_but_keeps_two_paragraphs(self):
+        draft = {
+            "title":"Galaxy Quest új bejelentése",
+            "excerpt":"A stúdió két forrás szerint új megjelenési dátumot közölt a játékról.",
+            "body":[
+                "A stúdió közölte az új dátumot, és a játék PC-re is érkezik a bejelentés szerint. A vezetője szerint mindenki ingyen kapja meg az új játékot.",
+                "A másik lap is beszámolt a dátumról és a PC-s változatról, a kiadó közlésére hivatkozva. A megjelenés további részleteiről a két idézett forrás egyelőre nem adott közös tájékoztatást."
+            ],
+            "claims":[{"text":"Bejelentés","evidence":[{"url":"https://a.test/story","quote":"The studio announced a new release date for Galaxy Quest on PC."}]}]
+        }
+        count = len(editorial_sentences(draft))
+        self.assertEqual(count, 6)
+        checks = [{"index":i,"supported":i != 3,"issue":"" if i != 3 else "Unsupported giveaway",
+                   "evidence_ids":["e0"] if i != 3 else []} for i in range(count)]
+        result = salvage_supported_sentences(draft, {"checks":checks})
+        self.assertIsNotNone(result)
+        body, claims = result
+        self.assertEqual(len(body), 2)
+        self.assertNotIn("ingyen", " ".join(body))
+        self.assertEqual(len(claims), 3)
+        checks[0]["supported"] = False
+        self.assertIsNone(salvage_supported_sentences(draft, {"checks":checks}))
 
     def test_evidence_ids_resolve_to_exact_source_passages(self):
         texts = [
