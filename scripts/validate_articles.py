@@ -4,6 +4,7 @@ import json
 import re
 from pathlib import Path
 from urllib.parse import urlsplit
+from publish import looks_hungarian
 
 root = Path(__file__).resolve().parents[1]
 path = root / "articles.json" if (root / "articles.json").exists() else root / "dist" / "articles.json"
@@ -24,6 +25,7 @@ for i, article in enumerate(data["articles"], 1):
     body = article.get("body")
     assert isinstance(body, list) and len(body) >= 2 and all(isinstance(p, str) and p.strip() for p in body), f"{where}: invalid body"
     assert len(re.findall(r"\S+", " ".join(body))) >= 120, f"{where}: too short"
+    assert looks_hungarian(article["title"], article["excerpt"], body), f"{where}: Hungarian language check failed"
     sources = article.get("sources")
     assert isinstance(sources, list) and sources, f"{where}: no sources"
     for source in sources:
