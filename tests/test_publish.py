@@ -19,6 +19,18 @@ class PublisherSafetyTests(unittest.TestCase):
         self.assertEqual(len(groups), 1)
         self.assertEqual({x["source"] for x in groups[0]}, {"A", "B"})
 
+    def test_looser_titles_still_need_two_shared_terms(self):
+        now = datetime.now(timezone.utc).isoformat()
+        entries = [
+            {"source":"A","category":"gaming","original_title":"Nier Automata update inflates PC file size to 366GB","url":"https://a.test/nier","published_at":now},
+            {"source":"B","category":"gaming","original_title":"Nier Automata dev working on fix for bloated 366GB PC update","url":"https://b.test/nier","published_at":now},
+            {"source":"C","category":"gaming","original_title":"Mass Effect composer releases farewell trailer","url":"https://c.test/mass","published_at":now},
+            {"source":"D","category":"gaming","original_title":"Mass Effect truck arrives at EA headquarters","url":"https://d.test/mass","published_at":now},
+        ]
+        groups = clusters(entries, [])
+        self.assertEqual(len(groups), 1)
+        self.assertEqual({x["source"] for x in groups[0]}, {"A", "B"})
+
     def test_same_source_is_not_confirmation(self):
         now = datetime.now(timezone.utc).isoformat()
         entries = [{"source":"A","category":"gaming","original_title":"Galaxy Quest release date announced","url":f"https://a.test/{n}","published_at":now} for n in range(2)]
