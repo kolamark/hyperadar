@@ -3,13 +3,17 @@
     {
       "status": "published",
       "category": "gaming",
-      "title": "Megjelent a Zelda: Ocarina of Time Switch 2-re készült remake-je, nagy sikert aratott a kritikusoknál és a játékosoknál",
-      "excerpt": "A The Legend of Zelda: Ocarina of Time remake-je elérhető a Nintendo Switch 2-re, és a kritikusok körében rendkívül pozitív fogadtatásban részesült, jelenleg 96 pont a Metascore-ja 85 értékelés alapján.",
+      "title": "Megjelent a Zelda: Ocarina of Time felújított változata Switch 2-re",
+      "excerpt": "A Nintendo november 5-én adta ki a játékot. A Nintendo Life 85 kritika alapján 96 pontos Metascore-ról számolt be, a Kotaku pedig kezdőknek szóló tippeket közölt.",
       "body": [
-        "A The Legend of Zelda: Ocarina of Time remake-je elérhető a Nintendo Switch 2-re, és a kritikusok körében rendkívül pozitív fogadtatásban részesült, jelenleg 96 pont a Metascore-ja 85 értékelés alapján. A játék modern grafikával, magas hangminőséggel és megújult játékmenettel várja a rajongókat, miközben megőrzi az eredeti játék varázsát és nehézségi elemeit. A játékosok dicsérik a vizuális megjelenést és a részletek kidolgozottságát, és többen 9 vagy 10 pontot adtak a játékélményre, külön kiemelve a játék stílusát és az apró újításokat.",
-        "Az új generációs platformon megjelent játékkal kapcsolatosan a Kotaku játékos-tippeket is közölt azok számára, akik most ismerkednek a játékkal, vagy először próbálják ki. Részletes tanácsokat adnak a harcokról, a fő történetszál mellett elérhető mellékküldetésekről, a minijátékok előnyeiről, valamint fontos szerepet kapnak az üres palackok begyűjtése és a rejtett elemek felderítése is. Újdonságként említik az új, tündéres szimbólumokat, amelyek segíthetnek felfedezni a titkokat, és egy 100 aranyszkulltula gyűjtése is fontos gyűjthető elem a játékban."
+        "A The Legend of Zelda: Ocarina of Time felújított változata november 5-én jelent meg Nintendo Switch 2-re. A Nintendo tájékoztatása szerint a játék látványát és hangzását átdolgozták, a párbeszédeket kibővítették, a kamerakezelést pedig megújították. A Nintendo Life november 7-i cikke a kritikai fogadtatást is összesítette: az akkor elérhető 85 értékelés alapján 96 ponton állt a játék a Metacriticen. Ez az adat a cikk megjelenésekor rögzített állapotot mutatja, később változhat.",
+        "A Kotaku a megjelenés után tíz tanácsot gyűjtött össze azoknak, akik először játszanak az Ocarina of Time-mal. Az útmutató a kezdeti harci mozdulatok gyakorlását, a fő történeten kívüli felfedezést és a minijátékok kipróbálását is javasolja. Külön kitér az üres palackokra: ezekben küldetéshez szükséges tárgyakat, gyógyító italokat vagy tündéreket lehet tárolni. A két lap tehát más szempontból foglalkozik ugyanazzal a frissen megjelent játékkal: az egyik a fogadtatást, a másik a kezdőknek hasznos játékmeneti tippeket emeli ki."
       ],
       "sources": [
+        {
+          "name": "Nintendo",
+          "url": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/"
+        },
         {
           "name": "Nintendo Life",
           "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake"
@@ -22,41 +26,33 @@
       "published_at": "2026-11-07T16:21:20.863696Z",
       "claims": [
         {
-          "text": "A játék a Nintendo Switch 2-re jelent meg, és a Metascore-ja 96 pont 85 kritika alapján.",
+          "text": "A Nintendo a Switch 2-es Ocarina of Time megjelenését november 5-re jelentette be, átdolgozott látvánnyal, hangzással és irányítással.",
           "evidence": [
             {
-              "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
-              "quote": "As mentioned, it's gone down very well with critics and currently sits with a whopping great Metascore of 96 after 85 reviews. Our own Ollie Reynolds called it \"a remarkable remake, and a"
+              "url": "https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/",
+              "quote": "Coming Nov. 5, the classic adventure is reborn on Nintendo Switch 2 with various enhancements."
             }
           ]
         },
         {
-          "text": "A játék modern grafikával, megújult hanggal és játékmenettel készült, miközben megőrzi az eredeti játék hangulatát és nehézségi szintjeit.",
+          "text": "A Nintendo Life 85 kritika után 96 pontos Metascore-t közölt.",
           "evidence": [
             {
               "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
-              "quote": "\"Ocarina of Time on Switch 2 is a stellar reimagining of the original, one that completely revamps the experience with stunning visuals, modernised gameplay, and vastly improved audio."
-            },
-            {
-              "url": "https://www.nintendolife.com/features/poll-what-review-score-would-you-give-the-zelda-ocarina-of-time-remake",
-              "quote": "Despite some minor blemishes, this is comfortably the most visually stunning work Nintendo has ever put out, and it’s unquestionably the best way to play one of the most seminal games of all"
+              "quote": "currently sits with a whopping great Metascore of 96 after 85 reviews."
             }
           ]
         },
         {
-          "text": "A Kotaku tippeket ad az új játékosoknak a harcokról, mellékküldetésekről, minijátékokról és a gyűjthető tárgyakról.",
+          "text": "A Kotaku az új játékosoknak tíz tippet közölt, köztük a harci mozdulatok, a felfedezés, a minijátékok és az üres palackok használatáról.",
           "evidence": [
             {
               "url": "https://kotaku.com/10-zelda-ocarina-of-time-tips-for-the-first-time-player-2000754728",
-              "quote": "In Kokiri Forest, when you first get control of Link, you can immediately head out of your house and down the path to the left to reach the Know-It-Alls. The characters inside the house will"
+              "quote": "10 Zelda: Ocarina Of Time Tips For The First-Time Player"
             },
             {
               "url": "https://kotaku.com/10-zelda-ocarina-of-time-tips-for-the-first-time-player-2000754728",
-              "quote": "Which, speaking of empty bottles. these are by far your most precious resource. Get as many as you can as soon as you can. If someone’s got a bottle for you, drop everything and do what they"
-            },
-            {
-              "url": "https://kotaku.com/10-zelda-ocarina-of-time-tips-for-the-first-time-player-2000754728",
-              "quote": "New to the remake of Ocarina of Time are fairy symbols, odd glowing runes you’ll find inscribed on walls or pillars or other out-of-the-way surfaces as you explore. You can use Navi to"
+              "quote": "Empty bottles are used to hold all sorts of things: items you need for quests and to unlock secret paths, potions to refill your health, and fairies that can revive you automatically if you die."
             }
           ]
         }
