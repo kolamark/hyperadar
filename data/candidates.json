@@ -1,5 +1,473 @@
 [
   {
+    "id": "9c4f336921e690d64ed7",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Oscar Predictions: Best Casting — ‘Being Heumann’ and ‘La Bola Negra’ Found the Year’s Boldest Discoveries. Will the Academy Reward Them?",
+    "url": "https://variety.com/feature/2027-oscars-best-casting-predictions-1236878513",
+    "published_at": "2026-11-08T22:50:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2377167b812cc1fe3102",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Maya Jama Steps Down As Love Island UK Host After 9 Seasons",
+    "url": "https://www.eonline.com/news/1437938/love-island-uk-host-maya-jama-exits-show-after-9-seasons?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-08T22:49:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7036ee60d9b0a976751c",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get Lil’ Uzi Vert Jr. Sprite in Fortnite and how it works",
+    "url": "https://www.destructoid.com/how-to-get-lil-uzi-vert-jr-sprite-in-fortnite-and-how-it-works",
+    "published_at": "2026-11-08T22:45:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cd83fecbe2eadcdeb26c",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Dave Chappelle’s Charlie Kirk Joke Prompts Response from Erika Kirk: Using the ‘Destruction of a Human Life’ as a ‘Punchline Is Beyond Disgusting’",
+    "url": "https://variety.com/2026/digital/news/dave-chappelles-charlie-kirk-joke-erika-kirk-responds-1236942735",
+    "published_at": "2026-11-08T22:44:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7bc76b88132d2fb67c51",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Bold and the Beautiful” star reacts to Lesley-Anne Down admitting she has no interest in returning: ‘I’m disappointed’",
+    "url": "https://ew.com/bold-and-the-beautiful-star-reacts-lesley-anne-down-wont-return-12243645",
+    "published_at": "2026-11-08T22:33:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b3674c17dce0b27c6d4a",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Nvidia Launches Investigation Into CEO Jensen Huang Following Honeypot Scandal",
+    "url": "https://kotaku.com/nvidia-launches-investigation-into-ceo-jensen-huang-following-honeypot-scandal-2000754894",
+    "published_at": "2026-11-08T22:09:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0e6c7a2712d40abae47a",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Jackbox Games isn't interested in AI development: 'All that is done by people, and we have no intention of changing that'",
+    "url": "https://www.pcgamer.com/gaming-industry/game-development/jackbox-games-isnt-interested-in-ai-development-all-that-is-done-by-people-and-we-have-no-intention-of-changing-that",
+    "published_at": "2026-11-08T22:06:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ef8703d0cf785f87371e",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Stars call out cohost Sara Haines over resurfaced discussion about race on “The View”: ‘A miss on such a regular basis’",
+    "url": "https://ew.com/stars-slam-the-view-sara-haines-resurfaced-discussion-about-race-12243611",
+    "published_at": "2026-11-08T22:04:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4b7e0d69b71edf9282da",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Druski Leads One Of ‘SNL’s Most Star-Studded Curtain Calls Ever With Emma Stone, Michael B. Jordan, Austin Butler, Plus Chappelle, Rock, Goggins",
+    "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899",
+    "published_at": "2026-11-08T22:00:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b389f3db7d6fbaee80cd",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Texas senator-elect James Talarico surprises with “SNL” cameo",
+    "url": "https://ew.com/texas-senator-elect-james-talarico-snl-cameo-12243593",
+    "published_at": "2026-11-08T21:48:34+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5b28d95de7ad0a17eff1",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Why Austin Butler Cannot Drive the Iconic Black Ferrari in Miami Vice '85",
+    "url": "https://www.ign.com/articles/austin-butler-miami-vice-85-black-ferrari-legal-reason",
+    "published_at": "2026-11-08T21:41:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2042d90494cb1c62fd7e",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
+    "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation",
+    "published_at": "2026-11-08T21:38:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "625492424a6ee09cb385",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+    "url": "https://www.ign.com/articles/jesse-eisenberg-says-he-experiments-with-ai-just-to-make-sure-its-not-good-at-writing-yet",
+    "published_at": "2026-11-08T21:32:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7b1c5c2de386faad43b9",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘SNL’ Pays Tribute To Susan Saint James With Title Card",
+    "url": "https://deadline.com/2026/11/snl-pays-tribute-susan-saint-james-title-card-1237216895",
+    "published_at": "2026-11-08T21:32:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d39be47cc4f8bf46aeba",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "NBC’s Mike Tirico Skipping ‘Sunday Night Football’ In Chicago Due To “Health Issue”",
+    "url": "https://deadline.com/2026/11/nbc-mike-tirico-skipping-sunday-night-football-health-issue-1237216897",
+    "published_at": "2026-11-08T21:25:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0477cad6dbac048d92f4",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get the Gold Lil’ Uzi Vert skin in Fortnite",
+    "url": "https://www.destructoid.com/how-to-get-the-gold-lil-uzi-vert-skin-in-fortnite",
+    "published_at": "2026-11-08T21:22:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e8d0a82e2c36d6b0fc68",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Jennifer Garner Details \"Incredible\" Chapter in Ben Affleck Marriage",
+    "url": "https://www.eonline.com/news/1437936/jennifer-garner-details-incredible-vacation-during-ben-affleck-marriage?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-08T21:13:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cb58197a2d40d4786361",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Taylor Swift, Karlie Kloss Prove There's No Bad Blood at Chiefs Game",
+    "url": "https://www.eonline.com/news/1437935/taylor-swift-karlie-kloss-reunite-at-chiefs-game-after-past-feud-rumors?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-08T21:12:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c319ce0187b1ac76c79f",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Grammy-nominated pop star hit in face after concertgoer appears to throw object on stage during performance",
+    "url": "https://ew.com/mon-laferte-hit-face-cell-phone-concertgoer-12243586",
+    "published_at": "2026-11-08T21:03:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "812579366f253d488e61",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Extraction shooters need a PvE mode for casual players—so what’s the controversy?",
+    "url": "https://www.destructoid.com/extraction-shooters-need-a-pve-mode-for-casual-players-so-whats-the-controversy",
+    "published_at": "2026-11-08T21:02:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "109e5e8b5788f3f229f3",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Avedon’ Review: Ron Howard’s Thrilling Documentary About Richard Avedon, the Great Photographer Who Turned Head-On Portraits Into an Art Form",
+    "url": "https://variety.com/2026/film/reviews/avedon-review-ron-howard-richard-avedon-1236942472",
+    "published_at": "2026-11-08T21:02:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "730d0b5adfe65f76a977",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Little Rascals ”star makes plea for financial aid as he prepares for sixth child after taking a ‘vow of poverty’",
+    "url": "https://ew.com/little-rascals-star-brandon-bug-hall-asks-for-financial-aid-baby-no-6-12243592",
+    "published_at": "2026-11-08T20:56:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e1a1079b48b76ae85682",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Best Deals Today: Sony Inzone H9 Gaming Headset, Criterion Collection Sale, Pikmin 4, and More",
+    "url": "https://www.ign.com/articles/best-deals-for-november-8-2026",
+    "published_at": "2026-11-08T20:55:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "74bb20d3ecfe05438a39",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Uh oh, Zelda fans have accidentally created a mix between kid and adult Link, and the result is hilarious",
+    "url": "https://www.destructoid.com/uh-oh-zelda-fans-have-accidentally-created-a-mix-between-kid-and-adult-link-and-the-result-is-hilarious",
+    "published_at": "2026-11-08T20:43:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "75d7c1d3103357666966",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Passing Strange’ Comes to Pasadena Playhouse: Creators Stew and Heidi Rodewald on the Rock Musical Reaching L.A. Almost Two Decades After Tony-Winning Broadway Run",
+    "url": "https://variety.com/2026/legit/news/passing-strange-pasadena-playhouse-stew-heidi-interview-1236942647",
+    "published_at": "2026-11-08T20:43:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b613a13fb8857d85bf1f",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Taylor Swift and Karlie Kloss Reunite at Travis Kelce’s Chiefs Game Against Jets",
+    "url": "https://variety.com/2026/digital/news/taylor-swift-karlie-kloss-reunite-travis-kelce-chiefs-game-1236942684",
+    "published_at": "2026-11-08T20:39:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2896e5c5892b1eb00867",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "World Of Warcraft: Forever Player Already Hits Level Cap As Users Return To Azeroth In Record Numbers",
+    "url": "https://kotaku.com/world-of-warcraft-forever-player-already-hits-level-cap-as-users-return-to-azeroth-in-record-numbers-2000754888",
+    "published_at": "2026-11-08T20:38:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "974a8e788732fffc09df",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All endings in Queen’s Domain and how to unlock them",
+    "url": "https://www.destructoid.com/all-endings-in-queens-domain-and-how-to-unlock-them",
+    "published_at": "2026-11-08T20:25:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1e8ee24b2df5e6e8ad01",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short of Naming New Bond at LACMA Art+Film Gala",
+    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/denis-villeneuve-dune-new-bond-lacma-artfilm-gala-2026-1236750330",
+    "published_at": "2026-11-08T20:15:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0e9906b9674b999cdb66",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Former PlayStation Boss Says Sony Doesn't Need a 'PS6 for $1,200,' It Needs a 'PS5 for $300'",
+    "url": "https://www.ign.com/articles/former-playstation-boss-says-sony-doesnt-need-a-ps6-for-1200-it-needs-a-ps5-for-300",
+    "published_at": "2026-11-08T20:11:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "13c91d91db8180574b2a",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘I’ve Had It’ Podcast Hosts Jennifer Welch and Angie Sullivan Apologize for Laughing at Charlie Kirk Joke: ‘We Regret It’",
+    "url": "https://variety.com/2026/politics/news/jennifer-welch-angie-sullivan-apologize-charlie-kirk-joke-1236942607",
+    "published_at": "2026-11-08T20:11:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "aed1952cff5740a0a5e2",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Charlie Kirk’s Widow Calls Jokes About Him “Beyond Disgusting” After Outcry Over Dave Chappelle Stand-Up",
+    "url": "https://deadline.com/2026/11/charlie-kirk-widow-jokes-beyond-disgusting-dave-chappelle-1237216849",
+    "published_at": "2026-11-08T20:05:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cd08f16bc8853db37211",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Jackie Kennedy rode around naked in a convertible with JFK’s grave designer, new book claims",
+    "url": "https://ew.com/jfk-grave-designer-drove-jackie-naked-convertible-new-book-claims-12240658",
+    "published_at": "2026-11-08T20:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1bca12d443fad318e2bf",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Maya Jama Exits ‘Love Island U.K.’ as Host After 9 Seasons: ‘All Good Things Must Come to an End’",
+    "url": "https://variety.com/2026/tv/news/maya-jama-exits-love-island-uk-as-host-1236942610",
+    "published_at": "2026-11-08T19:59:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8894cd8950491810be1e",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Stephen Colbert Evacuated From Harvard Event Due to Fire Alarm After Being Accused of Crossing Picket Line",
+    "url": "https://www.hollywoodreporter.com/news/general-news/stephen-colbert-accused-crossing-picket-line-harvard-event-1236750499",
+    "published_at": "2026-11-08T19:58:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8278dc5876037d816aca",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Indie & Alternative Cinema Surges From ‘Stray Kids’ To ‘Heated Rivalry’ – Specialty Box Office",
+    "url": "https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831",
+    "published_at": "2026-11-08T19:51:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "42e88cc7a90505f49fa4",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Melty New Puzzle Game From Shotgun King Creators Burns Tetris At Both Ends",
+    "url": "https://kotaku.com/melty-new-puzzle-game-from-shotgun-king-creators-burns-tetris-at-both-ends-2000754885",
+    "published_at": "2026-11-08T19:41:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ca3e705a3c8b81d78927",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Why Love Is Blind's Lauren Speed Thinks Her Engagement Ring Was Fake",
+    "url": "https://www.eonline.com/news/1437934/love-is-blinds-lauren-speed-says-her-engagement-ring-from-show-was-fake?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-08T19:41:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2d121a37d42a798b53c1",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Maya Jama Exits As ‘Love Island UK’ Host After 9 Seasons",
+    "url": "https://deadline.com/2026/11/maya-jama-exits-love-island-uk-host-itv-1237216848",
+    "published_at": "2026-11-08T19:32:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f2eeac2def43adcdde9b",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Dave Chappelle says he’s been in a ‘good mood’ ever since ‘Charlie Kirk got murdered’",
+    "url": "https://ew.com/dave-chappelle-charlie-kirk-murder-put-him-in-good-mood-12243527",
+    "published_at": "2026-11-08T19:31:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1b9fd978277d17af940c",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Alycia Baumgardner vs. Elif Nur Turhan on ESPN Unlimited: Here’s Where to Watch the Title Bout Live Online",
+    "url": "https://variety.com/2026/shopping/news/watch-baumgardner-nur-turhan-espn-boxing-live-online-free-1236938381",
+    "published_at": "2026-11-08T19:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f107381a4bccc18fb160",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Box Office: ‘Heated Rivalry’ Fans Drive Show’s Theatrical Release to $1.4 Million",
+    "url": "https://variety.com/2026/film/box-office/heated-rivalry-theatrical-release-box-office-grosses-1236942444",
+    "published_at": "2026-11-08T19:19:59+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d31b7d6dd305e7ce9c7f",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Jennifer Welch & Angie Sullivan Apologize For Laughing At “Insensitive” Charlie Kirk Joke On Podcast: “We Regret It”",
+    "url": "https://deadline.com/2026/11/jennifer-welch-angie-sullivan-apologize-laughing-charlie-kirk-joke-1237216817",
+    "published_at": "2026-11-08T19:18:11+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9765f47dc42f6ad0988a",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Toxic Homes, Terrible Dilemma: Oscar Contender ‘Still Standing’ Documents Homeowner Nightmare After LA Wildfires – SFFILM Doc Stories",
+    "url": "https://deadline.com/2026/11/still-standing-la-wildfires-documentary-pov-1237216814",
+    "published_at": "2026-11-08T19:12:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ad54f10517614e752794",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Who Is Justin Timberlake's \"What Goes Around...Comes Around\" About?",
+    "url": "https://www.eonline.com/news/1437933/justin-timberlake-says-this-popular-song-is-not-about-britney-spears?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-08T19:05:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "01f33b9a5b96fda73498",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Bill Skarsgard Jokes About Using Pennywise Voice When His Kids Misbehave: “Schizophrenic Daddy”",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-pennywise-voice-kids-misbehave-1236750434",
+    "published_at": "2026-11-08T19:01:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "dd764a4921b81a4efb56",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Andy Serkis Says He Was ‘Evangelical’ About Performance Capture After Playing Gollum in ‘Lord of the Rings’ but Now Accepts It’s ‘Misunderstood’: ‘If You Get It? Great’",
+    "url": "https://variety.com/2026/film/news/andy-serkis-motion-capture-gollum-1236942445",
+    "published_at": "2026-11-08T18:58:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "43b19309c09f649780f1",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 Hawk Instinct Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-hawk-instinct-evolution",
+    "published_at": "2026-11-08T18:57:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0f62299ebb7ec13cd180",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Godzilla Minus Zero Stomps on Expectations With $63 Million Box Office Opening Weekend",
+    "url": "https://www.ign.com/articles/godzilla-minus-zero-stomps-on-expectations-with-63-million-box-office-opening-weekend",
+    "published_at": "2026-11-08T18:47:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6d8acf93e2b99d6ce5d9",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways'",
+    "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrim-lead-designer-bruce-nesmith-loved-that-baldurs-gate-3-closed-off-story-paths-based-on-your-decisions-but-defends-bethesdas-approach-they-were-both-fun-theyre-just-fun-in-different-ways",
+    "published_at": "2026-11-08T18:33:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "38da9fe676906d3a5078",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 Underdog Run Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-underdog-run-evolution",
+    "published_at": "2026-11-08T18:32:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9dbecb41a6350fd2c04f",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Michael B. Jordan and Austin Butler make blink-and-you’ll-miss-em cameos on “SNL”",
+    "url": "https://ew.com/michael-b-jordan-austin-butler-crash-snl-goodnights-12243465",
+    "published_at": "2026-11-08T18:28:25+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "f6b09301fbd944fce8c9",
     "source": "Deadline",
     "category": "bulvar",
@@ -2175,6 +2643,24 @@
     "original_title": "Bill Maher Rubs Salt in Trump’s Midterms Wound: ‘Donnie, Are You OK?’",
     "url": "https://variety.com/2026/tv/news/bill-maher-trump-midterms-loss-real-time-hbo-lindsey-graham-1236941912",
     "published_at": "2026-11-07T03:20:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ee1fc82d8b42a9e62078",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best WoW Forever Keybinds, UI Setup, and Settings",
+    "url": "https://www.destructoid.com/best-wow-forever-keybinds-ui-setup-and-settings",
+    "published_at": "2026-11-07T03:14:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "60068eeac971d2a6f0b2",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "WoW Forever PvP Explained: Honor, Ranks, and World PvP",
+    "url": "https://www.destructoid.com/wow-forever-pvp-explained-honor-ranks-and-world-pvp",
+    "published_at": "2026-11-07T03:14:14+00:00",
     "status": "candidate"
   },
   {
