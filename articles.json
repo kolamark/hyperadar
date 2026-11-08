@@ -3,6 +3,151 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "Elhalasztotta a Sony a PlayStation Pulse Elevate vezeték nélküli hangszórók megjelenését",
+      "excerpt": "A Sony nem sokkal az eredetileg tervezett november 12-i megjelenés előtt halasztotta el a Pulse Elevate vezeték nélküli hangszórók piacra dobását egy gyártási probléma miatt. Az új megjelenési dátum még nincs meg.",
+      "body": [
+        "A Sony bejelentette, hogy a Pulse Elevate vezeték nélküli, PlayStation márkájú hangszórókat a gyártás során felmerült minőségi probléma miatt határozatlan időre késleltetik. Az eredeti megjelenés november 12-re volt kitűzve, az előrendelések pedig szeptemberben indultak.",
+        "A hangszórók több eszközzel kompatibilisek, például PS5-tel, PC-vel, Macekkel és PlayStation Portal eszközökkel, beépített mikrofonnal és mesterséges intelligencia alapú zajszűréssel."
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806"
+        }
+      ],
+      "published_at": "2026-11-08T11:59:29.769625Z",
+      "claims": [
+        {
+          "text": "A Sony bejelentette, hogy a Pulse Elevate vezeték nélküli, PlayStation márkájú hangszórókat a gyártás során felmerült minőségi probléma miatt határozatlan időre késleltetik.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+              "quote": "Sony has delayed its Pulse Elevate wireless speakers indefinitely, less than a week before they were due to launch."
+            },
+            {
+              "url": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
+              "quote": "Sony has announced an indefinite delay for PlayStation's Pulse Elevate wireless speakers just days before their global launch."
+            }
+          ]
+        },
+        {
+          "text": "Az eredeti megjelenés november 12-re volt kitűzve, az előrendelések pedig szeptemberben indultak.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+              "quote": "Sony has delayed its Pulse Elevate wireless speakers indefinitely, less than a week before they were due to launch."
+            },
+            {
+              "url": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
+              "quote": "Sony has announced an indefinite delay for PlayStation's Pulse Elevate wireless speakers just days before their global launch."
+            },
+            {
+              "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+              "quote": "Sony Delays Wireless PlayStation Pulse Speakers A Week Away From Launch"
+            }
+          ]
+        },
+        {
+          "text": "A hangszórók több eszközzel kompatibilisek, például PS5-tel, PC-vel, Macekkel és PlayStation Portal eszközökkel, beépített mikrofonnal és mesterséges intelligencia alapú zajszűréssel.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+              "quote": "They connect to PS5, PC, Mac, and PlayStation Portal via PlayStation Link, and can pair with a phone over Bluetooth at the same time. There's also a microphone in the right speaker with what"
+            },
+            {
+              "url": "https://www.eurogamer.net/playstation-pulse-elevate-speakers-delayed-indefinitely-production-issue",
+              "quote": "Sony calls \"AI-enhanced noise rejection\"."
+            },
+            {
+              "url": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
+              "quote": "headphones. They were said to be available in both Midnight Black and White, with both boasting a built-in microphone with \"AI-enhanced noise rejection.\" The speakers are also able to be"
+            },
+            {
+              "url": "https://www.ign.com/articles/sony-announces-indefinite-delay-for-playstations-pulse-elevate-wireless-speakers-days-before-launch",
+              "quote": "paired with PlayStation 5, PC, Mac, and even PlayStation Portal devices."
+            },
+            {
+              "url": "https://kotaku.com/sony-delays-wireless-playstation-pulse-speakers-a-week-away-from-launch-2000754806",
+              "quote": "Similar to the Pulse brand of earbuds, the Pulse Elevate speakers were designed with the PlayStation 5 and Portal in mind, but could pair with PC, Mac and even mobile gaming experiences. The"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "Druski Elizabeth Holmesként tűnt fel az SNL Nathan Fielder-es Theranos-paródiájában",
+      "excerpt": "Druski az SNL-ben egy szkeccsben jelent meg, amely Nathan Fielder és Lance Oppenheim Theranos-alapító Elizabeth Holmest bemutató You Can See Everything című dokumentumfilmjének paródiája volt.",
+      "body": [
+        "Druski az SNL-ben egy szkeccsben jelent meg, amely Nathan Fielder és Lance Oppenheim Theranos-alapító Elizabeth Holmest bemutató You Can See Everything című dokumentumfilmjének paródiája volt.",
+        "A jelenetben Druski szkeptikusan viszonyult Holmeshoz, illetve karakterét fehérségben imitálva is megjelent a színpadon, utalva Fielder reenactment technikájára, a komikus pedig párbeszédeket ismételgetett Holmes karakterével."
+      ],
+      "sources": [
+        {
+          "name": "Rolling Stone",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289"
+        }
+      ],
+      "published_at": "2026-11-08T11:59:10.636500Z",
+      "claims": [
+        {
+          "text": "Druski az SNL-ben egy szkeccsben alakította Elizabeth Holmest, ami a You Can See Everything dokumentumfilm paródiája.",
+          "evidence": [
+            {
+              "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383",
+              "quote": "Saturday Night Live host, actor and comedian Druski starred in a sketch that imagined a prelude to You Can See Everything, the metadocumentary about Theranos founder Elizabeth Holmes."
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276",
+              "quote": "Druski Embodies Elizabeth Holmes in ‘You Can See Everything’ Spoof on ‘SNL’"
+            },
+            {
+              "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289",
+              "quote": "chops in a parody of the Nathan Fielder/Elizabeth Holmes docu-phenomenon “You Can See Everything.”"
+            }
+          ]
+        },
+        {
+          "text": "A paródiában Druski fehér arcot használva imitálta Holmes karakterét és többször ismételgetett vele párbeszédeket.",
+          "evidence": [
+            {
+              "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383",
+              "quote": "“I just need to find somebody who can truly embody her character,” he says to himself in the mirror. Cue the cut to him as Holmes."
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276",
+              "quote": "In one of the most jaw-dropping parts of the sketch, Druski himself transformed into Elizabeth Holmes, prosthetics and all. The moment was prefaced with an SNL voiceover that said, “And just"
+            },
+            {
+              "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289",
+              "quote": "Later on in the trailer, they did the stare-down scene once more — only this time, Druski was in whiteface as Holmes, facing off against Wickline’s Holmes. The digital creator has gone viral"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "Megjelent a Zelda: Ocarina of Time felújított változata Switch 2-re",
       "excerpt": "A Nintendo november 5-én adta ki a játékot. A Nintendo Life 85 kritika alapján 96 pontos Metascore-ról számolt be, a Kotaku pedig kezdőknek szóló tippeket közölt.",
       "body": [

@@ -1,5 +1,356 @@
 [
   {
+    "id": "febdad12e25fde6acec1",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "What happened to the cast of “Rocky”? See what became of the stars 50 years later",
+    "url": "https://ew.com/the-cast-of-rocky-where-are-they-now-12208701",
+    "published_at": "2026-11-08T11:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "32af0d7d123d7a09e5bf",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "To Make a Doc About a Nomadic Cyclist, the ‘Perfect Road’ Filmmakers Spent 3 Months in a Campervan",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-directors-spent-months-in-campervan-poff-1236744367",
+    "published_at": "2026-11-08T11:01:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8e4cb93f63697b8e752a",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "The Sunday Papers",
+    "url": "https://www.rockpapershotgun.com/the-sunday-papers-835",
+    "published_at": "2026-11-08T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8de9bf50bd1625d20500",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Camerimage Opens With a Robot, an AI Reckoning and a Minute of Silence for Kraków",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-2026-artificial-darren-aronofsky-janusz-kaminski-1236750348",
+    "published_at": "2026-11-08T10:29:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e1b817ef0684138eaadd",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown",
+    "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
+    "published_at": "2026-11-08T10:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ac341c887fa7291258f7",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
+    "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
+    "published_at": "2026-11-08T09:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1743b1868877c235e383",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Taiwan’s Content Agency and Partners Put $180 Million Into 27 Projects, From an ‘Our Blues’ Remake to an Off-Broadway Musical",
+    "url": "https://variety.com/2026/film/asia/taiwan-content-agency-partners-180-million-27-projects-1236942318",
+    "published_at": "2026-11-08T09:04:48+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "baed9dea158f38741566",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Indonesian Horror Hit ‘Pabrik Gula’ Gets 2028 Sequel as MD Entertainment Lines Up Three Imax Films",
+    "url": "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313",
+    "published_at": "2026-11-08T08:11:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9c5a8e3484f637f1c172",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
+    "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+    "published_at": "2026-11-08T08:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "72d1182615567c27bc8b",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "What are the odds of getting the Pirate Shop Access token in Fortnite Treasure Hunters",
+    "url": "https://www.destructoid.com/what-are-the-odds-of-getting-the-pirate-shop-access-token-in-fortnite-treasure-hunters",
+    "published_at": "2026-11-08T07:29:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "84c4e9953eafe547350f",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "‘SNL’: Druski Impersonates ‘Crazy’ Elizabeth Holmes in Meta-Documentary",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383",
+    "published_at": "2026-11-08T07:03:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a4155181b02d149b03e8",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Our Blues’, ‘Midnight Diner’ & ‘C’Est La Vie’ Among Projects Backed By TAICCA Joint Venture Funds",
+    "url": "https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640",
+    "published_at": "2026-11-08T06:59:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3bc0a3095fec9b278bbe",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Elon Musk Is Portrayed on ‘SNL’: “The Worst Thing South Africa Has Ever Done”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/elon-musk-snl-appearance-jeremy-culhane-watch-jost-1236750304",
+    "published_at": "2026-11-08T06:58:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ae750ad8ec9641fb3bab",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+    "url": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
+    "published_at": "2026-11-08T06:37:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "64f00c35a4d893bc3e22",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "‘SNL’ Weekend Update Drags Trump Over Midterm Drubbing, Stephen Miller Promotion",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-drags-trump-midterm-drubbing-stephen-miller-promotion-1235654378",
+    "published_at": "2026-11-08T06:04:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6ed3265858568cf80a78",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
+    "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
+    "published_at": "2026-11-08T06:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8f4aca9ab8c679c44b1f",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘SNL’ Weekend Update Brutally Roasts Elon Musk Over ‘Epic’ Midterms Defeat",
+    "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283",
+    "published_at": "2026-11-08T05:57:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61fd3ed6f009775aa6ff",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Druski Embodies Elizabeth Holmes in ‘You Can See Everything’ Spoof on ‘SNL’",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276",
+    "published_at": "2026-11-08T05:51:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d58b3f4975c2b45d993b",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "James Talarico Crashes ‘SNL’ Cold Open, Apologizes for Texting Us So Much",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/james-talarico-snl-cold-open-appearance-watch-trump-1236750242",
+    "published_at": "2026-11-08T05:35:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c079fa1c46f14eb53fcb",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody",
+    "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289",
+    "published_at": "2026-11-08T05:29:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c09fc9046b476ad76937",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "‘SNL’ Cold Open: James Talarico Crashes Trump’s Midterm Postmortem",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-james-talarico-crashes-trump-midterm-postmortem-1235654381",
+    "published_at": "2026-11-08T05:13:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b321436d760750441319",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Druski Serves Elizabeth Holmes Whiteface In ‘Dru Can See Everything’ Sketch During ‘SNL’ Debut",
+    "url": "https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571",
+    "published_at": "2026-11-08T05:09:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4244d3bab2f90ee627b6",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Emma Stone Ambushes Druski’s ‘SNL’ Monologue in Adorable Fashion",
+    "url": "https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272",
+    "published_at": "2026-11-08T05:00:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2a2869c1ae39710580c6",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Emma Stone Joins Druski For His ‘SNL’ Debut Opening Monologue While Filming ‘The Catch’ Rom-Com",
+    "url": "https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552",
+    "published_at": "2026-11-08T04:54:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "13e7498d5728a33bf173",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "James Talarico Crashes ‘SNL’ Cold Open: ‘I’m the Guy Who’s Been Texting You Every Day Asking for $5’",
+    "url": "https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257",
+    "published_at": "2026-11-08T04:53:48+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "aff7b528d84ac1c6e739",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Emma Stone Joins Druski During His ‘SNL’ Hosting Debut",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-snl-monologue-emma-stone-1236750120",
+    "published_at": "2026-11-08T04:53:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "66872104c79b5eac3edb",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "James Talarico Stuns ‘SNL’ With Post-Midterms Cameo & “Trump Freezers” Swipe",
+    "url": "https://deadline.com/2026/11/saturday-night-live-james-talarico-cold-open-1237216532",
+    "published_at": "2026-11-08T04:52:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "91aac0017230f1ebf020",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Former NCT Member Lucas Wong Makes Acting Debut in Taiwanese Folk-Music Drama ‘A Time’ With Jerry Yan, Ning Chang at Taiwan Creative Content Fest",
+    "url": "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261",
+    "published_at": "2026-11-08T04:47:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4066446c8f40a88d36c9",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘The Undertaker’ Director Thiti Srinuan Reveals He Defecated on Camera for Real as an Actor in Thailand’s Taibaan Universe",
+    "url": "https://variety.com/2026/film/markets-festivals/undertaker-director-reveals-defecated-on-camera-for-real-1236942252",
+    "published_at": "2026-11-08T04:32:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "170a97f768104f607c65",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Saturday Night Live” recap: Druski makes history as first digital content creator to host",
+    "url": "https://ew.com/snl-recap-season-52-druski-hosts-the-strokes-12240681",
+    "published_at": "2026-11-08T04:30:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1da9dda92979a155426c",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Path of Exile 2 Duelist class preview: I’ve got blood to bleed",
+    "url": "https://www.destructoid.com/path-of-exile-2-duelist-preview-exilecon2026",
+    "published_at": "2026-11-08T04:29:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "927191c46286cb2c45bd",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "2026 LACMA Art+Film Gala Photos: Nicole Kidman, Sarah Paulson, Viola Davis, Andrew Garfield, Rosé and More Stars",
+    "url": "https://www.hollywoodreporter.com/gallery/2025-lacma-art-film-gala-photos-andrew-garfield-sofia-vergara-1236750141",
+    "published_at": "2026-11-08T04:02:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2d1323012542477d8a9d",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Cristian Mungiu’s Palme d’Or Winner ‘Fjord’ Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding",
+    "url": "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247",
+    "published_at": "2026-11-08T03:50:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e4372f67cf6103dcbb37",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘The Invisible Guest’ Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About ‘How to Fight Back’",
+    "url": "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189",
+    "published_at": "2026-11-08T03:21:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ed574100610eb167c865",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Jennifer Welch and Angie Sullivan Apologize for Laughing at “Insensitive Joke” About Charlie Kirk on ‘I’ve Had It’ Podcast",
+    "url": "https://www.hollywoodreporter.com/news/general-news/jennifer-welch-angie-sullivan-apologize-charlie-kirk-1236750136",
+    "published_at": "2026-11-08T03:08:35+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6df7c64308cd9ce7fe96",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Path of Exile 2's game director thinks a death recap will finally allow us players to complain about the right things",
+    "url": "https://www.pcgamer.com/games/rpg/path-of-exile-2s-game-director-thinks-a-death-recap-will-finally-allow-us-players-to-complain-about-the-right-things",
+    "published_at": "2026-11-08T02:13:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "eafe8ccee5367ea7cfb8",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
+    "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction",
+    "published_at": "2026-11-08T01:31:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "892b72878e8b353597f9",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Is Kylie Kelce Ready for Baby No. 5 With Jason Kelce?",
+    "url": "https://www.eonline.com/news/1437927/jason-kelces-wife-kylie-kelce-weighs-in-on-idea-of-baby-no-5?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-08T01:20:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9c33361867ba193fd766",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Taiwan’s Mirror Fiction Hands Out $50,000 In Awards For Book To Screen Adaptations",
+    "url": "https://deadline.com/2026/11/mirror-fiction-stand-in-family-endless-rain-tccf-taicca-1237216206",
+    "published_at": "2026-11-08T01:11:56+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "729f04204e02efbd061c",
     "source": "Deadline",
     "category": "bulvar",
@@ -42,6 +393,15 @@
     "original_title": "Camerimage Founder Marek Zydowicz on AI, Aronofsky and Why “Cinematographers Are Artists, Not Technicians”",
     "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343",
     "published_at": "2026-11-08T00:11:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "348e52ab792e83cd69c2",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "LEGO Black Friday 2026 Sales: What to Expect",
+    "url": "https://www.ign.com/articles/lego-black-friday-2026-sales-what-to-expect",
+    "published_at": "2026-11-08T00:10:28+00:00",
     "status": "candidate"
   },
   {
