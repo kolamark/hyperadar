@@ -2,6 +2,118 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Jodie Sweetin pénzügyi nehézségei a Fuller House forgatása előtt",
+      "excerpt": "Jodie Sweetin, a Full House egykori sztárja elárulta, hogy mindössze 190 dollár volt a bankszámláján mielőtt elvállalta a Fuller House című sorozatot 2016-ban. Az interjúban arról is beszélt, hogy egy időben másodállást vállalt, hogy eltartsa családját.",
+      "body": [
+        "Jodie Sweetin elmondta, hogy amikor 2016-ban aláírta a Fuller House című sorozatra, mindössze 190 dollár volt a bankszámláján, és az első hét munkája során kölcsönkérnie is kellett pénzt.",
+        "Az egykori sorozatszínésznő nyíltan beszélt korábbi pénzügyi gondjairól, és arról, hogy nem szégyellte a normál munkahelyen végzett feladatokat, például logisztikai koordinátori állását egy kezelőközpontban."
+      ],
+      "sources": [
+        {
+          "name": "E! News",
+          "url": "https://www.eonline.com/news/1437929/jodie-sweetin-had-s190-in-her-bank-account-before-filming-fuller-house?cmpid=rss-syndicate-genericrss-us-top_stories"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/full-house-jodie-sweetin-fuller-house-1236942080"
+        }
+      ],
+      "published_at": "2026-11-08T18:24:26.789447Z",
+      "claims": [
+        {
+          "text": "Jodie Sweetin elmondta, hogy amikor 2016-ban aláírta a Fuller House című sorozatra, mindössze 190 dollár volt a bankszámláján, és az első hét munkája során kölcsönkérnie is kellett pénzt.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/tv/news/full-house-jodie-sweetin-fuller-house-1236942080",
+              "quote": "“I had to borrow money the first week I was working on ‘Fuller House,’ and I [skittered] into my first paycheck with like $190 in my bank account,” Sweetin revealed on a recent episode of"
+            },
+            {
+              "url": "https://www.eonline.com/news/1437929/jodie-sweetin-had-s190-in-her-bank-account-before-filming-fuller-house?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "“I had to borrow money the first week I was working on Fuller House, and I [skittered] into my first paycheck with like $190 in my bank account,” Sweetin recalled on a recent episode of the"
+            },
+            {
+              "url": "https://variety.com/2026/tv/news/full-house-jodie-sweetin-fuller-house-1236942080",
+              "quote": "“I had to borrow money the first week I was working on ‘Fuller House,’ and I [skittered] into my first paycheck with like $190 in my bank account,” Sweetin revealed on a recent episode of"
+            }
+          ]
+        },
+        {
+          "text": "Az egykori sorozatszínésznő nyíltan beszélt korábbi pénzügyi gondjairól, és arról, hogy nem szégyellte a normál munkahelyen végzett feladatokat, például logisztikai koordinátori állását egy kezelőközpontban.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1437929/jodie-sweetin-had-s190-in-her-bank-account-before-filming-fuller-house?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "That’s why Sweetin—who shares daughters Zoie, 18, with ex-husband Cody Herpin and Beatrix, 16, with ex Morty Coyle—spent her days as a logistics coordinator at a treatment center in Los"
+            },
+            {
+              "url": "https://www.eonline.com/news/1437929/jodie-sweetin-had-s190-in-her-bank-account-before-filming-fuller-house?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Angeles before returning to TV."
+            },
+            {
+              "url": "https://www.eonline.com/news/1437929/jodie-sweetin-had-s190-in-her-bank-account-before-filming-fuller-house?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "“I didn’t have [an] ego about it,” Sweetin explained. “I didn’t care that I was, quote, unquote, working a normal job. I think other people again were like, ‘What are you doing here?’ And I"
+            },
+            {
+              "url": "https://variety.com/2026/tv/news/full-house-jodie-sweetin-fuller-house-1236942080",
+              "quote": "non-Hollywood gigs. “I didn’t have [an] ego about it,” Sweetin said. “I didn’t care that I was, quote, unquote, working a normal job. I think other people again were like, ‘What are you"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "A Godzilla Minus Zero vezet a világ mozis jegybevételeiben, megelőzve a Ramayana: Rise of a Legend filmet",
+      "excerpt": "A Godzilla Minus Zero 63 millió dolláros világszintű nyitóhétvégét ért el, ami felülmúlja a Ramayana: Rise of a Legend 55,7 millióját. A Godzilla Japánban és Latin-Amerikában, míg a Ramayana főként Indiában és Európában teljesít erősen.",
+      "body": [
+        "A Godzilla Minus Zero 63 millió dolláros globális bevétellel vezeti a hétvégi nézettségi listákat, miközben a Ramayana: Rise of a Legend 55,7 milliós nyitást produkált, főként Indiában.",
+        "A film rekordot döntött az IMAX-premierek között egy japán alkotásként, és az USA-ban a legnagyobb élőszereplős idegen nyelvű filmnyitást produkálta 31,6 millió dollárral."
+      ],
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-sets-gkids-box-office-record-with-31-million-openign"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363"
+        }
+      ],
+      "published_at": "2026-11-08T18:24:20.380854Z",
+      "claims": [
+        {
+          "text": "A Godzilla Minus Zero 63 millió dolláros globális bevétellel vezeti a hétvégi nézettségi listákat, miközben a Ramayana: Rise of a Legend 55,7 milliós nyitást produkált, főként Indiában.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698",
+              "quote": "‘Godzilla Minus Zero’ Is King Of The Global Weekend Box Office With $63M, Towers Over ‘Ramayana’s $55M+ WW Opening"
+            },
+            {
+              "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698",
+              "quote": "Ramayana: Rise of a Legend‘s $55.7M global, the bulk of that gross in India."
+            }
+          ]
+        },
+        {
+          "text": "A film rekordot döntött az IMAX-premierek között egy japán alkotásként, és az USA-ban a legnagyobb élőszereplős idegen nyelvű filmnyitást produkálta 31,6 millió dollárral.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/godzilla-minus-zero-sets-gkids-box-office-record-with-31-million-openign",
+              "quote": "GKids, the American film distributor subsidiary of Toho, has set a new company box office record with “Godzilla Minus Zero,” which is leading the box office with a $31.6 million opening"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Elhalasztotta a Sony a PlayStation Pulse Elevate vezeték nélküli hangszórók megjelenését",
       "excerpt": "A Sony nem sokkal az eredetileg tervezett november 12-i megjelenés előtt halasztotta el a Pulse Elevate vezeték nélküli hangszórók piacra dobását egy gyártási probléma miatt. Az új megjelenési dátum még nincs meg.",
