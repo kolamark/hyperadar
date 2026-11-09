@@ -2,6 +2,64 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Druski történelmet írt az SNL-ben, sztárok lepték el a színpadot",
+      "excerpt": "Druski lett az első digitális alkotó, aki a Saturday Night Live-t vezette, az epizód pedig rendkívül sztárparádéval ért véget. Emma Stone, Michael B. Jordan és Austin Butler is különleges vendégként jelent meg a műsorban.",
+      "body": [
+        "Druski, a népszerű digitális alkotó, elsőként vezette az NBC híres szkeccsműsorát, a Saturday Night Live-t, ami számos hollywoodi hírességet vonzott a színpadra.",
+        "Jordan, Austin Butler, illetve Chris Rock és Dave Chappelle is feltűnt Druski, az SNL szereplői és a The Strokes zenekar mellett, reflektorfényes jókívánságokat kísérve."
+      ],
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/culture-lifestyle/culture/druski-snl-chris-rock-dave-chappelle-michael-b-jordan-austin-butler"
+        }
+      ],
+      "published_at": "2026-11-09T23:49:02.476692Z",
+      "claims": [
+        {
+          "text": "Druski, a népszerű digitális alkotó, elsőként vezette az NBC híres szkeccsműsorát, a Saturday Night Live-t, ami számos hollywoodi hírességet vonzott a színpadra.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899",
+              "quote": "Hollywood heavy hitters turned out to witness Saturday Night Live history this weekend as comedian Druski became the fist digital creator to host the venerable NBC late-night sketch program."
+            },
+            {
+              "url": "https://www.thewrap.com/culture-lifestyle/culture/druski-snl-chris-rock-dave-chappelle-michael-b-jordan-austin-butler",
+              "quote": "This week’s episode of “Saturday Night Live” marked a first in the show’s 51-season history as Druski became the first content creator to host the show, and celebrities were out in full"
+            },
+            {
+              "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899",
+              "quote": "Druski Leads One Of ‘SNL’s Most Star-Studded Curtain Calls Ever With Emma Stone, Michael B. Jordan, Austin Butler, Plus Chappelle, Rock, Goggins"
+            }
+          ]
+        },
+        {
+          "text": "Jordan, Austin Butler, illetve Chris Rock és Dave Chappelle is feltűnt Druski, az SNL szereplői és a The Strokes zenekar mellett, reflektorfényes jókívánságokat kísérve.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899",
+              "quote": "monologue and Cold Open, respectively. But they were not the only celebrity visitors onstage alongside Druski, the SNL cast and musical guest The Strokes. The group included two Oscar"
+            },
+            {
+              "url": "https://www.thewrap.com/culture-lifestyle/culture/druski-snl-chris-rock-dave-chappelle-michael-b-jordan-austin-butler",
+              "quote": "But it was at the “SNL” goodnights segment of the show, at the very end, when even more A-listers showed up. Chris Rock and Dave Chappelle surprised Druski while he was saying his farewell"
+            },
+            {
+              "url": "https://www.thewrap.com/culture-lifestyle/culture/druski-snl-chris-rock-dave-chappelle-michael-b-jordan-austin-butler",
+              "quote": "Then eagle-eyed viewers also spotted Michael B. Jordan and Austin Butler in the background, along with Stone, Goggins and Talarico standing on the packed stage."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Japánban különleges, belső tárhellyel bővített PlayStation Portal jelenik meg",
       "excerpt": "Sony Japánban új, Midnight Black színű PlayStation Portal modellt dob piacra december 10-én, extra belső tárhellyel és egy hónapos PlayStation Plus Premium előfizetéssel. A készülék kizárólag Japánban lesz elérhető, további részleteket egyelőre nem közöltek.",
