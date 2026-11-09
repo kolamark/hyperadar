@@ -2,6 +2,68 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "Japánban különleges, belső tárhellyel bővített PlayStation Portal jelenik meg",
+      "excerpt": "Sony Japánban új, Midnight Black színű PlayStation Portal modellt dob piacra december 10-én, extra belső tárhellyel és egy hónapos PlayStation Plus Premium előfizetéssel. A készülék kizárólag Japánban lesz elérhető, további részleteket egyelőre nem közöltek.",
+      "body": [
+        "A Sony bejelentette, hogy Japánban piacra kerül a PlayStation Portal Midnight Black változata, amely egy új, bővített belső tárhellyel rendelkezik, és kizárólag a helyi piacon lesz elérhető.",
+        "Az új modell ára 39 980 jen (kb. 252 dollár), és a megvásárlók egy hónapos PlayStation Plus Premium előfizetést is kapnak mellé. A bővített tárhely funkcióit a későbbiekben közlik majd a Sony képviselői."
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/sony-playstation-portal-japan-only-internal-storage-ps5-streaming-2000754915"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/sony-is-releasing-a-black-playstation-portal-in-japan-with-extra-internal-storage-for-future-functionality"
+        },
+        {
+          "name": "Gematsu",
+          "url": "https://www.gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced"
+        }
+      ],
+      "published_at": "2026-11-09T14:00:33.993635Z",
+      "claims": [
+        {
+          "text": "Japánban új, Midnight Black PlayStation Portal modellt vezet be a Sony extra belső tárhellyel és egy hónapos PlayStation Plus Premium előfizetéssel.",
+          "evidence": [
+            {
+              "url": "https://www.gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced",
+              "quote": "PlayStation Portal Midnight Black Japan-only model announced"
+            },
+            {
+              "url": "https://www.gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced",
+              "quote": "Sony Interactive Entertainment Japan Asia has announced a Japanese-language-only SKU for PlayStation Portal in Midnight Black. It will include a one-month PlayStation Plus Premium"
+            },
+            {
+              "url": "https://www.gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced",
+              "quote": "subscription and launch on December 10 for 39,980 yen."
+            }
+          ]
+        },
+        {
+          "text": "Az eszköz ára 39 980 jen, kizárólag Japánban lesz elérhető, a bővített tárhely funkcióit később ismertetik.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/sony-playstation-portal-japan-only-internal-storage-ps5-streaming-2000754915",
+              "quote": "Sony have announced a new Japan-only version of the Playstation Portal, with all-new functionality in the form of internal storage exclusive to the domestic edition of the device."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/sony-is-releasing-a-black-playstation-portal-in-japan-with-extra-internal-storage-for-future-functionality",
+              "quote": "As announced on the official PlayStation Blog in Japan, the PlayStation Portal Player Midnight Black (Japanese Only) console will be released on December 10, at a price of ¥39,980 ($250)."
+            },
+            {
+              "url": "https://www.gematsu.com/2026/11/playstation-portal-midnight-black-japan-only-model-announced",
+              "quote": "The company also announced that the new model will include additional internal storage, which will be utilized for future functionality. Details will be announced at a later date."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Jodie Sweetin pénzügyi nehézségei a Fuller House forgatása előtt",
       "excerpt": "Jodie Sweetin, a Full House egykori sztárja elárulta, hogy mindössze 190 dollár volt a bankszámláján mielőtt elvállalta a Fuller House című sorozatot 2016-ban. Az interjúban arról is beszélt, hogy egy időben másodállást vállalt, hogy eltartsa családját.",
