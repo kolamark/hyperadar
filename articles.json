@@ -3,6 +3,74 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "A Big Walk fejlesztője beismerte, hogy minimális mértékben használt mesterséges intelligenciát a kódolásban",
+      "excerpt": "A House House fejlesztőcsapata elmondta, hogy Big Walk készítése közben a végső időszakban kis mértékben alkalmaztak generatív mesterséges intelligenciát, főként Unity motorral kapcsolatos nehézségek és hibák megoldására.",
+      "body": [
+        "A House House fejlesztőcsapata elmondta, hogy Big Walk készítése közben a végső időszakban kis mértékben alkalmaztak generatív mesterséges intelligenciát, főként Unity motorral kapcsolatos nehézségek és hibák megoldására.",
+        "A fejlesztők szerint az AI használata még a játék kevesebb mint 0,1%-át érintette, és a technológia máshol nem játszott szerepet a fejlesztés során. A jogosultsági viták miatt a csapat később közzétette ezt a tájékoztatást, és jövőben átfogóbb MI-használati szabályzatot terveznek létrehozni."
+      ],
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/big-walk-ai-disclosure-igf-awards-vg-chat-2000755514"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms"
+        }
+      ],
+      "published_at": "2026-11-10T21:21:13.467747Z",
+      "claims": [
+        {
+          "text": "A House House fejlesztői elismerték, hogy a Big Walk készítése során a kód kevesebb mint 0,1%-át generatív MI segítségével írták.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+              "quote": "to help work through difficult technical challenges and bugs,\" it reads. \"In some cases, snippets from LLM responses were copied as a starting point to be modified into game code—we'd"
+            }
+          ]
+        },
+        {
+          "text": "A fejlesztők csak a kódolásban használták az MI-t, más területen nem alkalmazták generatív MI-t.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+              "quote": "House House says that generative AI was not used anywhere else."
+            },
+            {
+              "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+              "quote": "estimate that well under 0.1% of Big Walk's code had anything to do with this usage, and generative AI was not used in any other context when making the game.\""
+            }
+          ]
+        },
+        {
+          "text": "A Big Walk fejlesztése alatt nem létezett belső MI-használati szabályzat, és ezt a hiányosságot a fejlesztők elismerik.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+              "quote": "usage policy in place, and we consider that lack of policy a failure. We will work to have a more comprehensive policy going forward.\""
+            }
+          ]
+        },
+        {
+          "text": "A fejlesztők csak néhány konkrét kódprobléma megoldására használták a mesterséges intelligenciát, például egy Unity motorral kapcsolatos hibára.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+              "quote": "The statement offers an example of how this was put into practice—in this case, \"about 10 lines of code\" used to fix a problem that House House was apparently unable to rectify manually or"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "Az Ocarina of Time Switch 2-remake-je új ugrógombbal, a játékosok megszokják a változást",
       "excerpt": "A The Legend of Zelda: Ocarina of Time Switch 2-remake-je eltávolította az automatikus ugrást, helyette egy dedikált ugrógombot kapott a játék.",
       "body": [

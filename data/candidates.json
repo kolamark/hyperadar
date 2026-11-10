@@ -1,5 +1,1661 @@
 [
   {
+    "id": "e489018d3a151cfafe4c",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Bungie drops gameplay trailer for Marathon's 'co-op PvE roguelite' mode and swanky new social space",
+    "url": "https://www.pcgamer.com/games/fps/bungie-drops-gameplay-trailer-for-marathons-co-op-pve-roguelite-mode-and-swanky-new-social-space",
+    "published_at": "2026-11-10T21:16:59+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3463d6101322e24a6e09",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Daisy Ridley, Darren Criss, Travis Fimmel & Judy Greer Join Catherine Zeta-Jones In Tate Taylor’s Marriage Counselor Thriller ‘Cupid’; Filming Underway — AFM",
+    "url": "https://deadline.com/2026/11/daisy-ridley-darren-criss-travis-fimmel-join-cupid-1237219257",
+    "published_at": "2026-11-10T21:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e180d653349733d52fe9",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Ryan Reynolds Jokes He Went on \"Diet of Ketchup\" for This Reason",
+    "url": "https://www.eonline.com/news/1437992/ryan-reynolds-jokes-he-went-on-diet-of-ketchup-for-detective-pikachu?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T21:13:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8946f75694806a61d8f3",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Harry Potter’ Star Paapa Essiedu Says ‘I Don’t Want to Talk About’ J.K. Rowling ‘At All’ but ‘Trans People Have the Right to Be Treated With Respect and Dignity’",
+    "url": "https://variety.com/2026/film/news/paapa-essiedu-jk-rowling-trans-rights-harry-potter-hbo-1236944224",
+    "published_at": "2026-11-10T21:09:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f0e9a4510afd5c06de65",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Confession’ Review: Rob Lowe and James Franco in a Ben Shapiro-Scripted, Stalinist Russia-Set Drama That’s Terminally Tedious",
+    "url": "https://www.hollywoodreporter.com/movies/movie-reviews/confession-review-rob-lowe-james-franco-nick-nolte-1236751013",
+    "published_at": "2026-11-10T21:09:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b1b254428549223a35d5",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Heated Rivalry’: Regal Theaters Spices Up Season One Finale Episodes In 4DX",
+    "url": "https://deadline.com/2026/11/heated-rivalry-4dx-regal-theaters-1237219275",
+    "published_at": "2026-11-10T21:09:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a35a46867b1b93d5870a",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Black Lives Matter Activist DeRay Mckesson Talks Losing Key Trump-Era Protest Mobilization Tool: “I Miss Twitter”",
+    "url": "https://www.hollywoodreporter.com/news/general-news/deray-mckesson-trump-era-twitter-1236752156",
+    "published_at": "2026-11-10T21:04:11+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "eb2b44ef2d3fd65170c8",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Much Ado About Nothing’ With Tom Hiddleston & Hayley Atwell Sells Out, Tops $2M Gross; ‘Here There Are Blueberries’, ‘Downstate’, ‘Fantasticks’ Fill Seats – Broadway Box Office",
+    "url": "https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-tom-hiddleston-1237218523",
+    "published_at": "2026-11-10T21:03:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f3bf4654477b5815fd85",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "How David Leitch Made ‘How to Rob a Bank’ on a Budget — and Around Nicholas Hoult’s Torn ACL",
+    "url": "https://www.hollywoodreporter.com/movies/movie-features/how-to-rob-a-bank-david-leitch-1236752122",
+    "published_at": "2026-11-10T21:00:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ed42832beef03dd8b997",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Lilo & Stitch’s Maia Kealoha To Star In Joe Nussbaum’s ‘Stolen Wishes’ For Disney Live Action",
+    "url": "https://deadline.com/2026/11/stolen-wishes-movie-maia-kealoha-disney-in-works-1237219237",
+    "published_at": "2026-11-10T21:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bdd12273f9d5fe21dd9c",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Fairgame$ canceled",
+    "url": "https://www.gematsu.com/2026/11/fairgame-canceled",
+    "published_at": "2026-11-10T20:58:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4a0a977da0c600981fef",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6: What Will Review Scores Be? You Can Win A $500 Gift Card For Getting It Right",
+    "url": "https://www.gamespot.com/articles/gta-6-what-will-review-scores-be-you-can-win-a-500-gift-card-for-getting-it-right",
+    "published_at": "2026-11-10T20:55:32+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f4bd2f03c47995a7e8af",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "JoBe Cerny, Pillsbury Doughboy Voice Actor, Dies at 78",
+    "url": "https://www.thewrap.com/media-platforms/tv/jobe-cerny-pillsbury-doughboy-actor-dead-obit",
+    "published_at": "2026-11-10T20:54:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "51315a1ae90550da0aa7",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Lord of the Rings: The Rings of Power’ Season 2 Recap: What to Remember Before Season 3",
+    "url": "https://www.thewrap.com/creative-content/what-to-watch/lotr-rings-of-power-season-2-recap",
+    "published_at": "2026-11-10T20:52:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "62f0138fec69f41256d6",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘You’re The Worst’ Creator Slams Hulu for Show’s Abrupt Removal From Streamer",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/youre-the-worst-removed-hulu-streaming-stephen-falk",
+    "published_at": "2026-11-10T20:52:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d928301cc52d27ff1ee9",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Remember PS5-exclusive shooter Fairgame$? It’s reportedly canceled now, to no one’s surprise",
+    "url": "https://www.destructoid.com/remember-ps5-exclusive-shooter-fairgame-its-reportedly-canceled-now-to-no-ones-surprise",
+    "published_at": "2026-11-10T20:51:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a3b4b3391c8c1cc2e0e0",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "PlayStation Cancels Fairgames After Years Of Silence",
+    "url": "https://kotaku.com/fairgames-haven-studios-jade-raymond-playstation-canceled-2000755584",
+    "published_at": "2026-11-10T20:49:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "84bf6606ef11e49cab89",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "AP News Labor Group Blasts Agency’s Photo Layoffs in Move to India: ‘Union Busting’",
+    "url": "https://www.thewrap.com/media-platforms/journalism/ap-news-union-blasts-photo-layoffs-india",
+    "published_at": "2026-11-10T20:44:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ac70ededc5e5e9e21f78",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Sony Cancels Live-Service PS5 Game Fairgames, But No Layoffs",
+    "url": "https://www.gamespot.com/articles/sony-cancels-live-service-ps5-game-fairgames-but-no-layoffs",
+    "published_at": "2026-11-10T20:43:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "74600080962204511215",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "STX Entertainment Returns With Angus Sutherland as CEO",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/stx-entertainment-names-angus-sutherland-as-ceo",
+    "published_at": "2026-11-10T20:42:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "88a9257e5d237409ef3b",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "New “You’ve Got Mail” movie in the works at Warner Bros.",
+    "url": "https://ew.com/new-youve-got-mail-movie-in-works-at-warner-bros-12247499",
+    "published_at": "2026-11-10T20:42:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c9953ed08f07d42f66de",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Where to catch Bloodgill in DREADMOOR",
+    "url": "https://www.destructoid.com/where-to-catch-bloodgill-in-dreadmoor",
+    "published_at": "2026-11-10T20:33:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "98a15ca2dc2d8f019b4e",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "It’s A Relief To Go Back To The Simple Joy Of Ocarina Of Time After A Decade Of Being Overwhelmed By Breath Of The Wild",
+    "url": "https://kotaku.com/legend-zelda-ocarina-time-botw-totk-weapon-degradation-2000755576",
+    "published_at": "2026-11-10T20:30:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3c7ea9a627a1fb89e543",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "John Requa & Glenn Ficarra To Direct ‘Spinster’ Romantic Comedy For Amazon MGM Studios; Hidden Pictures’ Todd Lieberman Producing",
+    "url": "https://deadline.com/2026/11/john-requa-glenn-ficarra-to-direct-spinster-amazon-1237219204",
+    "published_at": "2026-11-10T20:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9479d6cbcf76da8d4a94",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Jenna Fischer Signs With Paradigm",
+    "url": "https://deadline.com/2026/11/jenna-fischer-paradigm-talent-agency-1237219164",
+    "published_at": "2026-11-10T20:26:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2909ea9cc3011f12a776",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6 Backflips Look Good Now, But There Could Be More To The Story",
+    "url": "https://www.gamespot.com/articles/gta-6-backflips-look-good-now-but-there-could-be-more-to-the-story",
+    "published_at": "2026-11-10T20:26:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "97b922484c270e812e6d",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Alexander Skarsgård, Hunter Schafer, Maya Hawke, Harry Melling to Star in ‘The Confessions,’ With Ari Aster Producing (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/global/skarsgard-hunter-schafer-maya-hawke-harry-melling-confessions-1236944297",
+    "published_at": "2026-11-10T20:19:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "81b1068e3b5927887283",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Amid Higher Gas And Grocery Prices, GTA 6 Is A “Bargain” At $80, Take-Two CEO Says",
+    "url": "https://www.gamespot.com/articles/amid-higher-gas-and-grocery-prices-gta-6-is-a-bargain-at-80-take-two-ceo-says",
+    "published_at": "2026-11-10T20:14:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "054a842eab5241233f21",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Save Over 50% Off One of the Coolest Desktop Charging Stations for Black Friday",
+    "url": "https://www.ign.com/articles/save-over-50-off-one-of-the-coolest-desktop-charging-stations-for-black-friday",
+    "published_at": "2026-11-10T20:10:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4ba9cd459baeafbc588e",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "We Build LEGO Downton Abbey, a Stately Set That's Worthy of the Crawley Name",
+    "url": "https://www.ign.com/articles/lego-downton-abbey-review-21373",
+    "published_at": "2026-11-10T20:08:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d148b11e77044d8003fb",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Carrie Coon Hopes HBO Doesn’t Get ‘Soft Around the Edges’ After Skydance Merger",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/carrie-coon-hbo-post-merger-soft",
+    "published_at": "2026-11-10T20:07:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4b3c2348f028b8363cbe",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Dustin Hoffman Was Held at Gunpoint During Affair With Married Woman",
+    "url": "https://www.eonline.com/news/1437991/dustin-hoffman-was-held-at-gunpoint-during-affair-with-married-woman?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T20:07:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1a8b7354bc6ebb609df0",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Kate and Oliver Hudson remember the ‘fierce’ Hayden Panettiere, making their first comments after her death",
+    "url": "https://ew.com/kate-oliver-hudson-make-first-comments-about-hayden-panettiere-death-12247400",
+    "published_at": "2026-11-10T20:04:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1643bd2ee04bf948ec72",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "JoBe Cerny, Actor, Director and Voice of the Pillsbury Doughboy, Dies at 78",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/jobe-cerny-dead-pillsbury-doughboy-word-of-promise-1236752126",
+    "published_at": "2026-11-10T20:02:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4d24c98666d366f70151",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Olivier Martinez seeks increased child support from Halle Berry ahead of next custody hearing",
+    "url": "https://ew.com/olivier-martinez-seeks-increased-child-support-from-halle-berry-12247278",
+    "published_at": "2026-11-10T20:00:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0d023de34eaf28b35cdd",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Ryūsuke Hamaguchi’s ‘All Of A Sudden’ To Open AFI Silver’s 2026 European Union Film Showcase — Full Lineup",
+    "url": "https://deadline.com/2026/11/afi-silver-european-showcase-2026-full-lineup-1237218391",
+    "published_at": "2026-11-10T20:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b77682f37535ad5b36cd",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Shaq to Star in Hide-and-Seek Competition Series ‘Can You Hide… Shaq?’ at ABC (EXCLUSIVE)",
+    "url": "https://variety.com/2026/tv/news/shaq-hide-and-seek-show-can-you-hide-shaq-1236944068",
+    "published_at": "2026-11-10T20:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d0d5f5fbd3b888148543",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘The Lord of the Rings: The Rings of Power’ Season 3 Review: Show Hits Its Stride in Darkest Season Yet",
+    "url": "https://www.thewrap.com/creative-content/reviews/the-lord-of-the-rings-rings-of-power-season-3-review-amazon-prime-video",
+    "published_at": "2026-11-10T20:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e621def66d054531d5b2",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Ahead of GTA 6 and as concerns over genAI PC ports grow, Take-Two's CEO says they're revving up their \"technical defences\" and \"legal activites\" over piracy",
+    "url": "https://www.rockpapershotgun.com/ahead-of-gta-6-and-as-concerns-over-genai-pc-ports-grow-take-twos-ceo-says-theyre-revving-up-their-technical-defences-and-legal-activites-over-piracy",
+    "published_at": "2026-11-10T19:59:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0ba4f1071adaa7581673",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "2 years after Unknown 9: Awakening bombed, Bandai Namco is closing the studio that made it",
+    "url": "https://www.pcgamer.com/gaming-industry/2-years-after-unknown-9-awakening-bombed-bandai-namco-is-closing-the-studio-that-made-it",
+    "published_at": "2026-11-10T19:55:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e9cba7a430a5475cb03d",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Ezra Sosa Reflects on “Bittersweet” ‘DWTS’ Elimination, Working With Julia Stiles and Who He Wants to Win Season 35 (Exclusive)",
+    "url": "https://www.hollywoodreporter.com/tv/tv-features/ezra-sosa-dwts-julia-stiles-elimination-interview-1236752096",
+    "published_at": "2026-11-10T19:55:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8d28c682e90f50681924",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Someone Got Halo 1 Running on a Sega Dreamcast",
+    "url": "https://www.ign.com/articles/someone-got-halo-1-running-on-a-sega-dreamcast",
+    "published_at": "2026-11-10T19:47:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ed9ccb08649d301805e6",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "The Business of Being a Business Manager; ‘The Secret Reading Club of Kabul’ Directors on Finding Inspiration and Courage",
+    "url": "https://variety.com/2026/biz/news/business-managers-variety-strictly-business-secret-kabul-1236944203",
+    "published_at": "2026-11-10T19:47:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "937e5203fd076b9dc358",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Ultimate Where's Waldo Book Collection Drops to Its Lowest Price of the Year",
+    "url": "https://www.ign.com/articles/the-ultimate-wheres-waldo-book-collection-drops-to-its-lowest-price-of-the-year-black-friday-2026",
+    "published_at": "2026-11-10T19:45:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a62d5d1947329892cbd3",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Florence Pugh Says ‘I’m Not Standing for Bulls— Behavior’ on Set Anymore: ‘Show Up on Time, Don’t Be Rude, Don’t Be a Misogynist’",
+    "url": "https://variety.com/2026/film/news/florence-pugh-safer-movie-sets-misogynist-1236944055",
+    "published_at": "2026-11-10T19:44:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ab119ef6e40b0f5c45b9",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "How Film Producer Scott Budnick & Celebrity Barber VicBlends Teamed For A New Training Program In California Prisons",
+    "url": "https://deadline.com/2026/11/scott-budnick-vicblends-barber-training-california-prisons-1237218885",
+    "published_at": "2026-11-10T19:43:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a85abba235a4fa3a2276",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘It’s Hotter Than Mordor’: On Set for ‘The Rings of Power’ Season 3, Where Dwarf Beards Are Falling Off Under a U.K. Heatwave",
+    "url": "https://variety.com/2026/tv/news/rings-of-power-season-3-cast-filming-1236943397",
+    "published_at": "2026-11-10T19:41:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "462b91425d082d89a737",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Legendary Entertainment Hires Apollo Partner Aaron Sobel (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/news/legendary-entertainment-aaron-sobel-apollo-1236944175",
+    "published_at": "2026-11-10T19:38:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c9d823735945224e7da8",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“DWTS” pro Jenna Johnson reveals broken nose ahead of Grammy Night",
+    "url": "https://ew.com/dwts-jenna-johnson-broken-nose-grammy-night-12247156",
+    "published_at": "2026-11-10T19:36:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c3c226d19c0f41b1dfd7",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Billy Joel announces return to stage in wake of brain disorder diagnosis",
+    "url": "https://ew.com/billy-joel-announces-stage-return-amid-brain-disorder-diagnosis-12247373",
+    "published_at": "2026-11-10T19:35:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f1a99298dba6e9cf8aee",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "PlayStation Plus Monthly Games for November 2026 Announced",
+    "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced",
+    "published_at": "2026-11-10T19:33:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5110b4e435eb8843ac1f",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "FC 27 Road to the Knockouts Challenge 2 SBC solutions and rewards",
+    "url": "https://www.destructoid.com/fc-27-road-to-the-knockouts-challenge-2-sbc-solutions-and-rewards",
+    "published_at": "2026-11-10T19:31:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d58a3d5445950f0c3182",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Today’s Top Deals: Astro Bot, Logitech G PRO X Superlight 2 SE Mouse, and Star Wars Galactic Racer",
+    "url": "https://www.ign.com/articles/best-deals-for-november-10-2026",
+    "published_at": "2026-11-10T19:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4c95efe88f87f9d7240c",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "STX Entertainment Names Angus Sutherland CEO As Indie Studio Reemerges",
+    "url": "https://deadline.com/2026/11/stx-entertainment-hires-angus-sutherland-ceo-1237219011",
+    "published_at": "2026-11-10T19:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61086ae0188e19efdd80",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Backrooms’ Director Kane Parsons Says He’s ‘Anti-AI’: No Artist Needs ‘Generative Tools’",
+    "url": "https://www.thewrap.com/creative-content/movies/backrooms-kane-parsons-anti-ai",
+    "published_at": "2026-11-10T19:28:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "536250100ed7d10477bd",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Christina Applegate details physical reality of her undiagnosed illness: ‘Can’t move my right shoulder’",
+    "url": "https://ew.com/christina-applegate-details-physical-reality-undiagnosed-illness-12247141",
+    "published_at": "2026-11-10T19:27:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c7471e68e48639e9132f",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Love Is Blind's Michaella Giorgio Clarifies Matt the Beekeeper Romance",
+    "url": "https://www.eonline.com/news/1437990/love-is-blinds-michaella-giorgio-clarifies-beekeeper-relationship?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T19:25:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c65088c53ddfb6acb55a",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Oscars: Best Original Score — Could One of Hollywood’s Most Overlooked Composers Finally Get His Moment?",
+    "url": "https://variety.com/feature/2027-oscars-best-original-score-predictions-1236878521",
+    "published_at": "2026-11-10T19:25:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a1223b9a804737fa165a",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Galisteo Media Arts Sets Karl Marx Documentary ‘American Boogeyman’ Based on Book by Andrew Hartman (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/news/galisteo-media-karl-marx-documentary-american-boogeyman-1236944191",
+    "published_at": "2026-11-10T19:23:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "14e10238dc43dbd917a5",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "James Dean Biopic Casts ‘Half Man’ Actor Mitchell Robertson as Star’s Purported Gay Lover (Exclusive)",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/james-dean-biopic-mitchell-robertson-one-hand-tied-1236751911",
+    "published_at": "2026-11-10T19:22:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6a29bcbc4b1b98425dcf",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Gordon Ramsay shows off abs in shirtless photo to celebrate turning 60",
+    "url": "https://ew.com/gordon-ramsay-shows-off-abs-shirtless-photo-to-celebrate-60-12247247",
+    "published_at": "2026-11-10T19:20:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4a3e5b45ec1afb70bb76",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Burger King Italy Gets Official Magic: The Gathering Meal With Whopper-Themed Deck Boxes",
+    "url": "https://www.ign.com/articles/burger-king-italy-gets-magic-the-gathering-meal-with-whopper-themed-deck-boxes",
+    "published_at": "2026-11-10T19:16:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f498bb739c02e95c46cd",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Everything We Know About ‘Off Campus’ Season 2 So Far",
+    "url": "https://deadline.com/feature/off-campus-season-2-news-updates-everything-we-know-1236929773",
+    "published_at": "2026-11-10T19:15:48+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5db7f0045a0f9174e590",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Was Never Going to Hit 60 Frames per Second on Consoles",
+    "url": "https://www.ign.com/articles/gta-6-was-never-going-to-be-60-frames-per-second-on-consoles",
+    "published_at": "2026-11-10T19:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "93ee81bb9f20237d81a2",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Harry Potter” star Paapa Essiedu doesn’t ‘want to talk about’ J.K. Rowling, but believes in ‘respect and dignity’ for trans people",
+    "url": "https://ew.com/harry-potter-paapa-essiedu-jk-rowling-respect-dignity-for-trans-people-12247245",
+    "published_at": "2026-11-10T19:14:48+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7a5209dbc542a19a5ce7",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far",
+    "url": "https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797",
+    "published_at": "2026-11-10T19:09:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d54dda3dec8dfd931fb8",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
+    "url": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck",
+    "published_at": "2026-11-10T19:07:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2658f4aa2ae37d44a673",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Everything We Know About Netflix’s ‘Better Than The Movies’ Feature Adaptation So Far",
+    "url": "https://deadline.com/feature/better-than-the-movies-film-adaptation-news-updates-1237033382",
+    "published_at": "2026-11-10T19:06:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "105ff88c3b1e74c0d94d",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Hegseth Dodges Impeachment Questions, Only Calls on Conservative Outlets at First Presser in 6 Months",
+    "url": "https://www.thewrap.com/media-platforms/journalism/pete-hegseth-conservative-media-pentagon-briefing-impeachment",
+    "published_at": "2026-11-10T19:05:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "36500a511273467ceab7",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
+    "url": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes",
+    "published_at": "2026-11-10T19:03:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6f7c5a069cc83027e140",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "David Walliams Cameo Dropped From Angel Studios’ ‘Fing!’ Following Sexual Harassment Allegations, While Sky Exits Film Entirely (EXCLUSIVE)",
+    "url": "https://variety.com/2026/film/global/sky-drops-david-walliams-fing-sexual-harassment-allegations-1236944230",
+    "published_at": "2026-11-10T19:02:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ea8ab7045e7093badcc9",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Talking Point: With Big Walk, The AI-In-Game-Dev Debate Just Got A Lot Murkier",
+    "url": "https://www.nintendolife.com/features/talking-point-with-big-walk-the-ai-in-game-dev-debate-just-got-a-lot-murkier",
+    "published_at": "2026-11-10T19:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c1ea6561827ed026e02d",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Ramy Youssef and Steve Way Reteaming for Body Swap Comedy",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/ramy-youssef-steve-way-body-swap-comedy-1236751813",
+    "published_at": "2026-11-10T19:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b9833e176ce4a88da81a",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Michelle Pfeiffer and Kurt Russell Tease Major “Twists” in Season 2 of ‘The Madison’",
+    "url": "https://www.hollywoodreporter.com/tv/tv-features/michelle-pfeiffer-kurt-russell-the-madison-season-2-1236750542",
+    "published_at": "2026-11-10T19:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1bb651d0a012836740b2",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "A Decade After ‘Parks and Rec,’ Amy Poehler Is Back on TV With ‘Dig’: “I Was Waiting for the Right Thing”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/amy-poehler-new-show-dig-parks-and-rec-1236751871",
+    "published_at": "2026-11-10T18:58:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a7195fcb0b0a38a487fd",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "PlayStation Plus PC app is being shut down in December because less than 0.4% of eligible subscribers are using it",
+    "url": "https://www.pcgamer.com/gaming-industry/playstation-plus-pc-app-is-being-shut-down-in-december-because-less-than-0-4-percent-of-eligible-subscribers-are-using-it",
+    "published_at": "2026-11-10T18:57:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "28b28726a9cd0f2039d6",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Brenda Song says she was ‘underpaid and overworked’ as a Disney Channel star",
+    "url": "https://ew.com/brenda-song-says-underpaid-overworked-disney-channel-star-12246966",
+    "published_at": "2026-11-10T18:52:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d4b6ee5cd76d54a2de3e",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Tony Romo makes surprise live TV appearance after parting ways with CBS Sports amid OWI arrest",
+    "url": "https://ew.com/tony-romo-makes-surprise-tv-appearance-after-cbs-sports-departure-amid-arrest-12247234",
+    "published_at": "2026-11-10T18:52:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d7cfcbf5af7a040f7f5e",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "The Outer Worlds 2’s first story expansion announced",
+    "url": "https://www.videogameschronicle.com/news/the-outer-worlds-2s-first-story-expansion-announced",
+    "published_at": "2026-11-10T18:47:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5ea3cc116a6b615940a6",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Long Long Night’ Director Youm Kyu-bock on Creating Animation That Takes Kids Seriously",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/long-long-night-director-youm-kyu-bock-interview-1236751376",
+    "published_at": "2026-11-10T18:45:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ab12e09fdb12dea05722",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Casey Bloys to Receive Producers Guild’s Milestone Award",
+    "url": "https://www.thewrap.com/industry-news/awards/casey-bloys-producers-guild-milestone-award",
+    "published_at": "2026-11-10T18:44:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0dea3dca546b04190a37",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Katy Perry’s comments about ‘controlling’ ex-husband Russell Brand resurface after comedian’s prison sentencing",
+    "url": "https://ew.com/katy-perry-comments-about-controlling-ex-husband-russell-brand-resurface-12247116",
+    "published_at": "2026-11-10T18:44:15+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2bc89bae78aba682a222",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 Under the Lights Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-under-the-lights-evolution",
+    "published_at": "2026-11-10T18:42:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ecaba49f7b2948853659",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Overwatch brings back 6v6 role-queue following player feedback",
+    "url": "https://www.videogameschronicle.com/news/overwatch-brings-back-6v6-role-queue-following-player-feedback",
+    "published_at": "2026-11-10T18:39:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cd7450ba3eeca927babd",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Marvel Rivals confirms Nightcrawler and Dracula as playable characters",
+    "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters",
+    "published_at": "2026-11-10T18:37:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d7aede60d9d600a224a9",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Marathon is becoming a whole new game next month with a roguelite PvE mode, a beta for a very Halo-esque team deathmatch mode, a vibey social space and more",
+    "url": "https://www.rockpapershotgun.com/marathon-is-becoming-a-whole-new-game-next-month-with-a-roguelite-pve-mode-a-beta-for-a-very-halo-esque-team-deathmatch-mode-a-vibey-social-space-and-more",
+    "published_at": "2026-11-10T18:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a174f335a5af070db654",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Mouse Work launches December 7",
+    "url": "https://www.gematsu.com/2026/11/mouse-work-launches-december-7",
+    "published_at": "2026-11-10T18:29:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e2290a0227948c683f9e",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Anonymous celebrity accused of sexual misconduct revealed after failed attempt to hide identity",
+    "url": "https://ew.com/david-walliams-revealed-celebrity-accused-of-sexual-misconduct-after-failed-attempt-hide-identity-12246859",
+    "published_at": "2026-11-10T18:23:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0bc7d603ea6feb00c9c7",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Astro Bot Dips Below $40 at Amazon and Walmart Before Black Friday Sales Kick Off",
+    "url": "https://www.ign.com/articles/astro-bot-dips-below-40-at-amazon-and-walmart-before-black-friday-sales-kick-off",
+    "published_at": "2026-11-10T18:23:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "053770c334a1713f9ac0",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "IGN to Stream the 2027 New York Game Awards",
+    "url": "https://www.ign.com/articles/ign-to-stream-the-2027-new-york-game-awards",
+    "published_at": "2026-11-10T18:20:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "51e6c156930dcfd0dc6f",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "The Outer Worlds 2 DLC ‘Side Effects Guaranteed’ launches December 2",
+    "url": "https://www.gematsu.com/2026/11/the-outer-worlds-2-dlc-side-effects-guaranteed-launches-december-2",
+    "published_at": "2026-11-10T18:17:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5e47595c41c5722b1d64",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Save $350 off Bose Smart Ultra Soundbar With Dolby Atmos and TrueSpace Technology for Black Friday",
+    "url": "https://www.ign.com/articles/bose-smart-ultra-dolby-atmos-soundbar-deal-november-2026",
+    "published_at": "2026-11-10T18:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ff83d8b436258ce2227c",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "PlayStation Plus PC App Will Go Offline December 10, as Sony Continues to Retreat From PC",
+    "url": "https://www.ign.com/articles/playstation-plus-pc-app-will-go-offline-december-10-as-sony-continues-to-retreat-from-pc",
+    "published_at": "2026-11-10T18:11:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e6e07b83cea0b0ab70be",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to earn and spend Legacy points in WoW Forever?",
+    "url": "https://www.destructoid.com/how-to-earn-and-spend-legacy-points-in-wow-forever",
+    "published_at": "2026-11-10T18:02:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "944abb1e10a19608f9b4",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get all bait recipes in DREADMOOR",
+    "url": "https://www.destructoid.com/how-to-get-all-bait-recipes-in-dreadmoor",
+    "published_at": "2026-11-10T18:00:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "fcabfe89cbeb5e83ab3a",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "How To Get A Sleeping Bag In World Of Warcraft: Forever",
+    "url": "https://kotaku.com/how-to-get-a-sleeping-bag-in-world-of-warcraft-forever-2000755167",
+    "published_at": "2026-11-10T18:00:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cb4c97f604e79a69be58",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Gallery: Hollow Knight & Silksong's Switch 2 Physicals Are A Delight For Map Fans",
+    "url": "https://www.nintendolife.com/news/2026/11/gallery-hollow-knight-and-silksongs-switch-2-physicals-are-a-delight-for-map-fans",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2215a021c0432a07c41c",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Nvidia shareholders have filed a lawsuit against the tech company over claims that they were misled regarding CEO Jensen Huang's affair",
+    "url": "https://www.rockpapershotgun.com/nvidia-shareholders-have-filed-a-lawsuit-against-the-tech-company-over-claims-that-they-were-misled-regarding-ceo-jensen-huangs-affair",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "700af688fc616dd0dc5b",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Fall in Love With Kendall Jenner and Jacob Elordi’s Autumn Date in NYC",
+    "url": "https://www.eonline.com/news/1437959/kendall-jenner-jacob-elordi-have-coffee-date-in-nyc-photos?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "13287be8334f7036e0e2",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "How Aspyn Ovard's Throuple With Married Couple Plays Out on SLOMW: OC",
+    "url": "https://www.eonline.com/news/1437963/aspyn-ovard-details-throuple-with-married-couples-role-in-mormon-wives-oc?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c59bc4075cebc68bfec7",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All Enhancements in Warhammer Survivors explained",
+    "url": "https://www.destructoid.com/all-enhancements-in-warhammer-survivors-explained",
+    "published_at": "2026-11-10T17:55:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "624d6f29ad277fcc3828",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The 2,050-Piece LEGO Pokémon Pikachu and Poké Ball Set Drops to a New Price Low Ahead of Black Friday",
+    "url": "https://www.ign.com/articles/lego-pokmon-pikachu-deal-november-2026",
+    "published_at": "2026-11-10T17:50:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a65ad27565ad2332fd09",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“The Body” creator says new series applies ‘the intensity and ritual of religion to girlhood’",
+    "url": "https://ew.com/the-body-netflix-preview-quinn-shephard-12247099",
+    "published_at": "2026-11-10T17:48:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1a6f60bcac09f2ab0243",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Keira Knightley Reveals Which of Her Movies She’s Only Seen Once",
+    "url": "https://www.eonline.com/news/1437987/keira-knightley-reveals-shes-only-seen-love-actually-once?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T17:44:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "722216ded5b143e3d21a",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Logitech Is Letting Employees Take Work Off for Game Releases, Just Ahead of GTA 6",
+    "url": "https://www.ign.com/articles/logitech-is-letting-employees-take-work-off-for-game-releases-just-ahead-of-gta-6",
+    "published_at": "2026-11-10T17:42:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "316cae640f025acd9b37",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Bungie Tempts New Players With Free Period as PvE Mode and PvP Arena Battles Come to Marathon",
+    "url": "https://www.ign.com/articles/marathon-free-symbiosis-pve",
+    "published_at": "2026-11-10T17:39:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "da2cc38ae1de10ad91af",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to change layers in WoW Forever? (After the layer size change)",
+    "url": "https://www.destructoid.com/how-to-change-layers-in-wow-forever-after-the-layer-size-change",
+    "published_at": "2026-11-10T17:35:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3b366528d3189d2a9091",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Save Up to 40% Off Samsung Nintendo Switch 2 Memory Cards Ahead of Black Friday",
+    "url": "https://www.ign.com/articles/samsung-p9-nintendo-switch-2-memory-card-deal-november-2026",
+    "published_at": "2026-11-10T17:35:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "821496bf9659cf49971f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Ultra-Slim Baseus Blade 20,000mAh Power Bank With 100W Output Drops to $39 for Black Friday",
+    "url": "https://www.ign.com/articles/baseus-blade-slim-power-bank-deal-november-2026",
+    "published_at": "2026-11-10T17:35:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e0f9ed35ea6e7f7e99d6",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Grand Theft Auto 6 is 'the most pre-ordered' game of all time on both Xbox and PlayStation",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation",
+    "published_at": "2026-11-10T17:34:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f5c1e34e4dce613c5512",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "A Big Talk About Big Walk’s AI Fallout",
+    "url": "https://kotaku.com/big-walk-ai-disclosure-igf-awards-vg-chat-2000755514",
+    "published_at": "2026-11-10T17:33:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1957f5bb0d6b1192a05c",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "How Kelly Clarkson Helps Daughter River Navigate \"Hard\" Junior High",
+    "url": "https://www.eonline.com/news/1437988/how-kelly-clarkson-helps-daughter-river-navigate-hard-junior-high-years?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T17:30:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "581fc32beffbf0f35bb7",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Company of Heroes 3 developer admits \"it was a lot\" to make the 3.0 overhaul patch alongside regular updates, singleplayer DLC, and a whole spinoff game",
+    "url": "https://www.rockpapershotgun.com/company-of-heroes-3-developer-admits-it-was-a-lot-to-make-the-30-overhaul-patch-alongside-regular-updates-singleplayer-dlc-and-a-whole-spinoff-game",
+    "published_at": "2026-11-10T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f79fb8a06ac388b39064",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "How Nick Cannon Really Feels About Mariah Carey Prenup",
+    "url": "https://www.eonline.com/news/1437986/how-nick-cannon-really-feels-about-mariah-carey-prenup?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T17:22:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "76e710402a02cc8d6a7e",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Fans Are Divided Over Confirmation of 30fps",
+    "url": "https://www.ign.com/articles/gta-6-fans-are-divided-over-confirmation-of-30fps",
+    "published_at": "2026-11-10T17:16:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "17421a2d595194a18810",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Note to self: If playing Call of Duty in an airport, don't say words like 'bomb' lest you want to evacuate an entire plane",
+    "url": "https://www.pcgamer.com/games/call-of-duty/note-to-self-if-playing-call-of-duty-in-an-airport-dont-say-words-like-bomb-lest-you-want-to-evacuate-an-entire-plane",
+    "published_at": "2026-11-10T17:15:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61a6b40072650d1d180c",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "The November 2026 PS Plus Catalog Update Is Adding Some Very Good Games",
+    "url": "https://kotaku.com/the-november-2026-ps-plus-catalog-update-is-adding-some-very-good-games-2000755543",
+    "published_at": "2026-11-10T17:15:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1a412f07b22c76b31c3f",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Andy Richter reveals what Guillermo Rodriguez said to him every week backstage at “DWTS”",
+    "url": "https://ew.com/andy-richter-reveals-what-guillermo-rodriguez-said-to-him-every-week-backstage-at-dwts-12246903",
+    "published_at": "2026-11-10T17:14:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c0e2560eb4a85eea9432",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "MS has messily patched a Microsoft Paint security vulnerability, but the update still isn’t showing up for some",
+    "url": "https://www.pcgamer.com/software/windows/ms-has-messily-patched-a-microsoft-paint-security-vulnerability-but-the-update-still-isnt-showing-up-for-some",
+    "published_at": "2026-11-10T17:14:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0d255c3b4a99e2f00b10",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Dukes of Hazzard” star Catherine Bach gives update after ‘serious’ health issue",
+    "url": "https://ew.com/dukes-of-hazzard-star-catherine-bach-gives-health-update-12247018",
+    "published_at": "2026-11-10T17:13:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7dbcebc94d5c7a2aae52",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Devolver Digital and BlackLight Games announce roguelike auto-battler All Army Attack for PC",
+    "url": "https://www.gematsu.com/2026/11/devolver-digital-and-blacklight-games-announce-roguelike-auto-battler-all-army-attack-for-pc",
+    "published_at": "2026-11-10T17:13:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "501ff97e706c27c11778",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Will Ferrell revives beer-drinking, cigarette-smoking Buddy the Elf to crash Andy Richter’s interview",
+    "url": "https://ew.com/will-ferrell-buddy-the-elf-crash-andy-richter-interview-12247002",
+    "published_at": "2026-11-10T17:10:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "79b9999ee1c188b20f15",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Here's our second wave of PS Plus games for November 2026 - and Sony's scrapping its barely used PC app",
+    "url": "https://www.eurogamer.net/ps-plus-games-november-2026-pc-app",
+    "published_at": "2026-11-10T17:10:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6c200d7ac40801c920f2",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Russell Brand’s Ex-Girlfriend Jemima Goldsmith Accuses Him of ‘Violence, Coercive Control, and Abuse’",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/russell-brand-jemima-goldsmith-abuse-allegations-1235655054",
+    "published_at": "2026-11-10T17:09:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9b6f1b6a24645448fa8f",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "PlayStation announces end of PC streaming in December",
+    "url": "https://www.videogameschronicle.com/news/playstation-announces-end-of-pc-streaming-in-december",
+    "published_at": "2026-11-10T17:05:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6b42673fcf2902e96605",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Overwatch doesn’t have ‘any intention’ of making 6-vs-6 the main mode, but it’s now ‘a second among equals’",
+    "url": "https://www.destructoid.com/overwatch-no-intention-6v6-main-mode-second-among-equals",
+    "published_at": "2026-11-10T17:00:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "324469d181bb1203efd2",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Mormon Wives' Jen Affleck Says She's \"Not Doing the Best\" Amid Divorce",
+    "url": "https://www.eonline.com/news/1437952/mormon-wives-jen-affleck-not-doing-the-best-amid-zac-affleck-breakup?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3e083d430f4450147371",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Educational game dev program cancelled because students were submitting games made entirely with AI",
+    "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai",
+    "published_at": "2026-11-10T16:59:19+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ec1650c625fb36600f71",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Bandai Namco is liquidating Unknown 9: Awakening studio Reflector Entertainment, following multiple previous layoffs since the game's launch",
+    "url": "https://www.rockpapershotgun.com/bandai-namco-is-liquidating-unknown-9-awakening-studio-reflector-entertainment-following-multiple-previous-layoffs-since-the-games-launch",
+    "published_at": "2026-11-10T16:58:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e9049800c8bea12c0c41",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "‘AMDLSS5’ gets Nvidia’s neural rendering running on AMD graphics cards and claims 64% better performance than other mods",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/amdlss5-gets-nvidias-neural-rendering-running-on-amd-graphics-cards-and-claims-64-percent-better-performance-than-other-mods",
+    "published_at": "2026-11-10T16:53:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5ea3108f7608bb4ed642",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "GTA 6 is the ‘most pre-ordered game in PlayStation history’ despite the fact it’s locked at 30FPS, even on PS5 Pro",
+    "url": "https://www.destructoid.com/gta-6-is-the-most-pre-ordered-game-in-playstation-history-despite-the-fact-its-locked-at-30fps-even-on-ps5-pro",
+    "published_at": "2026-11-10T16:53:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b5d7b9ca91818e285f80",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
+    "url": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6",
+    "published_at": "2026-11-10T16:49:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "127fad3703c6da1f0825",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "11 Vintage Photos That Capture “Sesame Street”’s Debut Season in Honor of the Show’s 57th Anniversary",
+    "url": "https://people.com/vintage-photos-from-the-first-season-of-sesame-street-12245136",
+    "published_at": "2026-11-10T16:46:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0038d15ea332f45410b7",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Video: We Join IGN's 'Review Crew' To Discuss Zelda: Ocarina Of Time",
+    "url": "https://www.nintendolife.com/news/2026/11/video-we-join-igns-review-crew-to-discuss-zelda-ocarina-of-time",
+    "published_at": "2026-11-10T16:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "48927250743d4b479774",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "PlayStation Plus Game Catalog and Classics Catalog lineup for November 2026 announced",
+    "url": "https://www.gematsu.com/2026/11/playstation-plus-game-catalog-and-classics-catalog-lineup-for-november-2026-announced",
+    "published_at": "2026-11-10T16:40:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c3afea927807370aea40",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Pete Davidson says ex Elsie Hewitt ‘crushed’ their “Sopranos”-themed Halloween costumes with daughter",
+    "url": "https://ew.com/pete-davidson-ex-elsie-hewitt-crushed-sopranos-themed-halloween-costumes-daughter-12246780",
+    "published_at": "2026-11-10T16:40:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c41ec0d163dafd8b0f4d",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Death Stranding 2 Headlines PlayStation Plus Game Catalog For November",
+    "url": "https://www.gamespot.com/articles/death-stranding-2-headlines-playstation-plus-game-catalog-for-november",
+    "published_at": "2026-11-10T16:36:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c2c0806fe8e2203b26de",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Jimmy Kimmel burns Donald Trump with these 5 words",
+    "url": "https://ew.com/jimmy-kimmel-burns-donald-trump-with-these-5-words-12246820",
+    "published_at": "2026-11-10T16:32:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2aa8ef7a7b0937c3c09a",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history",
+    "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+    "published_at": "2026-11-10T16:31:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ccdf6b89f414048342c9",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Love Island’s Trinity Reveals Living Situation With Bryce in L.A.",
+    "url": "https://www.eonline.com/news/1437985/love-island-usas-trinity-tatum-bryce-alakais-living-situation-revealed?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T16:27:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e92b39caf4c4601958a2",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Prince Harry makes first comments since father-in-law’s arrest, says kids ‘deserve to feel safe’",
+    "url": "https://ew.com/prince-harry-makes-first-comments-since-father-in-law-arrest-12246692",
+    "published_at": "2026-11-10T16:22:28+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3157bb770c44e43eb9b0",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "In a reveal that might worry eventual PC players glancing at their GPUs, GTA 6 will target 30fps on all consoles",
+    "url": "https://www.rockpapershotgun.com/in-a-reveal-that-might-worry-eventual-pc-players-glancing-at-their-gpus-gta-6-will-target-30fps-on-all-consoles",
+    "published_at": "2026-11-10T16:19:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "84857ed13f8101cfcee3",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "New GTA 6 trailer showcases PS5-exclusive DualSense features",
+    "url": "https://www.videogameschronicle.com/news/new-gta-6-trailer-showcases-ps5-exclusive-dualsense-features",
+    "published_at": "2026-11-10T16:19:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9ecd14074aac289990b7",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Nintendo is hiring someone to document the history of its games",
+    "url": "https://www.videogameschronicle.com/news/nintendo-is-hiring-someone-to-document-the-history-of-its-games",
+    "published_at": "2026-11-10T16:18:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4fd847f3ebdbfa002aa7",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6 Is The Most Preordered Game Of All Time For PlayStation And Xbox",
+    "url": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox",
+    "published_at": "2026-11-10T16:15:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1ae5b1a925db29d66b39",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Bella Hadid Hard Launches New Romance With PDA-Filled Photos",
+    "url": "https://www.eonline.com/news/1437984/bella-hadid-hard-launches-new-cowboy-romance-with-instagram-photos?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T16:09:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0d072d6f5fa7c86e8540",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Watch A TCG Thief With No Plan Give Up At The Slightest Resistance",
+    "url": "https://kotaku.com/magic-tcg-card-thief-video-binder-middle-tennessee-gaming-star-trek-2000755538",
+    "published_at": "2026-11-10T16:06:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6e00096def5d4233b70c",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Marvel Rivals’ Doomsday-themed season 11 brings Nightcrawler into the fold, and Dracula soon",
+    "url": "https://www.destructoid.com/marvel-rivals-season-11-patch-notes",
+    "published_at": "2026-11-10T16:03:39+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a9e4ae96f6910a395a80",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Jonathan Tucker makes first comments about ‘horrifying’ moment he saved a child during 2024 home invasion",
+    "url": "https://ew.com/jonathan-tucker-breaks-silence-saving-child-during-home-invasion-12246861",
+    "published_at": "2026-11-10T16:03:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d03beb67ad39ac9d2126",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "‘Little Britain’ Star David Walliams Accused of Sexual Misconduct and Grooming",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/david-walliams-little-britain-accused-sexual-misconduct-1235655075",
+    "published_at": "2026-11-10T16:01:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1bfdc594d2ea28d5b7a6",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Teenage Mutant Ninja Turtles: Splintered Fate ‘Shell Squad Co-Op Update’ now available",
+    "url": "https://www.gematsu.com/2026/11/teenage-mutant-ninja-turtles-splintered-fate-shell-squad-co-op-update-now-available",
+    "published_at": "2026-11-10T16:00:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a9b2049d5dc59844d3b7",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Marvel Cosmic Invasion gets the replay value it needed at launch with new roguelite Dr. Doom DLC",
+    "url": "https://www.destructoid.com/marvel-cosmic-invasion-doom-siege-dlc-impressions",
+    "published_at": "2026-11-10T16:00:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a1d6adb0f4d543717af1",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "New TMNT: Splintered Fate Update Adds Even More Reasons To Play In Co-Op",
+    "url": "https://www.nintendolife.com/news/2026/11/new-tmnt-splintered-fate-update-adds-even-more-reasons-to-play-in-co-op",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "32900e8749a958ab979d",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "I feel better than ever waiting for GTA 6 on PC now Rockstar confirms it's targeting 30 fps on PlayStation and Xbox",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-better-than-ever-waiting-for-gta-6-on-pc-now-rockstar-confirms-its-targeting-30-fps-on-playstation-and-xbox",
+    "published_at": "2026-11-10T15:41:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "223b28fc73aa88c14b32",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Our favorite ultralight gaming mouse has dropped to its lowest ever price on Amazon",
+    "url": "https://www.pcgamer.com/hardware/gaming-mice/our-favorite-ultralight-gaming-mouse-has-dropped-to-its-lowest-ever-price-on-amazon",
+    "published_at": "2026-11-10T15:40:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4badb5a42179aec52df9",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA Releases Could Speed Up, Take-Two Boss Says",
+    "url": "https://www.gamespot.com/articles/gta-releases-could-speed-up-take-two-boss-says",
+    "published_at": "2026-11-10T15:39:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c23a1dd3aa5a0970bebb",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Marathon’s Symbiosis update is giving players everything they asked for, and it still may not matter",
+    "url": "https://www.destructoid.com/marathons-symbiosis-update-everything-asked-for-may-not-matter",
+    "published_at": "2026-11-10T15:39:34+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8dcb6c305f187d1a309a",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Zelda: Ocarina Of Time Remake Has A Massive Second-Act Change That Took My Breath Away",
+    "url": "https://kotaku.com/zelda-ocarina-of-time-remake-has-a-massive-second-act-change-that-took-my-breath-away-2000755518",
+    "published_at": "2026-11-10T15:30:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d8b02d5c9263b2e3f0f3",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All items in Warhammer Survivors and how to unlock them",
+    "url": "https://www.destructoid.com/all-items-in-warhammer-survivors-and-how-to-unlock-them",
+    "published_at": "2026-11-10T15:30:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2bf6c5228a3b8380b10b",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "GTA 6 console preloads begin today, so I've found the extra controllers and storage you PS5 and Xbox owners will need while I cry into my just-a-PC-gamer soup",
+    "url": "https://www.pcgamer.com/hardware/gta-6-console-preloads-begin-today-so-ive-found-the-extra-controllers-and-storage-you-ps5-and-xbox-owners-will-need-while-i-cry-into-my-just-a-pc-gamer-soup",
+    "published_at": "2026-11-10T15:27:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "aec8638db8760f538389",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Khloe Kardashian's Holiday Lights Need to Be Seen to Be Believed",
+    "url": "https://www.eonline.com/news/1437983/see-khloe-kardashians-absolutely-spectacular-holiday-lights-on-her-house?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T15:25:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7238d68b8324e12896d1",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "\"A fight for all workers\": SAG-AFTRA throw weight behind emerging Rockstar union ahead of its GTA 6 release week vote",
+    "url": "https://www.rockpapershotgun.com/a-fight-for-all-workers-sag-aftra-throw-weight-behind-emerging-rockstar-union-ahead-of-its-gta-6-release-week-vote",
+    "published_at": "2026-11-10T15:04:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "368bd84356d393e6d522",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Here’s How Your Xbox One Can Play GTA 6",
+    "url": "https://www.gamespot.com/articles/heres-how-your-xbox-one-can-play-gta-6",
+    "published_at": "2026-11-10T15:02:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "92f5eb6986985a09c0b6",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Rockstar details Grand Theft Auto 6 PS5 Pro enhancements, but it'll still only run at 30FPS",
+    "url": "https://www.eurogamer.net/gta-6-30-fps-platforms-absolute-limit",
+    "published_at": "2026-11-10T15:01:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7ad5b7af2c230bcff2b4",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Hulu No Longer Offers a Free Trial, But We Found 2 Work-Arounds",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/hulu-free-trial-streaming-subscription-deal-discount-1235654976",
+    "published_at": "2026-11-10T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6004cbabce81988c0f28",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "BioWare co-founder and Star Wars KOTOR director say they’re interested in reuniting to try and save BioWare’s IP",
+    "url": "https://www.videogameschronicle.com/news/bioware-co-founder-and-star-wars-kotor-director-say-theyre-interested-in-reuniting-to-try-and-save-biowares-ip",
+    "published_at": "2026-11-10T14:51:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b2ad5e9c4911cf2f5de4",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "2D action platformer isekizima: Ruins and Tails Journey launches January 19, 2027 for PC, later for Switch",
+    "url": "https://www.gematsu.com/2026/11/2d-action-platformer-isekizima-ruins-and-tails-journey-launches-january-19-2027-for-pc-later-for-switch",
+    "published_at": "2026-11-10T14:50:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a17191fefb68222f14e4",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Europe is about to get very tough on loot boxes in games, according to a leaked draft of the landmark Digital Fairness Act",
+    "url": "https://www.eurogamer.net/digital-fairness-act-eu-europe-loot-boxes-regulation",
+    "published_at": "2026-11-10T14:46:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ee21e8027f3dd455d69f",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Rockstar Says GTA VI Is ‘Targeting’ 30 FPS And Will Use PSSR On PS5 Pro",
+    "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517",
+    "published_at": "2026-11-10T14:42:54+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "15e73167e89585f4b76e",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Rockstar kills any hopes of streaming GTA 6 from Xbox to PC, but you can stream it to your old Xbox One if you like",
+    "url": "https://www.eurogamer.net/gta-6-xbox-cloud-streaming-pc-xbox-one",
+    "published_at": "2026-11-10T14:40:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e45fd3d132b73d5c2126",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6 PS5 Pro Features, Frame Rates, And Xbox Cloud Gaming Details Confirmed By Rockstar",
+    "url": "https://www.gamespot.com/articles/gta-6-ps5-pro-features-frame-rates-and-xbox-cloud-gaming-details-confirmed-by-rockstar",
+    "published_at": "2026-11-10T14:37:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d72bebbf84f238c9f5ed",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Big Walk developer reveals it used generative AI 'sparingly', estimates 'well under 0.1%' was actually coded using LLMs",
+    "url": "https://www.pcgamer.com/games/puzzle/big-walk-developer-reveals-it-used-generative-ai-sparingly-estimates-well-under-0-1-percent-was-actually-coded-using-llms",
+    "published_at": "2026-11-10T14:36:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9a98f62f07e641e095e4",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Prince Harry Pleads for Child Safety After Meghan Markle Dad’s Arrest",
+    "url": "https://www.eonline.com/news/1437982/prince-harry-shares-plea-for-child-safety-after-thomas-markle-arrest?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T14:36:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f58280547f1248443e8d",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Big Walk’s AI Usage Was Tiny, But Its Disclosure Has Sparked A Bigger Debate",
+    "url": "https://www.gamespot.com/articles/big-walks-ai-usage-was-tiny-but-its-disclosure-has-sparked-a-bigger-debate",
+    "published_at": "2026-11-10T14:35:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f81c4a0cef868c4ab3e6",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Report: James Gunn Ousted Amid Messy Power Struggle Despite Superman’s Success",
+    "url": "https://kotaku.com/james-gunn-peter-safran-dc-studios-skydance-what-happened-2000755516",
+    "published_at": "2026-11-10T14:30:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4242f607466e3992552f",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "The Falconeer: Revolution Remaster coming to PS5, Xbox Series on December 2",
+    "url": "https://www.gematsu.com/2026/11/the-falconeer-revolution-remaster-coming-to-ps5-xbox-series-on-december-2",
+    "published_at": "2026-11-10T14:17:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0acec0e0be42ba5353fd",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Nick Cannon Calls Group Chat With Moms of His Kids “Not the Best Idea”",
+    "url": "https://www.eonline.com/news/1437980/nick-cannon-details-group-chat-with-his-6-baby-mamas?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T14:17:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "171833ce843ea07a1ef6",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Rockstar confirms GTA 6 targets 30 FPS, with PS5 Pro-exclusive ray-tracing",
+    "url": "https://www.videogameschronicle.com/news/rockstar-confirms-gta-6-targets-30-fps-with-ps5-pro-exclusive-ray-tracing",
+    "published_at": "2026-11-10T14:14:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d1d9eadb7b95185a34a7",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Crystals of Irm delayed to January 21, 2027",
+    "url": "https://www.gematsu.com/2026/11/crystals-of-irm-delayed-to-january-21-2027",
+    "published_at": "2026-11-10T14:10:11+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2be001ba038037e923d8",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Grand Theft Auto VI pre-load now available, PS5 Pro support confirmed [Update]",
+    "url": "https://www.gematsu.com/2026/11/grand-theft-auto-vi-pre-load-now-available-ps5-pro-support-confirmed",
+    "published_at": "2026-11-10T14:05:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7569dd3b056b7d80a01f",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Trump calls his pal Jensen Huang an ‘honourable guy’ and says he ‘probably has an excuse’ for Nvidia CEO’s affair with alleged spy",
+    "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-calls-his-pal-jensen-huang-an-honourable-guy-and-says-he-probably-has-an-excuse-for-nvidia-ceos-affair-with-alleged-spy",
+    "published_at": "2026-11-10T14:01:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a83cf920982e144807e8",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Fallout and Elder Scrolls actor Stephen Russell returns as Garrett in Thief: The Tarnished Mirror: 'Great to be back with the old guy'",
+    "url": "https://www.pcgamer.com/games/fps/fallout-and-elder-scrolls-actor-stephen-russell-returns-as-garrett-in-thief-the-tarnished-mirror-great-to-be-back-with-the-old-guy",
+    "published_at": "2026-11-10T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f0a4dc15ce050a5bfe19",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Steam now shows average Steam Deck framerates when browsing games, but Valve says it's considering expanding the feature to other hardware",
+    "url": "https://www.eurogamer.net/steam-deck-framerate-average-data-store-widget",
+    "published_at": "2026-11-10T13:53:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9ca8d6a5beedb7fb4f54",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "SLOMW's Miranda Hope Officially Files for Divorce From Chase McWhorter",
+    "url": "https://www.eonline.com/news/1437981/miranda-hope-files-for-divorce-2-years-after-chase-mcwhorter-breakup?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-10T13:42:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "22eb6cce53495adfa6bb",
     "source": "PC Gamer",
     "category": "gaming",
@@ -51,6 +1707,15 @@
     "original_title": "BIFA Nominee ‘Straight Circle’, Starring Elliott & Luke Tittensor, Gets UK Deal",
     "url": "https://deadline.com/2026/11/straight-circle-with-elliott-luke-tittensor-gets-uk-deal-1237218415",
     "published_at": "2026-11-10T13:29:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4727e59350d06134feda",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Skydance Games has been laying off some of its staff, a month after merging with Warner Bros",
+    "url": "https://www.videogameschronicle.com/news/skydance-games-has-been-laying-off-some-of-its-staff-a-month-after-merging-with-warner-bros",
+    "published_at": "2026-11-10T13:20:06+00:00",
     "status": "candidate"
   },
   {
@@ -330,6 +1995,15 @@
     "original_title": "Skydance Games lay off an undisclosed number of staff in the wake of Paramount-Warner Bros. merger, in latest case of consolidation killing livelihoods",
     "url": "https://www.rockpapershotgun.com/skydance-games-lay-off-an-undisclosed-number-of-staff-in-the-wake-of-paramount-warner-bros-merger-in-latest-case-of-consolidation-killing-livelihoods",
     "published_at": "2026-11-10T11:54:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "22081750da8ab3d21917",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "Big Walk studio says it used AI ‘sparingly’ in response to indie award jury statement against its use",
+    "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use",
+    "published_at": "2026-11-10T11:46:56+00:00",
     "status": "candidate"
   },
   {
@@ -7323,1680 +8997,6 @@
     "original_title": "All FC 27 Ultimate Gauntlet 3 rewards and tasks",
     "url": "https://www.destructoid.com/all-fc-27-ultimate-gauntlet-3-rewards-and-tasks",
     "published_at": "2026-11-06T19:20:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6f9af8500f64515617cf",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Bill Hader Reveals Hilariously Sweet Milestone With Daughters",
-    "url": "https://www.eonline.com/news/1437896/bill-hader-reveals-daughters-reaction-to-cat-in-the-hat?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T19:19:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "045f2ae325eac08195e3",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "This Is What Video Game Preservation Looks Like",
-    "url": "https://kotaku.com/this-is-what-video-game-preservation-looks-like-2000754684",
-    "published_at": "2026-11-06T19:00:41+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bfc100baadc81442d25f",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Donuts Beat AI: Nvidia Has Lost $1 Trillion+ In The Past Month, While Krispy Kreme Surges",
-    "url": "https://www.gamespot.com/articles/donuts-beat-ai-nvidia-has-lost-1-trillion-in-the-past-month-while-krispy-kreme-surges",
-    "published_at": "2026-11-06T18:50:58+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9d54ae2bb738c1d8eeea",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "‘Save Mass Effect’ movement parks billboard truck outside of EA HQ as efforts and petitions keep growing",
-    "url": "https://www.destructoid.com/save-mass-effect-billboard-truck-ea-hq-petition-growing",
-    "published_at": "2026-11-06T18:50:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ed8a48de4ecc36afb4db",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "You Can Finally Drive A Dreamcast, Thanks To Sonic",
-    "url": "https://www.gamespot.com/articles/you-can-finally-drive-a-dreamcast-thanks-to-sonic",
-    "published_at": "2026-11-06T18:42:41+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a56b5dad7468a8579f9b",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Mass Effect-like RPG The Expanse: Osiris Reborn ropes in David Gaider, the original lead writer of Bioware's Dragon Age series",
-    "url": "https://www.eurogamer.net/mass-effect-expanse-rpg-david-gaider",
-    "published_at": "2026-11-06T18:40:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1da4f74cf33d0cef6c38",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Best players for FC 27 Matchday Marksman Evolution",
-    "url": "https://www.destructoid.com/best-players-for-fc-27-matchday-marksman-evolution",
-    "published_at": "2026-11-06T18:34:54+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5090dedce604a45d0293",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "The Pirate Shop Token Hunt Is Tearing Fortnite Apart",
-    "url": "https://kotaku.com/the-pirate-shop-token-lottery-is-tearing-fortnite-apart-2000754678",
-    "published_at": "2026-11-06T18:30:17+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1df7c3aa38c52c27be18",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "A Truck Demanding EA ‘Save Mass Effect’ Is Currently Driving Around The Company’s Headquarters",
-    "url": "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
-    "published_at": "2026-11-06T18:15:39+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "14fa85152a4b82ff62e1",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "WoW: Forever’s Dungeon EXP Nerf Is Shaping Up To Be A Disaster For Dungeon Lovers",
-    "url": "https://kotaku.com/wow-forevers-dungeon-exp-nerf-is-shaping-up-to-be-a-disaster-for-dungeon-lovers-2000754647",
-    "published_at": "2026-11-06T18:00:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "34ff8b3915c9e1e18153",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Mass Effect Is Getting A New Art Collection At A Difficult Time For Its Fans",
-    "url": "https://www.gamespot.com/articles/mass-effect-is-getting-a-new-art-collection-at-a-difficult-time-for-its-fans",
-    "published_at": "2026-11-06T18:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3d4963f0336641c176c7",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "TreVeyon Henderson Hospitalized For \"Unusual\" Health Condition",
-    "url": "https://www.eonline.com/news/1437893/patriots-treveyon-henderson-hospitalized-for-unexplained-health-issue?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T17:57:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "937af5cd6832eb75c0d3",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "A Stranger Things Prequel Is Coming: What to Know About Other Worlds",
-    "url": "https://www.eonline.com/news/1437892/netflix-announces-stranger-things-prequel-series-other-worlds?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T17:53:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a14491256cd6af7d44d6",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Bringing Bloodborne back is tricky because \"there's a lot of involved rights associated,\" according to former PlayStation boss",
-    "url": "https://www.eurogamer.net/bloodborne-involved-rights-former-playstation-boss",
-    "published_at": "2026-11-06T17:49:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b869fda836a6c22cdd87",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "All that stands between a hacker and admin privileges on some Linux distros is a 257-character long string of literally anything",
-    "url": "https://www.pcgamer.com/software/linux/all-that-stands-between-a-hacker-and-admin-privileges-on-some-linux-distros-is-a-257-character-long-string-of-literally-anything",
-    "published_at": "2026-11-06T17:31:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d10fe0bdddc9f2f35c04",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Here's A Closer Look At Marvel Cosmic Invasion's New DLC Game Mode",
-    "url": "https://www.nintendolife.com/news/2026/11/heres-a-closer-look-at-marvel-cosmic-invasions-new-dlc-game-mode",
-    "published_at": "2026-11-06T17:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1fc68ef2e5e9f878b363",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Real-time strategy game The Fertile Crescent 2 is an isometric odyssey inspired by Age of Empires, with the 1.0 release out now",
-    "url": "https://www.rockpapershotgun.com/real-time-strategy-game-the-fertile-crescent-2-is-an-isometric-odyssey-inspired-by-age-of-empires-releasing-out-of-early-access-now",
-    "published_at": "2026-11-06T17:20:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "92fda66021f57a553d30",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "America Ferrera Reveals What She Knows About Barbie 2",
-    "url": "https://www.eonline.com/news/1437890/barbie-2-america-ferrera-has-no-details-on-margot-robbie-ryan-gosling-fil?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T17:10:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "24f0029f1f373d6ac714",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "WoW Forever Professions, explained",
-    "url": "https://www.destructoid.com/wow-forever-professions-explained",
-    "published_at": "2026-11-06T17:01:16+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7d2ee3b3d680f9e30567",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed",
-    "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
-    "published_at": "2026-11-06T17:00:11+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "69737da0e4984550d591",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Live from this very minute, Newegg has a 200 Hz, 1440p gaming monitor going for just $129 in its early Black Friday goodie box",
-    "url": "https://www.pcgamer.com/hardware/gaming-monitors/live-from-this-very-minute-newegg-has-a-200-hz-1440p-gaming-monitor-going-for-just-usd129-in-its-early-black-friday-goodie-box",
-    "published_at": "2026-11-06T17:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "50ff0064de721f890516",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Meghan Markle's Dad Thomas Markle Arrested in Child Pornography Case",
-    "url": "https://www.eonline.com/news/1437891/meghan-markles-dad-thomas-markle-arrested-by-fbi-for-child-porn-possession?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T16:49:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "902153df7e43bf4b5100",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Civ 7 Is At The Center Of A Switch 2 Hacking Spree",
-    "url": "https://kotaku.com/civ-7-is-at-the-center-of-a-switch-2-hacking-situation-2000754656",
-    "published_at": "2026-11-06T16:45:25+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "90fab59b805a0303aa7b",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "PSA: Want To Learn Link's Ocarina Tunes? Nintendo's Got The Sheet Music For All Of Them",
-    "url": "https://www.nintendolife.com/news/2026/11/psa-want-to-learn-links-ocarina-tunes-nintendos-got-the-sheet-music-for-all-of-them",
-    "published_at": "2026-11-06T16:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "49ebcc4dd778e1858356",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Craig Melvin Confronts Martha Stewart After Halloween Controversy",
-    "url": "https://www.eonline.com/news/1437889/craig-melvin-confronts-martha-stewart-after-blame-for-halloween-controversy?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T16:33:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d7180cb469d9468cc5be",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
-    "url": "https://www.gamespot.com/articles/gta-6-is-going-all-out-on-details-you-might-never-even-notice",
-    "published_at": "2026-11-06T16:25:51+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6611a75dcb8dd6299e76",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "A public petition to save BioWare has drawn enough signatures that the Canadian government will at least have to think about it: 'This is absolutely possible,' MP says",
-    "url": "https://www.pcgamer.com/games/mass-effect/a-public-petition-to-save-bioware-has-drawn-enough-signatures-that-the-canadian-government-will-at-least-have-to-think-about-it-this-is-absolutely-possible-mp-says",
-    "published_at": "2026-11-06T16:14:55+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "44335aa4c3b3dec9d9b3",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Ratchet & Clank Game Shutting Down Before Ever Fully Launching",
-    "url": "https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching",
-    "published_at": "2026-11-06T16:09:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2a4d5d81b337263f9d24",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "15 Internet-Viral Beauty Favorites on Sale at Sephora's Savings Event",
-    "url": "https://www.eonline.com/news/1437880/internet-viral-beauty-favorites-on-sale-at-sephora-savings-event?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T16:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c1d9e867612a5c94d0a4",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "David Gaider has been working on Owlcat's Expanse RPG: 'The Expanse has long been one of my favourite series, and so obviously I jumped at the opportunity to be involved'",
-    "url": "https://www.pcgamer.com/games/rpg/david-gaider-has-been-working-on-owlcats-expanse-rpg-the-expanse-has-long-been-one-of-my-favourite-series-and-so-obviously-i-jumped-at-the-opportunity-to-be-involved",
-    "published_at": "2026-11-06T15:53:01+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ac6852acd2f10d34c5c1",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "WoW: Forever takes 250,000 GB of memory to run, and I can't even joke about Sam Altman being jealous because that's almost nothing compared to the monolithic demands of AI",
-    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-takes-250-000-gb-of-memory-to-run-and-i-cant-even-joke-about-sam-altman-being-jealous-because-thats-almost-nothing-compared-to-the-monolithic-demands-of-ai",
-    "published_at": "2026-11-06T15:50:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a18df58b1971de5c282f",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "John Mulaney Reveals Parenting Hack for Teaching Son to Ride a Bike",
-    "url": "https://www.eonline.com/news/1437887/john-mulaneys-parenting-hack-for-teaching-son-to-ride-a-bike?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T15:49:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4e4679afad89c3bdcc62",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Nintendo’s Shigeru Miyamoto Misses Financial Briefing Due To A ‘Sudden Illness’ But Is Expected To Recover Soon",
-    "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655",
-    "published_at": "2026-11-06T15:46:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7d75880dedf5b221f401",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "I just found out you can use your Steam Wishlist to search for deals on games outside of Steam, saving my nephew more than £40 on Total War: Warhammer 3",
-    "url": "https://www.rockpapershotgun.com/i-just-found-out-you-can-use-your-steam-wishlist-to-search-for-deals-on-games-outside-of-steam-saving-my-nephew-more-than-40-on-total-war-warhammer-3",
-    "published_at": "2026-11-06T15:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a607af7a072b008999af",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Apex Legends’ Godzilla collab is the closest I’ve come to re-downloading the game in years",
-    "url": "https://www.destructoid.com/apex-legends-godzilla-collab-closest-redownloading-years",
-    "published_at": "2026-11-06T15:40:24+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7c4f52b1424f8e635b45",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "The Ugly Car That Sucks Has Died",
-    "url": "https://kotaku.com/the-ugly-car-that-sucks-has-died-2000754630",
-    "published_at": "2026-11-06T15:30:56+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a51e064232de0b19d218",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "GameRant And Collider Owner Valnet Agrees To $2 Million Settlement In Class Action Lawsuit",
-    "url": "https://kotaku.com/screenrant-and-polygon-owner-valnet-agrees-to-2-million-settlement-in-class-action-lawsuit-2000754639",
-    "published_at": "2026-11-06T15:30:53+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7eefb9110679f0056f9d",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Was Dr. Seuss Even a Doctor? Secrets About The Cat in the Hat Revealed",
-    "url": "https://www.eonline.com/news/1437883/was-dr-seuss-really-a-doctor-secrets-about-the-cat-in-the-hat-revealed?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-06T15:29:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82919ca9e071766aa73f",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Sky-high hype: ‘Pilot Picasso’ draws massive GTA 6 mural in 8-hour flight over Arkansas",
-    "url": "https://www.destructoid.com/sky-high-hype-pilot-picasso-gta6-mural-8-hour-flight-arkansas",
-    "published_at": "2026-11-06T15:17:06+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c5ee645963fac0cc9ff8",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Head Of GTA 6 Owner Reveals His Advice To Be Healthy, Fit, And Live A Long Time",
-    "url": "https://www.gamespot.com/articles/head-of-gta-6-owner-reveals-his-advice-to-be-healthy-fit-and-live-a-long-time",
-    "published_at": "2026-11-06T15:09:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "86f28a9d822a804913fd",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Bill Skarsgard Didn’t Need Much Convincing To Join Hideo Kojima’s Physint",
-    "url": "https://www.gamespot.com/articles/bill-skarsgard-didnt-need-much-convincing-to-join-hideo-kojimas-physint",
-    "published_at": "2026-11-06T15:01:47+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "04c32a076a7104621793",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Ratchet & Clank: Ranger Rumble canceled",
-    "url": "https://www.gematsu.com/2026/11/ratchet-clank-ranger-rumble-canceled",
-    "published_at": "2026-11-06T15:01:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3344c9c03fee68e64fb7",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Fans Are Desperately Hunting For Majora’s Mask Clues Inside The Zelda: Ocarina Of Time Remake",
-    "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-majoras-mask-switch-2-2000754641",
-    "published_at": "2026-11-06T15:00:33+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c0e831df6ffc1b238d04",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Terrific fantasy RPG Queen's Domain gets first proper update, adding a new throwing weapon and options to make puzzles \"less frustrating\"",
-    "url": "https://www.rockpapershotgun.com/terrific-fantasy-rpg-queens-blade-gets-first-proper-update-adding-a-new-throwing-weapon-and-options-to-make-puzzles-less-frustrating",
-    "published_at": "2026-11-06T14:58:30+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c36e44928bffe4a99e86",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Sony’s free-to-play mobile Ratchet & Clank multiplayer shooter has been cancelled",
-    "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled",
-    "published_at": "2026-11-06T14:44:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1cfb157bc34607130389",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Nier Automata’s File Size Now Reflects How Good It Is",
-    "url": "https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is",
-    "published_at": "2026-11-06T14:42:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "176675ebbeb22db964b4",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "World of Warcraft: Forever hotfix puts a stop to super speedy flag carriers that were dominating PvP battlegrounds",
-    "url": "https://www.eurogamer.net/world-of-warcraft-forever-hotfix-flag-carrier-plainsrunning",
-    "published_at": "2026-11-06T14:38:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "004a10a2e46a2a5c0bf2",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Skyrim's lead designer has 2 big asks of The Elder Scrolls 6: Sentinel, and only one of them is something most players have ever thought about",
-    "url": "https://www.pcgamer.com/games/the-elder-scrolls/skyrims-lead-designer-has-2-big-asks-of-the-elder-scrolls-6-sentinel-and-only-one-of-them-is-something-most-players-have-ever-thought-about",
-    "published_at": "2026-11-06T14:21:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "638f355ea5c1b543233e",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "“We Failed,” Take-Two Boss Says Of The Mega-Flop Borderlands Movie",
-    "url": "https://www.gamespot.com/articles/we-failed-take-two-boss-says-of-the-mega-flop-borderlands-movie",
-    "published_at": "2026-11-06T14:19:05+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "cf15691fc1ac0544eeaf",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Are You A Tired Parent? The Witcher 3's New Accessibility Mode Was Built With You In Mind",
-    "url": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind",
-    "published_at": "2026-11-06T14:15:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f4b89fe2a2f11d0b9231",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Nintendo’s Wisest Investment Continues To Pay Off With Zelda: Ocarina Of Time",
-    "url": "https://www.gamespot.com/articles/zelda-ocarina-of-time-remake-involved-xenoblade-chronicles-creator-monolith-soft",
-    "published_at": "2026-11-06T14:02:51+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "598ad1c28dd73c1e506c",
-    "source": "Rolling Stone",
-    "category": "bulvar",
-    "original_title": "‘Wild Horse Nine’ Is Part Conspiracy Thriller, Part Buddy Comedy, All Malkovich FTW",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-review-john-malkovich-1235651172",
-    "published_at": "2026-11-06T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4aee8bd2a23643d2dd43",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Airframe Ultra's PS1 cyberpunk city is an amazing tribute to G-Police and WipEout, and I wish you people would slow down to appreciate it",
-    "url": "https://www.rockpapershotgun.com/airframe-ultras-ps1-cyberpunk-city-is-an-amazing-tribute-to-g-police-and-wipeout-and-i-wish-you-people-would-slow-down-to-appreciate-it",
-    "published_at": "2026-11-06T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f926ef540e61cd4f23f2",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Adding PvE to Arc Raiders 'isn't a difficult thing to do' but the question still stands how Embark can 'cater to the specific needs of the players'",
-    "url": "https://www.pcgamer.com/games/third-person-shooter/adding-pve-to-arc-raiders-isnt-a-difficult-thing-to-do-but-the-question-still-stands-how-embark-can-cater-to-the-specific-needs-of-the-players",
-    "published_at": "2026-11-06T13:49:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e1b40ef9c89c9e3fc3fe",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Stellar Blade On Switch 2 Looks Like A Great Port, Until You Start Fighting",
-    "url": "https://www.gamespot.com/articles/stellar-blade-on-switch-2-looks-like-a-great-port-until-you-start-fighting",
-    "published_at": "2026-11-06T13:46:33+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f5ae580c389d01024d83",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Capcom games including RE Requiem and Pragmata heavily discounted on PC",
-    "url": "https://www.videogameschronicle.com/news/capcom-games-including-re-requiem-and-pragmata-heavily-discounted-on-pc",
-    "published_at": "2026-11-06T13:35:24+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2397dc8e046e76b38f4b",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Mandatory Nier: Automata Update Accidentally Requires 366GB: ‘I Just Need To Delete 90 Percent Of My Computer To Install This’",
-    "url": "https://kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623",
-    "published_at": "2026-11-06T13:30:25+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "09547cb7e7167be6b763",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Complete Queen’s Domain Bestiary Guide: All monster locations",
-    "url": "https://www.destructoid.com/complete-queens-domain-bestiary-guide-all-monster-locations",
-    "published_at": "2026-11-06T13:14:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9ad5d5b2dd1eddf5e6f3",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "After EA, Saudi Arabia Is Reportedly Setting Its Sights On One Of Gaming’s Biggest Engines",
-    "url": "https://www.gamespot.com/articles/after-ea-saudi-arabia-is-reportedly-setting-its-sights-on-one-of-gamings-biggest-engines",
-    "published_at": "2026-11-06T13:14:02+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6d7565efecb76e4d25f0",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Deus Ex Creator Warren Spector Tears BioWare-Closing EA Executives A New One",
-    "url": "https://kotaku.com/deus-ex-warren-spector-ea-bioware-csuite-dragon-age-mass-effect-2000754612",
-    "published_at": "2026-11-06T12:59:25+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f67444a969f61b49d960",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Xbox is updating its PC app, promising 60% faster boot times and an easier to use game library",
-    "url": "https://www.videogameschronicle.com/news/xbox-is-updating-its-pc-app-promising-60-faster-boot-times-and-an-easier-to-use-game-library",
-    "published_at": "2026-11-06T12:58:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ca94eeef95902b08e530",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to find Ice Caves biome in Minecraft",
-    "url": "https://www.destructoid.com/how-to-find-ice-caves-biome-in-minecraft",
-    "published_at": "2026-11-06T12:53:03+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e0c2da426099432394b8",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
-    "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
-    "published_at": "2026-11-06T12:38:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d52b8ef34499948f48f0",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Protesters Break Into Microsoft Data Center Site And Hang ‘FCK AI’ Banner",
-    "url": "https://kotaku.com/microsoft-data-center-protest-ai-amsterdam-palestine-banners-2000754616",
-    "published_at": "2026-11-06T12:34:14+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "66b174174283b9114f3a",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
-    "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
-    "published_at": "2026-11-06T12:28:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a30ea2ff7808818fd0a7",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Following BioWare's shock closure, a new documentary capturing its final moments is coming next year",
-    "url": "https://www.eurogamer.net/bioware-closure-documentary-release",
-    "published_at": "2026-11-06T12:24:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c855975a88d2894e0387",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "JioHotstar’s ‘Big Boss’ Season 20 Passes 1 Billion Hours Of Watch-Time",
-    "url": "https://deadline.com/2026/11/jiohotstar-big-boss-season-20-1-billion-hours-watch-time-1237215358",
-    "published_at": "2026-11-06T12:21:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "06337a3d718d5ce5a202",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to get Sweet Dreams Sprite in Fortnite Treasure Hunters",
-    "url": "https://www.destructoid.com/how-to-get-sweet-dreams-sprite-in-fortnite-treasure-hunters",
-    "published_at": "2026-11-06T12:07:49+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bd6fca8bd755c1994ffa",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year",
-    "url": "https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year",
-    "published_at": "2026-11-06T12:06:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ef1575697f136d734fdc",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
-    "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
-    "published_at": "2026-11-06T12:02:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "391c35a246f631c86b92",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Wuthering Waves version 3.8 update ‘Lilies in a Dying Dream’ launches November 12",
-    "url": "https://www.gematsu.com/2026/11/wuthering-waves-version-3-8-update-lilies-in-a-dying-dream-launches-november-12",
-    "published_at": "2026-11-06T12:00:07+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "337ae25e754134cc0de9",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "South International Series Festival to Launch 2027 Investors Week, Linking Producers With Private Capital",
-    "url": "https://variety.com/2026/global/global/south-festival-investors-week-2027-mira-anta-1236941175",
-    "published_at": "2026-11-06T11:56:05+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b73ca11bd435925807bd",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Bear Grylls Speaks Out on Russell Brand Verdict After Helping Baptize Him: ‘Justice Has Now Been Served’ and the Victims Are ‘Heroes’",
-    "url": "https://variety.com/2026/tv/global/bear-grylls-russell-brand-verdict-baptism-justice-served-1236941211",
-    "published_at": "2026-11-06T11:48:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "da46ec66f7ebf8cd38a7",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Golshifteh Farahani, Renate Reinsve and Alicia Vikander Lead Torino’s Female Talent Charge",
-    "url": "https://variety.com/2026/film/festivals/golshifteh-farahani-renate-reinsve-torino-female-talent-1236940760",
-    "published_at": "2026-11-06T11:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "410334efe01de7909937",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Bear Grylls Speaks Out After Getting Heat For Baptizing Russell Brand: “It Is Right That Justice Has Been Served”",
-    "url": "https://deadline.com/2026/11/bear-grylls-speaks-out-baptizing-russell-brand-1237215354",
-    "published_at": "2026-11-06T11:43:26+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "20d0645b771bf8d6895e",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
-    "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release",
-    "published_at": "2026-11-06T11:43:06+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "14dbb06d3659a71d28fe",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Zelnick doesn't regret GTA 6's delay because shipping an unfinished game rarely ends well: 'There was a very high profile release that fell into this category'",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/zelnick-doesnt-regret-gta-6s-delay-because-shipping-an-unfinished-game-rarely-ends-well-there-was-a-very-high-profile-release-that-fell-into-this-category",
-    "published_at": "2026-11-06T11:40:38+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8f687c1068846b0f5ef0",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Pokémon TCG 30th Celebration Ultra-Premium Collection: Where to Buy the Day and Night Boxes",
-    "url": "https://www.ign.com/articles/where-to-buy-pokemon-tcg-30th-celebration-ultra-premium-collection",
-    "published_at": "2026-11-06T11:34:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e1f180ad7fa641f6c3b3",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Letitia Wright To Star In Supernatural Horror ‘In Her Shadow’ For ‘Obsession’ Producer & Bankside — AFM",
-    "url": "https://deadline.com/2026/11/letitia-wright-horror-in-her-shadow-for-obsession-producer-1237215351",
-    "published_at": "2026-11-06T11:31:38+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9d66275cf14aa7470ee6",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "WoW: Forever is working on its server tech to make cities less empty, say devs",
-    "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-working-on-its-server-tech-to-make-cities-less-empty-say-devs",
-    "published_at": "2026-11-06T11:28:35+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8469b44dd1656a07c5b6",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Story Of Woman Who Shadowed Top L.A. Detective Jigsaw John Optioned For TV By UK Indie",
-    "url": "https://deadline.com/2026/11/jigsaw-john-jane-howatt-la-detective-project-in-works-1237215304",
-    "published_at": "2026-11-06T11:23:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82fcadff93ff659a9c8f",
-    "source": "People",
-    "category": "bulvar",
-    "original_title": "Happy 80th Birthday, Sally Field! See the Oscar Winner’s Life and Career in Photos",
-    "url": "https://people.com/sally-field-life-in-photos-12219606",
-    "published_at": "2026-11-06T11:20:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b7ebab6af849cc010b72",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Best Buy's Early Black Friday Sale is Now Live, Including Deals on Gaming, Tech, and More",
-    "url": "https://www.ign.com/articles/best-buy-early-black-friday-sale-is-now-live-including-deals-on-gaming-tech-and-more",
-    "published_at": "2026-11-06T11:19:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4c80242649f93408a27f",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Nintendo Exec Bill Trinen Explains Why the Ocarina of Time Remake Is the Perfect First The Legend of Zelda Game",
-    "url": "https://www.ign.com/articles/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-remake-is-the-perfect-first-the-legend-of-zelda-game",
-    "published_at": "2026-11-06T11:14:23+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2ba66a3037051047dac2",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
-    "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
-    "published_at": "2026-11-06T11:09:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "49a55bdc6a488840aef5",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
-    "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
-    "published_at": "2026-11-06T11:07:49+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7af9ec6cc95cdb4e7886",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All weapons and loot in Fortnite Treasure Hunters",
-    "url": "https://www.destructoid.com/all-weapons-and-loot-in-fortnite-treasure-hunters",
-    "published_at": "2026-11-06T11:04:12+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8ac61f1ccb2fe07383e8",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "“Saviors of Cinema” and “Money Machine”: Tallinn Puts Spotlight on Kids, Youth Films and Social Media Bans",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-social-media-ban-cinema-savior-kids-youth-films-1236746674",
-    "published_at": "2026-11-06T11:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4e64861e396aafa3d794",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Marilyn Monroe Retrospective at Torino to Portray Her as a ‘Female Marlon Brando’: ‘She Was So Profound’",
-    "url": "https://variety.com/2026/film/festivals/marilyn-monroe-torino-film-festival-1236940964",
-    "published_at": "2026-11-06T10:59:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f4f850aa3eefcad343f0",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "A Bizarre Run Trello, Wiki and Discord",
-    "url": "https://www.destructoid.com/a-bizarre-run-trello-wiki-and-discord",
-    "published_at": "2026-11-06T10:57:47+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "823d42d7e62c6299c963",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Russell Brand’s Marriage to Katy Perry Blocked From Being Mentioned by Prosecution in Rape Trial",
-    "url": "https://variety.com/2026/global/news/russell-brand-katy-perry-marriage-blocked-rape-trial-1236941174",
-    "published_at": "2026-11-06T10:52:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4ea918589c804f74d87d",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All rare chest locations in Fortnite Treasure Hunters",
-    "url": "https://www.destructoid.com/all-rare-chest-locations-in-fortnite-treasure-hunters",
-    "published_at": "2026-11-06T10:40:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3481afad80507e0db20e",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Producer Accused of ‘Laughing’ During Russell Brand Assault ‘Steps Back’ From Head of Comedy Role",
-    "url": "https://variety.com/2026/tv/global/comedy-producer-russell-brand-assault-steps-back-1236941125",
-    "published_at": "2026-11-06T10:28:58+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b31b21ebc6a66fc1fd0e",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity",
-    "url": "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
-    "published_at": "2026-11-06T10:25:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4ffc0f3cbbf6f24625ac",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Taiwan Should Bet on Horror to Crack Indonesia, Southeast Asia’s Biggest Film Market, Study Finds",
-    "url": "https://variety.com/2026/film/markets-festivals/taiwan-horror-indonesia-box-office-study-1236941116",
-    "published_at": "2026-11-06T10:22:43+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1552d8b5f86740da64aa",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Pilot Draws Incredible GTA 6 Mural With His Flight Path",
-    "url": "https://www.ign.com/articles/pilot-draws-incredible-gta-6-mural-with-flight-path",
-    "published_at": "2026-11-06T10:21:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5f67b85e956122feab86",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "\"Is there any accountability left in this world?\" Warren Spector pops off at EA executives and their massive payouts as BioWare shuts down",
-    "url": "https://www.eurogamer.net/bioware-closure-warren-spector-comments-accountability",
-    "published_at": "2026-11-06T10:15:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8b3078be97a9fb63e794",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "International Disruptors: Studio N Chief Mikyung Kwon On The Value Of Webcomic IP & Taking Risks With Korean Epic ‘The Remarried Empress’",
-    "url": "https://deadline.com/2026/11/studio-n-mikyung-kwon-webtoon-the-remarried-empress-1237212460",
-    "published_at": "2026-11-06T10:13:54+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "24afe778e3b5d252593f",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Russell Brand Trial: Katy Perry Omitted By Prosecutors",
-    "url": "https://deadline.com/2026/11/russell-brand-trial-katy-perry-omitted-by-prosecutors-1237215306",
-    "published_at": "2026-11-06T10:13:35+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d341f2a681b54e4f99f3",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Sweden’s Göteborg Film Festival to Debate the Fascination With Youth in a ‘Forever Young’ Focus",
-    "url": "https://variety.com/2026/film/global/goteborg-film-festival-forever-young-josef-kullengard-1236941128",
-    "published_at": "2026-11-06T10:11:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "76002b2eb47f629be541",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
-    "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
-    "published_at": "2026-11-06T10:05:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7ef69fa63311bcf238b5",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Zelda: Ocarina of Time Switch 2: All Gold Skulltula locations and which have moved",
-    "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-switch-2-all-gold-skulltula-locations-and-which-have-moved",
-    "published_at": "2026-11-06T10:03:39+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d7e4cfd2a525a1a3784d",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity",
-    "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
-    "published_at": "2026-11-06T10:00:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c34f74055aed2f4c4525",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Torino Chief on His Stellar Lineup With John Travolta, Pamela Anderson and Isabelle Huppert, and Why a ‘Festival Is Like an Art Gallery’",
-    "url": "https://variety.com/2026/film/festivals/torino-john-travolta-pamela-anderson-isabelle-huppert-1236940407",
-    "published_at": "2026-11-06T10:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a8f0638dc65440ef52e0",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
-    "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
-    "published_at": "2026-11-06T09:40:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "cd9dfc5b4e5240b3e06d",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Saudi Arabia’s PIF and investment firm Silver Lake have reportedly been in talks to buy Unity",
-    "url": "https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity",
-    "published_at": "2026-11-06T09:40:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bd6933a784b3354b145e",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Demon Kill Demon: Yomi 1984 coming to PS5, PS4, and PC on February 25, 2027 in Japan",
-    "url": "https://www.gematsu.com/2026/11/demon-kill-demon-yomi-1984-coming-to-ps5-ps4-and-pc-on-february-25-2027-in-japan",
-    "published_at": "2026-11-06T09:30:51+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "edb44efa13a18fcfb813",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "British Comedy Producer Who “Laughed” During Russell Brand Assault Dropped From BBC & Apple Shows",
-    "url": "https://deadline.com/2026/11/russell-brand-jack-bayles-dropped-bbc-apple-sexual-assault-1237214442",
-    "published_at": "2026-11-06T09:07:07+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "88bf20321c38ec6e0026",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Acornia: Mirror Worlds launches in spring 2027",
-    "url": "https://www.gematsu.com/2026/11/acornia-mirror-worlds-launches-in-spring-2027",
-    "published_at": "2026-11-06T09:05:51+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "87b060af0086bb2f876f",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "MR. ELEVATOR coming to PS5 on November 27",
-    "url": "https://www.gematsu.com/2026/11/mr-elevator-coming-to-ps5-on-november-27",
-    "published_at": "2026-11-06T09:00:28+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "22873efae2ab92b0f3fc",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Ragnarok Console Project ‘A New Ragnarok Adventure Awaits’ trailer",
-    "url": "https://www.gematsu.com/2026/11/ragnarok-console-project-a-new-ragnarok-adventure-awaits-trailer",
-    "published_at": "2026-11-06T08:45:58+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0a91a1d07de949c90d4f",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
-    "url": "https://variety.com/2026/tv/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104",
-    "published_at": "2026-11-06T08:21:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a011e8be55c509b17bae",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Best way to grind Research Points in Godzilla: Destroy All Monsters Melee Remastered",
-    "url": "https://www.destructoid.com/best-way-to-grind-research-points-in-godzilla-destroy-all-monsters-melee-remastered",
-    "published_at": "2026-11-06T08:17:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c733df264dded80b2078",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Taiwan Audience Study Highlights Cross-Platform IP Opportunities as AI Raises New Risks for Content Industry",
-    "url": "https://variety.com/2026/film/markets-festivals/taiwan-audience-study-cross-platform-ip-ai-risks-1236941089",
-    "published_at": "2026-11-06T07:53:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1870a30517026146a9b7",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘African Kung-Fu Nazis’ Franchise Lands at Hong Kong’s Cappu Films for International Sales (EXCLUSIVE)",
-    "url": "https://variety.com/2026/film/markets-festivals/african-kung-fu-nazis-franchise-lands-cappu-films-sales-1236941036",
-    "published_at": "2026-11-06T06:51:19+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1a186b01d113270e9f2f",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Taiwan Creative Content Fest Opens With Focus On IP, Co-Production & Pledges Of Government Support",
-    "url": "https://deadline.com/2026/11/taiwan-creative-content-fest-taicca-weta-1237215199",
-    "published_at": "2026-11-06T06:49:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0c90f502814bd8f2a9cb",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All Retro Rewind New Release Unique Games and SKU Codes",
-    "url": "https://www.destructoid.com/all-retro-rewind-new-release-unique-games-and-sku-codes",
-    "published_at": "2026-11-06T06:46:30+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "841f1cc841ba3c2ea142",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Hollywood Has Flipped on GenAI, Says ‘Avatar’ VFX House Weta FX Chief: ‘If You Don’t Have an AI Strategy, Don’t Bother’",
-    "url": "https://variety.com/2026/film/markets-festivals/hollywood-flipped-genai-avatar-vfx-house-weta-fx-1236941070",
-    "published_at": "2026-11-06T06:46:06+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4886e8a83249ab69f7bb",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Pamela Abdy Gets Real About Her “Pure, Unadulterated Rage” in WIF Honors Speech: “What Business Are We Leaving?”",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/pamela-abdy-pure-unadulterated-rage-wif-honors-speech-1236746987",
-    "published_at": "2026-11-06T06:19:12+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "de34c8f4bb4cb6f431d5",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
-    "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
-    "published_at": "2026-11-06T05:55:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7207a6d63fb76e534775",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "After Buying EA, Silver Lake and PIF Are Reportedly Now Seeking to Acquire Gaming Software Provider Unity",
-    "url": "https://www.ign.com/articles/after-buying-ea-silver-lake-and-pif-are-reportedly-now-seeking-to-acquire-gaming-software-provider-unity",
-    "published_at": "2026-11-06T05:41:38+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "474838913c27e06ac48c",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
-    "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next",
-    "published_at": "2026-11-06T05:27:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0b9eb846da408a7b9a9d",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Japanese Rural Life Adventure now available for PS4",
-    "url": "https://www.gematsu.com/2026/11/japanese-rural-life-adventure-now-available-for-ps4",
-    "published_at": "2026-11-06T05:02:27+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "758aa44e005ce3d172db",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
-    "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
-    "published_at": "2026-11-06T04:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "47b2cfe1a87a550effed",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Bob Iger’s Son Hired As Play-By-Play TV Announcer For Lakers’ G-League Team",
-    "url": "https://deadline.com/2026/11/bob-igers-son-will-coachella-lakers-announcer-1237215260",
-    "published_at": "2026-11-06T04:43:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "61c94c64185477a1a742",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Parke’s Collab With Stoney Clover Lane Is Back by (Very) Popular Demand",
-    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/parke-stoney-clover-lane-collab-2026-drop-sweatshirt-jeans-1236749100",
-    "published_at": "2026-11-06T04:23:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2ea712dec2b0c933a69f",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "‘SNL’ Writer Jimmy Fowlie Pays Tribute To Late Sister On Her Birthday After 2 Arrested For Her Killing",
-    "url": "https://deadline.com/2026/11/snl-jimmy-fowlie-pays-tribute-late-sister-birthday-1237215257",
-    "published_at": "2026-11-06T03:58:11+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3e6b0baf9b1a3fa0fe18",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
-    "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
-    "published_at": "2026-11-06T03:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "446a846b0accab4e7c88",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Weta FX Partners With TAICCA To Position Taiwan As AI Hub; Expands Partnership With Moonshine Studio",
-    "url": "https://deadline.com/2026/11/weta-fx-taicca-taiwan-ai-1237214313",
-    "published_at": "2026-11-06T03:44:05+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c0cc4d73b02ee034ebbf",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Pam Abdy Laments Exits of Top Female Executives in Hollywood: “It Is Upsetting to See”",
-    "url": "https://www.hollywoodreporter.com/business/business-news/pamela-abdy-female-executives-hollywood-exits-1236749121",
-    "published_at": "2026-11-06T03:38:26+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "94a53f9672b77640e993",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Richard Garriott on the state of the games industry: 'The bells and whistles are no longer what's important'",
-    "url": "https://www.pcgamer.com/gaming-industry/richard-garriott-on-the-state-of-the-games-industry-the-bells-and-whistles-are-no-longer-whats-important",
-    "published_at": "2026-11-06T03:17:27+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1c56eb26c5001a8e000f",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
-    "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
-    "published_at": "2026-11-06T02:55:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1c9e63e11b6e08066c17",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "‘Godzilla Minus Zero’ Chomping $6M In Previews, Higher Than ‘Predator: Badlands’; ‘Cat In The Hat’ $1M – Box Office Update",
-    "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161",
-    "published_at": "2026-11-06T02:41:39+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "218aec8ca9ee22741f9e",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Helene Hahn Loyd, Former Disney and DreamWorks SKG Exec, Dies at 78",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/helene-hahn-loyd-dead-disney-paramount-dreamworks-exec-1236749107",
-    "published_at": "2026-11-06T02:37:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3cf1c06de14f6c1b832a",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Disney TV Reorg Chatter Heats Up As Next Wave Of Layoffs Draws Near – The Dish",
-    "url": "https://deadline.com/2026/11/disney-tv-restructuring-speculation-layoffs-debra-oconnell-1237214926",
-    "published_at": "2026-11-06T02:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b1ac77f979a5c3a3054a",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Katseye Postpones Chicago & Minneapolis Concerts As Megan Skiendiel Recovers From Concussion",
-    "url": "https://deadline.com/2026/11/katseye-postpones-chicago-minneapolis-concerts-1237215175",
-    "published_at": "2026-11-06T02:02:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1227f9a41ffd987a47e5",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "New York Times In Advanced Talks To Buy Letterboxd For Reported $330 Million",
-    "url": "https://deadline.com/2026/11/new-york-times-company-exclusive-talks-letterboxd-1237215118",
-    "published_at": "2026-11-06T01:50:06+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "948d161760cac6d70b19",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Streaming More, Spending Less: T-Mobile’s 5G Home Internet Deal Starts at $30 a Month",
-    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/t-mobile-home-internet-streaming-deal-2026-holiday-savings-1236748459",
-    "published_at": "2026-11-06T01:40:49+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6c25bc668b87ab292c75",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Save 50% Off the Wolfbox Cordless Car Jump Starter and 24,000mAh Power Bank Ahead of Black Friday",
-    "url": "https://www.ign.com/articles/wolfbox-cordless-car-jump-starter-deal-november-2026",
-    "published_at": "2026-11-06T01:40:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "029e45e271d9a689ab06",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Nordstrom’s Early Black Friday Sale Hits Fall’s Top Trends: Funnel-Neck Jackets, Brushed Cashmere and Beyond",
-    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-early-black-friday-sale-2026-best-deals-online-1236748714",
-    "published_at": "2026-11-06T01:35:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6b7b8f96f692e013395d",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References",
-    "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
-    "published_at": "2026-11-06T01:25:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1027ebb1647d661a8952",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Last Night, the Most Stylish Gathering of Hollywood Stylists Took Over Hotel Bel Air",
-    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/hollywood-stylists-party-celebrate-top-looks-of-the-year-1236748803",
-    "published_at": "2026-11-06T00:55:48+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "eb3f47811f858649cea6",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Adam Driver Says “the Ship Has Sailed” on Playing Kylo Ren: “No More ‘Star Wars'”",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/adam-driver-kylo-ren-the-hunt-for-ben-solo-ship-sailed-1236748987",
-    "published_at": "2026-11-06T00:45:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6665ab0849464fa6737b",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Salon, Digital News Trailblazer, Folds After 31 Years",
-    "url": "https://www.hollywoodreporter.com/business/business-news/salon-digital-news-trailblazer-folds-after-31-years-1236748974",
-    "published_at": "2026-11-05T23:53:12+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "daf6916b726d09c6e4db",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Amazon's Black Friday Audible Deal Is Now Live: Pay $0.99 Per Month Plus Get $20 Credit",
-    "url": "https://www.ign.com/articles/amazon-early-black-friday-audible-deal-2026",
-    "published_at": "2026-11-05T23:40:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9cb42793510606d5c4f1",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Amazon Reveals Free Uber Eats Delivery for Prime Members, Plus $20 Off Your First Two Orders",
-    "url": "https://www.ign.com/articles/amazon-reveals-free-uber-eats-delivery-for-prime-members-plus-20-off-your-first-two-orders",
-    "published_at": "2026-11-05T23:33:49+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f20deaf7a802048a83c3",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Animated John Wick Prequel Film in the Works Starring Keanu Reeves",
-    "url": "https://www.ign.com/articles/animated-john-wick-prequel-film-in-the-works-starring-keanu-reeves",
-    "published_at": "2026-11-05T23:23:17+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c09971a3de755a29adcb",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
-    "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
-    "published_at": "2026-11-05T23:00:08+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1ded53494a329dc0de2e",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Take on a time-manipulating corporation in the very Soul Eater meets Jet Set Radio action roguelite CHRONO PUNK",
-    "url": "https://www.rockpapershotgun.com/take-on-a-time-manipulating-corporation-in-the-very-soul-eater-meets-jet-set-radio-action-roguelite-chrono-punk",
-    "published_at": "2026-11-05T22:55:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4fbaa52684ff1c295b7e",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Save Over 30% Off the Latest DJI Neo 2 4K Quadcopter Drone Camera Fly More Combo for Black Friday",
-    "url": "https://www.ign.com/articles/dji-neo-2-4k-quadcopter-drone-camera-deal-november-2026",
-    "published_at": "2026-11-05T22:50:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c1819b703bb6a211710e",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Bill Skarsgård Explains Why Starring in Hideo Kojima’s Physint Is a ‘Big Deal’ for Him",
-    "url": "https://www.ign.com/articles/bill-skarsgrd-explains-why-starring-in-hideo-kojimas-physint-is-a-big-deal-for-him",
-    "published_at": "2026-11-05T22:45:44+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b8fde85ddff216e0994d",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "The 512GB SanDisk MicroSD Express Card for Nintendo Switch 2 Drops to as Low as $81 for Black Friday",
-    "url": "https://www.ign.com/articles/sandisk-microsd-express-card-deal-november-2026",
-    "published_at": "2026-11-05T22:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "70e15fc195b83b65ddec",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Expand Your Home Gym With This Adjustable Weight Bench for Just $42 Shipped Ahead of Black Friday",
-    "url": "https://www.ign.com/articles/nicepeople-weight-bench-deal-november-2026",
-    "published_at": "2026-11-05T22:40:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b8347e9726f136ec7f45",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Everything you need to know about WoW Forever leveling",
-    "url": "https://www.destructoid.com/everything-you-need-to-know-about-wow-forever-leveling",
-    "published_at": "2026-11-05T22:38:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "290264697b3f9d6cb0d2",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Best upgrades to get in Potato Please",
-    "url": "https://www.destructoid.com/best-upgrades-to-get-in-potato-please",
-    "published_at": "2026-11-05T22:35:13+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2103ee0863053e260198",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Xbox enters the 'faster PC launcher' arms race, its app loads faster now too",
-    "url": "https://www.pcgamer.com/software/platforms/xbox-enters-the-faster-pc-launcher-arms-race-its-app-loads-faster-now-too",
-    "published_at": "2026-11-05T22:32:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "99a3ac3cbe0000e6abbd",
-    "source": "Rolling Stone",
-    "category": "bulvar",
-    "original_title": "From Defense to Detective: How to Watch Jalen Brunson Make His ‘Law & Order: SVU’ Debut Tonight",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-law-and-order-svu-online-without-cable-free-stream-1235653486",
-    "published_at": "2026-11-05T22:25:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "aedebe06c2a2cccb4baa",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Get a 36V 500W Peak Adult Electric Bike for $211 Shipped During the AliExpress Early Black Friday Sale",
-    "url": "https://www.ign.com/articles/5th-wheel-electric-bike-deal-november-2026",
-    "published_at": "2026-11-05T22:25:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "af9e1c31faa7d632a0a5",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Warren Spector sounds even angrier about BioWare's closure as he recounts the massive salaries of EA execs: 'Is there ANY accountability left in this world?'",
-    "url": "https://www.pcgamer.com/gaming-industry/warren-spector-sounds-even-angrier-about-biowares-closure-as-he-recounts-the-massive-salaries-of-ea-execs-is-there-any-accountability-left-in-this-world",
-    "published_at": "2026-11-05T22:20:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3dddea4da50c317dc133",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Which WoW Forever ruleset to pick (and can you change later?)",
-    "url": "https://www.destructoid.com/which-wow-forever-ruleset-to-pick-and-can-you-change-later",
-    "published_at": "2026-11-05T22:17:41+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "08d318b7026f05030dcb",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Union actors could appear in early game demos, under new SAG-AFTRA plan",
-    "url": "https://www.videogameschronicle.com/news/union-actors-could-appear-in-early-game-demos-under-new-sag-aftra-plan",
-    "published_at": "2026-11-05T21:51:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0ee2813973324c2fdea3",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Dr. Doom Is Taking Over Dave and Buster’s in Lead-up to Avengers: Doomsday",
-    "url": "https://www.ign.com/articles/dr-doom-is-taking-over-dave-and-busters-ahead-of-avengers-doomsday",
-    "published_at": "2026-11-05T21:44:02+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1659a52d2368d2cf144a",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Obsession Director Curry Barker Wants to Make a ‘F**ked Up, R-Rated’ Indiana Jones Movie",
-    "url": "https://www.ign.com/articles/obsession-director-curry-barker-wants-to-make-a-fked-up-r-rated-indiana-jones-movie",
-    "published_at": "2026-11-05T21:35:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6e74d929c97e9a0ad9b5",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually",
-    "url": "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually",
-    "published_at": "2026-11-05T21:32:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4b6a183227dd9d1a5562",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "The Odyssey Is Returning to IMAX Theaters in December Ahead of Awards Season",
-    "url": "https://www.ign.com/articles/the-odyssey-is-returning-to-imax-theaters-in-december-ahead-of-awards-season",
-    "published_at": "2026-11-05T21:20:05+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d7abd8e8fb9075ade5f5",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "AI and tech stocks rapidly plummet in wake of ‘blue wave’ in the US, with well over $2 trillion gone today alone",
-    "url": "https://www.destructoid.com/ai-stocks-rapidly-plummet-blue-wave-2-trillion",
-    "published_at": "2026-11-05T21:03:56+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "fcd8b006afe1d05b06d1",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "G2 Esports Parts Ways With Head Coach Luka 'Perkz' Perković After His 'Tweet Bomb' Sparks Backlash",
-    "url": "https://www.ign.com/articles/g2-esports-parts-ways-with-head-coach-luka-perkz-perkovi-after-his-tweet-bomb-sparks-backlash",
-    "published_at": "2026-11-05T20:57:48+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2d03a77b9a9cd8c5a655",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "There's a 'Fifty-Fifty' Chance Godzilla Minus Zero Director Takashi Yamazaki Would Make a Godzilla Threequel",
-    "url": "https://www.ign.com/articles/theres-a-fifty-fifty-chance-godzilla-minus-zero-director-takashi-yamazaki-would-make-a-godzilla-threequel",
-    "published_at": "2026-11-05T20:54:53+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bd6689853589d357f8a7",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Today’s Top Deals: The Blood of Dawnwalker for PS5, Apple AirPods 5,  SteelSeries Nova Pro Gaming Headset",
-    "url": "https://www.ign.com/articles/best-deals-for-november-5-2026",
-    "published_at": "2026-11-05T20:50:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "63f74b119718bb20c1bd",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "It's Official: Marvel Has Finally Undone the Controversial Spider-Man - One More Day Storyline",
-    "url": "https://www.ign.com/articles/marvel-controversial-spider-man-one-more-day-undone-mephisto",
-    "published_at": "2026-11-05T20:34:26+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "672776a5a5cc99af19ca",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Sam Altman is annoyed his DRAM comment was 'taken out of context'",
-    "url": "https://www.pcgamer.com/software/ai/sam-altman-is-annoyed-his-dram-comment-was-taken-out-of-context",
-    "published_at": "2026-11-05T20:34:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d9634cbce4ecf120e0e6",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All Zelda: Ocarina of Time Remake songs, inputs, and how they work",
-    "url": "https://www.destructoid.com/all-zelda-ocarina-of-time-remake-songs-inputs-and-how-they-work",
-    "published_at": "2026-11-05T20:27:55+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0dd42140b403e861346b",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "EA Killed Mass Effect But Is Still Trying To Make Money On It",
-    "url": "https://www.gamespot.com/articles/ea-killed-mass-effect-but-is-still-trying-to-make-money-on-it",
-    "published_at": "2026-11-05T20:25:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "33704f65f3b545ad152c",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Save 50% Off a 1-Year Paramount+ Premium (Ad-Free) Subscription for Black Friday",
-    "url": "https://www.ign.com/articles/paramount-plus-subscription-deal-november-2026",
-    "published_at": "2026-11-05T20:05:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7a435dac56d207ca8a8c",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Buy Games On Prime? Your Membership Now Gets You Free Uber Eats Delivery, Too",
-    "url": "https://www.gamespot.com/articles/buy-games-on-prime-your-membership-now-gets-you-free-uber-eats-delivery-too",
-    "published_at": "2026-11-05T20:03:32+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82834bf9490ddeb0e36a",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Nier: Automata’s latest update increases game size from 50GB to 366GB",
-    "url": "https://www.videogameschronicle.com/news/nier-automatas-latest-update-increases-game-size-from-50gb-to-366gb",
-    "published_at": "2026-11-05T19:54:02+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "67fcf78ba74504a3d183",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Nvidia, Micron, and other AI stocks take a dive after elections",
-    "url": "https://www.pcgamer.com/software/ai/nvidia-micron-and-other-ai-stocks-take-a-dive-after-elections",
-    "published_at": "2026-11-05T19:32:47+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a60786b1359e10f35c90",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "White House Twitter account faceplants with awful Zelda AI slop that missed the midterms by two days",
-    "url": "https://www.destructoid.com/white-house-awful-zelda-ai-slop-that-missed-the-midterms-by-two-days",
-    "published_at": "2026-11-05T19:16:54+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4fe1334d36d8176d00bf",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "New Xbox PC app update boasts 60 percent faster load times, but I probably still won’t use it",
-    "url": "https://www.destructoid.com/new-xbox-pc-app-update-60-percent-faster-load-times",
-    "published_at": "2026-11-05T19:04:58+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "03777b726aaf76f8dc99",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Ablahshikar is a maximalist, sickos only salvage-survival CRPG about ripping organs out of warships and pawning off strange goods that's now out in early access",
-    "url": "https://www.rockpapershotgun.com/ablahshikar-is-a-maximalist-sickos-only-salvage-survival-crpg-about-ripping-organs-out-of-warships-and-pawning-off-strange-goods-thats-now-out-in-early-access",
-    "published_at": "2026-11-05T19:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b77db3a02dd07021ee05",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "EA has released classic ‘restored’ games on PC, including Ultima and Road Rash",
-    "url": "https://www.videogameschronicle.com/news/ea-has-released-25-classic-restored-games-on-pc-including-ultima-and-road-rash",
-    "published_at": "2026-11-05T18:59:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f4c555f302e5e245aa8e",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Best players for FC 27 Strings of Fate Evolution",
-    "url": "https://www.destructoid.com/best-players-for-fc-27-strings-of-fate-evolution",
-    "published_at": "2026-11-05T18:50:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "23ab9fbc8a9a2759b868",
-    "source": "Rolling Stone",
-    "category": "bulvar",
-    "original_title": "Matt Damon Reveals Wife Suffered Brain Aneurysm Weeks Before 2024 Oscars",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/matt-damon-wife-brain-aneurysm-2024-oscars-1235653324",
-    "published_at": "2026-11-05T18:43:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6b178fe931de0c7f61b6",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "EA's releasing a truckload of classic games on Steam, and 7 of them are remasters",
-    "url": "https://www.pcgamer.com/games/eas-releasing-a-truckload-of-classic-games-on-steam-and-7-of-them-are-remasters",
-    "published_at": "2026-11-05T18:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f5df1de1b15bea9ed238",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "After a 16-year long dev period, Faraway, a shooting star arcade game about siphoning the energy of other stars, is out now",
-    "url": "https://www.rockpapershotgun.com/after-a-16-year-long-dev-period-faraway-a-shooting-star-arcade-game-about-siphoning-the-energy-of-other-stars-is-out-now",
-    "published_at": "2026-11-05T18:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1e0526373186cd11dcfc",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Hard West II for PS5, Xbox Series launches November 10",
-    "url": "https://www.gematsu.com/2026/11/hard-west-ii-for-ps5-xbox-series-launches-november-10",
-    "published_at": "2026-11-05T18:27:50+00:00",
     "status": "candidate"
   }
 ]
