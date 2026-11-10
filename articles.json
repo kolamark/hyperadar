@@ -2,6 +2,81 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "Az Ocarina of Time Switch 2-remake-je új ugrógombbal, a játékosok megszokják a változást",
+      "excerpt": "A The Legend of Zelda: Ocarina of Time Switch 2-remake-je eltávolította az automatikus ugrást, helyette egy dedikált ugrógombot kapott a játék.",
+      "body": [
+        "A The Legend of Zelda: Ocarina of Time Switch 2-remake-je eltávolította az automatikus ugrást, helyette egy dedikált ugrógombot kapott a játék. Ez a változás sok régi játékos számára szokatlan és nehézkes, hiszen 28 évnyi megszokás után most külön kell kezdeményezni az ugrást.",
+        "A remake közönsége nemcsak a hagyományos játékmenet újragondolását tapasztalja meg, hanem a speedrun közösség már az új lehetőségek és glitch-ek felfedezésén dolgozik, amelyek akár nagy mértékben megváltoztathatják a játék gyors végigjátszásának módját."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/zelda-oot-remake-complete-walkthrough-hub"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878"
+        }
+      ],
+      "published_at": "2026-11-10T13:34:59.670225Z",
+      "claims": [
+        {
+          "text": "A The Legend of Zelda: Ocarina of Time Switch 2-remake-je eltávolította az automatikus ugrást, bevezetve egy külön ugrógombot.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+              "quote": "short distance into the air with the simple press of a button in The Legend of Zelda: Ocarina of Time for Switch 2."
+            }
+          ]
+        },
+        {
+          "text": "A játékosok nehezen szoknak hozzá az új ugrógomb használatához, sokan véletlenül veszítik el így a karakter irányítását.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+              "quote": "remake's first weekend in players' hands was filled with examples of those who just can't get a handle on that one extra step."
+            },
+            {
+              "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+              "quote": "\"I keep forgetting to press jump,\" one Reddit user said, sharing a clip of Link taking a dip in Kokiri Forest."
+            },
+            {
+              "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+              "quote": "They're not alone; in fact, they're part of an ocean of players who turned on the Ocarina of Time remake and immediately started sending Link for a swim. As if there was ever any doubt, a"
+            }
+          ]
+        },
+        {
+          "text": "A speedrun közösség már felfedezte az új lehetőségeket és glitch-eket az Ocarina of Time remake-ben, amelyek komoly változásokat hozhatnak a játék végigjátszásában.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+              "quote": "has greater fidelity, hunkier non-playable characters, wiser chickens and, most notably, a jump button. For the regular player it’s a marvel and an adjustment. For speedrunners, it’s a"
+            },
+            {
+              "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+              "quote": "well as uncovering some bizarre horrors along the way."
+            },
+            {
+              "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+              "quote": "Defying gravity is obviously useful, but potential sequence breaking exploits is what plummets a runtime from hours into minutes. Stumbling across the proper tech could allow players to skip"
+            },
+            {
+              "url": "https://kotaku.com/speedrunners-are-already-breaking-the-legend-of-zelda-ocarina-of-time-remake-in-absurd-ways-2000754878",
+              "quote": "items, temples, plot beats or reroute them into a more convenient order. This is especially prescient in a game that swaps between two different periods. As runner Zfg1 is chronicling,"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Druski történelmet írt az SNL-ben, sztárok lepték el a színpadot",
       "excerpt": "Druski lett az első digitális alkotó, aki a Saturday Night Live-t vezette, az epizód pedig rendkívül sztárparádéval ért véget. Emma Stone, Michael B. Jordan és Austin Butler is különleges vendégként jelent meg a műsorban.",
