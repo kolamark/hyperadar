@@ -2,6 +2,171 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "A PlayStation 5 átlépte a 100 milliós eladott konzol határt",
+      "excerpt": "A Sony bejelentette, hogy a PlayStation 5 november 10-én túllépte a 100 millió legyártott konzol darabszámot. Ez a szám a kiskereskedőknek kiszállított készülékeket jelenti, nem pedig a tényleges vásárlóhoz jutott darabszámot.",
+      "body": [
+        "A PlayStation 5 majdnem hat év alatt szállította ki a 100 millió példányt, ami kicsit lassabb, mint a PlayStation 4 hasonló mérföldköve, amelyet öt év és hét hónap alatt ért el.",
+        "Az eladások stagnálnak és enyhén csökkennek a konzol életciklusának hatodik évében, részben a magas ár miatt, de a hamarosan megjelenő Grand Theft Auto 6 várhatóan növelheti az eladásokat."
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles"
+        }
+      ],
+      "published_at": "2026-11-11T20:16:33.415427Z",
+      "claims": [
+        {
+          "text": "A PlayStation 5 november 10-én átlépte a 100 millió kiszállított konzol darabszámot.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+              "quote": "As of this week, PlayStation 5 has surpassed 100 million consoles sold"
+            },
+            {
+              "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+              "quote": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed. The milestone was reached on 10th November, almost exactly six years on from the console's"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped",
+              "quote": "PlayStation 5 officially clears 100 million consoles shipped"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped",
+              "quote": "PlayStation 5 has officially shipped more than 100 million consoles, Sony Interactive Entertainment has announced."
+            },
+            {
+              "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "quote": "PS5 Hits 100 Million Units Sold Mark 6 Years After Launch — Here's How It Compares to Other PlayStation Consoles"
+            },
+            {
+              "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "quote": "PlayStation 5 has shipped 100 million units, Sony has announced. The milestone comes ahead of the launch of GTA 6, which is expected to boost console sales significantly. It means PS5 has"
+            },
+            {
+              "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "quote": "PS5 hits 100 million six years after launch. The console released on November 12, 2020, in select countries and November 19, 2020, worldwide, amid the COVID pandemic and lockdowns. Console"
+            }
+          ]
+        },
+        {
+          "text": "A 100 milliós mérföldkő eléréséhez a PS5-nek majdnem hat évre volt szüksége, ami lassabb, mint a PS4 esetében volt.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+              "quote": "PlayStation 5 has officially surpassed 100m consoles sold, Sony's updated sales data revealed. The milestone was reached on 10th November, almost exactly six years on from the console's"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped",
+              "quote": "PS5 launched in November 2020, so it’s taken nearly 6 years for the console to ship 100 million units. PlayStation 4 reached the milestone in June 2019 – 5 years and 7 months after the"
+            },
+            {
+              "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "quote": "PS5 hits 100 million six years after launch. The console released on November 12, 2020, in select countries and November 19, 2020, worldwide, amid the COVID pandemic and lockdowns. Console"
+            }
+          ]
+        },
+        {
+          "text": "A PS5 eladásai az életciklusának hatodik évében csökkennek, többek között a magas ár miatt, de a Grand Theft Auto 6 megjelenésének hatására növekedés várható.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+              "quote": "Sony hasn't shied away from discussing that fact in its earnings reports. 2.6m PS5 consoles were sold during the most recent quarter (Q2 of FY2026), well below the 4m sold over the same"
+            },
+            {
+              "url": "https://www.eurogamer.net/playstation-5-100-million-sales-november-2026",
+              "quote": "high anticipation of Grand Theft Auto 6, the overall downturn is largely due to the console's higher price; Sony raised the PS5 and PS5 Pro's prices on several occasions since 2020. The"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped",
+              "quote": "PlayStation 5 sales are gradually declining, as is typical for a console entering its sixth year in the market. However, the impending release of Grand Theft Auto 6, and a potentially longer"
+            },
+            {
+              "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "quote": "consoles getting more expensive and sales dropping off."
+            },
+            {
+              "url": "https://www.ign.com/articles/ps5-hits-100-million-units-sold-mark-6-years-after-launch-heres-how-it-compares-to-other-playstation-consoles",
+              "quote": "second quarter. And it has GTA 6 coming out next week."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "Brenda Song szerint a Suite Life szereplői alulfizetettek és túlhajtottak voltak",
+      "excerpt": "Brenda Song elmondása szerint a Disney Channel Suite Life of Zack & Cody című sorozatában dolgozó színészek keményen dolgoztak, de alulfizetettek voltak. A színésznő és társai szerinte inkább a hálózatot finanszírozták munkájukkal, nem pedig ők jártak jól.",
+      "body": [
+        "Brenda Song a Wildmen podcastban beszélt arról, hogy a Suite Life of Zack & Cody és a folytatása, a The Suite Life on Deck forgatásán úgy érezte a szereplőgárda, mintha \"őrülten túlmunkázták volna magukat és kevés pénzt kaptak\" érte.",
+        "Dylan Sprouse is megerősítette, hogy a sorozat nagyon népszerű volt, mégis nagyon alacsony fizetést kaptak, és a sorozathoz kapcsolódó jogdíjat is alig érezték meg anyagilag, például egyszer csak 5 centes reziduális csekket kapott."
+      ],
+      "sources": [
+        {
+          "name": "E! News",
+          "url": "https://www.eonline.com/news/1438023/suite-lifes-brenda-song-says-cast-was-underpaid-and-overworked?cmpid=rss-syndicate-genericrss-us-top_stories"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/tv/news/brenda-song-suite-life-of-zack-and-cody-1236944810"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-underpaid-overworked-disney-suite-life-1236752178"
+        }
+      ],
+      "published_at": "2026-11-11T20:16:15.211053Z",
+      "claims": [
+        {
+          "text": "Brenda Song azt mondta, hogy a Suite Life szereplői alulfizetettek és túlhajtottak voltak Disney Channelnél.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1438023/suite-lifes-brenda-song-says-cast-was-underpaid-and-overworked?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Brenda Song shared why it felt like she and her Suite Life of Zack & Cody costars were “underpaid and overworked” by Disney Channel, noting it felt like the cast actually paid the network."
+            },
+            {
+              "url": "https://variety.com/2026/tv/news/brenda-song-suite-life-of-zack-and-cody-1236944810",
+              "quote": "She continued: “I think the only thing that was hard about that time was I feel like we were underpaid and overworked. But Disney did give us a platform to be sitting here right now. So it’s"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-underpaid-overworked-disney-suite-life-1236752178",
+              "quote": "The actress admitted that “the only thing that was hard about that time was I feel like we were underpaid and overworked.” Song added, “But Disney did give us a platform to be sitting here"
+            }
+          ]
+        },
+        {
+          "text": "Dylan Sprouse szerint egy rendkívül népszerű sorozat ellenére alig kaptak pénzt, és csak egy 5 centes reziduális csekket kapott.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1438023/suite-lifes-brenda-song-says-cast-was-underpaid-and-overworked?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "\"The only residual check I've ever received for The Suite Life at all was a crossover episode with Hannah Montana for five cents,\" the Disney Channel alum shared during a 2026 episode of his"
+            },
+            {
+              "url": "https://variety.com/2026/tv/news/brenda-song-suite-life-of-zack-and-cody-1236944810",
+              "quote": "cents. I’m not joking,” he said. “Imagine that. In a time where residuals would have been great,” Sprouse added, “Not a single paycheck for being arguably one of the most popular shows.”"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/brenda-song-underpaid-overworked-disney-suite-life-1236752178",
+              "quote": "“The only residual check I’ve ever received for The Suite Life at all was a crossover episode with Hannah Montana for five cents. I’m not joking,” he said. “Imagine that. In a time where"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Dua Lipa, SZA, Tame Impala és Daddy Yankee a Coachella 2027 fesztivál fő fellépői",
       "excerpt": "Bejelentették a 2027-es Coachella Valley Music and Arts Festival fő fellépőit, köztük Dua Lipát, SZA-t, Tame Impalát és Daddy Yankee-t. Az esemény két hétvégén zajlik majd áprilisban Kaliforniában.",
