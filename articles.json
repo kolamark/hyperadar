@@ -3,6 +3,79 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "Bandai Namco is involved in the visual development of The Legend of Zelda: Ocarina of Time remake",
+      "excerpt": "A hazai Kotaku útmutató a játék leghatásosabb fegyveréhez és az új OOT átdolgozás pozitív fogadtatásáról is szól, miközben a Nintendo mellett a Bandai Namco és Monolith Soft szerepéről is szó esik.",
+      "body": [
+        "A The Legend of Zelda: Ocarina of Time 2026-os remake-jében a legnagyobb kard a Biggoron Sword, amely nagyobb sebzést okoz, mint a Master Sword, de kétkezes és lassabb.",
+        "A feladat megszerzése hosszadalmas mellékküldetés, amely csak felnőtt Link-ként teljesíthető, több helyszín és időlimit szigorú betartásával. (Kotaku)"
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/how-to-get-the-biggoron-sword-in-the-legend-of-zelda-ocarina-of-time-remake-2000755602"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time"
+        },
+        {
+          "name": "Destructoid",
+          "url": "https://www.destructoid.com/i-regret-talking-crap-about-the-ocarina-of-time-remake"
+        }
+      ],
+      "published_at": "2026-11-11T01:59:14.854558Z",
+      "claims": [
+        {
+          "text": "A Biggoron Sword a The Legend of Zelda: Ocarina of Time remake legnagyobb erejű, opcionális fegyvere.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/how-to-get-the-biggoron-sword-in-the-legend-of-zelda-ocarina-of-time-remake-2000755602",
+              "quote": "obtained via a lengthy sidequest. It’s the strongest sword in the game, dealing even more damage than the Master Sword, but it’s slower, and requires two hands to wield, so no shield on the"
+            }
+          ]
+        },
+        {
+          "text": "A fegyver megszerzése egy hosszú mellékküldetés eredménye, amit csak felnőtt Link-ként lehet teljesíteni.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/how-to-get-the-biggoron-sword-in-the-legend-of-zelda-ocarina-of-time-remake-2000755602",
+              "quote": "First, you need to be adult Link. It’s also helpful to have obtained the Bolero of Fire for one specific part, though it’s not mandatory. You will need to have unfrozen King Zora in Zora"
+            }
+          ]
+        },
+        {
+          "text": "Bandai Namco több vizuális elemért, például karakterekért, terepért, animációkért és UI-ért felelt a Nintendo Switch 2-re készült Ocarina of Time remake-ben.",
+          "evidence": [
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time",
+              "quote": "\"We were commissioned to create some of the visual assets and artwork, including characters, terrain, animations, cutscenes, and UI, for the Nintendo Switch™ 2 game \"The Legend of Zelda:"
+            }
+          ]
+        },
+        {
+          "text": "A Monolith Soft a játékmenet, programozás és grafika több területén is közreműködött a Zelda remake-jében.",
+          "evidence": [
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time",
+              "quote": "design, programming, and graphics\"."
+            }
+          ]
+        },
+        {
+          "text": "Az Ocarina of Time remake megosztó grafikája ellenére a játékosok pozitívan fogadták a játékot és sokan újraélhetik vele a gyerekkori élményt.",
+          "evidence": [
+            {
+              "url": "https://www.destructoid.com/i-regret-talking-crap-about-the-ocarina-of-time-remake",
+              "quote": "People are absolutely gushing over it, and it’s not a case of people simply getting their yearly dose of nostalgia. Players, new and old alike, are engaging with it as if it’s this bold new"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "A Big Walk fejlesztője beismerte, hogy minimális mértékben használt mesterséges intelligenciát a kódolásban",
       "excerpt": "A House House fejlesztőcsapata elmondta, hogy Big Walk készítése közben a végső időszakban kis mértékben alkalmaztak generatív mesterséges intelligenciát, főként Unity motorral kapcsolatos nehézségek és hibák megoldására.",
       "body": [
