@@ -2,6 +2,106 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Dua Lipa, SZA, Tame Impala és Daddy Yankee a Coachella 2027 fesztivál fő fellépői",
+      "excerpt": "Bejelentették a 2027-es Coachella Valley Music and Arts Festival fő fellépőit, köztük Dua Lipát, SZA-t, Tame Impalát és Daddy Yankee-t. Az esemény két hétvégén zajlik majd áprilisban Kaliforniában.",
+      "body": [
+        "A 2027-es Coachella fesztiválon Dua Lipa, SZA és Tame Impala lesznek a fő fellépők, továbbá Daddy Yankee is különleges produkcióval készül, mint a negyedik fő műsorszám.",
+        "Az esemény két hétvégén kerül megrendezésre áprilisban Indio-ban, Kaliforniában, és más ismert előadók is szerepelnek a fellépők között, mint Madonna, Zara Larsson, Phoebe Bridgers és Kygo."
+      ],
+      "sources": [
+        {
+          "name": "E! News",
+          "url": "https://www.eonline.com/news/1437664/coachella-2027-dua-lipa-sza-tame-impala-named-headliners?cmpid=rss-syndicate-genericrss-us-top_stories"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962"
+        }
+      ],
+      "published_at": "2026-11-11T12:47:55.251015Z",
+      "claims": [
+        {
+          "text": "Dua Lipa, SZA és Tame Impala lesznek a Coachella 2027 fő fellépői.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1437664/coachella-2027-dua-lipa-sza-tame-impala-named-headliners?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Dua Lipa, SZA and Tame Impala Set to Headline Coachella 2027"
+            },
+            {
+              "url": "https://www.eonline.com/news/1437664/coachella-2027-dua-lipa-sza-tame-impala-named-headliners?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Ahead of Coachella 2027, Dua Lipa, SZA and Tame Impala have been confirmed as headliners for the annual two-weekend music festival in Southern California."
+            },
+            {
+              "url": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962",
+              "quote": "Dua Lipa, Tame Impala and SZA to Headline Coachella 2027"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962",
+              "quote": "Dua Lipa, Tame Impala and SZA are set to headline Coachella Valley Music and Arts Festival 2027."
+            }
+          ]
+        },
+        {
+          "text": "Daddy Yankee különleges produkcióval lép fel a fesztiválon.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee",
+              "quote": "Dua Lipa, Tame Impala, SZA and Daddy Yankee have been locked in to headline the 2027 Coachella Valley Music and Arts Festival, the event’s organizers shared on Tuesday."
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee",
+              "quote": "The two-weekend event is set for Friday, April 9 through Sunday, April 11, and again on Friday, April 16 through Sunday, April 18. Daddy Yankee has been selected as a fourth headliner and is"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962",
+              "quote": "News of the lineup comes after SZA teased the headliners on social media. Daddy Yankee has his own special slot, typically reserved as a bonus fourth headliner, as does Justice, who will"
+            }
+          ]
+        },
+        {
+          "text": "A fesztivál két hétvégén zajlik áprilisban, helyszíne az Empire Polo Club, Indio, Kalifornia.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee",
+              "quote": "The two-weekend event is set for Friday, April 9 through Sunday, April 11, and again on Friday, April 16 through Sunday, April 18. Daddy Yankee has been selected as a fourth headliner and is"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962",
+              "quote": "Coachella 2027 will take place at the Empire Polo Club in Indio, California, for two weekends set for April 9-11 and April 16-18. Passes go on sale starting on November 13 at 12 p.m. PT on"
+            }
+          ]
+        },
+        {
+          "text": "Madonna, Zara Larsson, Phoebe Bridgers, Kygo és más ismert előadók is szerepelnek a fellépők között.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1437664/coachella-2027-dua-lipa-sza-tame-impala-named-headliners?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Dua will own Friday at the festival, where the \"Levitating\" artist will be joined by the likes of Madonna, Zara Larsson, Steve Lacy and Jisoo."
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee",
+              "quote": "Madonna, Zara Larsson, Weezer and Kehlani are also among the performers"
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/music/coachella-2027-headliners-dua-lipa-tame-impala-sza-daddy-yankee",
+              "quote": "In addition to the aforementioned headliners, other notable performers set for the festival include Madonna, Zara Larsson, Steve Lacey, JISOO, Kehlani, Leon Thomas, Phoebe Bridgers, Weezer,"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/dua-lipa-tame-impala-sza-to-headline-coachella-2027-1236944962",
+              "quote": "Dance Floor” back in 2006. Phoebe Bridgers, Don Toliver, Zara Larsson, Weezer, Dom Dolla, Kygo, Empire of the Sun and Role Model also dot the upper tiers."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Bandai Namco is involved in the visual development of The Legend of Zelda: Ocarina of Time remake",
       "excerpt": "A hazai Kotaku útmutató a játék leghatásosabb fegyveréhez és az új OOT átdolgozás pozitív fogadtatásáról is szól, miközben a Nintendo mellett a Bandai Namco és Monolith Soft szerepéről is szó esik.",
