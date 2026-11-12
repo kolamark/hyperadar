@@ -3,6 +3,145 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "Az Ocarina of Time Switch 2-es remake 5,2 millió példányban kelt el négy nap alatt",
+      "excerpt": "A Nintendo bejelentése szerint az Ocarina of Time Switch 2-es remake-je november 5-i megjelenését követően mindössze négy nap alatt 5,2 millió eladott példányszámot ért el, amelyből 810 ezer Japánban kelt el.",
+      "body": [
+        "A Nintendo bejelentése szerint az Ocarina of Time Switch 2-es remake-je november 5-i megjelenését követően mindössze négy nap alatt 5,2 millió eladott példányszámot ért el, amelyből 810 ezer Japánban kelt el.",
+        "Ez az eredmény a Nintendo szerint a leggyorsabban fogyó első féltől származó (first-party) Switch 2 játék, amely megelőzi több korábbi Zelda játéktól, például a 3DS-es A Link Between Worlds-t és az Echoes of Wisdom című Switch játékot is."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/the-legend-of-zelda-ocarina-of-time-remake-sold-5-2-million-in-its-first-four-days-nintendo-says"
+        },
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+        }
+      ],
+      "published_at": "2026-11-12T02:18:42.600020Z",
+      "claims": [
+        {
+          "text": "A The Legend of Zelda: Ocarina of Time Switch 2-es remake-je a megjelenését követő első négy napban 5,2 millió példányban kelt el.",
+          "evidence": [
+            {
+              "url": "https://www.videogameschronicle.com/news/the-legend-of-zelda-ocarina-of-time-remake-sold-5-2-million-in-its-first-four-days-nintendo-says",
+              "quote": "Nintendo has announced that The Legend of Zelda: Ocarina of Time remake sold 5.2 million units in its first four days."
+            },
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days",
+              "quote": "Nintendo has announced that The Legend of Zelda: Ocarina of Time has sold a total of 5.2 million units in just four days."
+            },
+            {
+              "url": "https://www.ign.com/articles/nintendo-defends-decision-to-cut-mario-and-yoshi-easter-eggs-from-the-legend-of-zelda-ocarina-of-time-remake",
+              "quote": "Earlier today, Nintendo revealed that Ocarina of Time had already shifted 5.2 million copies and become the Switch 2's fastest-selling game so far. Meanwhile, players have been having fun"
+            }
+          ]
+        },
+        {
+          "text": "Az eladásokból 810 ezer példány Japánban fogyott el az első négy napban.",
+          "evidence": [
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days",
+              "quote": "This number includes 810,000 copies sold in Japan alone, and makes Ocarina of Time the fastest-selling Nintendo-published Switch 2 game since the console's launch. For added context, the N64"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
+      "title": "Grand Theft Auto 6 előrendelése rekordokat döntött Xboxon és PlayStationön",
+      "excerpt": "A Grand Theft Auto 6 lett a valaha volt legelőrendeltettebb játék mind az Xbox, mind a PlayStation digitális áruházában. A kiadó Take-Two és a Sony is az „példátlan” előrendelési érdeklődést emeli ki, amely előre vetíti a sikeres megjelenést.",
+      "body": [
+        "A Grand Theft Auto 6 rekordokat döntött az előrendelések számát tekintve mind a PlayStation Store-ban, mind a Microsoft Store-ban. A Sony lehetővé tette a játék kilenc nappal a megjelenés előtt történő előtöltését, hogy a játékosok készen álljanak a premierek napjára.",
+        "Az Xbox hasonlóan jelentette be, hogy a GTA 6 eddig a legnagyobb előrendelési számot érte el áruházukban, és a felhőalapú játék streaming szolgáltatásukon elérhető lesz konzolon, de PC-n nem. A Take-Two kiadó előrejelzései szerint a játék megjelenése jelentősen növeli majd a bevételeiket."
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-5-the-kotaku-re-review-2000755163"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history"
+        }
+      ],
+      "published_at": "2026-11-12T02:18:34.332543Z",
+      "claims": [
+        {
+          "text": "A Grand Theft Auto 6 a PlayStation Store történetének legelőrendeltebb játéka lett.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+              "quote": "Grand Theft Auto 6 becomes the most pre-ordered game in PlayStation Store history"
+            }
+          ]
+        },
+        {
+          "text": "A Grand Theft Auto 6 a Microsoft Store legsikeresebb előrendelését érte el.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+              "quote": "UPDATE: And the most pre-ordered game in Xbox Store history."
+            },
+            {
+              "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+              "quote": "UPDATE 11TH NOVEMBER: Grand Theft Auto 6 has also become the most pre-ordered game \"of all time\" on the Xbox Store, Microsoft has announced. And on that platform, again, the advice is to"
+            }
+          ]
+        },
+        {
+          "text": "A Sony lehetővé tette az előtöltést a megjelenés előtt, hogy a játékosok a premier napján már játszhassanak.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation",
+              "quote": "\"Grand Theft Auto 6 is now the most pre-ordered game in the history of PlayStation Store,\" Sony proclaimed on the PlayStation Blog. \"Given this unprecedented demand, we’ve joined with"
+            },
+            {
+              "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+              "quote": "\"Grand Theft Auto 6 is now the most pre-ordered game in the history of PlayStation Store,\" Sony wrote. \"Given this unprecedented demand, we've joined with Rockstar Games to allow players to"
+            }
+          ]
+        },
+        {
+          "text": "Az Xbox felhőalapú játék szolgáltatásán a GTA 6 játszható lesz konzolon, de nem PC-n.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation",
+              "quote": "Alongside Xbox Series X/S consoles, Xbox said GTA 6 will also be playable on Xbox One consoles through Xbox Cloud Gaming. That service is also available on PC, but Xbox chief strategy"
+            },
+            {
+              "url": "https://www.eurogamer.net/gta-6-most-preordered-game-playstation-store-history",
+              "quote": "The Xbox difference is that you can use Xbox Cloud to stream GTA 6 to other Xbox devices, although not PC, notably - the game isn't available on PC and presumably Rockstar doesn't want it"
+            }
+          ]
+        },
+        {
+          "text": "A Take-Two a GTA 6 megjelenése miatt megkétszerezett negyedéves nettó foglalásokat vár.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-is-the-most-pre-ordered-game-of-all-time-on-both-xbox-and-playstation",
+              "quote": "gate. The publisher is projecting net bookings of $3.35 to $3.5 billion for its current fiscal quarter, \"driven by the groundbreaking release of Grand Theft Auto 6\" on November 19. That's"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "A PlayStation 5 átlépte a 100 milliós eladott konzol határt",
       "excerpt": "A Sony bejelentette, hogy a PlayStation 5 november 10-én túllépte a 100 millió legyártott konzol darabszámot. Ez a szám a kiskereskedőknek kiszállított készülékeket jelenti, nem pedig a tényleges vásárlóhoz jutott darabszámot.",
       "body": [
