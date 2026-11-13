@@ -3,6 +3,52 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "A The Legend of Zelda: Ocarina of Time remake sikeres debütálása a Switch 2 platformon",
+      "excerpt": "A The Legend of Zelda: Ocarina of Time remake rendkívüli sikert aratott, a Nintendo közlése szerint négy nap alatt több mint 5,2 millió példány talált gazdára, ezzel a Switch 2 leggyorsabban eladott játéka lett.",
+      "body": [
+        "A The Legend of Zelda: Ocarina of Time remake rendkívüli sikert aratott, a Nintendo közlése szerint négy nap alatt több mint 5,2 millió példány talált gazdára, ezzel a Switch 2 leggyorsabban eladott játéka lett.",
+        "Az új változat egyik népszerű jellemzője, hogy Link ocarináján bármilyen dalt elő lehet adni, amihez a játékosok saját interpretációkkal, például a Linkin Park, Titanic vagy akár japán áruházak dallamaival is előálltak az online térben."
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/the-legend-of-zelda-ocarina-of-time-bosses-ranked-from-worst-to-best-2000756332"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo"
+        }
+      ],
+      "published_at": "2026-11-13T02:40:44.445604Z",
+      "claims": [
+        {
+          "text": "A The Legend of Zelda: Ocarina of Time remake 5,2 millió példányt adott el négy nap alatt, így a Switch 2 leggyorsabban fogyó játéka lett.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/zelda-ocarina-of-time-switch-2-sales-nintendo",
+              "quote": "The Legend of Zelda: Ocarina of Time remake has been a huge success for Nintendo, becoming the fastest-selling Switch 2 game ever, shifting more than 5.2 million copies in four days."
+            }
+          ]
+        },
+        {
+          "text": "A játékosok az in-game ocarinán különféle zenéket játszanak, és gyakran osztanak meg videókat például Linkin Park, Titanic vagy japán üzletek dallamainak eljátszásáról.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-players-use-in-game-ocarina-to-play-everything-from-linkin-park-titanic-and-japanese-supermarket-themes",
+              "quote": "The Legend of Zelda: Ocarina of Time Remake Players Use In-Game Ocarina to Play Everything From Linkin Park, Titanic, and Japanese Supermarket Themes"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "Neil Druckmann szerint az Intergalactic a fejlesztés utolsó szakaszában tart",
       "excerpt": "Neil Druckmann, a Naughty Dog vezetője elmondta, hogy az Intergalactic: The Heretic Prophet jelenleg a fejlesztés utolsó szakaszában van, amelyben a játék már játszható és csiszolják.",
       "body": [
