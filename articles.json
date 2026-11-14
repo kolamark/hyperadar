@@ -2,6 +2,52 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Simple Plan, Hoobastank és más zenekarok meglepték az utasokat egy váratlan légi koncerttel",
+      "excerpt": "Az említett zenekarok egy Southwest Airlines járaton léptek fel, amely november 13-án indult Los Angelesből Floridába.",
+      "body": [
+        "Az említett zenekarok egy Southwest Airlines járaton léptek fel, amely november 13-án indult Los Angelesből Floridába.",
+        "A fellépések keretében Hoobastank a 'The Reason' című dalát adta elő, a Simple Plan több slágerrel is szórakoztatta a közönséget, míg The Used és Lolo is emlékezetes produkciókat mutattak be."
+      ],
+      "sources": [
+        {
+          "name": "E! News",
+          "url": "https://www.eonline.com/news/1438127/simple-plan-hoobastank-give-surprise-flight-performance-amid-ground-stop?cmpid=rss-syndicate-genericrss-us-top_stories"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751"
+        }
+      ],
+      "published_at": "2026-11-14T23:03:09.758337Z",
+      "claims": [
+        {
+          "text": "Az említett zenekarok egy Southwest Airlines járaton léptek fel, amely november 13-án indult Los Angelesből Floridába.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751",
+              "quote": "Hoobastank, The Used, Simple Plan and Lolo performed aboard a Southwest flight from Los Angeles to Orlando, Fla., on Nov. 13 as part of the music program, which hosts surprise midflight"
+            },
+            {
+              "url": "https://www.eonline.com/news/1438127/simple-plan-hoobastank-give-surprise-flight-performance-amid-ground-stop?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "That’s why the rock bands surprised people on a Southwest flight from Los Angeles to Florida with impromptu performances amid the nationwide ground stop on Nov. 13."
+            }
+          ]
+        },
+        {
+          "text": "A fellépések keretében Hoobastank a 'The Reason' című dalát adta elő, a Simple Plan több slágerrel is szórakoztatta a közönséget, míg The Used és Lolo is emlékezetes produkciókat mutattak be.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751",
+              "quote": "Hoobastank, The Used, Simple Plan and Lolo performed aboard a Southwest flight from Los Angeles to Orlando, Fla., on Nov. 13 as part of the music program, which hosts surprise midflight"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Ingyenes Firefight mód érkezik a Halo: Campaign Evolved játékhoz télen",
       "excerpt": "Az Xbox hivatalosan is bejelentette, hogy a Halo: Campaign Evolvedhez ingyenesen elérhetővé válik a négyfős kooperatív Firefight mód még ebben a télben. A rajongók decemberben, a Halo Fest rendezvényen először kipróbálhatják az új játéklehetőséget.",
