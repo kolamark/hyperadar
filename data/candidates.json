@@ -1,5 +1,554 @@
 [
   {
+    "id": "816c9307e41e5bf075f3",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Skip Hinnant Dies: ‘Electric Company’, ‘You’re A Good Man, Charlie Brown’ Actor, Voice Of Fritz The Cat Was 86",
+    "url": "https://deadline.com/2026/11/skip-hinnant-dead-1237223791",
+    "published_at": "2026-11-14T18:35:15+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8997b9174a6e87d103be",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Joe Jonas, Tatiana Gabriela Break Up 6 Months After Confirming Romance",
+    "url": "https://www.eonline.com/news/1437911/joe-jonas-tatiana-gabriela-break-up?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T18:17:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c21393eaa1d8c609e5a2",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "DDG Apologizes On Behalf Of Fan Who Recreated Kanye’s Notorious 2009 Taylor Swift Rant At The 2026 Streamer Awards",
+    "url": "https://kotaku.com/ddg-apologizes-on-behalf-of-kanye-recreating-fan-who-crashed-streamer-awards-2000756857",
+    "published_at": "2026-11-14T18:13:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e10abc1037713c96852f",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+    "url": "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
+    "published_at": "2026-11-14T18:13:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3527a7eecccffa74a92b",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Why Jenna Dewan Wasn't \"Bitter\" About Val Chmerkovskiy's Suspension",
+    "url": "https://www.eonline.com/news/1438124/dancing-with-the-stars-jenna-dewan-addresses-val-chmerkovskiys-suspension?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T18:10:51+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d404982b25fba9721dba",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "UFC 334 Livestream: How to Watch Gane vs. Hokit Online",
+    "url": "https://variety.com/2026/shopping/news/how-to-watch-ufc-334-gane-vs-hokit-live-online-free-1236945089",
+    "published_at": "2026-11-14T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9ab3a57f7a7b2681f08e",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Matchbox Twenty disagreed about their song ‘Push’ being featured in “Barbie”",
+    "url": "https://ew.com/matchbox-twenty-disagree-about-push-being-featured-in-barbie-12247491",
+    "published_at": "2026-11-14T18:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3a53116c7afa307dccfc",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "From 2D to 3D and back to 2D again, the original platforming classic Super Meat Boy returns with a slick remaster complete with new levels and too many old saws",
+    "url": "https://www.rockpapershotgun.com/from-2d-to-3d-and-back-to-2d-again-the-original-platforming-classic-super-meat-boy-returns-with-a-slick-remaster-complete-with-new-levels-and-too-many-old-saws",
+    "published_at": "2026-11-14T17:59:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "913a4cfabe1ffd2c847a",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "James Gunn Speaks Out About Rumors Of Skydance Being Unhappy With Man of Tomorrow, Says They Haven’t Even Seen The Movie Yet",
+    "url": "https://kotaku.com/james-gunn-speaks-out-about-rumors-of-skydance-being-unhappy-with-man-of-tomorrow-says-they-havent-even-seen-the-movie-yet-2000756855",
+    "published_at": "2026-11-14T17:54:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "63ea4bbd293e5b4ac985",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "It’s a time warp! “Glee ”costars Lea Michele, Kevin McHale, and more reunite at “Rocky Horror Show”",
+    "url": "https://ew.com/glee-costars-lea-michele-kevin-mchale-reunite-rocky-horror-show-12254641",
+    "published_at": "2026-11-14T17:49:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5c25d7fe6c33c3210bb1",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get and use Cargo in ROB RUN",
+    "url": "https://www.destructoid.com/how-to-get-and-use-cargo-in-rob-run",
+    "published_at": "2026-11-14T17:31:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "da3a0c3f14ad68bb4d48",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Danielle Fishel was ‘purging and overexercising’ after “Boy Meets World ”creator allegedly told her she gained weight",
+    "url": "https://ew.com/danielle-fishel-purging-and-overexercising-on-boy-meets-world-after-creator-comments-12253011",
+    "published_at": "2026-11-14T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1e2cee0f735574eec243",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Holiday Party Plans? These Velvet Outfits Slay for Less Than $100",
+    "url": "https://www.eonline.com/news/1438093/the-best-velvet-dresses-and-sets-under-s100-for-holiday-parties?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T17:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e38d7488661cbed0ead0",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428",
+    "published_at": "2026-11-14T17:28:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "29c5d0af076c34d67404",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Boston College vs. Notre Dame Livestream: Where to Watch the College Football Game Online for Free",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/boston-college-notre-dame-football-game-free-stream-online-1236754220",
+    "published_at": "2026-11-14T17:26:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "956bcb6cb2fae4fe9e1f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+    "url": "https://www.ign.com/articles/gta-6-will-do-something-the-franchise-has-never-done-before-encourage-empathy",
+    "published_at": "2026-11-14T17:19:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "20ae750625948eb6220f",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Scream’ Actor C.W. Morgan’s Cause Of Death Revealed",
+    "url": "https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783",
+    "published_at": "2026-11-14T17:16:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "431254d2861f4a4f43c4",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Contenders Film Los Angeles Underway With 15 Movies Ready For Their Awards-Season Closeups",
+    "url": "https://deadline.com/2026/11/contenders-film-los-angeles-lineup-schedule-1237219190",
+    "published_at": "2026-11-14T17:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e36f4bb077601536be45",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "No One Hurt At Xbox Studio InXile Entertainment After A Gunman Allegedly Opened Fire On The Building",
+    "url": "https://kotaku.com/not-one-hurt-at-xbox-studio-inxile-entertainment-after-a-gunman-allegedly-opened-fire-on-the-building-2000756851",
+    "published_at": "2026-11-14T17:13:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7d2fd6b8fee7cb16bcb2",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "L.A.’s Most Celebrated French Chef Is Staging a Comeback",
+    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/los-angeles-french-chef-ludo-lefebvre-comeback-1236753231",
+    "published_at": "2026-11-14T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9c598d0fe5b95aea3955",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "‘Brady Bunch’ star Eve Plumb is ‘so glad’ she didn’t land Linda Blair’s role in ‘The Exorcist’",
+    "url": "https://ew.com/brady-bunch-star-eve-plumb-auditioned-the-exorcist-linda-blair-regan-macneil-12242854",
+    "published_at": "2026-11-14T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bf5c4c0aa2de470a69cb",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "The Death of Superman: Why I’ll Mourn James Gunn’s DCU | Commentary",
+    "url": "https://www.thewrap.com/creative-content/movies/james-gunn-dc-universe-appreciation-analysis",
+    "published_at": "2026-11-14T17:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "998ddaf63a454b50a50e",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Florence Pugh Was “So Nervous” to Release ‘East of Eden’ and Still Hasn’t Read the Reviews: “It Was Too Much With This One”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/florence-pugh-nervous-release-east-of-eden-reviews-1236755447",
+    "published_at": "2026-11-14T16:59:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9db443e78a4d79416980",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Missed something on your first go around The Blood of Dawnwalker? I've got good news, as next week's update adds in new game plus",
+    "url": "https://www.rockpapershotgun.com/missed-something-on-your-first-go-around-the-blood-of-dawnwalker-ive-got-good-news-as-next-weeks-update-adds-in-new-game-plus",
+    "published_at": "2026-11-14T16:53:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0010c3171ca28e4a834c",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Skip Hinnant, Actor on ‘The Electric Company’ and Voice of Fritz the Cat, Dies at 86",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/skip-hinnant-dead-electric-company-fritz-the-cat-1236755456",
+    "published_at": "2026-11-14T16:51:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5843e71711bdd63aeaf3",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Steen Ostergaard & Olivier Mourgue Die: Futuristic Furniture Designers For ‘Star Trek’ & ‘2001: A Space Odyssey’ Pass Away Within Weeks",
+    "url": "https://deadline.com/2026/11/steen-ostergaard-olivier-mourgue-dead-1237223746",
+    "published_at": "2026-11-14T16:44:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "29273c3736a34d3bd548",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Why Golden Bachelorette’s Joan Vassos, Chock Chapple Ended Engagement",
+    "url": "https://www.eonline.com/news/1438122/why-golden-bachelorettes-joan-vassos-chock-chapple-broke-up?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T16:44:29+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "60fba84b9364f55894be",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Hoobastank, Simple Plan, and more artists play mid-air concert amid FAA ground stop",
+    "url": "https://ew.com/hoobastank-simple-plan-play-mid-air-concert-faa-ground-stop-12254548",
+    "published_at": "2026-11-14T16:40:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c2f25579ac81153aa885",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-box-office-opening-how-to-rob-bank-1236755417",
+    "published_at": "2026-11-14T16:33:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0ee544ce1289b9af1cc2",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Daggerheart: Hope & Fear Expansion Review",
+    "url": "https://www.ign.com/articles/daggerheart-hope-fear-expansion-ttrpg-review",
+    "published_at": "2026-11-14T16:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ff9dccc9f22e6971c9c1",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "When GTA 5 Took On Zuckerberg and Hit Peak Satire",
+    "url": "https://www.ign.com/articles/when-gta-5-took-on-zuckerberg-and-hit-peak-satire",
+    "published_at": "2026-11-14T16:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "45d166b1aa58de5db63b",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "‘Bewitched’ star Erin Murphy recalls appearing in detergent commercial with future president Ronald Reagan",
+    "url": "https://ew.com/bewitched-star-erin-murphy-ronald-reagan-commercial-12242631",
+    "published_at": "2026-11-14T16:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9f1530993103ff922c8a",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Ebenezer’ Marks Johnny Depp’s Box Office Return With Modest $20 Million Opening",
+    "url": "https://www.thewrap.com/creative-content/movies/ebenezer-johnny-depp-saturday-box-office-20-million",
+    "published_at": "2026-11-14T16:22:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f1680d8ec607af8995b0",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "How the Biopic ‘Being Heumann’ Pulls Off Two Revolutions",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/being-heumann-sian-heder-ruth-madeley-interview-1235658162",
+    "published_at": "2026-11-14T16:21:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "41c29291b68c42db1cee",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Club Kid’ Cinematographer Adam Newport-Berra on Capturing Intimate and Authentic New York Moments",
+    "url": "https://variety.com/2026/artisans/news/club-kid-cinematography-new-york-adam-newport-berra-1236938607",
+    "published_at": "2026-11-14T16:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "20ec890296412832f9e6",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Russell Brand’s ex opens up about his marriage to Katy Perry: ‘He always wanted’ to marry ‘someone famous’",
+    "url": "https://ew.com/russell-brand-katy-perry-marriage-ex-opens-up-netflix-doc-12253859",
+    "published_at": "2026-11-14T16:06:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "297423127a965a029edf",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘How to Rob a Bank’ Struggling With $2.2 Million on Friday",
+    "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684",
+    "published_at": "2026-11-14T16:05:34+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "08a7283fde134719906c",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Adam Driver Says Disney Killing ‘The Hunt for Ben Solo’ Felt ‘Criminal’: ‘Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?’",
+    "url": "https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685",
+    "published_at": "2026-11-14T16:02:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "174af6ee1fad4902afa6",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Christopher Abbott Reveals How His ‘You Can See Everything’ Moment Came to Be",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/christopher-abbott-you-can-see-everything-billy-evans-1236755390",
+    "published_at": "2026-11-14T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3234c8f7efb8336eba8f",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“General Hospital” star Cameron Mathison opens up about his age gap romance with girlfriend after divorce",
+    "url": "https://ew.com/cameron-mathison-25-year-age-gap-girlfriend-after-divorce-12246039",
+    "published_at": "2026-11-14T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4b649f2e407319289b1e",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Top Chef Alum Leah Cohen’s Husband Ben Byruch Dead at 44",
+    "url": "https://www.eonline.com/news/1438121/top-chef-alum-leah-cohens-husband-ben-byruch-dead-at-44?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T15:56:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c2059dde8432a60e243b",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym",
+    "url": "https://variety.com/2026/tv/news/shane-gillis-snl-monologue-backlash-whores-joke-1236947671",
+    "published_at": "2026-11-14T15:43:35+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3abede28508bf4f211c4",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit",
+    "url": "https://variety.com/2026/film/news/james-gunn-skydance-superman-man-of-tomorrow-dc-exit-1236947669",
+    "published_at": "2026-11-14T15:27:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "13dd96cda73140df475a",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Why Bruce Buffer Traded the Octagon for the Steakhouse in New Bud Light Campaign",
+    "url": "https://www.hollywoodreporter.com/business/business-news/ufc-bruce-buffer-bud-light-ad-chef-1236755180",
+    "published_at": "2026-11-14T15:23:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ba70f24a4cfe40778f82",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Aaron Rodgers Shares New Photo With Brother Jordan Rodgers After Feud",
+    "url": "https://www.eonline.com/news/1438120/aaron-rodgers-reunites-with-brother-jordan-rodgers-in-photo-after-feud?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T15:07:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4d07fb46ffb06bb958a6",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Melissa Joan Hart says playing Sabrina for seven seasons could get boring, but magic kept it fresh (exclusive)",
+    "url": "https://ew.com/melissa-joan-hart-sabrina-the-teenage-witch-tough-character-seven-seasons-bored-12240917",
+    "published_at": "2026-11-14T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "63d5f9629b3d93d2853d",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Oklahoma Athletic Director Roger Denny Slams Ground Stop Delay Of Sooners-Ole Miss College Football Game: “This Decision Isn’t Fair”",
+    "url": "https://deadline.com/2026/11/oklahoma-athletic-director-roger-denny-slams-ground-stop-delay-of-sooners-ole-miss-college-football-game-this-decision-isnt-fair-1237223734",
+    "published_at": "2026-11-14T14:56:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8c5e63aa4505d6c45ae8",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "How ‘Law & Order: SVU’ Pulled Off the Impossible With Latest Milestone: ‘It Will Never Happen Again’",
+    "url": "https://variety.com/2026/tv/news/law-and-order-svu-600th-episode-1236947263",
+    "published_at": "2026-11-14T14:50:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6f0ed03554f60636c5a8",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Halo: Campaign Evolved is getting Firefight as a free update, though I'm not sure it'll do much to change the remake's fortunes",
+    "url": "https://www.pcgamer.com/games/halo/halo-campaign-evolved-is-getting-firefight-as-a-free-update-though-im-not-sure-itll-do-much-to-change-the-remakes-fortunes",
+    "published_at": "2026-11-14T14:49:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "787f3ffb4842725f74ec",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where to Watch “A Charlie Brown Thanksgiving”",
+    "url": "https://people.com/where-to-watch-stream-a-charlie-brown-thanksgiving-12246719",
+    "published_at": "2026-11-14T14:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "50b7979fa71baf5fef4c",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Johnny Depp helped guide Andrea Riseborough around “Ebenezer ”set“ ”because she couldn’t see in her costume",
+    "url": "https://ew.com/johnny-depp-guide-andrea-riseborough-ebenezer-set-couldnt-see-12253150",
+    "published_at": "2026-11-14T14:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7f32b65c6aeb2e453016",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Shane Gillis Breaks Silence on Backlash After Divisive SNL Monologue",
+    "url": "https://www.eonline.com/news/1438119/shane-gillis-breaks-silence-on-backlash-over-snl-monologue?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-14T14:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3c47acb3bf39a16ab068",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Formula 1 just found a bizarre financial supporter in horse girl gacha Umamusume: Pretty Derby",
+    "url": "https://www.pcgamer.com/games/sports/formula-1-just-found-a-bizarre-financial-supporter-in-horse-girl-gacha-umamusume-pretty-derby",
+    "published_at": "2026-11-14T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e637dc00757493260d58",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
+    "url": "https://www.nintendolife.com/features/opinion-nintendo-made-ocarina-of-times-best-moment-even-better",
+    "published_at": "2026-11-14T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a2b46325b31db43bae31",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Amy Yasbeck says she still talks to late husband John Ritter every day: ‘I check in all the time’",
+    "url": "https://ew.com/john-ritter-amy-yasbeck-still-talks-to-late-threes-company-star-12237250",
+    "published_at": "2026-11-14T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "95109e88adfd411e0874",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Venice Prizewinner ‘A Day in the Life of Jo’ Explores ‘Who and What We Truly Are’ Through Emotional Journey of Ordinary, Remarkable Teenage Girl",
+    "url": "https://variety.com/2026/film/global/venice-prizewinner-a-day-in-the-life-of-jo-teenage-girl-1236947632",
+    "published_at": "2026-11-14T13:32:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "075ed13ad736cdcb598a",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Dustin Hoffman refused to speak with Steve McQueen on “Papillon” set, went ‘crazy’ during screaming match",
+    "url": "https://ew.com/dustin-hoffman-details-tensions-steve-mcqueen-papillon-set-12251820",
+    "published_at": "2026-11-14T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "def1f0fc83ef817ec0fd",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Boy Meets World” star Will Friedle recalls Keri Russell telling him to kiss her with ‘tongue’ for scene",
+    "url": "https://ew.com/keri-russell-will-friedle-kiss-with-tongue-boy-meets-world-book-12250496",
+    "published_at": "2026-11-14T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "10209b144ac75dbbfc24",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "40% of game developers use generative AI according to a new report, but more than half reckon the technology has a negative impact on the games industry",
+    "url": "https://www.pcgamer.com/software/ai/40-percent-of-game-developers-use-generative-ai-according-to-a-new-report-but-more-than-half-reckon-the-technology-has-a-negative-impact-on-the-games-industry",
+    "published_at": "2026-11-14T12:53:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8ba791929c10d9ba6fc8",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "What happened to the cast of “24”? See the stars 25 years after the premiere",
+    "url": "https://ew.com/the-cast-of-24-where-are-they-now-12246501",
+    "published_at": "2026-11-14T12:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e8bcad7be6ecdee1a8b8",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Ubisoft is reportedly making a new Rainbow Six Vegas game, nearly two decades after Vegas 2",
+    "url": "https://www.eurogamer.net/rainbow-six-vegas-new-game-ubisoft-spades-report",
+    "published_at": "2026-11-14T12:19:50+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "65259bc7b69c0afa4a39",
     "source": "Variety",
     "category": "bulvar",
@@ -8448,555 +8997,6 @@
     "original_title": "The Road of Dust and Sorrow delayed to February 19, 2027",
     "url": "https://www.gematsu.com/2026/11/the-road-of-dust-and-sorrow-delayed-to-february-19-2027",
     "published_at": "2026-11-11T19:50:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e8d1b5d891d8d0b37492",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Watch Out Hollywood: Creators and Sports Are Eating More of the Content Budgets",
-    "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-content-budgets-shifting-creators-sports-1236753069",
-    "published_at": "2026-11-11T19:47:08+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0a699bbb23be83417c0e",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Brenda Song Says Suite Life Cast Was “Underpaid and Overworked”",
-    "url": "https://www.eonline.com/news/1438023/suite-lifes-brenda-song-says-cast-was-underpaid-and-overworked?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-11T19:46:14+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d1b8caa699ab47d82049",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "FKA Twigs Becomes Josephine Baker in First Look at Maïmouna Doucouré’s Buzzy Biopic",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/fka-twigs-josephine-baker-first-look-1236753161",
-    "published_at": "2026-11-11T19:44:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1ab40e95dab57c0525cf",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Randall England Dies: Actor Who Played ‘General Hospital’ Villain Was 75",
-    "url": "https://deadline.com/2026/11/randall-england-dead-1237220596",
-    "published_at": "2026-11-11T19:42:39+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "15300e0c20a5e5eff640",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Ocarina of Time Remake Players Stunned After Learning a Family Guy Meme Works to Summon Epona",
-    "url": "https://www.ign.com/articles/ocarina-of-time-remake-players-stunned-after-learning-a-family-guy-meme-works-to-summon-epona",
-    "published_at": "2026-11-11T19:39:05+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4679adabacb898059b5c",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Don't expect more information on The Elder Scrolls 6: Sentinel \"for some time,\" Bethesda says",
-    "url": "https://www.eurogamer.net/dont-expect-elder-scrolls-6-sentinel-for-some-time-bethesda",
-    "published_at": "2026-11-11T19:36:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ba8e6a2d03e5c0e6cf9f",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Batman Joins Forces With Batman in Batman: Reign of Assassins",
-    "url": "https://www.ign.com/articles/batman-joins-forces-with-batman-in-batman-reign-of-assassins",
-    "published_at": "2026-11-11T19:31:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "efad8a26f7bcb129402a",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Publisher Confounds Nintendo By Releasing Two Games With The Same Name At The Same Time On Switch",
-    "url": "https://kotaku.com/publisher-confounds-nintendo-by-releasing-two-games-with-the-same-name-at-the-same-time-on-switch-2000755935",
-    "published_at": "2026-11-11T19:30:11+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7f135a4dec92d9eab825",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Kim Kardashian’s Lavish Gifts to All’s Fair Cast Revealed",
-    "url": "https://www.eonline.com/news/1438021/sarah-paulson-shares-kim-kardashians-alls-fair-cast-gifts-mri-scan-more?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-11T19:29:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "98d10804b33927593010",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Dragon Age and Mass Effect actor Alix Wilton Regan delivers emotional tribute to BioWare",
-    "url": "https://www.videogameschronicle.com/news/dragon-age-and-mass-effect-actor-alix-wilton-regan-delivers-emotional-tribute-to-bioware",
-    "published_at": "2026-11-11T19:29:17+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "139374b5fc310ecbb6fc",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "FX Gives Gen Z Comedy ‘Adults’ Third Season Renewal",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/adults-fx-comedy-adults-third-season-renewed-1236753149",
-    "published_at": "2026-11-11T19:25:37+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1fc4ce639a8aa0014bf2",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Joe Biden comments on Trump’s ‘disturbing’ White House renovations: ‘What the hell are we talking about?’",
-    "url": "https://ew.com/joe-biden-comments-trumps-disturbing-white-house-renovations-12249119",
-    "published_at": "2026-11-11T19:20:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "dbf2b74c50350a045c73",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "How KROQ’s ‘Klein/Ally Show’ Slogged Its Way to the Top in Los Angeles Radio Morning Drive",
-    "url": "https://variety.com/2026/biz/news/kroq-klein-ally-show-los-angeles-radio-ratings-morning-1236944888",
-    "published_at": "2026-11-11T19:18:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8b706be0b3afc8c5abc0",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "Crime Comedy Short ‘Munchies’ Wins Grand Jury Prize at Proof Film Festival",
-    "url": "https://www.thewrap.com/creative-content/movies/crime-comedy-short-munchies-wins-grand-jury-prize-at-proof-film-festival",
-    "published_at": "2026-11-11T19:16:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9206ae5d0918a41ca82c",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Santa Barbara Film Fest: Anne Hathaway, Star of ‘The Odyssey,’ Tapped for American Riviera Award",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/santa-barbara-film-fest-anne-hathaway-american-riviera-award-1236752551",
-    "published_at": "2026-11-11T19:16:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c6cf36581fb3957b6f13",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Suzanne Farwell Bets on a Big-Screen Comeback for the Rom-Com With ‘Otherwise Engaged’",
-    "url": "https://www.hollywoodreporter.com/movies/movie-features/suzanne-farwell-rom-com-otherwise-engaged-1236753087",
-    "published_at": "2026-11-11T19:16:01+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9f8f899b3fd295c675ab",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "MSI Is Raising Graphics Cards Prices Again in China, According to Leak",
-    "url": "https://www.ign.com/articles/msi-raising-graphics-cards-prices-again-in-china-according-to-leak",
-    "published_at": "2026-11-11T19:12:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "34939aa2ad18ad87f66a",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "GTA 6 shoots to the moon and past Cyberpunk’s 2020 hype train to become most-preordered game of all time",
-    "url": "https://www.destructoid.com/gta-6-preorder-record",
-    "published_at": "2026-11-11T19:12:42+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "63b4971048d442d38633",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Katy Perry and Russell Brand’s relationship timeline: What she said about their marriage before his conviction",
-    "url": "https://ew.com/katy-perry-and-russell-brand-relationship-explained-12249115",
-    "published_at": "2026-11-11T19:12:19+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "becf10652bf429d51f17",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘Elite’ Stars Ester Expósito and Claudia Salas Lead Carlota Pereda’s ‘The Blondes,’ Playtime Launches Sales at AFM (EXCLUSIVE)",
-    "url": "https://variety.com/2026/film/global/elite-ester-exposito-claudia-salas-carlota-peredas-blondes-1236945317",
-    "published_at": "2026-11-11T19:11:33+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e169482b5222a197db21",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "‘Adults’ Renewed For Season 3 At FX",
-    "url": "https://deadline.com/2026/11/adults-renewed-season-3-fx-1237220654",
-    "published_at": "2026-11-11T19:11:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "fda7d7eb1b82b256a2b0",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "MPTF Expanding Its Veterans Benefits Assistance Program Nationwide",
-    "url": "https://deadline.com/2026/11/mptf-veterans-benefits-assistance-program-expands-1237219949",
-    "published_at": "2026-11-11T19:11:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0a20aeaf1365c578c554",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "VisionQuest Ending Explained: Why the Series Is Surprisingly Important to Avengers - Doomsday",
-    "url": "https://www.ign.com/articles/visionquest-ending-explained-post-credits-scene-avengers-doomsday-scarlet-witch",
-    "published_at": "2026-11-11T19:09:23+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "54ca0d9f06aa85ea0def",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "Can ‘Ebenezer’ Resurrect Johnny Depp’s Box Office Drawing Power?",
-    "url": "https://www.thewrap.com/creative-content/movies/johnny-depp-ebenezer-box-office-tracking",
-    "published_at": "2026-11-11T19:06:55+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5adb597cb322293f33b7",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "Jimmy Fallon Jokes Trump’s Denial of Midterm Results Is Proof His Election Night Tranquilizer ‘Finally Wore Off’",
-    "url": "https://www.thewrap.com/culture-lifestyle/culture/tonight-show-jimmy-fallon-trump-midterm-election-results-denial",
-    "published_at": "2026-11-11T19:05:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d0f7c98a32b140d57de8",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘Adults’ Renewed for Season 3 at FX",
-    "url": "https://variety.com/2026/tv/news/adults-renewed-season-3-fx-1236945319",
-    "published_at": "2026-11-11T19:04:03+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e7056e0e960702f16668",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Irma P. Hall Dies: ‘Soul Food’, ‘Midnight In The Garden Of Good And Evil’ Actor Was 91",
-    "url": "https://deadline.com/2026/11/irma-p-hall-dead-1237220602",
-    "published_at": "2026-11-11T19:02:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "006aef905cc1ed2f9403",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "VisionQuest Is One Of The Coolest Things Marvel’s Done In A While, And Its First Episode Is Free To Stream",
-    "url": "https://kotaku.com/visionquest-disney-plus-streaming-free-youtube-first-episode-1-2000755961",
-    "published_at": "2026-11-11T19:00:28+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a805a3d53886c27787b7",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "‘Adults’ Renewed for 16-Episode Season 3 at FX",
-    "url": "https://www.thewrap.com/creative-content/tv-shows/adults-season-3-renewed-16-episodes",
-    "published_at": "2026-11-11T19:00:08+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7f066b688d9ce3db37e2",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Kristen McGuinness Joins Untitled As Creators Manager",
-    "url": "https://deadline.com/2026/11/kristen-mcguinness-joins-untitled-creators-manager-1237219476",
-    "published_at": "2026-11-11T19:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f3a36529532d542bb7cb",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "‘Coven Academy’ Creator, ‘Romy and Michele 2’ Director Tim Federle Signs With WME (Exclusive)",
-    "url": "https://www.hollywoodreporter.com/business/business-news/coven-academy-creator-tim-federle-signs-wme-1236753061",
-    "published_at": "2026-11-11T19:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a1e346d172ce0cbe7ac4",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Trisha Paytas to Host Queer Dating Show ‘Don’t Date Alone,’ Debuting in Early 2027 (Exclusive)",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/trisha-paytas-host-dont-date-alone-dating-show-tubi-1236752243",
-    "published_at": "2026-11-11T19:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "041387c7d6642ad172aa",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘La Bola Negra’ Exhibit Coming to Hollywood in December (EXCLUSIVE)",
-    "url": "https://variety.com/2026/artisans/news/la-bola-negra-exhibit-nya-east-hollywood-december-1236945138",
-    "published_at": "2026-11-11T19:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6f53adff88bcfaf20bd5",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Mark-Paul Gosselaar reveals which of his TV shows he’d bring back, and which he wouldn’t",
-    "url": "https://ew.com/mark-paul-gosselaar-reveals-which-shows-hed-return-to-for-a-revival-12224364",
-    "published_at": "2026-11-11T19:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "78cfe4a01b445967152e",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "The end of DC as we know it: New DCU leadership will probably follow family-friendly Marvel formula, according to its new chief",
-    "url": "https://www.destructoid.com/new-dcu-chief-will-go-the-family-friendly-route",
-    "published_at": "2026-11-11T18:51:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "35a94f8438fdaf214b37",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ Actress, Dies at 91",
-    "url": "https://variety.com/2026/film/news/irma-p-hall-dead-soul-food-1236945266",
-    "published_at": "2026-11-11T18:38:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a5dae52151df3ead0ea4",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "‘Grey’s Anatomy’ Texas Spinoff Casts Karla Souza in Lead Role",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/greys-anatomy-texas-spinoff-karla-souza-1236753071",
-    "published_at": "2026-11-11T18:37:03+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "be777ffdbd80f8d2956f",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Geese’s Soaring Live Show Lives Up to the Hype, With Fearless Improvisations and Boundless Energy: Concert Review",
-    "url": "https://variety.com/2026/music/reviews/geese-concert-review-getting-killed-again-tour-1236942994",
-    "published_at": "2026-11-11T18:35:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "73ea8b08eec92cd77752",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Today’s Top Deals: Kirby and the Forgotten Land for Switch 2, Apple AirTags, and LEGO Santa Minifigure",
-    "url": "https://www.ign.com/articles/best-deals-for-november-11-2026",
-    "published_at": "2026-11-11T18:35:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "01d5242b8e5f8e997d71",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Fans slam Katseye management as girl group member performs seated in chair on stage amid recovery from concussion",
-    "url": "https://ew.com/katseye-member-megan-skiendiel-performs-in-chair-concussion-recovery-12249141",
-    "published_at": "2026-11-11T18:34:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "16286d2eccd0859c30e1",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "‘We waited 15 years for this’: Skyrim’s anniversary overshadowed by players hoping for more Sentinel info",
-    "url": "https://www.videogameschronicle.com/news/we-waited-15-years-for-this-skyrims-anniversary-overshadowed-by-players-hoping-for-more-sentinel-info",
-    "published_at": "2026-11-11T18:32:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "875f858ba4597161fac9",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Players Say World Of Warcraft: Forever’s PvP Realms Are Super Lopsided Right Now, And Blizzard Is Finally Stepping In",
-    "url": "https://kotaku.com/world-of-warcraft-forevers-pvp-realms-are-super-imbalanced-and-blizzard-is-finally-stepping-in-2000755911",
-    "published_at": "2026-11-11T18:30:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "15e14111ca58689c3ba2",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "‘Stick’ Season 2 Stars Rhea Seehorn & Owen Wilson Hint At “Rabbit Hole” Of Coach Amanda And Pryce’s History",
-    "url": "https://deadline.com/2026/11/stick-season-2-rhea-seehorn-owen-wilson-interview-amanda-1237220524",
-    "published_at": "2026-11-11T18:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "829b0e2c03e5ec54fd58",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Every “Rings of Power” character who also appears in Peter Jackson’s “Lord of the Rings” trilogy",
-    "url": "https://ew.com/rings-of-power-characters-in-lotr-movies-12247900",
-    "published_at": "2026-11-11T18:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1854fceb5bedc2e9f836",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "‘LOTR: Rings of Power’ Season 3 Explained: What Happened to the Blue Wizards?",
-    "url": "https://www.thewrap.com/creative-content/tv-shows/lotr-rings-of-power-season-3-episode-3-blue-wizards-pallando-explained",
-    "published_at": "2026-11-11T18:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "42915f339fbd66697e41",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How does Camping work in WoW Forever? (Camp Buffs, Cozy Sleeping Bag explained)",
-    "url": "https://www.destructoid.com/how-does-camping-work-in-wow-forever-camp-buffs-cozy-sleeping-bag-explained",
-    "published_at": "2026-11-11T18:26:19+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "45342f4829a4844dfda6",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Gal Gadot Producing With Eye To Star In Adaptation Of Bianna Golodryga & Yonit Levi’s Book ‘Don’t Feed The Lion’ In Works At Fox Entertainment Studios",
-    "url": "https://deadline.com/2026/11/gal-gadot-bianna-golodryga-yonit-levi-dont-feed-the-lion-1237220055",
-    "published_at": "2026-11-11T18:25:07+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "71e31b6feba5aa66a232",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "FKA Twigs Becomes Josephine Baker: Inside the Lavish, Globe-Spanning Biopic from Maimouna Doucouré and Studiocanal (EXCLUSIVE)",
-    "url": "https://variety.com/2026/film/news/fka-twigs-josephine-baker-maimouna-doucoure-1236944739",
-    "published_at": "2026-11-11T18:20:33+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "70e1d54c4b2bd679f3ab",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Lanterns Season 1 Is Up for Preorder on 4K UHD and Blu-ray",
-    "url": "https://www.ign.com/articles/lanterns-season-1-is-up-for-preorder-on-4k-uhd-and-blu-ray",
-    "published_at": "2026-11-11T18:18:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "96432bc5f582a1d0053f",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "GTA 6 might be censored in Japan, if the game's smaller install size and lack of \"strong sexual content\" warning is anything to go by",
-    "url": "https://www.eurogamer.net/gta-6-censored-japan-smaller-install-size",
-    "published_at": "2026-11-11T18:17:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "59ccc22ea13a3ad8f20b",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "‘Grey’s Anatomy’ Texas Spinoff Finds Lead in Karla Souza",
-    "url": "https://www.thewrap.com/industry-news/casting/greys-anatomy-texas-spinoff-casts-karla-souza-lead",
-    "published_at": "2026-11-11T18:16:28+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82d6c87fdeafd9556eff",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Variety‘s Business Managers Elite Report: Top Guns Build Relationships and Expertise With a Personal Touch",
-    "url": "https://variety.com/lists/varietys-business-managers-elite-report-2026",
-    "published_at": "2026-11-11T18:15:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "eb016ec4e2a1e5473829",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Irma P. Hall, Actress in ‘Soul Food’ and ‘The Ladykillers,’ Dies at 91",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/irma-p-hall-dead-soul-food-ladykillers-1236753066",
-    "published_at": "2026-11-11T18:13:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ef973c7ee48269254796",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio that isn't \"subject to investor demands\"",
-    "url": "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands",
-    "published_at": "2026-11-11T18:08:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bae2780028989656f58f",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Pete Davidson Teases Future Tattoos After “Brutal” Removal Process",
-    "url": "https://www.eonline.com/news/1438020/pete-davidson-details-tattoo-removal-in-new-interview?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-11T18:05:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "681141a8731c84c36252",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "FC 27 November FUT Developer Patch Notes",
-    "url": "https://www.destructoid.com/fc-27-november-fut-developer-patch-notes",
-    "published_at": "2026-11-11T18:02:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "233aeb6e95b9e8293b14",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "“The Nanny” cast recalls Cloris Leachman peeing in a bucket on set",
-    "url": "https://ew.com/cloris-leachman-peed-in-unusual-place-filming-the-nanny-12200937",
-    "published_at": "2026-11-11T18:01:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e3b6254068a2e3fd4933",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Roguelite action RPG Conan: The Black Pyramid announced for PC",
-    "url": "https://www.gematsu.com/2026/11/roguelite-action-rpg-conan-the-black-pyramid-announced-for-pc",
-    "published_at": "2026-11-11T18:00:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "fb2c6460fefc7872c21c",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "‘The View’ Hosts Rib Joy Behar on Old Photo of Her Dad: ‘He Looks Like a Brother, I’m Just Saying’",
-    "url": "https://www.thewrap.com/creative-content/tv-shows/the-view-hosts-rib-joy-behar-dad-race",
-    "published_at": "2026-11-11T18:00:39+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5edd8899489e30a8cc9b",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "This Modern Take On A Classic Dungeon Crawler Is Making Me Feel Just So Happy",
-    "url": "https://kotaku.com/dungeon-crawler-blobber-underkeep-dungeon-master-wizardry-indie-pc-2000755889",
-    "published_at": "2026-11-11T18:00:16+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0cda55ab1682dc393fa1",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "Meet the Y2K Playlist of Your Dreams With Netflix’s ‘The Body’",
-    "url": "https://www.thewrap.com/creative-content/tv-shows/netflix-the-body-season-1-soundtrack-songs",
-    "published_at": "2026-11-11T18:00:00+00:00",
     "status": "candidate"
   }
 ]
