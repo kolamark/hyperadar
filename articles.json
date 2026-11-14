@@ -3,6 +3,80 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "Ingyenes Firefight mód érkezik a Halo: Campaign Evolved játékhoz télen",
+      "excerpt": "Az Xbox hivatalosan is bejelentette, hogy a Halo: Campaign Evolvedhez ingyenesen elérhetővé válik a négyfős kooperatív Firefight mód még ebben a télben. A rajongók decemberben, a Halo Fest rendezvényen először kipróbálhatják az új játéklehetőséget.",
+      "body": [
+        "Az Xbox Game Studios és a Halo Studios bejelentette, hogy ingyenesen frissítik a nemrég megjelent Halo: Campaign Evolved játékot, amelyben megjelenik a sorozat kedvelt Firefight módja, amelyben négy játékos szövetkezve küzdhet a hullámokban érkező ellenfelek ellen.",
+        "A Firefight módot a télen várhatjuk, és a Halo Fest decemberi eseményén a résztvevők az elsők között próbálhatják ki az új játékmódot."
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/halo-campaign-evolveds-next-big-update-will-add-a-free-horde-mode-2000756326"
+        }
+      ],
+      "published_at": "2026-11-14T01:29:26.451427Z",
+      "claims": [
+        {
+          "text": "Az Xbox Game Studios és a Halo Studios bejelentette, hogy ingyenesen frissítik a nemrég megjelent Halo: Campaign Evolved játékot, amelyben megjelenik a sorozat kedvelt Firefight módja, amelyben négy játékos szövetkezve küzdhet a hullámokban érkező ellenfelek ellen.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
+              "quote": "Last night, Xbox Game Studios and Halo Studios have announced a free update for the recently-released Halo: Campaign Evolved, which promises to add the four-player co-operative PvE mode,"
+            },
+            {
+              "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
+              "quote": "Evolved in a free update.\""
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update",
+              "quote": "Halo: Campaign Evolved is getting Firefight in a free update"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update",
+              "quote": "Xbox is adding Firefight mode to Halo: Campaign Evolved in a free update this winter."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update",
+              "quote": "Firefight has appeared in several Halo games and will come to Halo: Campaign Evolved as a 4-player PvE mode. There’s no release date just yet, but Xbox FanFest attendees will be able to play"
+            }
+          ]
+        },
+        {
+          "text": "A Firefight módot a télen várhatjuk, és a Halo Fest decemberi eseményén a résztvevők az elsők között próbálhatják ki az új játékmódot.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/halo-campaign-evovled-firefight-mode",
+              "quote": "Fest - due to run from 12th to 13hth December in Seattle, Washington. My money would be on a release around then, therefore."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update",
+              "quote": "Firefight has appeared in several Halo games and will come to Halo: Campaign Evolved as a 4-player PvE mode. There’s no release date just yet, but Xbox FanFest attendees will be able to play"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/halo-campaign-evolved-is-getting-firefight-in-a-free-update",
+              "quote": "We’re told that more details about this Firefight update will come during Halo Fest, which is set to take place from December 12 – 13. Until then, all we know is that the update will be free"
+            },
+            {
+              "url": "https://kotaku.com/halo-campaign-evolveds-next-big-update-will-add-a-free-horde-mode-2000756326",
+              "quote": "On November 12, Xbox announced via its official website that Firefight is being added to the remake as part of a free update planned to arrive this winter. Folks going to Halo Fest in"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "A The Legend of Zelda: Ocarina of Time remake sikeres debütálása a Switch 2 platformon",
       "excerpt": "A The Legend of Zelda: Ocarina of Time remake rendkívüli sikert aratott, a Nintendo közlése szerint négy nap alatt több mint 5,2 millió példány talált gazdára, ezzel a Switch 2 leggyorsabban eladott játéka lett.",
       "body": [
