@@ -3,6 +3,147 @@
     {
       "status": "published",
       "category": "bulvar",
+      "title": "Bowen Yang meglepetésszerűen tért vissza az SNL-be, musical paródiával",
+      "excerpt": "Bowen Yang visszatért a Saturday Night Live műsorába, ahol Jensen Huang és Mary Todd Lincoln szerepében is feltűnt. Az előadások között egy MTA témájú humoros zenés jelenetet is bemutatott.",
+      "body": [
+        "Bowen Yang a SNL egyik epizódjában Jensen Huangként jelent meg a hideg nyitányban, ahol John Mulaney és több más szereplő társaságában viccelődött a technológiai milliárdosokkal és aktuális eseményekkel kapcsolatban.",
+        "Később Yang Mary Todd Lincolnt alakította egy zenés paródia jelenetben, amelyben az MTA-ról énekelt a Dreamgirls című musical dalának átirataként, miközben a Cole Escola-féle Oh Mary! Broadway-musical főszerepét is játsza, melyet a népszerűség miatt meghosszabbítottak 2027 januárjáig."
+      ],
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/bowen-yang-oh-mary-snl-musical-sketch-1237224406"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542"
+        }
+      ],
+      "published_at": "2026-11-16T23:46:20.027343Z",
+      "claims": [
+        {
+          "text": "Bowen Yang meglepetésszerűen jelent meg a Saturday Night Live-ban, Jensen Huang szerepében a hideg nyitányban.",
+          "evidence": [
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542",
+              "quote": "Bowen Yang made a surprise appearance on Saturday Night Live to portray former Nvidia CEO Jensen Huang to warn a group of tech billionaires about how to decipher between “a woman who would"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542",
+              "quote": "over to someone who learned this lesson the hard way,” Mulaney said, as the former SNL star then entered the scene."
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542",
+              "quote": "“It’s me! Jensen ‘hide your wife’ Huang!” Yang said. “When you invite Jensen over, you know it’s about to go down.”"
+            }
+          ]
+        },
+        {
+          "text": "Yang Mary Todd Lincolnként is szerepelt egy zenés paródiában az SNL-ben, amely az MTA-ról szólt.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/bowen-yang-oh-mary-snl-musical-sketch-1237224406",
+              "quote": "On Saturday, the Tony nominee made a surprise appearance as Mary Todd Lincoln in the musical sketch “The Little Park of Horrors,” performing a parody of the Dreamgirls song “And I’m Telling"
+            },
+            {
+              "url": "https://deadline.com/2026/11/bowen-yang-oh-mary-snl-musical-sketch-1237224406",
+              "quote": "You I’m Not Going” about the MTA."
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542",
+              "quote": "Later in the Dec. 14 episode, Yang also appeared in a sketch as Mary Todd Lincoln, the role he began performing on Broadway this September in Oh, Mary! He sang a spoof of “And I Am Telling"
+            }
+          ]
+        },
+        {
+          "text": "Bowen Yang a Broadway-n játszik a Oh Mary! című musicalben, amelyet 2027. január 17-ig meghosszabbítottak.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/bowen-yang-oh-mary-snl-musical-sketch-1237224406",
+              "quote": "Yang, who played Jensen Huang in the cold open, returned amid his stint in Cole Escola’s Oh Mary!, which has been extended to Jan. 17, 2027, due to popular demand."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
+      "title": "A Microsoft Project Helix: egy konzol, amely képes PC-játékokat is futtatni",
+      "excerpt": "A Microsoft következő generációs Xbox konzolja, a Project Helix, konzolként működik, de képes a PC-játékok futtatására is, így eltörli a korábbi határokat a konzolok és a PC-k között.",
+      "body": [
+        "A Microsoft következő generációs Xbox konzolja, a Project Helix, konzolként működik, de képes a PC-játékok futtatására is, így eltörli a korábbi határokat a konzolok és a PC-k között.",
+        "A fejlesztés fő iránya nem a nyers számítógépes teljesítmény növelése, hanem az AI-közeli neurális renderelés alkalmazása, amellyel hatékonyabb és innovatívabb vizuális élmény érhető el, és a jövő új típusú játékai válhatnak lehetővé."
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405"
+        }
+      ],
+      "published_at": "2026-11-16T23:46:12.578519Z",
+      "claims": [
+        {
+          "text": "A Microsoft szerint a Project Helix konzol, amely képes PC-játékokat is futtatni, de nem PC.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+              "quote": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time"
+            },
+            {
+              "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+              "quote": "Microsoft has stressed that its next-generation Xbox console, Project Helix, \"is not a PC that can also play console games\", but rather \"a console that is also capable of playing games from"
+            },
+            {
+              "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+              "quote": "\"We're very clear on the design goal,\" Ronald later added. \"Helix is designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console"
+            },
+            {
+              "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
+              "quote": "accessible to me. I’m able to bring four generations of my Xbox library and progression with me and have it available instantly,” adding, “We’re very clear on the design goal: Helix is"
+            },
+            {
+              "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
+              "quote": "designed to be a console that is also capable of playing games from your PC. It is not a PC that can also play console games.”"
+            }
+          ]
+        },
+        {
+          "text": "A Helix fejlesztésekor nem a maximális számítógépes erejére, hanem az AI-alapú neurális renderelés technológiájának alkalmazására fókuszálnak.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+              "quote": "Notably, Ronald seemed to suggest that Helix - the console, not the handheld; \"Helix\" refers to a couple of machines - isn't solely focused on computational grunt. Indeed, he said the next"
+            },
+            {
+              "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+              "quote": "generation wasn't about hitting 8K resolutions and 240 hertz frame-rates, but instead leaning on technologies like \"neural rendering\" - i.e. generative-AI - and encouraging innovation."
+            },
+            {
+              "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+              "quote": "\"It's about deeper immersion,\" Ronald said. \"It is about leveraging new technical advancements such as neural rendering to deliver a new level of visual fidelity in more efficient and"
+            },
+            {
+              "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
+              "quote": "Other comments from Ronald include that “We don’t think the next generation is defined by 8K or 240 hertz, or some of the traditional metrics—it’s really about gameplay innovation.” He adds,"
+            },
+            {
+              "url": "https://kotaku.com/project-helix-next-xbox-microsoft-pc-asha-sharma-series-s-x-2000757405",
+              "quote": "“It is about leveraging new technical advancements such as neural rendering, to deliver a new level of visual fidelity in more efficient and innovative ways.” Which all rather seems to be"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
       "title": "Chris Pratt szívesen forgatna egy negyedik Őrzők a Galaxis-filmre James Gunn-nal",
       "excerpt": "Chris Pratt nyitott arra, hogy a James Gunn-nal készített Őrzők a Galaxis-sorozat negyedik részében is szerepeljen, miután Gunn távozott a DC Studios vezetőségéből. Az alkotók további együttműködésére vonatkozó reményeket fogalmazott meg.",
       "body": [
