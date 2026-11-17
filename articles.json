@@ -2,6 +2,169 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "Star Wars Galactic Racer megkapja a helyi megosztásos többjátékos módot és egy új Free Play játékmódot 2027 elején",
+      "excerpt": "A Star Wars Galactic Racer következő év elején ingyenes frissítéssel bővül, amely helyi megosztásos többjátékos módot és Free Play játékmódot hoz. Az új módok lehetővé teszik a testreszabást és akár négy játékos számára a helyi versenyzést.",
+      "body": [
+        "A Star Wars Galactic Racer autóverseny játék 2027 elején kap egy ingyenes frissítést, amely helyi megosztásos többjátékos módot és egy új Free Play módot vezet be. Az új lehetőségben akár négy játékos ülhet a kanapé mellett, versenyezve egymás ellen, miközben választanak járművet, karaktert, bolygót és pályát.",
+        "A Free Play mód egy egyszerűbb, ellenben teljes szabadságot adó versenyzést tesz lehetővé, visszatérve az arcade versenyjátékok gyökereihez."
+      ],
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode"
+        },
+        {
+          "name": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space"
+        }
+      ],
+      "published_at": "2026-11-17T14:35:34.004217Z",
+      "claims": [
+        {
+          "text": "A Star Wars Galactic Racer autóverseny játék 2027 elején kap egy ingyenes frissítést, amely helyi megosztásos többjátékos módot és egy új Free Play módot vezet be.",
+          "evidence": [
+            {
+              "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode",
+              "quote": "As posted on the official Star Wars Galactic Racer account on X, the game is set to get a new local split-screen multiplayer mode."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode",
+              "quote": "It will also get a new Free Play mode, which gives players more customisation options when setting up a single race."
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+              "quote": "Fuse Games sees that light too, with Star Wars: Galactic Racer set to be updated to add local splitscreen multiplayer sometime early next year."
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+              "quote": "This new mode, Free Play, not only allows for local multiplayer of up to four players (with either humans or CPUs racing together), but also for complete freedom of choice in vehicle,"
+            }
+          ]
+        },
+        {
+          "text": "Az új lehetőségben akár négy játékos ülhet a kanapé mellett, versenyezve egymás ellen, miközben választanak járművet, karaktert, bolygót és pályát.",
+          "evidence": [
+            {
+              "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode",
+              "quote": "“This new mode will allow you to choose your vehicle, character, planet, and race track to race alone or with up to 3 other players in local split-screen action.”"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+              "quote": "This new mode, Free Play, not only allows for local multiplayer of up to four players (with either humans or CPUs racing together), but also for complete freedom of choice in vehicle,"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/star-wars-galactic-racer-is-getting-split-screen-multiplayer-and-a-new-free-play-mode",
+              "quote": "“This new mode will allow you to choose your vehicle, character, planet, and race track to race alone or with up to 3 other players in local split-screen action.”"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+              "quote": "This new mode, Free Play, not only allows for local multiplayer of up to four players (with either humans or CPUs racing together), but also for complete freedom of choice in vehicle,"
+            }
+          ]
+        },
+        {
+          "text": "A Free Play mód egy egyszerűbb, ellenben teljes szabadságot adó versenyzést tesz lehetővé, visszatérve az arcade versenyjátékok gyökereihez.",
+          "evidence": [
+            {
+              "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+              "quote": "This new mode, Free Play, not only allows for local multiplayer of up to four players (with either humans or CPUs racing together), but also for complete freedom of choice in vehicle,"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/star-wars-galactic-racer-will-get-local-split-screen-multiplayer-in-early-2027-with-new-free-play-mode-finally-letting-racers-yell-at-one-another-in-a-tangible-space",
+              "quote": "This new mode, Free Play, not only allows for local multiplayer of up to four players (with either humans or CPUs racing together), but also for complete freedom of choice in vehicle,"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "Robert Pattinsont váltották James Bond szerepére, vegyes visszhangokkal",
+      "excerpt": "Robert Pattinsont választották meg az új James Bondnak, akik korábban Batman szerepében is láthatták. A döntés megosztotta a közönséget és a szakértőket egyaránt.",
+      "body": [
+        "Robert Pattinsont jelölték ki az új James Bond szerepére, amivel a franchise történetében ő lesz az első 007-es az Amazon MGM Studios irányítása alatt. A színész a Batman filmek után kapja meg a lehetőséget, amire korábban 2012-ben is kifejezte érdeklődését.",
+        "A casting-ot vegyesen fogadták: Jon Stewart nevettető tréfás kritikát fogalmazott meg, míg az iparági szakértők között voltak akik elismerően nyilatkoztak Pattinsonról, mások azonban kételkednek abban, hogy képes lesz eltávolodni Batman megítélésétől és hiteles James Bond karaktert formálni."
+      ],
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-robert-pattinson-james-bond-casting"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282"
+        }
+      ],
+      "published_at": "2026-11-17T14:35:24.827660Z",
+      "claims": [
+        {
+          "text": "Robert Pattinsont választották meg az új James Bond szerepére az Amazon MGM Studios franchise-jában, Denis Villeneuve rendezésében.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282",
+              "quote": "It turns out Pattinson only needed 14 years to agree to sign on as the new James Bond, taking over the franchise after Daniel Craig’s exit in “No Time to Die.” Pattinson will be the first"
+            },
+            {
+              "url": "https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282",
+              "quote": "talent, but there can only be one 007. I am overjoyed to welcome Robert Pattinson as our new James Bond. He has the timeless soul of 007 and brings a spirit that is completely new. I cannot"
+            }
+          ]
+        },
+        {
+          "text": "Jon Stewart megjegyezte, hogy Pattinson már Batman szerepét játszotta, és ez talán elég lenne számára.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-robert-pattinson-james-bond-casting",
+              "quote": "“Long story short, they ended up giving the role to Robert f–king Pattinson,” Stewart declared. “Pattinson! You already got Batman. Enough’s enough.”"
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-robert-pattinson-james-bond-casting",
+              "quote": "Stewart then did his best impression of Pattinson’s Batman doing James Bond, quipping with a gruff voice and squinted eyes: “I’m Bond. James Bond.”"
+            }
+          ]
+        },
+        {
+          "text": "Baz Bamigboye kritikája kétkezi munkába helyezte Pattinson castingját, megkérdőjelezve az új Bond karakter hitelességét és freskóságát.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666",
+              "quote": "Pattinson had been officially cast to play Ian Fleming’s James Bond in the 007 reboot that Denis Villeneuve is in pre-production to direct."
+            },
+            {
+              "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666",
+              "quote": "Crusader, but I feel Batman baggage will color how we see him as Bond."
+            },
+            {
+              "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666",
+              "quote": "See, while I agree with much of what they said, I’m kinda shaken but not at all stirred by Pattinson’s casting."
+            }
+          ]
+        },
+        {
+          "text": "Robert Pattinson 2012-ben már kifejezte, hogy a jövőben, körülbelül 20 év múlva szívesen alakítaná James Bondot.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282",
+              "quote": "Robert Pattinson Said in 2012 That He’d ‘Definitely’ Want to Be James Bond in ‘Like 20 Years’ When He’s Not So ‘Fresh-Faced’"
+            },
+            {
+              "url": "https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282",
+              "quote": "“Yeah definitely, but more like 20 years,” Pattinson answered at the time. “I think there’d be nothing worse than, like, ‘Let’s get a fresh-faced Bond!’ That would be the worst idea in the"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Bowen Yang meglepetésszerűen tért vissza az SNL-be, musical paródiával",
       "excerpt": "Bowen Yang visszatért a Saturday Night Live műsorába, ahol Jensen Huang és Mary Todd Lincoln szerepében is feltűnt. Az előadások között egy MTA témájú humoros zenés jelenetet is bemutatott.",
