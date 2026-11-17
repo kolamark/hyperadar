@@ -3,6 +3,95 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "A Zelda: Ocarina of Time remake fizikai példányszámban vezeti az amerikai eladásokat 2026-ban",
+      "excerpt": "Az amerikai piacon a The Legend of Zelda: Ocarina of Time remake fizikai példányszámban a legjobban fogyó játék idén, első hetében átlépte az egymillió eladott példányt. Ez az elmúlt három év legjobb nyitóheti fizikai eladási mutatója az USA-ban.",
+      "body": [
+        "A The Legend of Zelda: Ocarina of Time Switch 2 remake az USA-ban 2026-ban a legjobban fogyó fizikai játék lett, első hetében több mint egymillió példány talált gazdára. Ez volt az első játék három év alatt az amerikai piacon, amelynek sikerült eladni egymillió fizikai példányt a premier hetében.",
+        "Noha a játék jelenleg vezeti a fizikai eladási listát, a közelgő Grand Theft Auto 6 megjelenése valószínűleg átveszi ezt a pozíciót, mivel a dobozos kiadásokban digitális letöltőkód lesz, amit a mérések fizikai eladásnak számítanak. A Zelda remake azonban így is nagyon sikeres, hiszen a világon első négy nap alatt 5,2 millió példány kelt el fizikai és digitális formában összesen."
+      ],
+      "sources": [
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week"
+        }
+      ],
+      "published_at": "2026-11-17T22:58:10.596103Z",
+      "claims": [
+        {
+          "text": "A The Legend of Zelda: Ocarina of Time remake több mint 1 millió fizikai példányt adott el az USA-ban az első héten 2026-ban.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+              "quote": "The remake has sold more than 1m physical copies in the US alone in its launch week (ending 7th November). That's according to Circana analyst Mat Piscatella, who revealed on Bluesky that"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week",
+              "quote": "As reported by Circana senior director Mat Piscatella, the Ocarina of Time remake sold more than 1 million physical copies in the US in its first week on sale."
+            }
+          ]
+        },
+        {
+          "text": "Ez az első játék az elmúlt három évben az USA-ban, amelyik elérte az egymillió fizikai példányszámot az első héten, a Tears of the Kingdom volt legutóbb ilyen.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+              "quote": "the record also makes it the first title to surpass 1m physical sales since 2023's Tears of the Kingdom. That is, no other game - from any publisher - has managed to sell over 1m copies in"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week",
+              "quote": "Piscatella also notes that it was the first game to sell 1 million physical copies in a US launch week since the last major Zelda release, The Legend of Zelda: Tears of the Kingdom, was"
+            }
+          ]
+        },
+        {
+          "text": "A játék a 2026-os év legjobban fogyó fizikai játéka az USA-ban az első heti eladások alapján.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+              "quote": "The Legend of Zelda: Ocarina of Time on Switch 2 is the US' best-selling physical game so far this year"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week",
+              "quote": "The Legend of Zelda: Ocarina of Time remake has become the best-selling physical game in the US this year, after just its first week on sale."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week",
+              "quote": "This made it the best-selling physical game of the year in the US so far, with no other physical release managing to cumulatively sell all year what Ocarina managed in one week."
+            }
+          ]
+        },
+        {
+          "text": "A Grand Theft Auto 6 dobozos verziói letöltőkódot tartalmaznak, de ezeket a megfigyelési adatok fizikai eladásként számolják.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/the-legend-of-zelda-ocarina-of-time-remake-physical-sales-us-1-million",
+              "quote": "Ocarina of Time's lead of this particular segment likely won't continue, however. That's because, as Piscatella pointed out in a follow-up post, Circana's tracking considers disc-less,"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week",
+              "quote": "While much has been said about the fact that GTA 6’s physical copies will not contain a disc and will instead contain a download code in a box, Piscatella has confirmed that when it comes to"
+            }
+          ]
+        },
+        {
+          "text": "A Zelda remake az első négy napban 5,2 millió példányt adott el összesen digitális és fizikai formában világszerte.",
+          "evidence": [
+            {
+              "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week",
+              "quote": "Nintendo announced last week that the Ocarina of Time remake sold 5.2 million units – including both physical and digital sales – in its first four days worldwide."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "Star Wars Galactic Racer megkapja a helyi megosztásos többjátékos módot és egy új Free Play játékmódot 2027 elején",
       "excerpt": "A Star Wars Galactic Racer következő év elején ingyenes frissítéssel bővül, amely helyi megosztásos többjátékos módot és Free Play játékmódot hoz. Az új módok lehetővé teszik a testreszabást és akár négy játékos számára a helyi versenyzést.",
       "body": [
