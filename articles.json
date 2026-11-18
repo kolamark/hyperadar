@@ -3,6 +3,68 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "Grand Theft Auto 6 megérkezett: hatalmas világ, mély történet és játékosok által imádott nyitott világ",
+      "excerpt": "A Grand Theft Auto 6 a sorozat eddigi legnagyobb és legátfogóbb alkotása, amely a játékosokat a Leonida államon átvezetve rengeteg küldetést és gyűjthető tárgyat kínál.",
+      "body": [
+        "A Grand Theft Auto 6 a sorozat eddigi legnagyobb és legátfogóbb alkotása, amely a játékosokat a Leonida államon átvezetve rengeteg küldetést és gyűjthető tárgyat kínál.",
+        "A kritikusok szerint a játék vizuálisan és tartalmában is kimagasló, a történet Jason és Lucia között egy érzelmekkel teli, interaktív szerelem, amelyben a játékosok döntései is számítanak."
+      ],
+      "sources": [
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-6-includes-a-joke-about-gta-7-2000755921"
+        }
+      ],
+      "published_at": "2026-11-18T14:11:50.235093Z",
+      "claims": [
+        {
+          "text": "A Grand Theft Auto 6 a sorozat legnagyobb játéka, amely rengeteg küldetést és gyűjthető tárgyat tartalmaz a Leonida államon átvezetve.",
+          "evidence": [
+            {
+              "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub",
+              "quote": "Grand Theft Auto 6 is finally here, and it’s easily one of the largest video games ever created."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub",
+              "quote": "Here you’ll find our mission by mission walkthrough of GTA 6. We’ll be updating this as players get the chance to play through the game over the next week and beyond. All of our mission"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub",
+              "quote": "In this section of our guide, we’ll list every collectible in GTA 6. There are literally hundreds of collectible cards, magazines, art pieces and much more scattered across the game, so this"
+            }
+          ]
+        },
+        {
+          "text": "A kritikusok dicsérik a játék részletességét, az interaktív történetet és a karakterek közti kapcsolat mélységét, amely a játék egyik központi eleme.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds",
+              "quote": "GameSpot's Tamoor Hussain paints a picture of Leonida that overflows with detail, calling it \"a game of staggering scope and scale obsessed with small details that could be lost in its"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds",
+              "quote": "protagonists Jason Duval and Lucia Caminos—\"This is a game about love and relationships, their joy and heartache, and the work required to make them successful\", he writes, noting that"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds",
+              "quote": "Giant Bomb (shoutout to Charlie Tunoku) joins in with the hosannahs for GTA 6, describing it as one of those games that feels like a step up for the medium as a whole. \"Grand Theft Auto VI"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "A Zelda: Ocarina of Time remake fizikai példányszámban vezeti az amerikai eladásokat 2026-ban",
       "excerpt": "Az amerikai piacon a The Legend of Zelda: Ocarina of Time remake fizikai példányszámban a legjobban fogyó játék idén, első hetében átlépte az egymillió eladott példányt. Ez az elmúlt három év legjobb nyitóheti fizikai eladási mutatója az USA-ban.",
       "body": [
