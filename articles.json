@@ -2,6 +2,127 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Taylor Swift visszatért a CMA Awards színpadára újabb meglepetésekkel",
+      "excerpt": "Taylor Swift tíz év után tért vissza a CMA Awards-ra, ahol az új \"I Knew It, I Knew You\" és a régi \"Our Song\" című dalainak mash-upját adta elő. Fellépésében több utalás is volt a pályafutásának korai éveire és a debütáló album újrakiadására.",
+      "body": [
+        "Taylor Swift 2026. november 18-án adott elő egy medleyt a legújabb \"I Knew It, I Knew You\" című dalából valamint egyik első slágeréből, az \"Our Song-ból\" a CMA Awards színpadán, ezzel először lépett fel az eseményen tíz év után.",
+        "A fellépés előtt a háttérben Swift több ismert ruháját helyezték el, például a 2007-es legelső CMA-díjának évében viselt sárga báli ruhát, valamint ruhákat több más korai megjelenéséből."
+      ],
+      "sources": [
+        {
+          "name": "E! News",
+          "url": "https://www.eonline.com/news/1438244/taylor-swift-cma-awards-performance-debut-easter-eggs?cmpid=rss-syndicate-genericrss-us-top_stories"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/music/taylor-swift-cma-awards-performance-i-knew-it-i-knew-you-our-song"
+        }
+      ],
+      "published_at": "2026-11-19T22:42:22.602676Z",
+      "claims": [
+        {
+          "text": "Taylor Swift 2026. november 18-án adott elő egy medleyt a legújabb \"I Knew It, I Knew You\" című dalából valamint egyik első slágeréből, az \"Our Song-ból\" a CMA Awards színpadán, ezzel először lépett fel az eseményen tíz év után.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1438244/taylor-swift-cma-awards-performance-debut-easter-eggs?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Taylor Swift made her return to the CMA Awards Nov. 18 after 10 years with a medley of “I Knew It, I Knew You” and “Our Song,” and her devoted fanbase has already found several Easter eggs."
+            }
+          ]
+        },
+        {
+          "text": "A fellépés előtt a háttérben Swift több ismert ruháját helyezték el, például a 2007-es legelső CMA-díjának évében viselt sárga báli ruhát, valamint ruhákat több más korai megjelenéséből.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1438244/taylor-swift-cma-awards-performance-debut-easter-eggs?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "The first clue fans noticed was dropped before Swift even started singing, as she began her performance in a backstage dressing room that was decorated with several familiar pieces of"
+            },
+            {
+              "url": "https://www.eonline.com/news/1438244/taylor-swift-cma-awards-performance-debut-easter-eggs?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "For one, there was the butter yellow ballgown she wore to the CMA Awards in 2007—the year she scored her very first win—that was strewn across the couch behind Swift. Then, hanging on a"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
+      "title": "Ubisoft 166 munkavállalót bocsát el montreali és québeci stúdióiban",
+      "excerpt": "Az Ubisoft bejelentette, hogy 166 dolgozótól válik meg kanadai stúdióiban, Montréalban és Québecben. Az érintett munkatársak főként olyan projekteken dolgoztak, amelyeket töröltek vagy jelentősen átalakítottak.",
+      "body": [
+        "Az Ubisoft különösen fontos montreali és québeci stúdióiban összesen 166 munkavállalót bocsát el. Az elbocsátások a stúdiók kevesebb mint 4%-át érintik, és főként azokra a projektekre vonatkoznak, amelyeket megszüntettek vagy jelentősen megváltoztattak.",
+        "Az Ubisoft közleménye szerint a munkaerő-csökkentés az aktuális termelési prioritások és üzleti igényekhez igazodik, az érintett alkalmazottaknak végkielégítést, kiterjesztett egészségügyi ellátást és karrierátmeneti támogatást biztosítanak."
+      ],
+      "sources": [
+        {
+          "name": "Nintendo Life",
+          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios"
+        },
+        {
+          "name": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs"
+        }
+      ],
+      "published_at": "2026-11-19T22:42:14.026413Z",
+      "claims": [
+        {
+          "text": "Az Ubisoft 166 munkavállalót bocsát el montreali és québeci irodáiban.",
+          "evidence": [
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+              "quote": "Ubisoft has confirmed that it is laying off a total of 166 members of staff from its Canadian offices."
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+              "quote": "Ubisoft have laid off 166 developers, with this latest round of cuts at the Assassin's Creed and Far Cry publishers taking place at two of their studios in Eastern Canada. Both studios"
+            }
+          ]
+        },
+        {
+          "text": "Az elbocsátások a stúdiók kevesebb mint 4%-át érintik, és főként törölt vagy jelentősen átalakított projekteken dolgozókat érintenek.",
+          "evidence": [
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+              "quote": "GamesIndustry.biz states that the layoffs account for less than 4% of the total workforce at the studios, and that the employees affected were working on projects that had either been"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+              "quote": "Both IGN and GamesIndustry.biz report that the cuts, which amount to just under 4% studios' total combined headcount, affected staff working on recently cancelled or significantly changed"
+            }
+          ]
+        },
+        {
+          "text": "Az Ubisoft közleménye szerint a munkaerő-csökkentés a termelési prioritásokhoz és üzleti igényekhez igazodik, és támogatást nyújtanak az érintetteknek.",
+          "evidence": [
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+              "quote": "\"Ubisoft is reducing its workforce by 166 positions across its Montréal and Québec City operations. As our portfolio evolves, our production needs are changing, requiring us to adjust the"
+            },
+            {
+              "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+              "quote": "\"We deeply value the contributions of these teams and recognise the impact this may have on our colleagues. We are committed to supporting them through this process with care and respect."
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+              "quote": "\"Ubisoft is reducing its workforce by 166 positions across its Montréal and Québec City operations,\" Ubisoft said in a statement handed to both sites. \"As our portfolio evolves, our"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+              "quote": "\"We deeply value the contributions of these teams and recognise the impact this may have on our colleagues. We are committed to supporting them through this process with care and respect."
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+              "quote": "Those affected are being provided with severance, extended health care benefits, career transition services and other resources.\""
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Grand Theft Auto 6 megérkezett: hatalmas világ, mély történet és játékosok által imádott nyitott világ",
       "excerpt": "A Grand Theft Auto 6 a sorozat eddigi legnagyobb és legátfogóbb alkotása, amely a játékosokat a Leonida államon átvezetve rengeteg küldetést és gyűjthető tárgyat kínál.",
