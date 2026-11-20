@@ -2,6 +2,152 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "Christopher Nolan rendező 'The Odyssey' című filmje élénkítette az Assassin's Creed Odyssey játék eladásait",
+      "excerpt": "Az Ubisoft pénzügyi jelentése szerint Christopher Nolan 'The Odyssey' című filmje jelentősen hozzájárult az Assassin's Creed Odyssey című, ókori görög témájú játék eladásainak növekedéséhez.",
+      "body": [
+        "Az Ubisoft pénzügyi jelentése szerint Christopher Nolan 'The Odyssey' című filmje jelentősen hozzájárult az Assassin's Creed Odyssey című, ókori görög témájú játék eladásainak növekedéséhez.",
+        "A kiadó a film premierjére időzítve újra népszerűsítette a játékot, és megemlítette, hogy az Assassin's Creed sorozat az ez évi sikeres Black Flag Resynced kiadás mellett az Odyssey forgalomnövekedésével is számolhat."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/christopher-nolan-the-odyssey-boosts-assassins-creed-odyssey-sales"
+        },
+        {
+          "name": "VGC",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway"
+        }
+      ],
+      "published_at": "2026-11-20T14:07:15.482234Z",
+      "claims": [
+        {
+          "text": "Christopher Nolan 'The Odyssey' című filmje élénkítette az Assassin's Creed Odyssey játék eladásait 2018-ban.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/christopher-nolan-the-odyssey-boosts-assassins-creed-odyssey-sales",
+              "quote": "Christopher Nolan's The Odyssey sparked a fresh surge in back-catalog sales for 2018's Assassin's Creed Odyssey, Ubisoft has said."
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey",
+              "quote": "Assassin’s Creed Odyssey saw an increase in sales, thanks to Christopher Nolan’s The Odyssey"
+            }
+          ]
+        },
+        {
+          "text": "Az Ubisoft a film premierjére újrapromotálta az Assassin's Creed Odyssey játékot, ami hozzájárult a játék iránti megújult érdeklődéshez.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/christopher-nolan-the-odyssey-boosts-assassins-creed-odyssey-sales",
+              "quote": "Over the summer, Ubisoft re-promoted Assassin's Creed Odyssey alongside the launch of Nolan's film, inviting players to go start their own epic journey for themselves after returning home"
+            },
+            {
+              "url": "https://www.videogameschronicle.com/news/ubisoft-pins-strong-assassins-creed-sales-on-black-flag-resynced-and-nolans-odyssey",
+              "quote": "in interest in the setting. Ubisoft also used the film’s success to promote the game."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
+      "title": "GTA 6-ban Jason és Lucia testalkata és meztelensége korlátozottan jelenik meg",
+      "excerpt": "A GTA 6-ban Jason és Lucia testalkata változtatható az izomzat és a testsúly változtatásával, miközben a meztelenség csak bizonyos intim jelenetekben korlátozottan látható.",
+      "body": [
+        "A Grand Theft Auto 6-ban a játékos képes Jason, a főszereplő egyik fele testalkatát változtatni az izomzat és a zsírszint módosításával, így elérhető a kifejezetten edzett megjelenéstől a testesebb, \"apa test\" változatig. Lucia testalkata is változtatható, de nála a különbség kevésbé látványos.",
+        "A meztelenség a játékban csak bizonyos intim jelenetekben, például zuhanyzás vagy párkapcsolati pillanatok alatt jelenik meg, de a főszereplők nem mutatnak teljes meztelenséget, a játék elrejti az intim testrészeket. Utcán vagy nyilvánosan nem járhatnak pucéran a karakterek."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438"
+        }
+      ],
+      "published_at": "2026-11-20T14:07:08.994506Z",
+      "claims": [
+        {
+          "text": "Jason testalkata változtatható izom és testsúly szintje alapján, elérhető kifejezetten izmos vagy testesebb megjelenés is.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438",
+              "quote": "Jason, one half of the duo the player controls in the game, as an absolutely chiseled-to-the-gods gym goer, but if you want to get him off his training regimen, you can do that and see where"
+            },
+            {
+              "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438",
+              "quote": "it goes. Fans have already been testing the limits of the system in the game’s first day in the wild, and the way it accounts for both muscle mass and body fat means that there’s a pretty"
+            },
+            {
+              "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438",
+              "quote": "wide range of variations possible in terms of Jason’s physique."
+            },
+            {
+              "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438",
+              "quote": "By default, Jason starts out with “high” muscle and “low” body fat, but if you eat stuff that’s bad for you and don’t exercise to balance it out, those values will shift, and his character"
+            },
+            {
+              "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438",
+              "quote": "model will change. Twitter user @SirJosephWindsr has already tried maxing out both, and you can see the difference between a high-muscle and high–body fat build and a low-muscle and"
+            }
+          ]
+        },
+        {
+          "text": "Lucia testalkata is módosítható, de kevésbé látványosan.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/grand-theft-auto-6-weight-muscle-gain-fat-jason-lucia-2000758438",
+              "quote": "The same applies to Lucia, though I would say the difference between her default state and her max-weight state isn’t quite as drastic as Jason’s, though it is definitely still noticeable."
+            }
+          ]
+        },
+        {
+          "text": "A karakterek néha meztelenek lehetnek intim jelenetekben, például zuhanyzáskor vagy párkapcsolati szituációkban, de nem mutatnak teljes meztelenséget.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+              "quote": "Of course, showering should be done with no clothes on — unless you’re playing the Japanese version of Grand Theft Auto 6, that is — and you can scrub up both Jason and Lucia from a camera"
+            },
+            {
+              "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+              "quote": "spot of physical intimacy, whether that be in bed, in the shower, on the sofa, or other spots around the house. While, again, these scenes aren’t overly explicit with full frontal nudity"
+            },
+            {
+              "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+              "quote": "never on show, both can be naked, with topless scenes not uncommon. If nipples are what you’re seeking, you shall find them."
+            },
+            {
+              "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+              "quote": "So, can you see Jason and Lucia naked? Yes, and no. Intimate scenes often involve no clothes, but you’re never going to come close to watching a porn film here. That would just be odd."
+            }
+          ]
+        },
+        {
+          "text": "A játék nem engedi, hogy a főszereplők nyilvánosan teljesen meztelenek legyenek.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+              "quote": "Despite some wild and weird things available for you to find in GTA 6’s open world, it ultimately does want you to treat its leads as real humans, not complete freaks. Despite what some past"
+            },
+            {
+              "url": "https://www.ign.com/articles/can-jason-and-lucia-get-naked-in-gta-6",
+              "quote": "leaks may have suggested, you can’t roam the streets of Vice City completely nude for all the world to see. You are, however, free to do that in real life, but you will likely end up in"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Taylor Swift visszatért a CMA Awards színpadára újabb meglepetésekkel",
       "excerpt": "Taylor Swift tíz év után tért vissza a CMA Awards-ra, ahol az új \"I Knew It, I Knew You\" és a régi \"Our Song\" című dalainak mash-upját adta elő. Fellépésében több utalás is volt a pályafutásának korai éveire és a debütáló album újrakiadására.",
