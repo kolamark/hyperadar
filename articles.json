@@ -2,6 +2,80 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Macaulay Culkin visszatér a Reszkessetek, betörők! folytatásában",
+      "excerpt": "Macaulay Culkin 34 év után tér vissza az ikonikus Reszkessetek, betörők! filmsorozatba, ismét Kevin McCallister bőrébe bújva.",
+      "body": [
+        "Macaulay Culkin 34 év után tér vissza az ikonikus Reszkessetek, betörők! filmsorozatba, ismét Kevin McCallister bőrébe bújva. A folytatást a Disney 20th Century Studios fejleszti, és Seth Rogen valamint Evan Goldberg fogja írni és producerekként segíteni a munkát.",
+        "Culkin korábbi ötlete alapján a történet egy felnőtt Kevint mutat be, aki egyedül neveli gyermekét, ám a gyerek csapdákat állít neki, ezzel visszafordítva az eredeti film alapszituációját. A projekt még korai fejlesztési fázisban van, rendező nem került még megnevezésre."
+      ],
+      "sources": [
+        {
+          "name": "E! News",
+          "url": "https://www.eonline.com/news/1438291/macaulay-culkin-returning-for-home-alone-movie-seth-rogen-writing?cmpid=rss-syndicate-genericrss-us-top_stories"
+        },
+        {
+          "name": "Rolling Stone",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/home-alone-sequel-macauley-culkin-in-the-works-1235661841"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116"
+        }
+      ],
+      "published_at": "2026-11-20T22:15:55.024823Z",
+      "claims": [
+        {
+          "text": "Macaulay Culkin visszatér Kevin McCallister szerepében egy új Reszkessetek, betörők! folytatásban, amelyet Seth Rogen és Evan Goldberg ír és producerként is részt vesznek.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1438291/macaulay-culkin-returning-for-home-alone-movie-seth-rogen-writing?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "Macaulay Culkin will return to the Home Alone franchise after 34 years to star as Kevin McCallister in an upcoming sequel written by Seth Rogen and Evan Goldberg, per multiple outlets."
+            },
+            {
+              "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/home-alone-sequel-macauley-culkin-in-the-works-1235661841",
+              "quote": "Variety reports that Disney is developing a sequel to the Home Alone franchise, with Culkin collaborating on the script with Seth Rogen and Evan Goldberg. No other details were revealed, but"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116",
+              "quote": "Macaulay Culkin, who portrayed Kevin McCallister in the original 1990 film and its 1992 sequel, Home Alone 2: Lost in New York, is expected to reprise his role. Seth Rogen and Evan Goldberg,"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116",
+              "quote": "the longtime comedy duo behind Superbad, Pineapple Express, Neighbors, Sausage Party and The Studio, are writing and producing the film under their Point Grey banner. The duo is also working"
+            }
+          ]
+        },
+        {
+          "text": "Culkin ötlete szerint a sztori egy elvált vagy özvegy férfiről, felnőtt Kevinekről szól, akit saját gyermeke ejt csapdába, ezzel megfordítva a korábbi eseményeket.",
+          "evidence": [
+            {
+              "url": "https://www.eonline.com/news/1438291/macaulay-culkin-returning-for-home-alone-movie-seth-rogen-writing?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "“I like the idea that maybe Kevin’s older, that he’s like a widower or something like that,” the 46-year-old said during a 35th anniversary screening last year, per The Hollywood Reporter."
+            },
+            {
+              "url": "https://www.eonline.com/news/1438291/macaulay-culkin-returning-for-home-alone-movie-seth-rogen-writing?cmpid=rss-syndicate-genericrss-us-top_stories",
+              "quote": "In the second scenario, Culkin detailed that Kevin’s son would lock him out of the house and set up traps to keep his dad out."
+            },
+            {
+              "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/home-alone-sequel-macauley-culkin-in-the-works-1235661841",
+              "quote": "In November 2025, Culkin said he was open to reprising the Kevin McAllister role, albeit with a twist: In Culkin’s idea for the sequel, he would now be a father who’s locked out of his own"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116",
+              "quote": "he “wouldn’t be completely allergic” to returning as Kevin, provided the project was right. He also shared his idea for a potential sequel, which would see Kevin as a widowed or divorced"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116",
+              "quote": "father raising a child of his own. In his proposed story, Kevin would find himself locked out of his house, with his son setting traps to keep him out — reversing the original film’s"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Christopher Nolan rendező 'The Odyssey' című filmje élénkítette az Assassin's Creed Odyssey játék eladásait",
       "excerpt": "Az Ubisoft pénzügyi jelentése szerint Christopher Nolan 'The Odyssey' című filmje jelentősen hozzájárult az Assassin's Creed Odyssey című, ókori görög témájú játék eladásainak növekedéséhez.",
