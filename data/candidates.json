@@ -1,5 +1,437 @@
 [
   {
+    "id": "86565e4c606a4cbe1581",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album",
+    "url": "https://deadline.com/2026/11/hindia-vengeance-edwin-hindia-menari-dengan-bayangan-1237229855",
+    "published_at": "2026-11-21T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "978ea5c8634bbc8b882c",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "When does “The Murder of JonBenét Ramsey” premiere? Inside Netflix’s new series and the family’s reaction",
+    "url": "https://ew.com/the-murder-of-jonbenet-ramsey-netflix-release-date-cast-12260814",
+    "published_at": "2026-11-21T13:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cc96dcf8a2ca7dace26b",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
+    "url": "https://www.pcgamer.com/games/rpg/deltarune-chapter-6-is-structurally-complete-while-development-has-begun-on-chapter-7-according-to-toby-fox",
+    "published_at": "2026-11-21T13:09:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3b276874ddf5c70f5e84",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "These Are The 11 Best Romances BioWare Ever Made",
+    "url": "https://kotaku.com/bioware-best-11-romance-dragon-age-mass-effect-garrus-2000758976",
+    "published_at": "2026-11-21T13:00:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4956446a00925f277328",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "LEGO Insiders Weekend Is Live: Free Gifts with Purchase, Exclusive Discounts, and More",
+    "url": "https://www.ign.com/articles/lego-insiders-weekend-is-live-free-gifts-with-purchase-exclusive-discounts-and-more",
+    "published_at": "2026-11-21T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f8b154ec223dd180df49",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Hunger Games: Sunrise on the Reaping Ending Explained and the Cardinal Sin of Prequels",
+    "url": "https://www.ign.com/articles/the-hunger-games-sunrise-on-the-reaping-ending-explained-and-the-cardinal-sin-of-prequels",
+    "published_at": "2026-11-21T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "823a90623e065857d387",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Sabrina the Teenage Witch”’s Caroline Rhea was never Team Josh: ‘It felt like you were 35 and she was 20’",
+    "url": "https://ew.com/sabrina-teenage-witch-caroline-rhea-never-liked-josh-12241160",
+    "published_at": "2026-11-21T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "21f393bcc2b49a4800b0",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+    "url": "https://www.eurogamer.net/gta-6-first-non-binary-character-jesse-james-rose",
+    "published_at": "2026-11-21T12:50:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "feab95f3040ddd800b4c",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘The Blind Ferryman’ Director on Rejecting Western Stereotypes: ‘I Don’t Want to Make a Movie Asking for Sympathy’",
+    "url": "https://variety.com/2026/film/global/the-blind-ferryman-ali-toffan-al-fatlawi-cairo-1236954929",
+    "published_at": "2026-11-21T12:45:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "038149df2ab13cab87bf",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Obese Monkey Becomes a Weight-Loss Drug Guinea Pig in ‘Boltrim’ at India’s WAVES Film Bazaar",
+    "url": "https://variety.com/2026/film/markets-festivals/obese-monkey-weight-loss-drug-guinea-pig-boltrim-1236954925",
+    "published_at": "2026-11-21T12:32:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "508053f2ce1160107b6b",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+    "url": "https://www.ign.com/articles/gta-6-players-are-running-into-npcs-who-fight-back-so-hard-you-probably-should-just-leave-them-alone",
+    "published_at": "2026-11-21T12:17:40+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1163ceb17ebbd379d9b4",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Oscar-Winning Doc ‘The Elephant Whisperers’ Co-Writer’s Dark Comedy ‘Nose Bone’ Follows a Punjabi Woman’s Race for an Abortion at WAVES Film Bazaar",
+    "url": "https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922",
+    "published_at": "2026-11-21T12:14:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ef9feda259e134511d06",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Arknights: Endfield version update ‘Meeting You in the World o’Shrooms’ launches November 25",
+    "url": "https://www.gematsu.com/2026/11/arknights-endfield-version-update-meeting-you-in-the-world-oshrooms-launches-november-25",
+    "published_at": "2026-11-21T12:00:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9ddeb0535d7f48dfe50c",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Kate Middleton Documentary ‘Heal’ Set At BBC & NBC; Special About Princess’ Three Peaks Challenge & Cancer Journey Gets Release Date & Trailer",
+    "url": "https://deadline.com/2026/11/kate-middleton-documentary-heal-release-date-trailer-1237230712",
+    "published_at": "2026-11-21T12:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f619bedb4c96cd07cb52",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "NBC to Air Princess of Wales Cancer Charity Documentary",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/nbc-bbc-princess-of-wales-cancer-documentary-1236760297",
+    "published_at": "2026-11-21T12:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5859d1fdc1c5ae61486c",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates",
+    "url": "https://variety.com/2026/tv/news/princess-kate-cancer-documentary-premiere-dates-1236954745",
+    "published_at": "2026-11-21T12:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "eb5161b7a7f78f3393c2",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Your Daughter’ Director on Bonds With Mom, Marianne Khoury, and ‘Uncle Joe,’ Youssef Chahine: ‘Filmmaking Is Really About Healing’",
+    "url": "https://variety.com/2026/film/global/sara-shazli-your-daughter-marianne-khoury-1236954836",
+    "published_at": "2026-11-21T11:59:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "674db89d8852d5c7c31b",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘The Tree’ Director Julie Bertuccelli Tells IFFI Masterclass a Canadian Producer Stole Her ‘Italian Shoes’ Adaptation, Readies India-Set Feature",
+    "url": "https://variety.com/2026/film/festivals/julie-bertuccelli-italian-shoes-film-stolen-iffi-1236954904",
+    "published_at": "2026-11-21T11:55:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c69d3c41cec0023af765",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+    "url": "https://www.ign.com/articles/how-rockstar-made-every-npc-feel-alive-in-gta-6",
+    "published_at": "2026-11-21T11:54:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0dda574188afe92dbc5c",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Egyptian Music Star Mohamed Mounir Gets Biopic – Doha Industry Days",
+    "url": "https://deadline.com/2026/11/egyptian-music-star-mohamed-mounir-biopic-doha-1237230880",
+    "published_at": "2026-11-21T11:53:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "218ccfa70daeecde0efa",
+    "source": "PC Gamer",
+    "category": "gaming",
+    "original_title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+    "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+    "published_at": "2026-11-21T11:51:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "aa501512ea3a8c5de0a0",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the ‘Global South’",
+    "url": "https://variety.com/2026/film/global/qatar-watermelon-pictures-partnership-1236954880",
+    "published_at": "2026-11-21T11:36:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3e24c2a3ea3344bb6ccd",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Marion Cotillard Says ‘I’m Not Here to Judge Movies’ as Marrakech Jury President and ‘Doesn’t Want Any Information’ Before Watching: ‘Like a Virgin’",
+    "url": "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-jury-president-not-here-to-judge-1236954852",
+    "published_at": "2026-11-21T11:13:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "95ac0c456bb6313c12d2",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Indian Auteur Girish Kasaravalli Looks Back on 50 Years of Cinema at IFFI Masterclass: ‘All My Films Talk About Othering’",
+    "url": "https://variety.com/2026/film/festivals/girish-kasaravalli-othering-iffi-goa-1236954891",
+    "published_at": "2026-11-21T11:13:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9d17e6593b0bf4498aa0",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "What are we all playing this weekend?",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-409",
+    "published_at": "2026-11-21T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2cdc227c5729c0594308",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Trump Advisor Steven Paul Hopes U.S. Tax Credit Will Be ‘Active’ in January, Tariffs Are Old News: ‘Now It’s All Hands on Deck Federal Credit’",
+    "url": "https://variety.com/2026/film/global/trump-advisor-steven-paul-federal-tax-credit-january-1236954857",
+    "published_at": "2026-11-21T10:29:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "45669cb00b6355540571",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 High Voltage Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-high-voltage-evolution",
+    "published_at": "2026-11-21T10:12:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "556c15c4afe2bd1c5499",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Talking Point: What Are You Playing This Weekend? (21st November)",
+    "url": "https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-21st-november",
+    "published_at": "2026-11-21T10:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3b1422c9de8be585f943",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Al Hayba’ Star Taim Hasan To Play Syrian Whistleblower Farid Al-Madhhan In Neon-Backed ‘Caesar’ Biopic",
+    "url": "https://deadline.com/2026/11/taim-hassan-hasan-syria-neon-department-m-caesar-biopic-1237230860",
+    "published_at": "2026-11-21T09:53:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e3ab087105f79f6ec690",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Michael Jackson Biopic ‘Michael’ Skipping BAFTAs",
+    "url": "https://deadline.com/2026/11/michael-jackson-biopic-michael-skipping-baftas-1237230863",
+    "published_at": "2026-11-21T09:47:11+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a7315f125d4e6ee4cfd5",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All Randy’s Wishlist car locations in GTA 6",
+    "url": "https://www.destructoid.com/all-randys-wishlist-car-locations-in-gta-6",
+    "published_at": "2026-11-21T08:33:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9fade4b1e462884db30a",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
+    "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
+    "published_at": "2026-11-21T08:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "aff120ff83b570c6d74c",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Concrete Music,’ ‘Leopard Spots’ Among Industry@Tallinn and Baltic Event Award Winners",
+    "url": "https://www.hollywoodreporter.com/news/general-news/concrete-music-leopard-spots-itbe-2026-award-winners-tallinn-1236760061",
+    "published_at": "2026-11-21T08:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a89b0f51cd1ef9389279",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+    "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+    "published_at": "2026-11-21T08:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "843839b0292e94777ab9",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Jennifer Lopez Laments Not Having ‘Bigger Marketing Budget’ for ‘Kiss of the Spider Woman’",
+    "url": "https://www.thewrap.com/creative-content/movies/jennifer-lopez-laments-not-having-bigger-marketing-budget-for-kiss-of-the-spider-woman",
+    "published_at": "2026-11-21T06:33:59+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "61f2aaa60bdafdaf3e04",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Nitro Deck 2 for the Nintendo Switch 2 Is Getting a Black Friday Discount at Amazon",
+    "url": "https://www.ign.com/articles/nitro-deck-2-controller-deal-black-friday-2026",
+    "published_at": "2026-11-21T06:07:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "026bd4f9192a2204b51d",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+    "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+    "published_at": "2026-11-21T06:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f8815a19027913192b86",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
+    "url": "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
+    "published_at": "2026-11-21T05:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "919f6562a898b414ce63",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Best players for FC 27 Pocket Watcher Evolution",
+    "url": "https://www.destructoid.com/best-players-for-fc-27-pocket-watcher-evolution",
+    "published_at": "2026-11-21T05:28:43+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1ebc9e47ab1166e84c84",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Bill Maher Defends Robert Pattinson as the ‘Perfect’ James Bond, but Says 007 Should Never Be Female",
+    "url": "https://www.thewrap.com/creative-content/movies/bill-maher-reacts-robert-pattinson-james-bond-casting",
+    "published_at": "2026-11-21T05:10:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2f158f61d8bf3fdf2e44",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "David Fincher Says He’s No ‘Luddite’ When It Comes to AI Amid ‘Cliff Booth’ Criticism",
+    "url": "https://www.thewrap.com/creative-content/movies/david-fincher-cliff-booth-ai-criticism",
+    "published_at": "2026-11-21T05:04:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "05f8df910aa777d2596c",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "Patrick Stewart Cause of Death Revealed",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-cause-of-death-1235661525",
+    "published_at": "2026-11-21T04:52:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "476b338bce0f29d64ace",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "All NBA 2K27 2KTV answers: Episode 1-11",
+    "url": "https://www.destructoid.com/all-nba-2k27-2ktv-answers-season-13",
+    "published_at": "2026-11-21T04:42:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "442e6d7e16bb6f840991",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Real Time’: Bill Maher Jokes ‘GTA VI’ Has Caused “More Workplace Absences Than ICE,” Notes He’s Glad James Bond Cast “Very Heterosexual Male”",
+    "url": "https://deadline.com/2026/11/real-time-bill-maher-gta-vi-james-bond-cast-1237230827",
+    "published_at": "2026-11-21T04:17:52+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "87e0b65e090dd7cc9d5f",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Bassam Tariq Says He’s ‘Quite Sad’ His ‘Blade’ Movie Didn’t Happen, But Knows ‘Life’s Too Short to Make S—t Films’",
+    "url": "https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie",
+    "published_at": "2026-11-21T04:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f74a5be333f9c3edeee8",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Bill Maher Gets Big Laughs With Hunter Biden Jab During GTA VI Discussion",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/bill-maher-hunter-biden-gta-vi-monologue-joke",
+    "published_at": "2026-11-21T03:48:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2eb12975e6dde3acef04",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+    "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+    "published_at": "2026-11-21T03:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bf3257aa314d7f56b36b",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Early Black Friday Deals So Good, Shop for You & Everyone on Your List",
+    "url": "https://www.eonline.com/news/1438285/best-early-black-friday-deals-to-shop-for-yourself-and-your-gift-list?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-21T03:30:00+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "e229b6cd1c6636e8263c",
     "source": "E! News",
     "category": "bulvar",
@@ -42,6 +474,15 @@
     "original_title": "‘Godavari’ Director Nikhil Mahajan Turns a Malegaon Carjacking Into Neo-Noir With WAVES Film Bazaar Project ‘Mongoose’",
     "url": "https://variety.com/2026/film/markets-festivals/godavari-director-nikhil-mahajan-carjacking-neo-noir-mongoose-1236954786",
     "published_at": "2026-11-21T02:32:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2164c8a00b575a9f51df",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Palisades Fire Suspect Jonathan Rinderknecht Found Guilty of Starting Deadly Blaze After Retrial",
+    "url": "https://www.thewrap.com/industry-news/public-policy-legal/palisades-fire-suspect-jonathan-rinderknecht-found-guilty-retrial",
+    "published_at": "2026-11-21T02:25:13+00:00",
     "status": "candidate"
   },
   {
@@ -99,12 +540,39 @@
     "status": "candidate"
   },
   {
+    "id": "4347461ee25b92cbaf69",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "SAG-AFTRA Launches Universal Healthcare Group to Lobby for Affordable Member Plans",
+    "url": "https://www.thewrap.com/industry-news/labor-unions/sag-aftra-universal-healthcare-task-force-launch",
+    "published_at": "2026-11-21T01:40:15+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "957deb2fe6bacd5aaadd",
     "source": "E! News",
     "category": "bulvar",
     "original_title": "Cozy Hanukkah Pajamas to Light up Any Celebration",
     "url": "https://www.eonline.com/news/1438272/cozy-hanukkah-pajamas-to-light-up-any-celebration?cmpid=rss-syndicate-genericrss-us-top_stories",
     "published_at": "2026-11-21T01:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "266ebb2f552409c2a2f3",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Yes, Dear’ Actor Anthony Clark’s Cause of Death Revealed",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/yes-dear-actor-anthony-clark-cause-of-death-revealed",
+    "published_at": "2026-11-21T01:08:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7b563f7789f2c1b475a5",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "The Governors Awards Signal Bold Fashion Ahead for Hollywood’s Awards Season",
+    "url": "https://www.thewrap.com/culture-lifestyle/fashion/governors-awards-fashion-highlights-charlize-theron-wrapstyle",
+    "published_at": "2026-11-21T01:03:19+00:00",
     "status": "candidate"
   },
   {
@@ -177,6 +645,15 @@
     "original_title": "Tristan Thompson Reveals His “Home Run” Investment in Anthropic AI",
     "url": "https://www.eonline.com/news/1438297/tristan-thompson-invested-in-anthropic-ai-reacts-to-ipo-nasdaq-billions?cmpid=rss-syndicate-genericrss-us-top_stories",
     "published_at": "2026-11-21T00:08:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "81f189d2d0315d15507a",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Derval Whelan Exits Searchlight as Head of US Distribution After 17 Years",
+    "url": "https://www.thewrap.com/creative-content/movies/derval-whelan-retires-searchlight",
+    "published_at": "2026-11-21T00:07:45+00:00",
     "status": "candidate"
   },
   {
@@ -1302,6 +1779,15 @@
     "original_title": "Mr. Magpie’s Harmless Card Game launches February 18, 2027",
     "url": "https://www.gematsu.com/2026/11/mr-magpies-harmless-card-game-launches-february-18-2027",
     "published_at": "2026-11-20T19:50:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a1dd31eca085e9a14dcd",
+    "source": "VGC",
+    "category": "gaming",
+    "original_title": "GTA 6 earns $3.79 billion in one day as ‘the biggest entertainment launch in history’",
+    "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history",
+    "published_at": "2026-11-20T19:41:21+00:00",
     "status": "candidate"
   },
   {
@@ -8511,492 +8997,6 @@
     "original_title": "Saros Is Over 50% Off at Walmart Ahead of Black Friday, but YMMV on Spotting the Deal",
     "url": "https://www.ign.com/articles/saros-is-over-50-off-at-walmart-ahead-of-black-friday-but-ymmv-on-spotting-the-deal",
     "published_at": "2026-11-18T15:03:53+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "51be26a203e16b5b57b3",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "GTA 6 base PS5 performance analysis shows ‘struggle’ to maintain 30 FPS at all times",
-    "url": "https://www.videogameschronicle.com/news/gta-6-base-ps5-performance-analysis-shows-struggle-to-maintain-30-fps-at-all-times",
-    "published_at": "2026-11-18T15:02:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "00e1c36e247a75e2975a",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "McDonald’s Knows You Won’t Want To Pause GTA 6 To Make Dinner",
-    "url": "https://www.gamespot.com/articles/mcdonalds-knows-you-wont-want-to-pause-gta-6-to-make-dinner",
-    "published_at": "2026-11-18T15:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b0d50f1a6769752e0e99",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Lego Batman: Legacy Of The Dark Knight Update Adds GameShare Support",
-    "url": "https://www.nintendolife.com/news/2026/11/lego-batman-legacy-of-the-dark-knight-update-adds-gameshare-support",
-    "published_at": "2026-11-18T15:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8fe9ac0dbf3adc566ab3",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "A Kingdom Across the Sea quest walkthrough in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/a-kingdom-across-the-sea-quest-walkthrough-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-18T14:53:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "cf3d6948941fb6f5d00b",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6 Finally Changed The Default Rockstar-Game Controls",
-    "url": "https://www.gamespot.com/articles/gta-6-finally-changed-the-default-rockstar-game-controls",
-    "published_at": "2026-11-18T14:49:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "fd8120b339ad58ed1013",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Wow, GTA 6 Has Some Incredible Animations",
-    "url": "https://kotaku.com/wow-gta-6-has-some-incredible-animations-2000756295",
-    "published_at": "2026-11-18T14:30:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "14b92d0d23953ee703da",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "GTA 6 Xbox Series S performance analysis admires the effort but says ‘significant frame drops’ are a problem",
-    "url": "https://www.videogameschronicle.com/news/gta-6-xbox-series-s-performance-analysis-admires-the-effort-but-says-significant-frame-drops-are-a-problem",
-    "published_at": "2026-11-18T14:29:23+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1b5d0d11b28db0959c2d",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Jennifer Lopez Addresses \"Disappointing\" Divorce From Ben Affleck",
-    "url": "https://www.eonline.com/news/1438211/jennifer-lopez-addresses-hard-disappointing-ben-affleck-divorce?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-18T14:27:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ea9635d4664b3d38765c",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "You cannot replay missions in GTA 6, but you can use multiple save files, as Rockstar explains how it made missions \"harder to fail\"",
-    "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-    "published_at": "2026-11-18T14:24:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f75a68350b3793813866",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to get to The Keepsake Sea in Disney Dreamlight Valley",
-    "url": "https://www.destructoid.com/how-to-get-to-the-keepsake-sea-in-disney-dreamlight-valley",
-    "published_at": "2026-11-18T14:20:16+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "590fdccc53a2dbcfa8eb",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Why Christina Ricci Says Cher \"Holds a Grudge\" Against Her",
-    "url": "https://www.eonline.com/news/1438210/christina-ricci-details-chers-decades-long-grudge-against-her?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-18T14:15:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "584d9af68cdb26a00299",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Infinity Nikki fans threaten to boycott game after promotion by Elon Musk's mother, but there may be a genuine reason for her involvement",
-    "url": "https://www.eurogamer.net/infinity-nikki-elon-musk-maye-mother-fan-reaction",
-    "published_at": "2026-11-18T14:14:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "abbe7b060a5da86453fb",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Just Keep Swimming quest walkthrough in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/just-keep-swimming-quest-walkthrough-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-18T14:13:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8fbec9849c51ff0b5cce",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "'AAA is under the most amount of threat': Ex-Take Two boss explains why making big games is unsustainable—except for GTA 6",
-    "url": "https://www.pcgamer.com/gaming-industry/aaa-is-under-the-most-amount-of-threat-ex-take-two-boss-explains-why-making-big-games-is-unsustainable-except-for-gta-6",
-    "published_at": "2026-11-18T14:10:54+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "dc667c9cb79669ed0a27",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "The GTA 6 Map Is Truly, Truly Massive (Of Course)",
-    "url": "https://www.gamespot.com/articles/the-gta-6-map-is-truly-truly-massive-of-course",
-    "published_at": "2026-11-18T14:08:31+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f8eda45a5221a621fbed",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
-    "url": "https://www.eurogamer.net/build-a-rocket-boy-mindseye-debt-administration-litigation",
-    "published_at": "2026-11-18T14:05:30+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b241f2bd3be5b89ed5f7",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
-    "url": "https://www.rockpapershotgun.com/its-hard-not-to-worry-even-as-gta-6-launches-on-console-amid-glowing-reviews-rockstar-devs-are-already-concerned-about-getting-laid-off",
-    "published_at": "2026-11-18T14:04:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82a2131df0a16dbd20cc",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Christina Ricci explains why Cher has been ‘mad’ at her for 27 years: ‘She holds a grudge’",
-    "url": "https://ew.com/christina-ricci-says-cher-mad-at-her-12262324",
-    "published_at": "2026-11-18T14:02:17+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "af21a1035a644beba8e3",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Yes, You Can Keep Playing GTA 6 After The Credits Roll And Don’t Worry, That’s Not A Spoiler",
-    "url": "https://kotaku.com/yes-you-can-keep-playing-gta-6-after-the-credits-roll-and-dont-worry-thats-not-a-spoiler-2000756333",
-    "published_at": "2026-11-18T14:00:57+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ab2c122e3f43b4b2a459",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All Disney Dreamlight Valley The Keepsake Sea recipes",
-    "url": "https://www.destructoid.com/all-disney-dreamlight-valley-the-keepsake-sea-recipes",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "fdc5b11630415edafb9e",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to find and feed Toucans in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/how-to-find-and-feed-toucans-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6296ce25a56e6c5241b8",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to find and feed Meringuins in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/how-to-find-and-feed-meringuins-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "41cfddd696256b1d784e",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to find and feed Axolotls in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/how-to-find-and-feed-axolotls-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6081e3fcc6d11a1cfe59",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to get all Merfolk customization options in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/how-to-get-all-merfolk-customization-options-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "467aace77fff81ba3d7e",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All The Keepsake Sea Blueprints in Disney Dreamlight Valley",
-    "url": "https://www.destructoid.com/all-the-keepsake-sea-blueprints-in-disney-dreamlight-valley",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a6fe474047f43fac28c9",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "All The Keepsake Sea crafting recipes in Disney Dreamlight Valley",
-    "url": "https://www.destructoid.com/all-the-keepsake-sea-crafting-recipes-in-disney-dreamlight-valley",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2d756c2ae1827a7d037f",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to unlock all The Keepsake Sea biomes in Disney Dreamlight Valley",
-    "url": "https://www.destructoid.com/how-to-unlock-all-the-keepsake-sea-biomes-in-disney-dreamlight-valley",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "41dfcbbc16704323ae48",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to unlock all The Keepsake Sea characters in Disney Dreamlight Valley",
-    "url": "https://www.destructoid.com/how-to-unlock-all-the-keepsake-sea-characters-in-disney-dreamlight-valley",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7136f0c216ffaae81651",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date",
-    "url": "https://deadline.com/2026/11/new-friday-13-movie-jason-cast-release-date-title-1237226827",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b486fddc45e405a6ded5",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Radial Taps Nacelle Company For ‘Icons Unearthed’ Docs Featuring Harrison Ford, Arnold Schwarzenegger, Quentin Tarantino & ‘Transformers’",
-    "url": "https://deadline.com/2026/11/radial-entertainment-icons-unearthed-docs-1237227824",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d93d38bb0f90223f098e",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Alix Earle Bares All: How the TikToker Is Becoming Beauty’s Next Billion-Dollar Mogul",
-    "url": "https://www.hollywoodreporter.com/lifestyle/style/alix-earle-interiew-tiktok-beauty-brand-reale-actives-1236757261",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a57acabeed741188530c",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "New York Knicks Star Josh Hart Inks Two-Book Deal With HarperCollins (Exclusive)",
-    "url": "https://www.hollywoodreporter.com/business/business-news/new-york-knicks-star-josh-hart-book-deal-harpercollins-1236757115",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a46e14876ce57ed26d31",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Disney and AWS Team Up to Create AI-Powered ‘Star Wars’ Robots",
-    "url": "https://www.hollywoodreporter.com/business/digital/new-star-wars-robots-disney-amazon-ai-anzellans-1236757851",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4b1de07b3b1e471cd4cc",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Venus and Serena Williams Set to Launch Season 2 of ‘Stockton Street’ Podcast on Dear Media (EXCLUSIVE)",
-    "url": "https://variety.com/2026/digital/news/venus-serena-williams-season-2-stockton-street-podcast-1236950857",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a507b6ad6ad78b7ef34b",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘KPop Demon Hunters’ Star EJAE Fronts Zac Posen’s New GapStudio Winter Collection",
-    "url": "https://variety.com/2026/shopping/news/kpop-demon-hunters-ejae-zac-posen-gap-collection-shop-1236951776",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "31ff5cce3ff6717d32a0",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Taylor Swift’s CMA Return Helped Disney Sell More Ads",
-    "url": "https://variety.com/2026/tv/news/taylor-swift-cma-return-disney-sell-commericals-1236951795",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8fde18a2227df2590f7d",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "‘It’s Going to Break Entertainment’: Why $1 Billion Juggernaut GTA VI Is Poised to Disrupt Hollywood",
-    "url": "https://www.thewrap.com/culture-lifestyle/culture/grand-theft-auto-gta-vi-impact-on-film-tv-streaming",
-    "published_at": "2026-11-18T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6aa67caa6b291a44f6fa",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Want A Custom GTA 6 PS5 Pro? Just Play In The NBA",
-    "url": "https://www.gamespot.com/articles/want-a-custom-gta-6-ps5-pro-just-play-in-the-nba",
-    "published_at": "2026-11-18T13:59:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "87695711f71176bbbb66",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Fiona the Hippo Undergoing Medical Care After Eating Hat",
-    "url": "https://www.eonline.com/news/1438209/fiona-the-hippo-undergoing-medical-care-after-eating-hat?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-18T13:55:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5da4a62c96b7e07c93a1",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "MindsEye Dev Build a Rocket Boy Says Legal Action Against 'Several Third Parties' Will Help It Pay Off Its Mountain of Debt",
-    "url": "https://www.ign.com/articles/build-a-rocket-boy-legal-action-against-mindseye-saboteurs-debts",
-    "published_at": "2026-11-18T13:51:33+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d1df3df0171de2e54e42",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Two of the best sub $250 4K gaming monitors right now are from Acer - take your pick",
-    "url": "https://www.pcgamer.com/hardware/gaming-monitors/two-of-the-best-sub-usd250-4k-gaming-monitors-right-now-are-from-acer-take-your-pick",
-    "published_at": "2026-11-18T13:45:59+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "379487e8e6a5f11225bd",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "IDFA Announces Winning Projects In Forum Section, With Prizes Worth More Than €30,000",
-    "url": "https://deadline.com/2026/11/idfa-forum-2026-awards-announced-1237227889",
-    "published_at": "2026-11-18T13:44:39+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a2a21f712fa902e330a0",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘S.O.S.,’ a Caribbean Island Rom-Com, Brought to Market by Latido Films, Gets First Teaser (EXCLUSIVE)",
-    "url": "https://variety.com/2026/film/global/s-o-s-caribbean-romcom-sold-by-latido-films-first-teaser-1236950584",
-    "published_at": "2026-11-18T13:42:43+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "da34a65e4c0bde7d4c0e",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "GTA 6 Finally Explains Why You Can Hear The Police Radio Chatter",
-    "url": "https://kotaku.com/gta-6-finally-explains-why-you-can-hear-the-police-radio-chatter-2000755960",
-    "published_at": "2026-11-18T13:30:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d22a89c84ce43502cb13",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Imax Ups Giovanni Dolci To Newly Created COO Role, Mark Welton To Head Strategic Partnerships",
-    "url": "https://deadline.com/2026/11/imax-giovanni-dolci-new-coo-role-1237227028",
-    "published_at": "2026-11-18T13:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c4b1fa33ff075f1c6a48",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "‘In Starland’: How Ray Panthaki, in His Directing Debut, Cast Clarence Maclin in His First Lead Role and Made a Very Personal Film Built on Meritocracy",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/ray-panthaki-clarence-maclin-film-in-starland-interview-1236758272",
-    "published_at": "2026-11-18T13:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c7e7da1cebcbec9e885f",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Lee Chang-dong on the Mysteries and Meaning of ‘Possible Love’",
-    "url": "https://www.hollywoodreporter.com/movies/movie-features/lee-chang-dong-possible-love-interview-1236757129",
-    "published_at": "2026-11-18T13:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "04322953aa08ead5fd2e",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
-    "url": "https://www.rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms",
-    "published_at": "2026-11-18T13:25:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0f5675f223fb3c27e4e0",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6 Owner Take-Two’s Stock Explodes After High Review Scores, But It’s Still Down Massively This Year",
-    "url": "https://www.gamespot.com/articles/gta-6-owner-take-twos-stock-explodes-after-high-review-scores-but-its-still-down-massively-this-year",
-    "published_at": "2026-11-18T13:16:55+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ce67f3e1660e52fee2ba",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Can Peter Rice Fix Netflix? New Content Boss Has a Daunting To-Do List",
-    "url": "https://www.hollywoodreporter.com/business/business-news/peter-rice-netflix-1236758024",
-    "published_at": "2026-11-18T13:05:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "92c5911e5c038ccc955e",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Amazon Slashes $10 off Control Resonant in Early Black Friday Sale, Dropping to Its Lowest Price Yet",
-    "url": "https://www.ign.com/articles/amazon-slashes-10-off-control-resonant-in-early-black-friday-sale-dropping-to-its-lowest-price-yet",
-    "published_at": "2026-11-18T13:01:17+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e1efcc7121523a24be7a",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Here’s What Gets Added To A GTA Game Right Before Launch",
-    "url": "https://kotaku.com/heres-what-gets-added-to-a-gta-game-right-before-launch-2000757897",
-    "published_at": "2026-11-18T13:00:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ef5c3e08e1ce53f1ebb0",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "‘The Unofficial Bridgerton Musical’ Creators Abigail Barlow & Emily Bear Return To TikTok With ‘To Die For Love’ Original Musical",
-    "url": "https://deadline.com/2026/11/barlow-bear-to-die-for-love-musical-unofficial-bridgerton-1237227778",
-    "published_at": "2026-11-18T13:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82a44215b0e9d51a0239",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "‘SmartLess’ Trio to Back ‘Small Town Narcos’ Podcast (Exclusive)",
-    "url": "https://www.hollywoodreporter.com/business/digital/smartless-medias-podcast-1236757059",
-    "published_at": "2026-11-18T13:00:00+00:00",
     "status": "candidate"
   }
 ]

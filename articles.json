@@ -2,6 +2,171 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Taylor Swift visszatérése rekordnézőszámokat hozott a 60. CMA Awards-on",
+      "excerpt": "A 60. CMA Awards díjátadó gála rekordot döntött a nézőszámokban, amelyben Taylor Swift visszatérése kiemelkedő szerepet játszott. A műsor a legmagasabb nézettséget érte el az elmúlt hét évben, főként a kulcsfontosságú 18-49-es korcsoportban tapasztalt…",
+      "body": [
+        "CMA Awards együttesen 7,62 millió nézőt vonzott, ami 26%-os növekedést jelent az előző évhez képest, és a legmagasabb érték az elmúlt hét évben.",
+        "Taylor Swift előadásával, amely a \"I Knew It, I Knew You\" és a \"Our Song\" című dalokat ötvözte, a műsor a 18-49 éves korosztályban 55%-os nézettségnövekedést ért el, és 1.01-es nézettségi arányt kapott, ami három éves csúcs."
+      ],
+      "sources": [
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/cma-awards-60th-ratings-taylor-swift-abc-disney-1237230702"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/tv/tv-news/cma-awards-2026-tv-ratings-1236760246"
+        }
+      ],
+      "published_at": "2026-11-21T13:34:04.760869Z",
+      "claims": [
+        {
+          "text": "CMA Awards együttesen 7,62 millió nézőt vonzott, ami 26%-os növekedést jelent az előző évhez képest, és a legmagasabb érték az elmúlt hét évben.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677",
+              "quote": "With help from Swift’s performance of a “I Knew It, I Knew You”/”Our Song” medley, the CMAs had their highest overall viewership in seven years, ABC announced. The show drew 7.62 total"
+            },
+            {
+              "url": "https://deadline.com/2026/11/cma-awards-60th-ratings-taylor-swift-abc-disney-1237230702",
+              "quote": "The 60th annual ceremony hit a seven-year audience high with 7.62 million total live + same-day viewers tuning in for the CMA Awards on Wednesday, per Nielsen Big Data + Panel."
+            },
+            {
+              "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677",
+              "quote": "question being how big a boost. It was a substantial one, as ratings released Friday showed the 2026 show being up 26% in total viewers and an even more impressive 55% gain in the key 18-49"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677",
+              "quote": "viewers, versus 6.03 million in 2025, for that 26% increase. The 18-49 share of the audience, where the 55% growth was found, had the telecast earning a 1.01 rating, compared to a 0.65 share"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/cma-awards-2026-tv-ratings-1236760246",
+              "quote": "grew by 26 percent in viewers and 55 percent in adults 18-49 from a year ago (6.04 million viewers, 0.65 rating in the 18-49 demo)."
+            }
+          ]
+        },
+        {
+          "text": "Taylor Swift előadásával, amely a \"I Knew It, I Knew You\" és a \"Our Song\" című dalokat ötvözte, a műsor a 18-49 éves korosztályban 55%-os nézettségnövekedést ért el, és 1.01-es nézettségi arányt kapott, ami három éves csúcs.",
+          "evidence": [
+            {
+              "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677",
+              "quote": "With help from Swift’s performance of a “I Knew It, I Knew You”/”Our Song” medley, the CMAs had their highest overall viewership in seven years, ABC announced. The show drew 7.62 total"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677",
+              "quote": "question being how big a boost. It was a substantial one, as ratings released Friday showed the 2026 show being up 26% in total viewers and an even more impressive 55% gain in the key 18-49"
+            },
+            {
+              "url": "https://variety.com/2026/music/news/cma-awards-taylor-swift-big-ratings-increase-1236954677",
+              "quote": "viewers, versus 6.03 million in 2025, for that 26% increase. The 18-49 share of the audience, where the 55% growth was found, had the telecast earning a 1.01 rating, compared to a 0.65 share"
+            },
+            {
+              "url": "https://deadline.com/2026/11/cma-awards-60th-ratings-taylor-swift-abc-disney-1237230702",
+              "quote": "1.01 rating among adults 18-49 — a three-year best."
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/tv/tv-news/cma-awards-2026-tv-ratings-1236760246",
+              "quote": "grew by 26 percent in viewers and 55 percent in adults 18-49 from a year ago (6.04 million viewers, 0.65 rating in the 18-49 demo)."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "Bassam Tariq csalódott a Marvel 'Blade' filmjének meghiúsulása miatt",
+      "excerpt": "Bassam Tariq elismerte, hogy csalódott, amiért a Marvel által tervezett 'Blade' című filmje, amelyben Mahershala Ali játszott volna, végül nem valósult meg.",
+      "body": [
+        "Bassam Tariq elismerte, hogy csalódott, amiért a Marvel által tervezett 'Blade' című filmje, amelyben Mahershala Ali játszott volna, végül nem valósult meg.",
+        "A rendező tapasztalatairól beszélve elmondta, milyen furcsa volt a castingot és a forgatást előkészíteni egy megfelelő forgatókönyv nélkül, ami veszélyes volt, mert veszélyeztette a hitelességét a színészek előtt."
+      ],
+      "sources": [
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie"
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728"
+        }
+      ],
+      "published_at": "2026-11-21T13:32:43.925861Z",
+      "claims": [
+        {
+          "text": "Bassam Tariq szomorú, hogy nem készült el a Marvel 'Blade' filmje Mahershala Ali főszereplésével.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie",
+              "quote": "Bassam Tariq admitted he’s “quite sad” that his Mahershala Ali-led “Blade” movie didn’t come to fruition, but acknowledged that life was “too short to make s–t films.”"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314",
+              "quote": "Bassam Tariq is opening up about what he learned working on Marvel‘s scrapped Blade reboot."
+            },
+            {
+              "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728",
+              "quote": "Bassam Tariq was once attached to direct Marvel’s Blade with Mahershala Ali, but eventually exited the project."
+            }
+          ]
+        },
+        {
+          "text": "A forgatás előkészítése megfelelő forgatókönyv nélkül történt, ami furcsa és veszélyes volt a rendező szerint.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie",
+              "quote": "“It was funny and strange to start casting and building without a proper script,” the director adds"
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie",
+              "quote": "“It was funny and strange to start casting and building without a proper script,” he recalled. “You’re sitting there and explaining to actors what their role will be, and they just have to"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314",
+              "quote": "\"It was funny and strange to start casting and building without a proper script... That's also very dangerous because if the text comes and it doesn't add up to what you were saying, your"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314",
+              "quote": "“It was funny and strange to start casting and building without a proper script. You’re sitting there and explaining to actors what their role will be, and they just have to believe you,” he"
+            },
+            {
+              "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728",
+              "quote": "Tariq told the publication that he found it “funny and strange to start casting and building without a proper script.” What complicated things is trying to explain to actors who their"
+            }
+          ]
+        },
+        {
+          "text": "Bassam Tariq szerint az élet túl rövid rossz filmek készítésére, ezért fontos számára, hogy teljes kontrollja legyen a forgatókönyv felett.",
+          "evidence": [
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/bassam-tariq-reflects-failed-marvel-blade-movie",
+              "quote": "According to Tariq, his “big lesson” from this experience was that “life’s too short to make s–t films.”"
+            },
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/bassam-tariq-marvel-blade-life-too-short-shit-films-1236760314",
+              "quote": "In short, the director said his “big lesson” was that he wanted to have full control of the scripts of his films, noting “life’s too short to make shit films.” Tariq added, “If we disagree,"
+            },
+            {
+              "url": "https://deadline.com/2026/11/bassam-tariq-marvel-blade-director-1237230728",
+              "quote": "“Life’s too short to make shit films, so that was my big lesson: I have to have full control over my script,” Tariq told The New Arab. “If we disagree, it’s between them and me. It’s quite"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Cyberleek állítása szerint közzétettek egy majdnem teljes GTA 6 Xbox verziót",
       "excerpt": "A Cyberleek nevű hackercsoport azt állítja, hogy egy közel teljes, fejlesztés alatt álló GTA 6 Xbox-verziót töltöttek fel az internetre. Fenntartják, hogy a fő futtatható fájlt csak akkor adják ki, ha kriptovalutájuk piaci értéke eléri a 15 millió dollárt.",
