@@ -2,6 +2,68 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "Elhunyt Akira Kurabayashi, az ARIKA játékfejlesztője",
+      "excerpt": "56 éves korában elhunyt Akira Kurabayashi, az ARIKA játékfejlesztő cégnél dolgozó programozó és vezető, aki többek között a Street Fighter EX és a Tetris 99 címeken is dolgozott.",
+      "body": [
+        "Több évtizedes pályafutása során olyan játékokon dolgozott, mint a Street Fighter EX sorozat, a Tetris: The Grand Master és a Tetris 99.",
+        "Kurabayashi a japán Taito stúdiónál kezdte karrierjét, később 1996 körül csatlakozott az ARIKA csapatához, ahol fontos szerepet töltött be 2.5D harci játékok fejlesztésében, így a Fighting EX Layerben is."
+      ],
+      "sources": [
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170"
+        },
+        {
+          "name": "Rock Paper Shotgun",
+          "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure"
+        }
+      ],
+      "published_at": "2026-11-21T20:56:26.869140Z",
+      "claims": [
+        {
+          "text": "Több évtizedes pályafutása során olyan játékokon dolgozott, mint a Street Fighter EX sorozat, a Tetris: The Grand Master és a Tetris 99.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170",
+              "quote": "The studio had a knack for producing beloved, cult entries in a number of all-star franchises. This includes the 3D outing Street Fighter EX games and prestigious Tetris: The Grand Master"
+            },
+            {
+              "url": "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170",
+              "quote": "series. Kurabayashi and the studio would also develop the recent battle royale revival 99 games for the Nintendo Switch, including Pac-Man 99 and the ever popular Tetris 99."
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+              "quote": "to mind Street Fighter x Tekken's infamous paid Gem debacle, which no one should be reminded of. Anyway. In addition to 2.5D fighters, Kurabayashi also contributed to Tetris: The"
+            }
+          ]
+        },
+        {
+          "text": "Kurabayashi a japán Taito stúdiónál kezdte karrierjét, később 1996 körül csatlakozott az ARIKA csapatához, ahol fontos szerepet töltött be 2.5D harci játékok fejlesztésében, így a Fighting EX Layerben is.",
+          "evidence": [
+            {
+              "url": "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170",
+              "quote": "Arika’s official account has announced that Akira Kurabayashi passed away on November 14, 2026. He began his career at Taito, where he served as lead programmer on titles such as Darius"
+            },
+            {
+              "url": "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170",
+              "quote": "Gaiden, Fighter's Impact, and Vertexer. He then joined Arika in ~1996, where he worked on series such as"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+              "quote": "Kurabayashi initially worked as a programmer on smaller titles at Taito, including early 2.5D fighting game Fighters' Impact (later localised as VS. in America). He then moved to Arika in"
+            },
+            {
+              "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+              "quote": "1996 and continued his work in 2.5D fighters with the Street Fighter EX series, a subseries which took the originator of the fighting game genre into the third dimension for the first time."
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Taylor Swift visszatérése rekordnézőszámokat hozott a 60. CMA Awards-on",
       "excerpt": "A 60. CMA Awards díjátadó gála rekordot döntött a nézőszámokban, amelyben Taylor Swift visszatérése kiemelkedő szerepet játszott. A műsor a legmagasabb nézettséget érte el az elmúlt hét évben, főként a kulcsfontosságú 18-49-es korcsoportban tapasztalt…",
