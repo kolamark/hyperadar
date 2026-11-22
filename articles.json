@@ -3,6 +3,85 @@
     {
       "status": "published",
       "category": "gaming",
+      "title": "Jason alakját Steve McQueen és valós veteránok ihlették a GTA 6-ban",
+      "excerpt": "A Rockstar Games a GTA 6-ban bemutatott Jason Duval karakterének megalkotásakor Steve McQueen ikonikus játékstílusát és valós veteránok, elsősorban egykori Army Rangers viselkedését vette példának.",
+      "body": [
+        "A Rockstar Games a GTA 6-ban bemutatott Jason Duval karakterének megalkotásakor Steve McQueen ikonikus játékstílusát és valós veteránok, elsősorban egykori Army Rangers viselkedését vette példának. A játék narratívért felelős alelnöke, Rupert Humphries elmondta, hogy McQueen filmes hitelessége inspirálta a visszafogott, mégis határozott karakter kialakítását.",
+        "Jason katonai múltja és csendes, megfontolt természete a valódi veteránok viselkedésmintáit tükrözi, akik szükségtelenül nem szólnak bele a dolgokba, mégis határozottan jelen vannak a történésekben."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers"
+        },
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths"
+        }
+      ],
+      "published_at": "2026-11-22T21:06:12.402397Z",
+      "claims": [
+        {
+          "text": "A Rockstar Games a GTA 6-ban bemutatott Jason Duval karakterének megalkotásakor Steve McQueen ikonikus játékstílusát és valós veteránok, elsősorban egykori Army Rangers viselkedését vette példának.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+              "quote": "to call one of GTA 6's new protagonists, Rockstar says it carefully crafted his already iconic demeanor by pulling from a Steve McQueen classic and real-life veterans."
+            },
+            {
+              "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+              "quote": "\"These guys typically aren’t running their mouths or reacting to something unless it’s strictly necessary, while still being strong and still asserting themselves.\""
+            },
+            {
+              "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+              "quote": "them Marauders),\" Humphries continued. \"These guys typically aren't running their mouths or reacting to something unless it's strictly necessary, while still being strong and still asserting"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths",
+              "quote": "military organisation called the Marauders. \"These guys typically aren't running their mouths or reacting to something unless it's strictly necessary, while still being strong and still"
+            }
+          ]
+        },
+        {
+          "text": "A játék narratívért felelős alelnöke, Rupert Humphries elmondta, hogy McQueen filmes hitelessége inspirálta a visszafogott, mégis határozott karakter kialakítását.",
+          "evidence": [
+            {
+              "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+              "quote": "Humphries said. \"Steve McQueen was famous for pulling lines out of scripts and saying things with his presence alone. We wanted to see how close we could get to that with a game character,"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths",
+              "quote": "Getaway\" Humphries explained in a statement given to Destructoid (via GamesRadar). Steve McQueen was famous for pulling lines out of scripts and saying things with his presence alone. We"
+            }
+          ]
+        },
+        {
+          "text": "Jason katonai múltja és csendes, megfontolt természete a valódi veteránok viselkedésmintáit tükrözi, akik szükségtelenül nem szólnak bele a dolgokba, mégis határozottan jelen vannak a történésekben.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/rockstar-says-jasons-viral-personality-in-gta-6-comes-from-steve-mcqueen-and-real-life-veterans",
+              "quote": "\"These guys typically aren’t running their mouths or reacting to something unless it’s strictly necessary, while still being strong and still asserting themselves.\""
+            },
+            {
+              "url": "https://www.eurogamer.net/gta-6-jason-steve-mcqueen-army-rangers",
+              "quote": "them Marauders),\" Humphries continued. \"These guys typically aren't running their mouths or reacting to something unless it's strictly necessary, while still being strong and still asserting"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths",
+              "quote": "military organisation called the Marauders. \"These guys typically aren't running their mouths or reacting to something unless it's strictly necessary, while still being strong and still"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
       "title": "Eltávolították a The Binding of Isaac: Repentance+ AI által generált zenéjét a játékból",
       "excerpt": "A The Binding of Isaac: Repentance+ frissítésében megjelent AI generálta zenéket a fejlesztő Nicalis eltávolította, miután a játékosok felfedezték azok jelenlétét és negatív visszajelzések özöne érkezett a Steam-en.",
       "body": [
