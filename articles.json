@@ -2,6 +2,161 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Bryan Lourd a NO FAKES törvény mielőbbi elfogadását sürgeti az AI általi személyiségjogok védelmében",
+      "excerpt": "A Creative Artists Agency vezetője, Bryan Lourd kongresszusi törvényhozást sürget az Egyesült Államokban, hogy elfogadják a NO FAKES törvényt, amely megakadályozná a személyiségi jogokat sértő, engedély nélküli mesterséges intelligencia-alapú hang- és…",
+      "body": [
+        "Bryan Lourd, a CAA vezetője a New York Times-ban megjelent vendégcikkében azt javasolja, hogy a Kongresszus fogadja el a NO FAKES törvényt, mely megvédené az amerikaiakat attól, hogy engedélyük nélkül AI-vel digitális másolatokat készítsenek róluk, legyenek híresek vagy hétköznapi személyek.",
+        "A tervezet egy szövetségi szabályozást hozna be, mely kimondja, hogy csak engedéllyel és megfelelő anyagi ellenszolgáltatás mellett lehet valakinek a képmását vagy hangját mesterséges intelligencia segítségével létrehozni vagy felhasználni, ezt többek között a színészek és technológiai cégek is támogatják."
+      ],
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/industry-news/tech/bryan-lourd-ai-cloning-no-fakes-act-congress"
+        },
+        {
+          "name": "Variety",
+          "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989"
+        }
+      ],
+      "published_at": "2026-11-22T01:24:35.879700Z",
+      "claims": [
+        {
+          "text": "Bryan Lourd a NO FAKES törvény mielőbbi elfogadására szólította fel a Kongresszust, hogy megakadályozzák az engedély nélküli AI-alapú digitális másolatok készítését és használatát.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979",
+              "quote": "CAA chief Bryan Lourd is urging the full Congress to pass the No Fakes Act and deliver it to President Trump for signature, a move Lourd says would protect everyone, famous or not, from"
+            },
+            {
+              "url": "https://www.thewrap.com/industry-news/tech/bryan-lourd-ai-cloning-no-fakes-act-congress",
+              "quote": "Creative Artists Agency CEO Bryan Lourd is calling on Congress to pass federal legislation protecting people’s voices and likenesses from unauthorized artificial intelligence replicas,"
+            },
+            {
+              "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989",
+              "quote": "Creative Arts Agency CEO Bryan Lourd urged Congress on Saturday to pass the NO FAKES Act, a bill that would regulate the wave of unauthorized AI deepfakes proliferating the internet, writing"
+            }
+          ]
+        },
+        {
+          "text": "A NO FAKES Act egységes szövetségi szabályozást vezetne be, amely alapján engedélyhez és kompenzációhoz kötnék a mesterséges intelligencia által létrehozott személyiségreprezentációk használatát.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979",
+              "quote": "The No Fakes Act, Lourd says, “would apply a tried-and-true formula to the A.I. era: control, consent and compensation. It would set a uniform federal standard to replace outdated,"
+            },
+            {
+              "url": "https://www.thewrap.com/industry-news/tech/bryan-lourd-ai-cloning-no-fakes-act-congress",
+              "quote": "applied to AI-generated replicas, provided federal lawmakers establish a consistent standard.The NO FAKES ACT framework centers on the principles of control, consent and compensation. Under"
+            },
+            {
+              "url": "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989",
+              "quote": "a bipartisan coalition of co-sponsors, the full Senate has not taken it up. Lourd wrote that the bill would introduce a federal standard for “control, consent and compensation” surrounding"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "gaming",
+      "title": "Játékosok és fejlesztők látják a GTA 6 sikerét, de aggodalmak a játékipari elbocsátások miatt",
+      "excerpt": "A Grand Theft Auto 6 rendkívül sikeres, mégsem szűnnek meg az aggodalmak a fejlesztők elbocsátásával kapcsolatban. A játékiparban gyakori, hogy a készítőket nem arányosan részesítik a sikerből, ami támogatja a szakszervezeti szervezkedést a Rockstar Games-nél.",
+      "body": [
+        "A Grand Theft Auto 6 a világ legnagyobb szórakoztatóipari megjelenése lett, és már most óriási sikereket ért el. Ugyanakkor Rockstar fejlesztők közt aggodalom van az esetleges elbocsátások miatt, ami rámutat az iparágban tapasztalható problémákra, ahol a kreatív csapatok nem kapják meg a munkájuk arányos anyagi értékét.",
+        "A játék részleteiben sok apró újítás és hiteles megoldás található, például a sérülések és a járművek kidolgozottsága igen magas szintű. A Rockstar szakszervezeti működésének támogatása növekvő érdeklődést vált ki, ami túlmutat a GTA 6 sikerén, a játékosok pedig számos érdekes játékelemre lelhetnek a játékban."
+      ],
+      "sources": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value"
+        },
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6"
+        },
+        {
+          "name": "Kotaku",
+          "url": "https://kotaku.com/grand-theft-auto-6-naked-nudity-jason-lucia-sex-scenes-shower-2000758866"
+        }
+      ],
+      "published_at": "2026-11-22T01:24:20.647417Z",
+      "claims": [
+        {
+          "text": "A Grand Theft Auto 6 a legnagyobb szórakoztatóipari megjelenés volt.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "Grand Theft Auto 6 is already enormously successful, having enjoyed \"the biggest entertainment launch in history\". But the current games industry is such that some Rockstar developers are"
+            }
+          ]
+        },
+        {
+          "text": "Néhány Rockstar fejlesztő aggódik a megjelenés utáni elbocsátások miatt, noha nem jeleztek ilyen terveket.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "still concerned about being laid off in the wake of its release. Writing for the Guardian prior to GTA 6's launch, Rockstar animation programmer Nestor Uriarte explained that although there"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "is \"no indication that layoffs are coming\" it nonetheless \"says a lot about the industry that even my colleagues and I, working on the biggest game of all time, are worried about getting"
+            }
+          ]
+        },
+        {
+          "text": "A játékiparban gyakori, hogy a fejlesztők nem arányosan részesülnek a játék sikeréből, amit a Clair Obscur: Expedition 33 vezető írója is megerősített.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "writer of Clair Obscur: Expedition 33. Svedberg-Yen, who left Sandfall Interactive in July, claimed that the problem is exacerbated by an imbalance in who benefits financially when a game"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "worried about layoffs,\" Svedberg-Yen wrote in an Instagram post. \"So, who receives the lion's share of the profits from their labor? Not the vast majority of the creative team.\""
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "Svedberg-Yen pointed out that this is \"one of the issues that happens when the people creating the value do not receive a proportionate amount of that value,\" adding that \"In finance, we"
+            }
+          ]
+        },
+        {
+          "text": "A Rockstar csapata szakszervezeti alakuláson dolgozik, mely a brit játékipar legnagyobb szervezete lehetne.",
+          "evidence": [
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "Svedberg-Yen also commented on the Rockstar team's ongoing efforts to unionise, with the team in the process of voting on whether or not it wants a union. If successful, the Rockstar Game"
+            },
+            {
+              "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+              "quote": "Workers Union would become the biggest in the UK's gaming sector."
+            }
+          ]
+        },
+        {
+          "text": "A GTA 6-ban a játék számos apró részletre kitér, például a járművek kidolgozottságára és valósághűségeire.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6",
+              "quote": "10. Of course, cars can suffer considerably more than a busted windscreen, and car damage in GTA 6 is ludicrously good. Panels buckle dramatically, parts fall off, and dents appear exactly"
+            },
+            {
+              "url": "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6",
+              "quote": "26. Cars and motorcycles can also be manually loaded onto trailers and towed anywhere you want. It doesn’t get around the tracker system, so it isn’t a method to cheat the new security"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Elhunyt Akira Kurabayashi, az ARIKA játékfejlesztője",
       "excerpt": "56 éves korában elhunyt Akira Kurabayashi, az ARIKA játékfejlesztő cégnél dolgozó programozó és vezető, aki többek között a Street Fighter EX és a Tetris 99 címeken is dolgozott.",
