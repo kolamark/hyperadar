@@ -1,5 +1,1175 @@
 [
   {
+    "id": "4787e9fbcff3afed766d",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Rob Kardashian shares rare photos of daughter on her 10th birthday: ‘I love you’",
+    "url": "https://ew.com/rob-kardashian-shares-rare-photos-of-daughter-on-her-10th-birthday-12274446",
+    "published_at": "2026-11-23T16:04:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "dc54aef97c256d86d784",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Justin Timberlake Documentary Trailer: Apple TV Series to Unpack Britney Spears, Janet Jackson Controversies",
+    "url": "https://variety.com/2026/music/news/justin-timberlake-documentary-trailer-britney-spears-janet-jackson-1236955955",
+    "published_at": "2026-11-23T16:03:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b5d08f8afad079edf9d6",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "An Absurd Little Immersion-Breaking Hiccup That Reminded Me GTA 6 Isn’t Perfect",
+    "url": "https://kotaku.com/an-absurd-little-immersion-breaking-hiccup-that-reminded-me-gta-6-isnt-perfect-2000759420",
+    "published_at": "2026-11-23T16:00:53+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1c955df942ef3bc7c2ef",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Do You Need the Key Cloner to Steal All of GTA 6’s Cars?",
+    "url": "https://www.ign.com/articles/key-cloner-gta-6",
+    "published_at": "2026-11-23T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c005a106dbf8ef10af12",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘Lil Kev’ Ends Up Behind Bars In Season 2 Trailer For Kevin Hart Animated Series",
+    "url": "https://deadline.com/2026/11/kevin-hart-animated-series-lil-kev-trailer-1237231157",
+    "published_at": "2026-11-23T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "62d31f6b8fa706ce5cde",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Frontline To Premiere ‘One In A Million’ On YouTube Before PBS Broadcast, In A First For Award-Winning Documentary Series",
+    "url": "https://deadline.com/2026/11/frontline-one-in-a-million-youtube-release-1237231431",
+    "published_at": "2026-11-23T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "525fb770184e2ea5801e",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Colin Farrell: For Emma Fogarty, Who Means the World to Me",
+    "url": "https://variety.com/2026/tv/columns/colin-farrell-emma-fogarty-the-slightest-touch-hbo-epidermolysis-bullosa-1236955666",
+    "published_at": "2026-11-23T16:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c6ce8c8be3e41d703a97",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Daredevil Star Charlie Cox Asked for a James Bond Audition but Was Told He Was 'Too Old'",
+    "url": "https://www.ign.com/articles/daredevil-charlie-cox-too-old-james-bond-audition",
+    "published_at": "2026-11-23T15:54:26+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1f24e3eec213c7c13e02",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6’s Preorder DLC Is Now Available By Itself For $5",
+    "url": "https://www.gamespot.com/articles/gta-6s-preorder-dlc-is-now-available-by-itself-for-5",
+    "published_at": "2026-11-23T15:53:44+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b08f8edf7abc70e26240",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Volleyball Spike Evolved codes (November 2026)",
+    "url": "https://www.destructoid.com/volleyball-spike-evolved-codes",
+    "published_at": "2026-11-23T15:45:15+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "756dd21df3fda16d9447",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "BOBBY’S DAYCARE codes (November 2026)",
+    "url": "https://www.destructoid.com/bobbys-daycare-codes",
+    "published_at": "2026-11-23T15:44:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1d05a9ecf397c3c1ed3d",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "This week in PC games: Raise a psychedelic baby, invent terrible new religions, and run your own PC hardware business",
+    "url": "https://www.rockpapershotgun.com/this-week-in-pc-games-raise-a-psychedelic-baby-invent-terrible-new-religions-and-run-your-own-pc-hardware-business",
+    "published_at": "2026-11-23T15:43:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1574fa6adcbf768aa541",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Daredevil’ Star Charlie Cox Asked to Audition for James Bond but Was Told He’s Too Old: ‘Robert Pattinson Is the Same Age as Me!’",
+    "url": "https://variety.com/2026/film/news/charlie-cox-james-bond-audition-too-old-1236955818",
+    "published_at": "2026-11-23T15:37:06+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "dec48324417a9c97d9f5",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to unregister a car and add a new vehicle in GTA 6",
+    "url": "https://www.destructoid.com/how-to-unregister-a-car-and-add-a-new-vehicle-in-gta-6",
+    "published_at": "2026-11-23T15:34:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "39e0225a9c952fb7334d",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Dax Shepard slams ‘offensive’ narrative that he’s an ‘abusive husband’ to wife Kristen Bell after controversies",
+    "url": "https://ew.com/dax-shepard-slams-offensive-narrative-that-he-abuses-kristen-bell-12274407",
+    "published_at": "2026-11-23T15:32:21+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a80232735e1eb00f07fa",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Telegram CEO Says The ‘Least Realistic’ Thing About GTA 6 Is That Nobody Uses His App To Commit Crimes",
+    "url": "https://kotaku.com/telegram-ceo-says-the-least-realistic-thing-about-gta-6-is-that-nobody-uses-his-app-to-commit-crimes-2000759427",
+    "published_at": "2026-11-23T15:30:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f3b14b55477acac671f1",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Sixty Years In The Making, Queer Thriller ‘The Wrong People’ Is Now In Post With ‘The Affair’ & ‘Emily In Paris’ DoP Directing",
+    "url": "https://deadline.com/2026/11/queer-film-movie-wrong-people-emily-in-paris-dop-cast-1237231529",
+    "published_at": "2026-11-23T15:27:55+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "73de584dfc1b8d3104f9",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Donny Osmond puts out fire at neighbor’s home while dressed in his church suit: ‘I’m a singing fireman!’",
+    "url": "https://ew.com/donny-osmond-puts-out-neighbor-fire-while-in-his-church-suit-12274349",
+    "published_at": "2026-11-23T15:27:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e821da37f419b7e712ee",
+    "source": "Rolling Stone",
+    "category": "bulvar",
+    "original_title": "BBC Dancing Competition Pranked With Sex Noises",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/bbc-strictly-come-dancing-sex-noises-prank-1235662603",
+    "published_at": "2026-11-23T15:27:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0b3ce48c478918b2d38d",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Cars with the highest sell value in GTA 6",
+    "url": "https://www.destructoid.com/cars-with-the-highest-sell-value-in-gta-6",
+    "published_at": "2026-11-23T15:25:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c55c44d18d75f62f43c8",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+    "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+    "published_at": "2026-11-23T15:22:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6a72bb16b5d076c0541d",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Walmart's Black Friday Sale is Officially Now Live for 2026 — Here's What You Need to Know",
+    "url": "https://www.ign.com/articles/walmarts-black-friday-sale-is-live-2026",
+    "published_at": "2026-11-23T15:22:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "32689f2067f325a6e4eb",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "GTA 6 hacker released from prison with a stern warning, so he can actually go home and play it now",
+    "url": "https://www.destructoid.com/gta-6-hacker-released-stern-warning-go-home-play-it-now",
+    "published_at": "2026-11-23T15:18:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "89a07ca21d6fb4bfa55b",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Trump Backs Jensen Huang’s Nvidia Return: ‘No Reason to Believe’ There’s a National Security Risk",
+    "url": "https://www.thewrap.com/industry-news/tech/trump-backs-jensen-huang-nvidia-ceo-return",
+    "published_at": "2026-11-23T15:15:07+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f5f58136751c1ebc2505",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Bo Derek Reveals Secret to Decades-Long Romance With John Corbett",
+    "url": "https://www.eonline.com/news/1438332/bo-derek-reveals-secret-to-decades-long-romance-with-john-corbett?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-23T15:11:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f1964abc15daa1fe752b",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea",
+    "url": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
+    "published_at": "2026-11-23T15:10:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "fbe1eafcdc0da65ab106",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "ITV Issues Statement Amid Outcry Over AJ Odudu Experiencing “Microaggressions” On ‘I’m A Celebrity… Get Me Out Of Here!’",
+    "url": "https://deadline.com/2026/11/itv-statement-aj-odudu-mariella-frostrup-im-a-celeb-1237231538",
+    "published_at": "2026-11-23T15:08:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4039c63169a6441493c3",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "HBO Max Drops Official Black Friday Deal — 50% Off for a Full Year",
+    "url": "https://www.ign.com/articles/hbo-max-black-friday-streaming-deal-2026",
+    "published_at": "2026-11-23T15:07:14+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "25b202bd8beaf70a0830",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "I’m not thrilled with Avengers: Doomsday’s Steve Rogers focus, but I’m still as hyped as ever",
+    "url": "https://www.destructoid.com/not-thrilled-avengers-doomsdays-steve-rogers-focus-still-hyped",
+    "published_at": "2026-11-23T15:04:52+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1798bd20b225134eb98f",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Justin Timberlake discusses Janet Jackson scandal, DUI arrest, and more in trailer for 4-part docuseries",
+    "url": "https://ew.com/justin-timberlake-releasing-tell-all-docuseries-janet-jackson-dui-arrest-12219702",
+    "published_at": "2026-11-23T15:04:25+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c1d5016f462bc23a692f",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Nvidia makes stunning decision to reinstate Jensen Huang as CEO",
+    "url": "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair",
+    "published_at": "2026-11-23T15:01:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ac536204c550cf738972",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "The KPop Demon Hunters Hype Train May Finally Have Run Out Of Steam",
+    "url": "https://kotaku.com/kpop-demon-hunters-world-tour-ticket-sales-price-cancel-2000759455",
+    "published_at": "2026-11-23T15:00:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ee94cc3f3b5090d023c9",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "INDIE Live Expo: December 1, 2026 to feature more than 100 games",
+    "url": "https://www.gematsu.com/2026/11/indie-live-expo-december-1-2026-to-feature-more-than-100-games",
+    "published_at": "2026-11-23T15:00:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b209e05535f563019528",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "AJ McLean says new solo album is ‘gonna shock people’: ‘Everyone is not ready’",
+    "url": "https://ew.com/aj-mclean-new-solo-album-sex-love-magic-12274240",
+    "published_at": "2026-11-23T15:00:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7385b55cffc6907a872b",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Secret Controls GTA 6 Doesn't Tell You About — How To Flip Your Car, Flip the Bird, and Much More",
+    "url": "https://www.ign.com/articles/secret-controls-gta-6-buttons",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b6d063003b99e4eb2b08",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Samantha Morton To Receive BFI Fellowship",
+    "url": "https://deadline.com/2026/11/samantha-morton-bfi-fellowship-2026-1237231480",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "03561c1c14dc24e11138",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Keith Scholey & Alastair Fothergill Stepping Back From CEO Duties At ‘Our Planet’ Producer Silverback",
+    "url": "https://deadline.com/2026/11/silverback-films-scholey-fothergill-stepping-back-ceo-1237231539",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d56766c05b579feae020",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Allison Janae Hamilton Launches Production Outfit Swampwife Pictures & Sets ‘Holler’ Starring Edwina Finley & Valerie June As First Project",
+    "url": "https://deadline.com/2026/11/allison-janae-hamilton-swampwife-pictures-holler-1237228932",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2eedf025cc365f504d78",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "UTA Moving To New London HQ With Curtis Brown & Soccer Agency ROOF For First Time",
+    "url": "https://deadline.com/2026/11/uta-new-london-hq-curtis-brown-roof-rathbone-square-1237231504",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1419e56b9de27fa07b82",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "‘The Grand Tour’s New Hosts Get Season 2 Renewal At Amazon Prime Video",
+    "url": "https://deadline.com/2026/11/the-grand-tour-season-2-renewal-amazon-prime-video-1237231574",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4616f39b423366f00762",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘The Odyssey’ Star Samantha Morton Honored With BFI Fellowship",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/samantha-morton-bfi-fellowship-the-odyssey-film-award-oscar-1236761014",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d6f4ac00f023d08b1e98",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "DOC NYC Reveals U.S., International Competition and Audience Award Winners (Exclusive)",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-doc-nyc-award-winners-1236760812",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8f64453aefc31c42196d",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘The Dinosaurs,’ ‘Ocean With David Attenborough’ Producer Silverback Films Gets New Top Execs",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/the-dinosaurs-banijay-producer-silverback-films-new-leaders-1236761056",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1ec9a5481f4479d5beb0",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "UTA to Unite Businesses at New London Headquarters in 2027",
+    "url": "https://www.hollywoodreporter.com/business/business-news/uta-new-london-headquarters-one-rathbone-square-2027-1236760955",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8b5cd3060d0ca0aacba7",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘The Grand Tour’ Renewed for Season 2 With Hosts Francis Bourgeois, Thomas Holland and James Engelsman",
+    "url": "https://variety.com/2026/tv/global/the-grand-tour-season-2-renewed-1236955860",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "232c0676cced67df6099",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Samantha Morton to Receive BFI Fellowship",
+    "url": "https://variety.com/2026/film/global/samantha-morton-receive-bfi-fellowship-1236955791",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "76d953f903deea023255",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "UTA to Bring U.K. Businesses Under One Roof With Opening of New London Headquarters",
+    "url": "https://variety.com/2026/film/global/uta-opening-new-london-headquarters-1236955720",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b5b914a676a483510977",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "‘Brutal weather,’ ‘rough terrain,’ and riding horseback for ‘eight hours straight — Willem Dafoe on filming “Werwulf” (exclusive)",
+    "url": "https://ew.com/robert-eggers-willem-dafoe-werwulf-preview-12258888",
+    "published_at": "2026-11-23T15:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4446d3f68be146dccd1f",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+    "url": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+    "published_at": "2026-11-23T14:58:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c92bc46643b90e6cdd50",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Justin Timberlake Documentary Trailer: “He’s Not Who I Thought He Was”",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/justin-timberlake-documentary-trailer-apple-1236761080",
+    "published_at": "2026-11-23T14:56:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5194d3d834696867efd5",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Nvidia Stock Surges Over 32% on Jensen Huang’s Reinstatement as CEO",
+    "url": "https://www.thewrap.com/industry-news/business/nvidia-jensen-huang-return-stock-reaction",
+    "published_at": "2026-11-23T14:55:24+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4b25d6800fa4b234c2e1",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "New Hunger Games Movie Blows Past Expectations After Some Feared GTA 6 Could Limit Its Reach",
+    "url": "https://www.gamespot.com/articles/new-hunger-games-movie-blows-past-expectations-after-some-feared-gta-6-could-limit-its-reach",
+    "published_at": "2026-11-23T14:52:04+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "fe52ce914ae79f00a097",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Avengers: Doomsday’ Final Trailer Shows Major X-Men Moment",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061",
+    "published_at": "2026-11-23T14:43:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f164f25c5157bf029526",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Tyson Fury Reveals Schizophrenia Diagnosis in Netflix Documentary: ‘I Thought I’d End Up in a Padded Room’",
+    "url": "https://variety.com/2026/tv/global/tyson-fury-schizophrenia-diagnosis-netflix-documentary-1236955855",
+    "published_at": "2026-11-23T14:37:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6fca4d41b136a348ddb3",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "Jensen Huang back in as NVIDIA CEO, but Chinese spy investigation continues",
+    "url": "https://www.destructoid.com/jensen-huang-back-in-as-nvidia-ceo-but-chinese-spy-investigation-continues",
+    "published_at": "2026-11-23T14:35:37+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0b24da16415113c26305",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Democratic National Committee Plans 12 Presidential Primary Debates Starting In June",
+    "url": "https://deadline.com/2026/11/democratic-primary-debates-2028-1237231530",
+    "published_at": "2026-11-23T14:34:46+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "177377d714de63243dcf",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Avengers: Doomsday’s Final Trailer Shows Steve Rogers’ Family Life Upended By The Fantastic Four",
+    "url": "https://kotaku.com/avengers-doomsday-final-trailer-x-men-steve-rogers-son-2000759445",
+    "published_at": "2026-11-23T14:33:59+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "68c920d69478e8a9a217",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "My Cat Knows More About Video Games Than Me",
+    "url": "https://kotaku.com/my-cat-knows-more-about-video-games-than-me-2000759301",
+    "published_at": "2026-11-23T14:30:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "bb5d2a9f705e226aaa31",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Ben Petrie, Juliette Gariépy, Chris Locke, Romina D’Ugo to Star in ‘Man Vs Truck’ Dark Comedy (Exclusive)",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/man-vs-truck-dark-comedy-ben-petrie-chris-locke-1236760057",
+    "published_at": "2026-11-23T14:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9718bc8782dea98550ac",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Selena Gomez Reacts to Martin Short, Meryl Streep Romance Rumors",
+    "url": "https://www.eonline.com/news/1438331/selena-gomez-comments-on-martin-short-meryl-streep-romance-rumors?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-23T14:24:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "59f00cb1a38b48959f0e",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Who Gets to Question the President?",
+    "url": "https://www.thewrap.com/media-platforms/journalism/trump-press-questions",
+    "published_at": "2026-11-23T14:22:08+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7e826fddf269327c6ac4",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Jensen Huang Has Been Reinstated As Nvidia's President And CEO",
+    "url": "https://www.nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo",
+    "published_at": "2026-11-23T14:20:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4c3c4117a21264e631df",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Final ‘Avengers: Doomsday’ Trailer Has Fantastic Four Pulling Steve Rogers Out Of His Quiet Life",
+    "url": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535",
+    "published_at": "2026-11-23T14:19:52+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "00dc05c74633c72bf116",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+    "url": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar",
+    "published_at": "2026-11-23T14:19:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "01e13e96ba7cf30bac85",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Christine Brown Shares How Granddad’s Murder Shaped Polygamous Beliefs",
+    "url": "https://www.eonline.com/news/1438330/sister-wives-christine-brown-granddads-murder-shaped-polygamy-views?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-23T14:18:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a2644b8b2c4c436b889e",
+    "source": "Deadline",
+    "category": "bulvar",
+    "original_title": "Nvidia Reinstates Jensen Huang As CEO",
+    "url": "https://deadline.com/2026/11/nvidia-reinstates-jensen-huang-ceo-1237231532",
+    "published_at": "2026-11-23T14:17:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "950da6d8e3ab39da7fa9",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Gen Z Wants to Take Its Fandom Offline And Into the Real World",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/gen-z-entertainment-fandom-in-person-experiences",
+    "published_at": "2026-11-23T14:17:45+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5103e03558ea5b16c2ee",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Final ‘Avengers: Doomsday’ Trailer Explains Chris Evans’ Return, ‘Endgame’ Fallout and More",
+    "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-final-trailer",
+    "published_at": "2026-11-23T14:17:15+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a0819683fd23eebcb5f7",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Sandra Bullock shares rare photos of her 2 kids in Disneyland: ‘Sometimes you just need to stop worrying’",
+    "url": "https://ew.com/sandra-bullock-shares-rare-photos-kids-disneyland-12274197",
+    "published_at": "2026-11-23T14:16:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "3151afcc49f8b311fa79",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "GTA 6 can run at 60fps on Xbox Series X if you use a glitch, but there's a catch",
+    "url": "https://www.eurogamer.net/grand-theft-auto-6-60-fps-glitch-xbox",
+    "published_at": "2026-11-23T14:12:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d46aac4b834a476d3979",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Brielle Biermann Marries Billy Seidl Amid Family Troubles",
+    "url": "https://www.eonline.com/news/1438329/brielle-biermann-marries-billy-seidl-amid-brother-kjs-sexual-assault-case?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-23T14:11:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "468891952f44b81c20ef",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "Somehow, Jensen Huang Returned",
+    "url": "https://www.gamespot.com/articles/somehow-jensen-huang-returned",
+    "published_at": "2026-11-23T14:10:47+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f6c8f872193e0f7d83e8",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Avengers: Doomsday’ Final Trailer: Captain America’s Son Revealed, Fantastic Four Rescues Steve Rogers, Cyclops Assembles X-Men",
+    "url": "https://variety.com/2026/film/news/avengers-doomsday-trailer-captain-america-son-cyclops-x-men-1236893948",
+    "published_at": "2026-11-23T14:09:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f45e3732199263aedac4",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "Jensen Huang Returns as Nvidia CEO After Scandal-Plagued Exit",
+    "url": "https://www.thewrap.com/industry-news/tech/jensen-huang-returns-nvidia-ceo",
+    "published_at": "2026-11-23T14:08:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6fd9484f1fc52dcc8467",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Nvidia Makes Jensen Huang CEO Again Just Days After Saying It Would Never Do That",
+    "url": "https://kotaku.com/nvidia-makes-jensen-huang-ceo-again-just-days-after-saying-it-would-never-do-that-2000759433",
+    "published_at": "2026-11-23T14:07:57+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e7ecf92233583191d507",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "‘Fjord’ Director Cristian Mungiu Says It’s Up to Audiences to Make Up Their Own Minds About Polarizing Palme d’Or Winner: ‘The Film Is Not Divisive. Society Is Divided’",
+    "url": "https://variety.com/2026/film/news/fjord-director-cristian-mungiu-polarizing-palme-dor-winner-1236955722",
+    "published_at": "2026-11-23T14:07:52+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d5ea3eb20be4a29cce0f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Avengers: Doomsday Final Trailer Goes Heavy on Steve Rogers, as Marvel Keeps Big Reveals Under Wraps",
+    "url": "https://www.ign.com/articles/avengers-doomsday-final-trailer-goes-heavy-on-steve-rogers-as-marvel-keeps-big-reveals-under-wraps",
+    "published_at": "2026-11-23T14:06:41+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "aedb16d1b6142ea7c0a0",
+    "source": "Variety",
+    "category": "bulvar",
+    "original_title": "Jensen Huang Reinstated as Nvidia CEO After Series of Affairs",
+    "url": "https://variety.com/2026/digital/news/jensen-huang-reinstated-as-nvidia-ceo-1236955837",
+    "published_at": "2026-11-23T14:06:20+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1b1f398abf3b56d11784",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“Avengers: Doomsday” trailer reveals Cap’s kid and a classic Cyclops line for James Marsden",
+    "url": "https://ew.com/avengers-doomsday-final-trailer-12272341",
+    "published_at": "2026-11-23T14:05:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "16a0fd83fd0a116c127f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Nvidia Board Reinstates Jensen Huang as CEO Amid Donald Trump Social Media Pressure",
+    "url": "https://www.ign.com/articles/nvidia-board-reinstates-jensen-huang-as-ceo-amid-donald-trump-social-media-pressure",
+    "published_at": "2026-11-23T14:05:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "20f04dfd3ef1e7d31a10",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "The Regreening launches December 7",
+    "url": "https://www.gematsu.com/2026/11/the-regreening-launches-december-7",
+    "published_at": "2026-11-23T14:00:38+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "10e5062fec67c15dcfcf",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Blade Runner 2099 Review",
+    "url": "https://www.ign.com/articles/blade-runner-2099-review",
+    "published_at": "2026-11-23T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8c489f93b209ac146df6",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
+    "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
+    "published_at": "2026-11-23T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a7741c3722890e195bed",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Canada’s Crave Orders Season 2 of ‘Yaga,’ Starring Carrie-Anne Moss, Hudson Williams",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/crave-second-season-yaga-1236761048",
+    "published_at": "2026-11-23T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ed21f0c0ac208c4bca18",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "‘Blade Runner 2099’ Review: Michelle Yeoh and Hunter Schafer Lead Amazon’s Visually Rich, Emotionally Deficient Sci-Fi Sequel",
+    "url": "https://www.hollywoodreporter.com/tv/tv-reviews/blade-runner-2099-review-michelle-yeoh-hunter-schafer-amazon-1236760567",
+    "published_at": "2026-11-23T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a337bd5146abb90bbf4b",
+    "source": "The Hollywood Reporter",
+    "category": "bulvar",
+    "original_title": "Monét X Change’s ‘Monét Talks’ Podcast Added to Libsyn’s Hosting, Ad Roster (Exclusive)",
+    "url": "https://www.hollywoodreporter.com/business/digital/monet-x-change-libsyn-monet-talks-podcast-1236760443",
+    "published_at": "2026-11-23T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "2a71dc5c46671c6982f0",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘Blade Runner 2099’ Review: Michelle Yeoh and Hunter Schafer Are a Seamless Pair in Ambitious Prime Video Limited Series",
+    "url": "https://www.thewrap.com/creative-content/reviews/blade-runner-2099-review-amazon-michelle-yeoh-hunter-schafer",
+    "published_at": "2026-11-23T14:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "738c793ee29c67d61dcd",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Why You Probably Shouldn't Steal a Tesla in GTA 6",
+    "url": "https://www.ign.com/articles/why-you-probably-shouldnt-steal-a-tesla-in-gta-6",
+    "published_at": "2026-11-23T13:52:36+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7c7374247107b9412d34",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Apple AirPods Pro 3 Drop to a New All-Time Low Price of $149 for Black Friday",
+    "url": "https://www.ign.com/articles/apple-airpods-pro-3-drop-to-a-new-all-time-low-price-of-149-for-black-friday",
+    "published_at": "2026-11-23T13:52:33+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "6d4093dfc456290adff2",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6 Is Approaching An Absurd New Sales Milestone, Report Says",
+    "url": "https://www.gamespot.com/articles/gta-6-is-approaching-an-absurd-new-sales-milestone-report-says",
+    "published_at": "2026-11-23T13:47:05+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5c16f6bbef6b5260a08f",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6’s First Patch Is Rolling Out, Here’s What It Does",
+    "url": "https://www.gamespot.com/articles/gta-6-first-patch-is-rolling-out",
+    "published_at": "2026-11-23T13:46:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "4f453d75e3fed4ca133f",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "Brooks Laich, Wife Katrin Tanja Davidsdottir Expecting Baby No. 2",
+    "url": "https://www.eonline.com/news/1438328/brooks-laich-wife-katrin-tanja-davidsdottir-expecting-baby-no-2?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-23T13:39:01+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "1b54c8fc657f3f6947bb",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Motion Capture Actor Has No Idea Who He Is in the Game, Sparks Social Media Hunt to Find His Character",
+    "url": "https://www.ign.com/articles/gta-6-actor-asks-fans-to-find-his-character",
+    "published_at": "2026-11-23T13:33:16+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "512c6d5f3fc7e7ea5527",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Nightdive's Thief remaster will make the most \"infamous\" Thief Gold level a little less maddening, by \"just kind of pointing the player in the right direction\"",
+    "url": "https://www.rockpapershotgun.com/nightdives-thief-remaster-will-make-the-most-infamous-thief-gold-level-a-little-less-maddening-by-just-kind-of-pointing-the-player-in-the-right-direction",
+    "published_at": "2026-11-23T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b1f69bec796900a9e273",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Lara Spencer invites contestants to deck the halls in “That Thrifting Show ”holiday special trailer (exclusive)",
+    "url": "https://ew.com/lara-spencer-that-thrifting-show-holiday-special-trailer-revealed-exclusive-12268159",
+    "published_at": "2026-11-23T13:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b2293cd81bfb2560e223",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+    "url": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
+    "published_at": "2026-11-23T13:10:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "c613feb3c6cab47247a0",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Update 01.002.002 Out Now, Rockstar Releases Official Patch Notes",
+    "url": "https://www.ign.com/articles/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet",
+    "published_at": "2026-11-23T13:07:03+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b84be505337d0606552a",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Derek Hough alludes to being sexually abused as a child in new doc: ‘Terrorized’",
+    "url": "https://ew.com/derek-hough-alludes-sexually-abused-kid-neighbor-12267484",
+    "published_at": "2026-11-23T13:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "9eeea6aff6d5175a800d",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Nvidia release hotfix for latest graphics card driver battering SSDs with excessive writes, but it looks like reverting may still be the better option",
+    "url": "https://www.rockpapershotgun.com/nvidia-release-hotfix-for-latest-graphics-card-driver-battering-ssds-with-excessive-writes-but-it-looks-like-reverting-may-still-be-the-better-option",
+    "published_at": "2026-11-23T12:59:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "24d7af8e0941232eb87b",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get all The Keepsake Sea fish in Disney Dreamlight Valley",
+    "url": "https://www.destructoid.com/how-to-get-all-the-keepsake-sea-fish-in-disney-dreamlight-valley",
+    "published_at": "2026-11-23T12:51:17+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "cceba194cf60a3d5dfbb",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+    "url": "https://www.eurogamer.net/gta-6-metacritic-review-bomb",
+    "published_at": "2026-11-23T12:50:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "130baa6a8de037543988",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "GTA 6 Has Given Carly Rae Jepsen's Most Underrated Song Another Shot in the Charts",
+    "url": "https://www.ign.com/articles/gta-6-has-given-carly-rae-jepsens-most-underrated-song-another-shot-in-the-charts",
+    "published_at": "2026-11-23T12:38:27+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7f482b01691bb865bb4c",
+    "source": "GameSpot",
+    "category": "gaming",
+    "original_title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
+    "url": "https://www.gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things",
+    "published_at": "2026-11-23T12:32:22+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a05b8e6c073eee73d04d",
+    "source": "People",
+    "category": "bulvar",
+    "original_title": "Where Is the Cast of “Two and a Half Men” Now?",
+    "url": "https://people.com/where-is-two-and-a-half-men-cast-now-11980652",
+    "published_at": "2026-11-23T12:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "82125ab2189aa3d2ca49",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to get Electric Kelp Linen in Disney Dreamlight Valley The Keepsake Sea",
+    "url": "https://www.destructoid.com/how-to-get-electric-kelp-linen-in-disney-dreamlight-valley-the-keepsake-sea",
+    "published_at": "2026-11-23T12:14:15+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5ae3a62e44bf923c0969",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday",
+    "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-drops-to-30-on-ps5-at-walmart-for-black-friday",
+    "published_at": "2026-11-23T11:58:18+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "f7bb860b7ba97fa63c72",
+    "source": "Kotaku",
+    "category": "gaming",
+    "original_title": "Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses",
+    "url": "https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397",
+    "published_at": "2026-11-23T11:45:49+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "a8156ca0cb86fe62216f",
+    "source": "Rock Paper Shotgun",
+    "category": "gaming",
+    "original_title": "Undisclosed AI-generated music pulled from The Binding of Isaac Repentance+ update, as attempt to get satirical on GTA 6 launch day goes awry",
+    "url": "https://www.rockpapershotgun.com/undisclosed-ai-generated-music-pulled-from-the-binding-of-isaac-repentance-update-as-attempt-to-get-satirical-on-gta-6-launch-day-goes-awry",
+    "published_at": "2026-11-23T11:45:10+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "27650878613bee953181",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
+    "url": "https://www.nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2",
+    "published_at": "2026-11-23T11:45:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "32011632403270bb7388",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to unlock Wendy in Disney Dreamlight Valley The Keepsake Sea",
+    "url": "https://www.destructoid.com/how-to-unlock-wendy-in-disney-dreamlight-valley-the-keepsake-sea",
+    "published_at": "2026-11-23T11:39:13+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "07c133c33f21d22a641a",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "The Last Jedi Director Rian Johnson Finally Addresses Whether He'd Ever Return to Star Wars",
+    "url": "https://www.ign.com/articles/rian-johnson-star-wars-return-the-last-jedi",
+    "published_at": "2026-11-23T11:33:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ee3b09f8b88e0ca6c32c",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "12 celebrities who come from billionaire families",
+    "url": "https://ew.com/celebrities-with-billionaire-familes-12268296",
+    "published_at": "2026-11-23T11:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8e6a946fb0eeec616c1f",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Walmart Drops a Whole Bunch of New Games to Just $30 in Limited-Time Sale",
+    "url": "https://www.ign.com/articles/walmart-drops-a-whole-bunch-ps5-and-switch-2-games-to-just-30-for-a-limited-time-black-friday-2026",
+    "published_at": "2026-11-23T11:00:23+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "7f5470c832ebc97b8954",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "\"Woke Up To A S**t Show\" - Binding Of Isaac Dev Shocked To Find GenAI Music In 'Repentance+'",
+    "url": "https://www.nintendolife.com/news/2026/11/woke-up-to-a-st-show-binding-of-isaac-dev-shocked-to-find-genai-music-in-repentanceplus",
+    "published_at": "2026-11-23T11:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0867cb3c99bafde09237",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Anthropic Boss Dario Amodei Reportedly Had a Dystopian Solution for Simulating a Fulfilling Life for People Who Lose Their Jobs to AI: Video Games",
+    "url": "https://www.ign.com/articles/anthropic-boss-dario-amodei-reportedly-had-a-dystopian-solution-for-simulating-a-fulfilling-life-for-people-who-lose-their-jobs-to-ai-video-games",
+    "published_at": "2026-11-23T10:36:56+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8ae42abc5902d9d35bdb",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Magical Girl Taboo Village and The Streamer’s Alt Account Labyrinth delayed",
+    "url": "https://www.gematsu.com/2026/11/magical-girl-taboo-village-and-the-streamers-alt-account-labyrinth-delayed",
+    "published_at": "2026-11-23T10:30:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0b0e3e6428f757ae6054",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Avengers: Doomsday Runtime Revealed as Trailer Teased for Today",
+    "url": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-as-trailer-teased-for-today",
+    "published_at": "2026-11-23T10:19:52+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ba8c540d4865a8ebb63a",
+    "source": "Nintendo Life",
+    "category": "gaming",
+    "original_title": "Kirby And The World Beyond Details Revealed In Nintendo Catalogue",
+    "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue",
+    "published_at": "2026-11-23T10:15:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "885b815a2d7e7943d008",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Why can't you play darts in GTA 6 when you could in previous games? Because Rockstar \"didn't have the resources\" to do it to a standard it'd be happy with",
+    "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
+    "published_at": "2026-11-23T09:50:30+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "50ae49daa5d90312a3b1",
+    "source": "Eurogamer",
+    "category": "gaming",
+    "original_title": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+    "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+    "published_at": "2026-11-23T09:27:50+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "e5c77d97cefded4b07a1",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "Acts of Blood for PC delayed to spring 2027",
+    "url": "https://www.gematsu.com/2026/11/acts-of-blood-for-pc-delayed-to-spring-2027",
+    "published_at": "2026-11-23T09:00:12+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b0020388230bd657aab2",
+    "source": "IGN",
+    "category": "gaming",
+    "original_title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+    "url": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+    "published_at": "2026-11-23T07:58:42+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "5a29c3f87bbaba86d37c",
+    "source": "Destructoid",
+    "category": "gaming",
+    "original_title": "How to remove Advanced Trackers from cars in GTA 6",
+    "url": "https://www.destructoid.com/how-to-remove-advanced-trackers-from-cars-in-gta-6",
+    "published_at": "2026-11-23T06:05:11+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "db8f091d64fa7b773b26",
+    "source": "E! News",
+    "category": "bulvar",
+    "original_title": "How to Get the \"Ultimate Glam Girl\" Look – According to a Celeb MUA",
+    "url": "https://www.eonline.com/news/1438320/how-to-do-full-glam-makeup-like-a-celebrity-makeup-artist?cmpid=rss-syndicate-genericrss-us-top_stories",
+    "published_at": "2026-11-23T04:30:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "562fedd1f56a401a3e0b",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Britney Spears says exes all told her to get ‘hair implants’ for her ‘really big forehead’",
+    "url": "https://ew.com/britney-spears-says-exes-suggested-hair-implants-for-her-really-big-forehead-12273452",
+    "published_at": "2026-11-23T04:11:58+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "b8f6b9b144073d1dcc57",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“The Vow” reality star calls controversial butt grab incident ‘a mistake’",
+    "url": "https://ew.com/the-vow-reality-star-calls-controversial-butt-grab-incident-a-mistake-12273562",
+    "published_at": "2026-11-23T03:58:09+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "0433fc72d3bb3c69e29f",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "Fire performer falls off stage during Usher and Chris Brown concert",
+    "url": "https://ew.com/fire-performer-falls-off-stage-during-usher-chris-brown-concert-12273504",
+    "published_at": "2026-11-23T03:35:31+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "ed69c07202d9ce9611e8",
+    "source": "TheWrap",
+    "category": "bulvar",
+    "original_title": "‘The Gilded Age’ Star Louisa Jacobson Unpacks Episode 4’s Big Reveal and Fan Frustrations With Marian",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/the-gilded-age-season-4-episode-4-marian-pregnant-louisa-jacobson-interview",
+    "published_at": "2026-11-23T03:00:00+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "8dfacda1198172639c30",
+    "source": "Entertainment Weekly",
+    "category": "bulvar",
+    "original_title": "“The Hunger Games: Sunrise on the Reaping ”declares victory with $225 million smash at global box office",
+    "url": "https://ew.com/the-hunger-games-declares-victory-225-million-global-box-office-12273412",
+    "published_at": "2026-11-23T02:51:48+00:00",
+    "status": "candidate"
+  },
+  {
+    "id": "d4d23033cc8807a85392",
+    "source": "Gematsu",
+    "category": "gaming",
+    "original_title": "This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise: The Stellar Angel, more",
+    "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more",
+    "published_at": "2026-11-23T02:36:01+00:00",
+    "status": "candidate"
+  },
+  {
     "id": "417d547b3ff9b1e7c4aa",
     "source": "TheWrap",
     "category": "bulvar",
@@ -7827,1176 +8997,6 @@
     "original_title": "How to rob police cars in GTA 6",
     "url": "https://www.destructoid.com/how-to-rob-police-cars-in-gta-6",
     "published_at": "2026-11-19T18:36:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c331d224771ecbbaa1d2",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Cheats in GTA 6 are weirdly restrictive, and I'm counting the minutes until the PC version fixes them",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/im-counting-the-minutes-until-the-pc-version-fixes-the-weirdly-restrictive-cheats-in-gta-6",
-    "published_at": "2026-11-19T18:35:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a285f4fdcb0b49a74fa6",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Hailey Bieber Reveals Son Jack’s Favorite Food in Sweet New Video",
-    "url": "https://www.eonline.com/news/1438250/hailey-bieber-reveals-her-justin-biebers-son-jack-loves-donuts?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T18:35:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "682833b1d1acace3de31",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Infinity Nikki Players Are Planning To ‘Girl-cott’ The Game Over Maye Musk Ad",
-    "url": "https://kotaku.com/infinity-nikki-players-are-planning-to-girl-cott-the-game-over-maye-musk-ad-2000758410",
-    "published_at": "2026-11-19T18:30:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "667eafbd814b6c6480e0",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "How WoW: Forever Is Overhauling Classic WoW’s Infamous PvP Honor Grind",
-    "url": "https://www.gamespot.com/articles/how-wow-forever-is-overhauling-classic-wows-infamous-pvp-honor-grind",
-    "published_at": "2026-11-19T18:25:05+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4151671ed285394be2eb",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Disney World closing Pirates of the Caribbean for most of 2027 for ‘new magic’ overhaul inside beloved Walt Disney ride",
-    "url": "https://ew.com/disney-world-closing-pirates-caribbean-refurbishment-12265085",
-    "published_at": "2026-11-19T18:22:44+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d2a1746170e215606625",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "New Baldur’s Gate 3 console mods include spells, and another difficulty mode",
-    "url": "https://www.videogameschronicle.com/news/new-baldurs-gate-3-console-mods-include-spells-and-another-difficulty-mode",
-    "published_at": "2026-11-19T18:09:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b62c5c72793deb619cdd",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Rockstar Wouldn’t Confirm Or Deny If That’s Studio President Sam Houser In GTA 6",
-    "url": "https://kotaku.com/rockstar-wouldnt-confirm-or-deny-if-thats-studio-president-sam-houser-in-gta-6-2000758489",
-    "published_at": "2026-11-19T18:05:51+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6aa270bd8dd95b187d97",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Doja Cat Is Crashing Out About Her Music Not Being In GTA 6: ‘I’m So F*ckin Bitter’",
-    "url": "https://kotaku.com/gta6-grand-theft-auto-6-doja-cat-soundtrack-radio-2000758471",
-    "published_at": "2026-11-19T18:00:25+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0f25bcc986e427cd2a8c",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
-    "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
-    "published_at": "2026-11-19T18:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "29b5c712d5a38dde7b59",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
-    "url": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway",
-    "published_at": "2026-11-19T17:53:15+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9569d074318e896672e7",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Why Kacey Musgraves, Miranda Lambert Song Cut Out at CMA Awards",
-    "url": "https://www.eonline.com/news/1438248/cmas-2026-kacey-musgraves-miranda-lamberts-song-lyrics-censored-in-show?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T17:53:11+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f168cb711a839c56472e",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Dexter Morgan is stalking Leonida’s streets in GTA 6 in amazing easter egg",
-    "url": "https://www.destructoid.com/dexter-morgan-is-stalking-leonidas-streets-in-gta-6-in-amazing-easter-egg",
-    "published_at": "2026-11-19T17:51:41+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e14e1d78860a74e28e8b",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "GTA 6 players are being abducted by aliens and knocked out by Bigfoot",
-    "url": "https://www.eurogamer.net/gta-6-ufo-bigfoot-easter-eggs",
-    "published_at": "2026-11-19T17:48:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c99a5ec0199dfa2c8479",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Bella Hadid Cozies Up to Boyfriend Nathan Lacy During Aspen Trip",
-    "url": "https://www.eonline.com/news/1438237/bella-hadid-boyfriend-nathan-lacy-show-pda-aspen-vacation-photos?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T17:45:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "82bb9eb102b2de213e24",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Be Careful With Auto-Saving In GTA 6, It Doesn’t Happen As Often As You Think",
-    "url": "https://kotaku.com/be-careful-with-auto-saving-in-gta-6-it-doesnt-happen-as-often-as-you-think-2000758487",
-    "published_at": "2026-11-19T17:45:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "64e23c2b3bf94929d0fd",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Ubisoft cuts jobs at major Assassin's Creed and Far Cry studios as its year of layoffs continues",
-    "url": "https://www.eurogamer.net/ubisoft-layoffs-166-assassins-creed-far-cry-montreal-quebec",
-    "published_at": "2026-11-19T17:43:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "578fbe28b827cc5958bf",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Space station horror-FPS Derelikt is a lively retro throwback to Alien: Resurrection, though it's better at shooting than scaring",
-    "url": "https://www.rockpapershotgun.com/space-station-horror-fps-derelikt-is-a-lively-retro-throwback-to-alien-resurrection-though-its-better-at-shooting-than-scaring",
-    "published_at": "2026-11-19T17:36:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "274ed1c8cc1bb05bcccb",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Why Rockstar Games Includes Bigfoot And UFOs To Find In Its Big Open-World Games: ‘We Love That Stuff’",
-    "url": "https://kotaku.com/why-rockstar-games-includes-bigfoot-and-ufos-to-find-in-its-big-open-world-games-we-love-that-stuff-2000758423",
-    "published_at": "2026-11-19T17:30:27+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a1472a253d8192d467e7",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "GTA 6 lets you play as a pacifist, and that might be its quantum leap",
-    "url": "https://www.destructoid.com/gta-6-honor-system-criminal-profile",
-    "published_at": "2026-11-19T17:26:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "76f2d76664585017fdd0",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Ubisoft has founded a studio dedicated to generative AI in games",
-    "url": "https://www.videogameschronicle.com/news/ubisoft-has-founded-a-studio-dedicated-to-generative-ai-in-games",
-    "published_at": "2026-11-19T17:26:14+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "49273f3c4c81732d0436",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Ubisoft Says It Has A ‘Very Big Pipeline Of Productions’ As It Lays Off Over 150 More Developers And Starts An AI Studio",
-    "url": "https://kotaku.com/ubisoft-lays-off-over-150-more-developers-with-no-big-releases-in-sight-2000758467",
-    "published_at": "2026-11-19T17:15:32+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4a500111c1862471a751",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "GTA 6 On Switch 2? Digital Foundry Weighs In On The Possibility",
-    "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility",
-    "published_at": "2026-11-19T17:15:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5a0f221ecf8ce4480818",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Yes, you're hearing 'Weird Al' Yankovic hosting a radio station in GTA 6",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/yes-youre-hearing-weird-al-yankovic-hosting-a-radio-station-in-gta-6",
-    "published_at": "2026-11-19T17:07:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bd71d48597e07a5ae6df",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Kris Jenner Details Making Vagina \"Cute\" With Laser Procedure",
-    "url": "https://www.eonline.com/news/1438247/kris-jenner-details-laser-procedure-to-make-vagina-perfect-and-cute?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T17:07:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "91765d5447a754324c59",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "I just found a verrrry familiar-looking hat in GTA 6, and it was in the last place I would have expected",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/arthur-morgan-hat-location-rdr2",
-    "published_at": "2026-11-19T17:05:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6948588d27b641de697c",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Ignore that other game about crime that's out and burgle some ugly farmhouses in Keepsake County, a \"midwestern stealth game\" with a 2000s Cartoon Network vibe",
-    "url": "https://www.rockpapershotgun.com/ignore-that-other-game-about-crime-thats-out-and-burgle-some-ugly-farmhouses-in-keepsake-county-a-midwestern-stealth-game-with-a-2000s-cartoon-network-vibe",
-    "published_at": "2026-11-19T17:05:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0a94e025a489bf62084b",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "I'm twiddling my thumbs waiting for the PC release of GTA 6, but now's the time to start considering an upgrade in the Black Friday sales",
-    "url": "https://www.pcgamer.com/hardware/im-twiddling-my-thumbs-waiting-for-the-pc-release-of-gta-6-but-nows-the-time-to-start-considering-an-upgrade-in-the-black-friday-sales",
-    "published_at": "2026-11-19T17:01:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b03eac89e785a84e56ea",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Here’s Why You Can Get A Haircut At 3 AM In GTA 6",
-    "url": "https://kotaku.com/heres-why-you-can-get-a-haircut-at-3-am-in-gta-6-2000757815",
-    "published_at": "2026-11-19T17:00:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "80f68196fb5a3366ca53",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "The Makeup Melting Cleanser I Use Daily Is 25% off in Secret Sale",
-    "url": "https://www.eonline.com/news/1438143/farmacy-green-clean-cleansing-balm-full-editor-review?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T17:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ca27ec61908d0afd854c",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "As a PC gamer, of course the first thing I did in GTA 6 was try a mouse and keyboard",
-    "url": "https://www.pcgamer.com/hardware/as-a-pc-gamer-of-course-the-first-thing-i-did-in-gta-6-was-try-a-mouse-and-keyboard",
-    "published_at": "2026-11-19T16:57:11+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0504a9a9ee4d0d19e6be",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "GTA 6 – Full cast list and all voice actors",
-    "url": "https://www.destructoid.com/gta-6-full-cast-list-and-all-voice-actors",
-    "published_at": "2026-11-19T16:47:59+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "07f95340976057437344",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "'I'm all about the heist': 43 soldiers re-enlisted in the US army to get a 4-day weekend to play GTA 6",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/im-all-about-the-heist-43-soldiers-re-enlisted-in-the-us-army-to-get-a-4-day-weekend-to-play-gta-6",
-    "published_at": "2026-11-19T16:42:08+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "925da1a765f1d127a085",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "GTA 6’s launch set a record for the highest-ever amount of data usage in the history of the internet",
-    "url": "https://www.destructoid.com/gta-6-launch-set-record-highest-ever-internet-usage",
-    "published_at": "2026-11-19T16:37:04+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ffa87d6476251ac9df6b",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Not only is the fantastic Gamesir G7 Pro controller on Sale this Black Friday, but its souped-up 8K older sibling is the same price",
-    "url": "https://www.pcgamer.com/hardware/controllers/not-only-is-the-fantastic-gamesir-g7-pro-controller-on-sale-this-black-friday-but-its-souped-up-8k-older-sibling-is-the-same-price",
-    "published_at": "2026-11-19T16:32:45+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5b9a64ea7ad5706d399f",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Japan censors GTA 6’s violence and nudity, including Jason in the shower",
-    "url": "https://www.videogameschronicle.com/news/japan-censors-gta-6s-violence-and-nudity-including-jason-in-the-shower",
-    "published_at": "2026-11-19T16:32:45+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "bdb4377a895c8df0ce72",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "GTA 6’s parody of Alex Jones and Nick Fuentes is its most hilarious running joke",
-    "url": "https://www.destructoid.com/gta-6-alex-jones-nick-fuentes-parody",
-    "published_at": "2026-11-19T16:31:26+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b4056f2f010f611f28fc",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "I Am Obsessed With GTA 6 Jason’s Literary Choices",
-    "url": "https://kotaku.com/hey-jason-gta-6-whatcha-readin-2000758412",
-    "published_at": "2026-11-19T16:30:59+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1bcfa3adb34b6699bfa4",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6 Has A Surprise Cameo From Someone You Probably Didn’t Expect",
-    "url": "https://www.gamespot.com/articles/gta-6-has-a-surprise-cameo-from-someone-you-probably-didnt-expect",
-    "published_at": "2026-11-19T16:26:12+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "583c3c975705d7545875",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to tell if your WoW Forever gear is an upgrade",
-    "url": "https://www.destructoid.com/how-to-tell-if-your-wow-forever-gear-is-an-upgrade",
-    "published_at": "2026-11-19T16:21:27+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "700a74159312d9473b7e",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6 Cast List Includes Potentially Huge Spoiler, So Be Warned",
-    "url": "https://www.gamespot.com/articles/gta-6-cast-list-includes-potentially-huge-spoiler-so-be-warned",
-    "published_at": "2026-11-19T16:20:09+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "86483f83ab7eab66f682",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Rockstar has finally posted GTA 6's full map online—thank goodness, because clearing the entire thing in game takes ages",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-has-finally-posted-gta-6s-full-map-online-thank-goodness-because-clearing-the-entire-thing-in-game-takes-ages",
-    "published_at": "2026-11-19T16:19:58+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8d04cbf832bb6cd78663",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\"",
-    "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
-    "published_at": "2026-11-19T16:12:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "204ae5d352410d632e4c",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "How Taylor Swift Taught Keltie Knight to Make the Whole Place Shimmer",
-    "url": "https://www.eonline.com/news/1438246/what-taylor-swift-taught-e-news-keltie-knight-about-confidence?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T16:11:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "69f51f8c1223b5de4dfd",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "Bethesda confirms A Wasteland Full of Cats is 'a Fallout-inspired adventure' being made in partnership with a not-for-profit animal rescue",
-    "url": "https://www.pcgamer.com/games/fallout/a-new-fallout-game-has-been-rated-in-australia-and-its-a-hidden-object-game",
-    "published_at": "2026-11-19T16:09:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ece61299e0796a3541bb",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6’s Stars Release A Very Nice Statement As Game Goes Live",
-    "url": "https://www.gamespot.com/articles/gta-6s-stars-release-a-very-nice-statement-as-game-goes-live",
-    "published_at": "2026-11-19T16:09:30+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f9608601c1296c17c5e9",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Two Cool, Hidden Features GTA 6 Doesn’t Explain: Flipping And Sitting",
-    "url": "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835",
-    "published_at": "2026-11-19T16:00:38+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e2ac3c2a1b3d1483990c",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Ubisoft lays off 166 staff at Montreal and Quebec studios",
-    "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios",
-    "published_at": "2026-11-19T15:59:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "39006f34fe887a92c642",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Bring Me That Horizon quest walkthrough in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/bring-me-that-horizon-quest-walkthrough-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-19T15:59:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "045dcfafb65e5d695eb2",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Over 2 million Xbox players in the UK and US reportedly used the 'New Zealand trick' to play GTA 6 early - that's more than a third of the country's population",
-    "url": "https://www.eurogamer.net/gta-6-new-zealand-trick-2m-players-early",
-    "published_at": "2026-11-19T15:40:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0aa4a4172af8f3fe2712",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to unlock the secret Vault radio station in GTA 6",
-    "url": "https://www.destructoid.com/how-to-unlock-the-secret-vault-radio-station-in-gta-6",
-    "published_at": "2026-11-19T15:36:55+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f81826f75db294ddd0ab",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "The first images of the Lenovo Legion Go Beam have seemingly leaked, and it's got a love-it-or-hate-it colour palette",
-    "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/the-first-image-of-the-lenovo-legion-go-beam-has-seemingly-leaked-and-its-got-a-love-it-or-hate-it-colour-palette",
-    "published_at": "2026-11-19T15:36:38+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9f709b4b3dac9751e561",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Nvidia’s Latest Driver Update Could Be Destroying Your SSDs, And People Suspect AI Coding Could Be To Blame",
-    "url": "https://kotaku.com/nvidia-update-degrading-ssds-ai-coding-jenson-huang-geforce-2000758372",
-    "published_at": "2026-11-19T15:30:26+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "09795598f1b3eb68830c",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Fish with a sniper rifle takes aim at Tim Sweeney's hopes and dreams, as genAI-free meme game tops Epic Games' vibe-coding megajam",
-    "url": "https://www.rockpapershotgun.com/fish-with-a-sniper-rifle-takes-aim-at-tim-sweeneys-hopes-and-dreams-as-genai-free-meme-game-tops-epic-games-vibe-coding-megajam",
-    "published_at": "2026-11-19T15:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "00521ecf0508d8971636",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "Jason and Lucia actors, finally free from their NDA’s, confirm career-defining roles in GTA 6",
-    "url": "https://www.destructoid.com/jason-lucia-actors-free-nda-confirm-roles-gta-6",
-    "published_at": "2026-11-19T15:18:54+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "cdc2ccf0ae32ad201da2",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Ubisoft is laying off 166 staff in its Montréal and Québec City offices",
-    "url": "https://www.videogameschronicle.com/news/ubisoft-is-laying-off-166-staff-in-its-montreal-and-quebec-city-offices",
-    "published_at": "2026-11-19T15:15:42+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f523f923b1eb09098405",
-    "source": "Rolling Stone",
-    "category": "bulvar",
-    "original_title": "YouTube Rejects U.K. Government’s Request to Take Down Russell Brand Video",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/youtube-rejects-uk-government-request-russell-brand-video-1235660863",
-    "published_at": "2026-11-19T15:15:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "dff09d585a6a8ca528e6",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Travis Kelce Supports Taylor Swift's CMA Awards Performance From Afar",
-    "url": "https://www.eonline.com/news/1438245/travis-kelce-supports-taylor-swifts-2026-cma-awards-performance?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T15:15:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "595eeea691ed38bdd86b",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Taylor Swift CMA Awards Performance: Every Easter Egg",
-    "url": "https://www.eonline.com/news/1438244/taylor-swift-cma-awards-performance-debut-easter-eggs?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T15:13:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d111b75c3fcb2ce6dbf8",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Professor Layton and the New World of Steam digital pre-orders now available for Switch 2 and Switch, story and gameplay detailed",
-    "url": "https://www.gematsu.com/2026/11/professor-layton-and-the-new-world-of-steam-digital-pre-orders-now-available-for-switch-2-and-switch-story-and-gameplay-detailed",
-    "published_at": "2026-11-19T15:12:37+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1efdbe2cd327dad2c752",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "If you want to get better at driving in GTA 6, this controller is the best upgrade I've made to my setup",
-    "url": "https://www.pcgamer.com/hardware/controllers/if-you-want-to-get-better-at-driving-in-gta-6-this-controller-is-the-best-upgrade-ive-made-to-my-setup",
-    "published_at": "2026-11-19T15:08:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2d7ada2879203b28f136",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game",
-    "url": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
-    "published_at": "2026-11-19T15:07:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2d9bb19b2af13f166b6d",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Remembering the back alley brawls of The Warriors, a Rockstar city game that isn't an open world",
-    "url": "https://www.rockpapershotgun.com/remembering-the-back-alley-brawls-of-the-warriors-a-rockstar-city-game-that-isnt-an-open-world",
-    "published_at": "2026-11-19T15:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b9c140ed768062daa4ca",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "‘See y’all in Leonida’: Jason’s actor finally confirms he’s in GTA 6",
-    "url": "https://www.videogameschronicle.com/news/see-yall-in-leonida-jasons-actor-finally-confirms-hes-in-gta-6",
-    "published_at": "2026-11-19T14:56:48+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a73954f85889c85d8735",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Why GTA 6 Doesn’t Include Disney World",
-    "url": "https://www.gamespot.com/articles/why-gta-6-doesnt-include-disney-world",
-    "published_at": "2026-11-19T14:46:06+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0c23e93e47adfcdfcda0",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Does GTA 6 have an 'easy mode'? Not officially, but there are two very important settings you can change to make the game less difficult",
-    "url": "https://www.eurogamer.net/gta-6-easy-mode-accessibility-options",
-    "published_at": "2026-11-19T14:42:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e739ec6426fc5c6bbfe6",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "The Free World Award Is Made From Weapons Metal. The First Winner: Iraq’s Oscar Entry",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/free-world-award-made-from-weapons-metal-ukraine-estonia-1236759224",
-    "published_at": "2026-11-19T14:28:12+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "60cff81241270f4a3709",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "“Hollywood Rewrites History” and Calls for Authentic Female Characters: Tallinn Debates Cinema Amid Global Crisis",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/hollywood-rewrites-history-women-stereotypes-war-tallinn-1236759203",
-    "published_at": "2026-11-19T14:21:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e4e3f935b3aed36f6cbb",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Where are Sam Bankman-Fried and Caroline Ellison now? The true story behind Netflix’s “The Altruists”",
-    "url": "https://ew.com/sam-bankman-fried-caroline-ellison-where-are-they-now-12263265",
-    "published_at": "2026-11-19T14:20:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "372abc1b768a23706510",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6’s Digital Release Has GameStop CEO Defending Physical Games, For Obvious Reasons",
-    "url": "https://www.gamespot.com/articles/gta-6-digital-release-has-gamestop-ceo-defending-physical-games-for-obvious-reasons",
-    "published_at": "2026-11-19T14:15:21+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0a1d06a85987d17a5dc1",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Jonathan Spector’s Acclaimed ‘Birthright’ Sets Spring Broadway Opening",
-    "url": "https://deadline.com/2026/11/birthright-broadway-jonathan-spector-1237228430",
-    "published_at": "2026-11-19T14:15:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3bc090f5ec7f1d1b7d5c",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "GTA 6 PSA: Here’s how GTA 6 autosave works",
-    "url": "https://www.videogameschronicle.com/guide/gta-6-psa-heres-how-gta-6-autosave-works",
-    "published_at": "2026-11-19T14:13:50+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "1463ef0cc760697c281a",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘Squid Game’ Creator Hwang Dong-hyuk Teases Possible Return to Franchise: ‘When I Have a Great Idea, I’ll Make Another One’",
-    "url": "https://variety.com/2026/film/markets-festivals/squid-game-creator-return-to-franchise-ko-club-1236952887",
-    "published_at": "2026-11-19T14:11:25+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "8b939771a03853e5ae6b",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘White Tiger Column’ Review: Young Resistance Fighters in Myanmar Are Trained for War, but Not Yet for Life, in a Delicate Doc Study",
-    "url": "https://variety.com/2026/film/news/white-tiger-column-review-1236952028",
-    "published_at": "2026-11-19T14:10:43+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e1be6721fcbef29281ea",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Nike LeBron XXIV ‘Stars’ Sneakers: Here’s Where to Score a Pair Online",
-    "url": "https://variety.com/2026/shopping/news/how-to-shop-nike-lebron-24-stars-sneakers-online-1236952152",
-    "published_at": "2026-11-19T14:10:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "da7a75106dd270b54d0c",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Warren Spector lambasts GTA 6's \"billion dollar\" development - 'I just hope it's is the last of its kind even if it's the best we have to offer'",
-    "url": "https://www.eurogamer.net/gta-6-warren-spector-lambasts-billion-dollar-development",
-    "published_at": "2026-11-19T14:08:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "206bce19f3da9cfc2cb0",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
-    "url": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
-    "published_at": "2026-11-19T14:08:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "780ba48ff68714a23074",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "Despite The Pricing Hellscape, Console Sales Grew In October",
-    "url": "https://www.gamespot.com/articles/despite-the-pricing-hellscape-console-sales-grew-in-october",
-    "published_at": "2026-11-19T14:07:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e9da341b5faea48194f8",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "“Vanderpump Rules” star Jax Taylor reveals cancer diagnosis after going to the hospital in ‘horrible pain’",
-    "url": "https://ew.com/vanderpump-rules-star-jax-taylor-reveals-cancer-diagnosis-12264521",
-    "published_at": "2026-11-19T14:05:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "308fe09cea786ede6d0d",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S.",
-    "url": "https://kotaku.com/xbox-hardware-finally-saw-major-surge-gta-us-2000758382",
-    "published_at": "2026-11-19T14:04:18+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ea04a8f7ff5f7b749711",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "Call of Duty: Modern Warfare 4 was October's biggest game in the US, but it wasn't enough to crack 2026's best-selling top 10",
-    "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller",
-    "published_at": "2026-11-19T14:01:40+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "33a8c23e63593bf253a6",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "GTA 6: Everything you need to do for 100% completion",
-    "url": "https://www.destructoid.com/gta-6-everything-100-percent-completion",
-    "published_at": "2026-11-19T14:00:46+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3a327361a29c71e66cf3",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "GTA 6’s Opening Two Hours Teach You Everything You’ll Ever Need To Know About the Next 100",
-    "url": "https://www.ign.com/articles/gta-6s-opening-two-hours-teach-you-everything-youll-ever-need-to-know-about-the-next-100",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a8a8123003be0bb4ff57",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Melissa George Leading BBC-BritBox Detective Series ‘The Loch Ness Mysteries’",
-    "url": "https://deadline.com/2026/11/the-loch-ness-mysteries-melissa-george-bbc-britbox-series-1237228077",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5bc6e36ea548682ed6a6",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "‘The Day of the Jackal’ Season 2: Eddie Redmayne Back as Globe-Trotting Assassin in First Look",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/day-of-the-jackal-season-2-eddie-redmayne-photo-date-first-1236759241",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9b90d5bf95ae9db8c90b",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "Trapped in Banksy’s Walled Off Hotel in Bethlehem, You Can Solve Puzzles With Help From a Parrot at Rotterdam Film Festival",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/banksys-walled-off-hotel-bethlehem-rotterdam-film-festival-1236759213",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6f3f2431196a623b8043",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "My Assistant Scammed Me. Then Did Far Worse to Demi Moore.",
-    "url": "https://www.hollywoodreporter.com/news/general-news/demi-moore-identity-stolen-former-assistant-1236757271",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c63913aa42f0c4527fe7",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Gabby Bryan Releases Crowd-Work Comedy Special ‘Gabby Bryan Is My Therapist’",
-    "url": "https://variety.com/2026/tv/news/gabby-bryan-new-comedy-special-youtube-1236952583",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "a9c895655bcea96b6f67",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Barack and Michelle Obama’s Higher Ground to Produce Off-Broadway Revival of ‘Rumors’ Led By ‘Real Housewives’ Stars (EXCLUSIVE)",
-    "url": "https://variety.com/2026/legit/news/barack-michelle-obama-rumors-off-broadway-revival-real-housewives-1236952341",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b1843ae0d0f7105525bc",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Eddie Redmayne Jumps Off a Mountain in New ‘Day of the Jackal’ Season 2 Teaser",
-    "url": "https://variety.com/2026/tv/global/eddie-redmayne-day-of-the-jackal-season-2-teaser-1236953014",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "621c01bf73647cbc4417",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Andrew Tate Accused of Rape by Ex-Far Right Influencer in New HBO Documentary",
-    "url": "https://variety.com/2026/tv/news/andrew-tate-toxic-empire-hbo-lauren-southern-rape-sex-trafficking-1236952871",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f348b35d19c9673f754b",
-    "source": "TheWrap",
-    "category": "bulvar",
-    "original_title": "Hollywood Is in Love With AI. Gen Z Has a Far Messier Relationship",
-    "url": "https://www.thewrap.com/industry-news/tech/gen-z-hollywood-ai-opposition-films",
-    "published_at": "2026-11-19T14:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7ad708895347cbd662e0",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "A Slippery Situation quest walkthrough in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/a-slippery-situation-quest-walkthrough-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-19T13:50:09+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "37f70e8278d6d54cd263",
-    "source": "Nintendo Life",
-    "category": "gaming",
-    "original_title": "Japanese Charts: Pikmin 4 Makes A Lukewarm Debut On Switch 2 As Zelda Dominates",
-    "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-pikmin-4-makes-a-lukewarm-debut-on-switch-2-as-zelda-dominates",
-    "published_at": "2026-11-19T13:45:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "05c3f2331e3c4c3663d1",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "You can't cheat on Lucia in GTA 6 with Mandy or strippers because Rockstar doesn't believe that's 'complementary to the feeling and motivations' of Jason and Lucia's story",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/you-cant-cheat-on-lucia-in-gta-6-with-mandy-or-strippers-because-rockstar-doesnt-believe-thats-complementary-to-the-feeling-and-motivations-of-jason-and-lucias-story",
-    "published_at": "2026-11-19T13:44:38+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b483a80a136e2e58f3c3",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
-    "url": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
-    "published_at": "2026-11-19T13:43:10+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "abf33dac9ab693a80f8e",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "GTA 6’s Mandy Could Be Hiding A Killer Secret",
-    "url": "https://www.gamespot.com/articles/gta-6s-mandy-could-be-hiding-a-killer-secret",
-    "published_at": "2026-11-19T13:41:53+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "aa1b0d36366b22eb8df3",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Charlie Vickers reacts to Sauron’s ‘diabolical’ kiss with Jamie Campbell Bower’s Celeborn in “Rings of Power”",
-    "url": "https://ew.com/rings-of-power-charlie-vickers-reacts-sauron-diabolical-kiss-celeborn-twisting-knife-12257941",
-    "published_at": "2026-11-19T13:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f582849f9a4e1c431b0f",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "‘Jurassic World Rebirth,’ ‘Michael’ and More Coming to Middle East TV Audiences With New Deal Between NBCUniversal and Qatar’s BeIN Media Group",
-    "url": "https://variety.com/2026/tv/global/nbcuniversal-bein-deal-jurassic-world-michael-middle-east-1236952983",
-    "published_at": "2026-11-19T13:27:59+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "764e8267641ece30addc",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "GTA 6 PSA: Make sure HGiG is on for your HDR TV for the best GTA experience",
-    "url": "https://www.videogameschronicle.com/news/gta-6-psa-hgig-hdr-tv-grand-theft-auto",
-    "published_at": "2026-11-19T13:24:22+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "f3a9954424667320a55e",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "On its 20th anniversary, here are the 30 best Wii games chosen by a former Official Nintendo Magazine writer",
-    "url": "https://www.videogameschronicle.com/features/best-wii-games",
-    "published_at": "2026-11-19T13:23:49+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9308824ce7ebc7cc8eb8",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "DWTS Winner Bobby Bones Slams Connor Wood Criticism Ahead of Finale",
-    "url": "https://www.eonline.com/news/1438243/dwts-bobby-bones-supports-connor-wood-ahead-of-finale?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T13:23:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d7ec3d3d9ab02533d9fb",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "How A “Mysterious” Message Kickstarted Aardman’s Gamechanging Pact With Pokémon",
-    "url": "https://deadline.com/2026/11/aardman-bosses-pokemon-tales-disney-plus-tiktok-1237228905",
-    "published_at": "2026-11-19T13:22:25+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "2da1666636abe8d696fc",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Xbox Controllers Drop As Low as $45 During Black Friday Sales",
-    "url": "https://www.ign.com/articles/xbox-controllers-black-friday-sales-2026",
-    "published_at": "2026-11-19T13:21:19+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "80b0c07f1d1a29c96e80",
-    "source": "VGC",
-    "category": "gaming",
-    "original_title": "Rockstar says there’s no Disney World in GTA 6 for an ‘obvious reason’",
-    "url": "https://www.videogameschronicle.com/news/rockstar-says-theres-no-disney-world-in-gta-6-for-an-obvious-reason",
-    "published_at": "2026-11-19T13:20:27+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "c9d3150691d3b9b67925",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "OLED monitor shipments have doubled from last year, and all I can say is it's well deserved",
-    "url": "https://www.pcgamer.com/hardware/gaming-monitors/oled-monitor-shipments-have-doubled-from-last-year-and-all-i-can-say-is-its-well-deserved",
-    "published_at": "2026-11-19T13:19:30+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7dea3d7277361f2ea1ed",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to salvage and scavenge for treasure using Pirate Ship in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/how-to-salvage-and-scavenge-for-treasure-using-pirate-ship-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-19T13:15:34+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "28e45fcbf1db3e4e806e",
-    "source": "Gematsu",
-    "category": "gaming",
-    "original_title": "Famitsu Sales: 11/9/26 – 11/15/26",
-    "url": "https://www.gematsu.com/2026/11/famitsu-sales-11-9-26-11-15-26",
-    "published_at": "2026-11-19T13:11:58+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "3ee3f2e77aa95724bcbe",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "Collin Gosselin is still pursuing his dream of being in the Marines: ‘That’s always on my heart’",
-    "url": "https://ew.com/collin-gosselin-still-pursuing-dream-the-marines-12264234",
-    "published_at": "2026-11-19T13:10:16+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0a7f29dc9c840e9475c9",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "GameStop CEO slams 'code-in-a-box' games in the wake of GTA 6's discless release",
-    "url": "https://www.eurogamer.net/gta-6-discless-release-code-in-a-box-gamestop-ceo",
-    "published_at": "2026-11-19T13:03:30+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "04e6ae699c2dca3e94b2",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "They're more complicated and more expensive than LCD screens, but your next gaming monitor should still be an OLED",
-    "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
-    "published_at": "2026-11-19T13:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6062461164254dcc2778",
-    "source": "Variety",
-    "category": "bulvar",
-    "original_title": "Robert Eggers’ ‘Werwulf’ Gets Behind-the-Scenes Book Featuring Original Screenplay",
-    "url": "https://variety.com/2026/shopping/news/robert-eggers-werwulf-behind-the-scenes-screenplay-book-buy-1236952427",
-    "published_at": "2026-11-19T13:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "ea63d5e7a4849e9c5fed",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Qatar’s Film Committee & UAE-Based Yango Play Explore Partnership Kicking Off With Falconry Doc Series ‘Elzam’",
-    "url": "https://deadline.com/2026/11/qatar-film-committee-uae-yango-play-explore-falconry-elzam-1237228915",
-    "published_at": "2026-11-19T12:59:52+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "b10946e827c42325b994",
-    "source": "PC Gamer",
-    "category": "gaming",
-    "original_title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
-    "url": "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc",
-    "published_at": "2026-11-19T12:59:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "0d273e477d4ee106426b",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
-    "url": "https://www.ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
-    "published_at": "2026-11-19T12:46:36+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "eb6c43e33fac23f2be46",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "The hunt for World of Warcraft: Forever secrets continue with the discovery of an elusive pet",
-    "url": "https://www.eurogamer.net/world-of-warcraft-forever-secret-hunter-pet-green-cat",
-    "published_at": "2026-11-19T12:35:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d24024354fe708c0a78e",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "Watching A Zelda: Ocarina Of Time Speedrunner Prepare Is My New Obsession",
-    "url": "https://kotaku.com/zelda-ocarina-of-time-speedun-awesome-games-done-quick-2027-2000758355",
-    "published_at": "2026-11-19T12:30:29+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "d6b2338a096cc632f02f",
-    "source": "Entertainment Weekly",
-    "category": "bulvar",
-    "original_title": "How to watch the “Hunger Games” movies in order, including “Sunrise on the Reaping”",
-    "url": "https://ew.com/how-to-watch-the-hunger-games-movies-in-order-12263257",
-    "published_at": "2026-11-19T12:30:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "507064a958037fed0386",
-    "source": "GameSpot",
-    "category": "gaming",
-    "original_title": "PlayStation Plus Is Losing More Games, But One Departure Stings The Most",
-    "url": "https://www.gamespot.com/articles/playstation-plus-is-losing-more-games-but-one-departure-stings-the-most",
-    "published_at": "2026-11-19T12:27:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "4b7c104af519b39ebb2d",
-    "source": "Rock Paper Shotgun",
-    "category": "gaming",
-    "original_title": "Hour-long Total War: Warhammer 40,000 campaign stream shows off ship battle-less fleet management, makes clear how not ideal getting Space Marine armies killed is",
-    "url": "https://www.rockpapershotgun.com/hour-long-total-war-warhammer-40000-campaign-stream-shows-off-ship-battle-less-fleet-management-makes-clear-how-not-ideal-getting-space-marine-armies-killed-is",
-    "published_at": "2026-11-19T12:22:20+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "e101da32364548f8ac02",
-    "source": "Destructoid",
-    "category": "gaming",
-    "original_title": "How to complete the Trial of Resilience in Disney Dreamlight Valley The Keepsake Sea",
-    "url": "https://www.destructoid.com/how-to-complete-the-trial-of-resilience-in-disney-dreamlight-valley-the-keepsake-sea",
-    "published_at": "2026-11-19T12:16:16+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "7da0fada4aa0e61bad4b",
-    "source": "Eurogamer",
-    "category": "gaming",
-    "original_title": "GTA 6 developers at Rockstar are worried about being laid off after shipping \"the biggest game of all time\"",
-    "url": "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries",
-    "published_at": "2026-11-19T12:16:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "cd069c531fe0b10d234a",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "BeIN Media Group To Bring ‘Michael’, ‘Hamnet’ & ‘Jurassic World Rebirth’ To MENA Audiences With Fresh NBC Universal Deal",
-    "url": "https://deadline.com/2026/11/bein-media-group-michael-hamnet-nbc-universal-1237228885",
-    "published_at": "2026-11-19T12:15:42+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9f7b8aa0fdae4ac5837f",
-    "source": "E! News",
-    "category": "bulvar",
-    "original_title": "Vanderpump Rules Alum Jax Taylor Shares Cancer Diagnosis",
-    "url": "https://www.eonline.com/news/1438242/vanderpump-rules-alum-jax-taylor-diagnosed-with-kidney-cancer?cmpid=rss-syndicate-genericrss-us-top_stories",
-    "published_at": "2026-11-19T12:13:15+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "5faf3f8d40add0ebd782",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Kit Connor Mystery Horror ‘One Of Us’ Boarded For Sales By OneTwoThree Media",
-    "url": "https://deadline.com/2026/11/kit-connor-horror-one-of-us-gets-sales-deal-1237228891",
-    "published_at": "2026-11-19T12:12:02+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "07a9b3afbd3fb7d68483",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Could This Be the Start of GTA 6's Version of the Mount Chiliad Mystery?",
-    "url": "https://www.ign.com/articles/gta-6-mount-chiliad-mystery",
-    "published_at": "2026-11-19T12:02:43+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "9fc3395a851382af8eb8",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "Get Both Prime Video's Fallout 4K SteelBooks for Only $30 Each During Amazon's Black Friday Sale",
-    "url": "https://www.ign.com/articles/get-both-prime-videos-fallout-4k-steelbooks-for-30-each-for-black-friday-2026",
-    "published_at": "2026-11-19T12:01:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "6d0322ddd27f5c792769",
-    "source": "Kotaku",
-    "category": "gaming",
-    "original_title": "The Most Popular Game From Epic Games’ AI MegaJam Contest Is Pure Human-Made Slop",
-    "url": "https://kotaku.com/epic-ai-megajam-game-jam-slop-lsd-fih-aura-farming-tim-sweeney-2000758352",
-    "published_at": "2026-11-19T12:00:15+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "cc79c5720326ac7798b1",
-    "source": "IGN",
-    "category": "gaming",
-    "original_title": "You Have to Become a Complete Psychopath to Get A 6 Star Wanted Level in GTA 6",
-    "url": "https://www.ign.com/articles/you-have-to-become-a-complete-psychopath-to-get-a-6-star-wanted-level-in-gta-6",
-    "published_at": "2026-11-19T12:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "55c4d7e0754053492af7",
-    "source": "The Hollywood Reporter",
-    "category": "bulvar",
-    "original_title": "“I Was Scared There’d Be More Eye Rolls Than Optimism”: Gaten Matarazzo on Making the West End His First Stop After ‘Stranger Things’",
-    "url": "https://www.hollywoodreporter.com/lifestyle/arts/gaten-matarazzo-rent-play-theatre-stranger-things-interview-1236751588",
-    "published_at": "2026-11-19T12:00:00+00:00",
-    "status": "candidate"
-  },
-  {
-    "id": "eca2e45cb5796af5cf69",
-    "source": "Deadline",
-    "category": "bulvar",
-    "original_title": "Hollywood Vet Stephen Herek To Direct Italy-Set Rom-Com ‘Emma’s Dilemmas’ For Former Prodigy Media; Italy’s Panorama Films Aboard",
-    "url": "https://deadline.com/2026/11/stephen-herek-to-direct-italy-set-rom-com-emmas-dilemmas-1237228876",
-    "published_at": "2026-11-19T11:56:24+00:00",
     "status": "candidate"
   }
 ]

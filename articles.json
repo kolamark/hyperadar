@@ -2,6 +2,110 @@
   "articles": [
     {
       "status": "published",
+      "category": "bulvar",
+      "title": "Luca Guadagnino megerősítette: nem készül az 'American Psycho' új adaptációja",
+      "excerpt": "Luca Guadagnino azt nyilatkozta, hogy a Scott Z. Burns által írt forgatókönyv ellenére az 'American Psycho' új filmadaptációja nem valósul meg az ő rendezésében.",
+      "body": [
+        "Luca Guadagnino a Deadline Crew Call podcastban erősítette meg, hogy bár Burns kiváló forgatókönyvet írt az 'American Psycho' új adaptációjához, a projekt nem fog megvalósulni az ő közreműködésével.",
+        "A tervezett adaptációt 2024 októberében jelentette be a Lionsgate, a film gyártásában Guadagnino Frenesy Films cége és Sam Pressman is részt vett volna, de azóta nem haladt a projekt, és nem világos, hogy más rendezővel folytatódik-e a fejlesztés."
+      ],
+      "sources": [
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/luca-guadagnino-american-psycho-remake-not-moving-forward"
+        }
+      ],
+      "published_at": "2026-11-23T16:06:37.344939Z",
+      "claims": [
+        {
+          "text": "Luca Guadagnino megerősítette, hogy nem vezeti az 'American Psycho' új adaptációját.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106",
+              "quote": "“Scott Z. Burns wrote a fantastic script,” said Guadagnino. “Unfortunately for me, as we speak, it’s not happening.”"
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/luca-guadagnino-american-psycho-remake-not-moving-forward",
+              "quote": "“American Psycho” had a fantastic script by Scott Z. Burns,” Guadagnino said. “Unfortunately, it’s not happening for me as we speak.”"
+            }
+          ]
+        },
+        {
+          "text": "A Lionsgate 2024 októberében jelentette be Guadagnino részvételét a projektben, amelyet a Frenesy Films és Pressman Film gyártott volna.",
+          "evidence": [
+            {
+              "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106",
+              "quote": "In October 2024, Deadline revealed that Guadagnino was in final talks with Lionsgate to direct Burns’ adaptation, which would be produced by Frenesy Films, and executive produced by Sam"
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/luca-guadagnino-american-psycho-remake-not-moving-forward",
+              "quote": "Lionsgate announced Guadagnino’s involvement in October 2024, with Burns attached to write the screenplay. The project was set to be produced by Guadagnino’s Frenesy Films, with Sam Pressman"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
+      "category": "bulvar",
+      "title": "Megérkezett az „Avengers: Doomsday” végső előzetese jelentős X-Men jelenettel",
+      "excerpt": "A Marvel következő szuperhősfilmje, az „Avengers: Doomsday” végső előzetesében fontos szerepet kap a múlt és a jelen hőseit felvonultató X-Men csapat.",
+      "body": [
+        "A filmben Steve Rogers (Chris Evans) visszatér a csendes családi életből, de a Fantasztikus Négyes érkezése miatt újra akcióba kell lendülnie, hogy legyőzzék Dr.",
+        "Az előzetes egyik legizgalmasabb momentuma, amikor Cyclops (James Marsden) az X-Men csapatot gyűjti össze, és a híres \"To me, my X-Men!\" mondattal ösztönzi őket az összefogásra."
+      ],
+      "sources": [
+        {
+          "name": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535"
+        },
+        {
+          "name": "TheWrap",
+          "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-final-trailer"
+        }
+      ],
+      "published_at": "2026-11-23T16:06:30.516202Z",
+      "claims": [
+        {
+          "text": "A filmben Steve Rogers (Chris Evans) visszatér a csendes családi életből, de a Fantasztikus Négyes érkezése miatt újra akcióba kell lendülnie, hogy legyőzzék Dr.",
+          "evidence": [
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061",
+              "quote": "In perhaps the best look yet at the upcoming Marvel superhero mashup (below), the footage is largely focused on Captain America (Chris Evans) and his return from domestic bliss with Peggy"
+            },
+            {
+              "url": "https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535",
+              "quote": "No, Steve Rogers, you won’t travel into that quiet, dad, country life. Not if the Fantastic Four has anything to do with it. The supes of four show up in the final trailer for Disney/Marvel"
+            }
+          ]
+        },
+        {
+          "text": "Az előzetes egyik legizgalmasabb momentuma, amikor Cyclops (James Marsden) az X-Men csapatot gyűjti össze, és a híres \"To me, my X-Men!\" mondattal ösztönzi őket az összefogásra.",
+          "evidence": [
+            {
+              "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061",
+              "quote": "But the moment fans are buzzing about most has Cyclops (James Marsden) assembling the X-Men — in a scene that recalls the famous circle-up shot in 2012’s The Avengers — and declaring, “To"
+            },
+            {
+              "url": "https://www.thewrap.com/creative-content/movies/avengers-doomsday-final-trailer",
+              "quote": "It seems to work though, as the final minutes of the trailer see them unite on the battlefield, spurred by James Marsden’s Cyclops uttering a very famous line (one that is often also said by"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "gaming",
       "title": "Jason alakját Steve McQueen és valós veteránok ihlették a GTA 6-ban",
       "excerpt": "A Rockstar Games a GTA 6-ban bemutatott Jason Duval karakterének megalkotásakor Steve McQueen ikonikus játékstílusát és valós veteránok, elsősorban egykori Army Rangers viselkedését vette példának.",
