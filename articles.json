@@ -2,6 +2,64 @@
   "articles": [
     {
       "status": "published",
+      "category": "gaming",
+      "title": "Jensen Huang visszatér az Nvidia élére, egyben meghallgatásra készül az amerikai Szenátus előtt",
+      "excerpt": "Az Nvidia igazgatótanácsa úgy döntött, hogy visszaállítja Jensen Huangot az ügyvezető igazgatói posztra, bár korábban lemondott egy viszony miatt. Huang december elején több kongresszusi bizottság előtt is tanúskodni fog az Egyesült Államokban.",
+      "body": [
+        "Jensen Huang, az Nvidia vezérigazgatója visszatér posztjára, miután az igazgatótanács megfontolta az amerikai kormányzat magas rangú szintjeinek visszajelzését. Az igazgatótanács hangsúlyozta, hogy Huang visszaállítása nem jelent nemzetbiztonsági kockázatot.",
+        "Huangot december elején nyilvános meghallgatásra idézték az amerikai Szenátus Bankbizottsága elé, emellett zárt ajtók mögött három házbizottság előtt is tanúskodni fog az Egyesült Államok exportellenőrzési előírásainak betartásáról."
+      ],
+      "sources": [
+        {
+          "name": "IGN",
+          "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate"
+        },
+        {
+          "name": "Eurogamer",
+          "url": "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair"
+        }
+      ],
+      "published_at": "2026-11-24T03:22:07.937048Z",
+      "claims": [
+        {
+          "text": "Jensen Huang visszatért az Nvidia vezérigazgatói pozíciójába, az igazgatótanács szerint ez nem jelent nemzetbiztonsági kockázatot.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+              "quote": "Earlier today, Nvidia reinstated Jensen Huang as CEO, after two weeks of scandals involving multiple affairs and a suspected spy. Although he's back in the pilot's seat, Huang's problems"
+            },
+            {
+              "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+              "quote": "the CEO's return, it said, \"In the process of reaching its decision, the Board received input from senior levels of the United States government, and based on that input, the Board is"
+            },
+            {
+              "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+              "quote": "confident that Mr. Huang’s reinstatement poses no national security risk.\" It turns out that input came from President Trump, who called the board and gave \"reassurances\" that Huang's return"
+            }
+          ]
+        },
+        {
+          "text": "Huangot decemberben a Szenátus Bankbizottsága és három Házhatóság is meghallgatja az Egyesült Államok exportellenőrzéseinek betartásáról.",
+          "evidence": [
+            {
+              "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+              "quote": "Jensen Huang has been summoned to testify in front of the Senate's Banking Committee on December 3, according to Bloomberg. The hearing was announced by the committee's chairman, Tim Scott,"
+            },
+            {
+              "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+              "quote": "Huang's appearance in front of the Banking Committee is only the latest hearing that's been announced. Huang is also scheduled to appear in front of three House committees in two"
+            },
+            {
+              "url": "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+              "quote": "closed-doors meetings on December 1 and December 2. While those congressional hearings will be closed to the public, they will be transcribed, and will likely also be covering Nvidia's"
+            }
+          ]
+        }
+      ],
+      "method": "automated"
+    },
+    {
+      "status": "published",
       "category": "bulvar",
       "title": "Luca Guadagnino megerősítette: nem készül az 'American Psycho' új adaptációja",
       "excerpt": "Luca Guadagnino azt nyilatkozta, hogy a Scott Z. Burns által írt forgatókönyv ellenére az 'American Psycho' új filmadaptációja nem valósul meg az ő rendezésében.",
