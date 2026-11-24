@@ -47,6 +47,7 @@ jobs:
           if [[ -z "$OPENAI_API_KEY" ]]; then
             echo 'OPENAI_API_KEY is not configured; collection only'
           else
+            python3 scripts/validate_articles.py
             python3 scripts/publish.py
             python3 scripts/validate_articles.py
           fi
