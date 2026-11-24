@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
-from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes, evidence_catalog, resolve_evidence_ids, salvage_supported_sentences
+from publish import ArticleText, clusters, similarity, source_quote, verify_claims, looks_hungarian, editorial_sentences, audit_passes, evidence_catalog, resolve_evidence_ids, salvage_supported_sentences, SENSITIVE, complete_paragraphs
 
 
 class PublisherSafetyTests(unittest.TestCase):
@@ -53,6 +53,23 @@ class PublisherSafetyTests(unittest.TestCase):
                    for name, title in [("A", "Bill Maher reacts to Trump election result"),
                                        ("B", "Trump election result prompts Bill Maher reaction")]]
         self.assertEqual(clusters(entries, []), [])
+
+    def test_private_and_political_topics_are_excluded_in_both_languages(self):
+        now = datetime.now(timezone.utc).isoformat()
+        for title in ("Nvidia CEO reinstated after affair as Senate hearing looms",
+                      "Actor apologizes for antisemitic remark",
+                      "Elhunyt a játékfejlesztő, a szenátus vizsgálatot indít"):
+            self.assertIsNotNone(SENSITIVE.search(title))
+        entries = [{"source": source, "category": "gaming", "original_title": title,
+                    "url": f"https://{source.lower()}.test/story", "published_at": now}
+                   for source, title in (("A", "CEO reinstated after affair"),
+                                         ("B", "CEO reinstated after affair details emerge"))]
+        self.assertEqual(clusters(entries, []), [])
+
+    def test_truncated_paragraph_is_rejected(self):
+        self.assertFalse(complete_paragraphs(["A trailer begins.", "They defeat Dr."]))
+        self.assertFalse(complete_paragraphs(["A trailer begins", "They return."]))
+        self.assertTrue(complete_paragraphs(["A trailer begins.", "They return."]))
 
     def test_retracted_story_is_not_reconsidered(self):
         now = datetime.now(timezone.utc).isoformat()
