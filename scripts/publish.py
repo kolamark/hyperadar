@@ -22,12 +22,44 @@ MAX_DAILY = 15
 MAX_PER_RUN = 2
 HUNGARY = ZoneInfo("Europe/Budapest")
 RETRACTED_URLS = {
+    "https://deadline.com/2026/11/avengers-doomsday-final-trailer-1237231535",
+    "https://deadline.com/2026/11/bowen-yang-apologizes-using-word-antisemitic-history-1237230608",
+    "https://deadline.com/2026/11/bryan-lourd-ai-legislation-no-fakes-act-1237230979",
+    "https://kotaku.com/grand-theft-auto-6-naked-nudity-jason-lucia-sex-scenes-shower-2000758866",
+    "https://kotaku.com/how-to-get-the-biggoron-sword-in-the-legend-of-zelda-ocarina-of-time-remake-2000755602",
+    "https://kotaku.com/street-fighter-ex-endless-ocean-and-tetris-99s-akira-kurabayashi-has-died-at-56-2000759170",
+    "https://variety.com/2026/biz/news/caa-bryan-lourd-congress-no-fakes-act-ai-deepfakes-1236954989",
+    "https://www.destructoid.com/i-regret-talking-crap-about-the-ocarina-of-time-remake",
+    "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair",
+    "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-final-trailer-x-men-1236761061",
+    "https://www.ign.com/articles/99-incredible-little-details-in-grand-theft-auto-6",
+    "https://www.ign.com/articles/nvidia-ceo-jensen-huang-will-have-to-testify-publicly-before-us-senate",
+    "https://www.nintendolife.com/news/2026/11/bandai-namco-reveals-its-involvement-on-zelda-ocarina-of-time",
+    "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online",
+    "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value",
+    "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+    "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
+    "https://www.thewrap.com/creative-content/movies/avengers-doomsday-final-trailer",
+    "https://www.thewrap.com/culture-lifestyle/culture/bowen-yang-apologizes-for-antisemitic-remark-regina-spektor",
+    "https://www.thewrap.com/industry-news/tech/bryan-lourd-ai-cloning-no-fakes-act-congress",
+    "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6",
     "https://www.ign.com/articles/ea-hq-graced-with-save-mass-effect-truck-as-n7-day-looms",
     "https://www.destructoid.com/save-mass-effect-billboard-truck-ea-hq-petition-growing",
     "https://kotaku.com/save-mass-effect-ea-bioware-redwood-truck-billboard-2000754705",
 }
 STOP = {"the", "and", "for", "with", "from", "that", "this", "will", "after", "new", "game", "games", "movie", "film", "about", "into", "its", "has", "have", "are", "was", "says", "report", "reveals", "gets", "first", "more"}
-SENSITIVE = re.compile(r"\b(dies|dead|death|killed|murder|suicide|assault|abuse|rape|arrested|cancer|illness|hospital|pregnan\w*|divorce|lawsuit|alleged|minor|child abuse|verdict|victims?|convicted|sentenced|criminal|election|midterms|president|trump|politic\w*|vote|ballot)\b", re.I)
+SENSITIVE = re.compile(
+    r"\b(dies|dead|death|killed|murder|suicide|assault|abuse|rape|arrested|cancer|illness|hospital|pregnan\w*|divorce|lawsuit|alleged|minor|child abuse|verdict|victims?|convicted|sentenced|criminal|election|midterms|president|trump|politic\w*|vote|ballot|affair\w*|spy|espionage|senat\w*|congress\w*|lawmakers?|legislation|antisemiti\w*|hack\w*|leak\w*|fakes act)\b"
+    r"|\b(elhunyt|meghalt|halál\w*|gyilkosság\w*|öngyilkosság\w*|erőszak\w*|letartóztat\w*|rákbeteg\w*|terhes\w*|válás\w*|perel\w*|vádol\w*|kém\w*|viszony\b|viszonya\b|viszonyáról\b|viszonyban\b|szenátus\w*|kongresszus\w*|kormány\w*|választás\w*|politika\w*|törvény\w*|antiszemit\w*|kiszivárg\w*|hackercsoport\w*)\b",
+    re.I,
+)
+
+
+def complete_paragraphs(body):
+    """Do not publish a clipped sentence such as an ending 'Dr.' or 'Mr.'."""
+    return all(re.search(r"[.!?][\"'”’)]?$", p.strip()) and
+               not re.search(r"\b(?:Dr|Mr|Mrs|Ms|Prof|St|Jr|Sr|kb|pl|stb)\.$", p.strip(), re.I)
+               for p in body)
 
 
 def words(title):
@@ -383,7 +415,7 @@ def publish():
             if not resolve_evidence_ids(claims, catalog) or not verify_claims(claims, source_texts):
                 print("Draft rejected: evidence quote not found in extracted source")
                 continue
-            if len(body) < 2 or len(re.findall(r"\S+", " ".join(body))) < 45:
+            if len(body) < 2 or len(re.findall(r"\S+", " ".join(body))) < 45 or not complete_paragraphs(body):
                 print(f"Draft rejected: body has {len(re.findall(r'\S+', ' '.join(body)))} words in {len(body)} paragraphs")
                 continue
             title = draft["title"].strip()
@@ -402,7 +434,7 @@ def publish():
             if any(similarity(title, a["title"]) > .7 for a in articles):
                 print("Draft rejected: duplicate title")
                 continue
-            if SENSITIVE.search(title + " " + excerpt):
+            if SENSITIVE.search(title + " " + excerpt + " " + " ".join(body)):
                 print("Draft rejected: sensitive headline")
                 continue
             audit = audit_draft({"title":title,"excerpt":excerpt,"body":body,"claims":claims}, texts, key)
@@ -412,7 +444,10 @@ def publish():
                     {"title":title,"excerpt":excerpt,"body":body,"claims":claims}, audit)
                 if salvaged:
                     body, claims = salvaged
-                    if not looks_hungarian(title, excerpt, body) or not verify_claims(claims, source_texts):
+                    if (not looks_hungarian(title, excerpt, body) or
+                            not complete_paragraphs(body) or
+                            SENSITIVE.search(title + " " + excerpt + " " + " ".join(body)) or
+                            not verify_claims(claims, source_texts)):
                         salvaged = None
                 if not salvaged:
                     failures = [f"{check['index']}: {check['issue'][:120] or 'missing/invalid evidence'}"
